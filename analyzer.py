@@ -115,5 +115,4 @@ def is_game_finished(position: chess.Board):
 
 
 if __name__ == '__main__':
-    loop = asyncio.get_event_loop()
-    loop.create_task(main())
+    await main()
