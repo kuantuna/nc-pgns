@@ -1,7 +1,7 @@
 import chess
 import chess.pgn
 
-pgn_path = "2020/2500+.pgn"
+pgn_path = "2500+2020.pgn"
 
 pgn = open(pgn_path)
 
@@ -13,7 +13,7 @@ while True:
     if game is None:
         break
     print(game, file=open(
-        f"2020/2500+/{start_idx}-{end_idx}.pgn", "a"), end="\n\n")
+        f"2020/2500+/{start_idx:05d}-{end_idx:05d}.pgn", "a"), end="\n\n")
     game_counter += 1
     if game_counter == 50:
         start_idx += 50
