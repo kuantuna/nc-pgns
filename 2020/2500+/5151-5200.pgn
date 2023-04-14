@@ -1,0 +1,1794 @@
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.25"]
+[Round "5"]
+[White "Guilleux, Fabien"]
+[Black "Demuth, Adrien"]
+[Result "1/2-1/2"]
+[Annotator "ChessBase II"]
+[BlackElo "2500"]
+[ECO "A33"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "59"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2441"]
+
+1. Nf3 { [%emt 0:00:00] } 1... c5 { [%emt 0:07:27] } 2. c4 { [%emt 0:02:22] } 2... Nc6 { [%emt
+0:00:16] } 3. Nc3 { [%emt 0:00:25] } 3... Nf6 { [%emt 0:00:28] } 4. d4 { [%emt 0:02:58] } 4... cxd4 5. Nxd4 { [%emt 0:00:06] } 5... e6 { [%emt 0:00:28] } 6. g3 { [%emt 0:01:33] } 6... Qb6 $5 { [%emt 0:00:11] Une ligne compliqu√ e qui demande une bonne pr√ paration } 7. Nb3 { [%emt 0:03:15] } ( 7. Ndb5 ) 7... Ne5 { [%emt 0:02:43] } 8. e4 { [%emt 0:02:56] } 8... Bb4 { [%emt 0:00:21] } 9. Qe2 { [%emt 0:03:14] } 9... d6 { [%emt 0:00:14] } 10. f4 { [%emt
+0:00:57] } 10... Nc6 { [%emt 0:05:04] } 11. Be3 { [%emt 0:01:03] } 11... Qc7 { [%emt 0:00:27] } ( 11... Bxc3+ { Probablement une simple transposition } 12. bxc3 Qc7 ) 12. Bg2 { [%emt 0:00:17] } 12... Bxc3+ { [%emt 0:07:44] } 13. bxc3 { [%emt 0:00:10] } 13... e5 { [%emt 0:
+00:16] } ( 13... O-O 14. c5 dxc5 15. Bxc5 Rd8 16. e5 Na5 17. Bb4 Nxb3 18. axb3 Nd5 $132 { Vaganian,R (2640)-Kramnik,V (2715) Riga Tal Memorial 1995 (9) 1/2-1/2 } ) 14. O-O { [%emt 0:10:37] } ( 14. f5 b6 15. g4 Ba6 16. g5 Nd7 17. O-O Nd8 18. Nd2 Nb7 19. Qh5 Na5 20. Rfd1 Nxc4 21. Nxc4 Bxc4 22. a4 Nc5 23. a5 bxa5 24. g6 f6 25. gxh7+ Bf7 26. Qh3 Nb3 27. Ra2 Qxc3 28. Rxd6 Nd4 29. Rf2 Ke7 30. Ra6 Bc4 31. Bf1 Bxa6 32. Bxa6 Rab8 33. Bf1 Kf8 34. Rg2 Nc2 35. Rxc2 Qxc2 36. Bxa7 Rb4 37. Bf2 Qc7 38. Qd3 Rxh7 39. Qd5 Rd4 40. Bxd4 exd4 41. Qa8+ Ke7 42. e5 Rh5 43. Qd5 Rg5+ { Grigoryan,K (2584)-Gledura,B (2605) Barcelona 2017 0-1 } ) 14... b6 { [%emt 0:00:58] } 15. fxe5 { [%emt 0:11:35] } 15... dxe5 { [%emt 0:12:51] } 16. Bh6 $5 $146 { [%emt 0:07:06][%csl Re8] } ( 16. c5 Be6 17. Rxf6 gxf6 18. Rf1 h5 19. Rxf6 h4 20. g4 h3 21. Bf1 Qe7 22. g5 Rg8 23. Kh1 Rg6 24. Rf2 Qb7 25. Qf3 Ne7 26. Nd2 O-O-O 27. Nc4 Nf5 28. Nxe5 Nxe3 29. Qxe3 Rxg5 30. Qxg5 Qxe4+ 31. Kg1 bxc5 32. Ba6+ Kc7 33. Qe7+ Rd7 34. Qxc5+ Kd8 35. Be2 Bd5 36. Nf3 Qg4+ 37. Kf1 Qe4 38. Qf8+ Kc7 39. Qb4 Qe3 40. Qb2 Bc4 41. Nd4 Re7 42. Ke1 Re5 43. Qd2 Qe4 44. Qf4 { 1-0 
+(44) Ehlvest,J (2646)-Antonio,R (2580) Las Vegas 2008 } ) 16... O-O { [%emt 0:13:
+01] } 17. Rxf6 $1 { [%emt 0:00:49] } 17... gxf6 { [%emt 0:00:04] } 18. Qf1 { [%emt 0:14:30]
+[%csl Rf6] } ( 18. Rf1 Rd8 ) 18... Qe7 { [%emt 0:02:44] } 19. Bxf8 { [%emt 0:00:09] } 19... Kxf8 { [%emt 0:00:53] } 20. Bh3 { [%emt 0:00:09] } 20... Be6 { [%emt 0:12:19] } 21. Bxe6 { [%emt 0:02:09] } 21... fxe6 { [%emt 0:04:59] } 22. c5 $5 { [%emt 0:04:12] } 22... Na5 { [%emt 0:
+09:00] } ( 22... bxc5 23. Qc4 ) 23. Nxa5 { [%emt 0:12:25] } 23... bxa5 { [%emt 0:00:05] } 24. Qb5 { [%emt 0:00:08] } 24... Rc8 { [%emt 0:00:33] } 25. c6 { [%emt 0:00:14] } 25... Qd6 { [%emt 0:08:45] } 26. Rf1 { [%emt 0:02:20] } 26... Kg7 { [%emt 0:00:03] } 27. Qe2 $1 { [%emt 0:03:50] } 27... Qe7 { [%emt 0:01:15] } ( 27... Rxc6 28. Qg4+ Kf7 29. Qh5+ Kg7 30. Qg4+ ) 28. Qb5 { [%emt 0:03:05] } 28... Qd6 { [%emt 0:00:02] } 29. Qe2 { [%emt 0:00:21] } 29... Qe7 { [%emt 0:00:01] } 30. Qb5 { [%emt 0:01:01] } 1/2-1/2
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.25"]
+[Round "5"]
+[White "Guliyev, Namig"]
+[Black "Jogstad, Martin"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2312"]
+[ECO "C16"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "105"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2537"]
+
+1. e4 { [%emt 0:00:00] } 1... e6 { [%emt 0:00:00] } 2. d4 { [%emt 0:00:00] } 2... d5 { [%emt 0:
+00:00] } 3. Nc3 { [%emt 0:00:00] } 3... Bb4 { [%emt 0:00:00] } 4. e5 { [%emt 0:01:18] } 4... b6 { [%emt 0:01:42] } ( 4... c5 ) 5. Qg4 { [%emt 0:00:16] } 5... Bf8 { [%emt 0:02:27] } 6. Bg5 { [%emt 0:01:26] } ( 6. h4 ) 6... Qd7 { [%emt 0:02:36] } 7. O-O-O { [%emt 0:02:16] } ( 7. f4 Ba6 8. Bxa6 Nxa6 9. O-O-O $32 { Edouard,R (2635)-Skytte,R (2373) EU-Cup
+35th Budva 2019 (3.10) 1-0 } ) 7... h6 { [%emt 0:02:50] } 8. Qh3 { [%emt 0:00:12] } 8... Ne7 { [%emt 0:00:55] } 9. Bxe7 Bxe7 { [%emt 0:00:14] } 10. f4 { [%emt 0:00:17] } 10... Ba6 { [%emt 0:00:56] } 11. Nf3 { [%emt 0:00:06] } 11... Bxf1 { [%emt 0:00:17] } 12. Rhxf1 $32 { [%emt 0:00:16] Les deux adversaires jouent vite en suivant une partie du GMI
+jou√ e aux olympiades } 12... Nc6 { [%emt 0:00:29] } 13. g4 { [%emt 0:01:28] } 13... O-O-O { [%emt 0:00:20] Continuant de blitzer l'ouverture et il n'est d'ailleurs pas
+certain que ce soit psychologiquement la bonne attitude de jouer tr√..s vite
+sans masquer la pr√ paration } 14. Kb1 { [%emt 0:00:09] Une nouveaut√  dans cet
+ordre de coups } ( 14. f5 { Guliyev,N (2577)-Marin,M (2572) Olympiad-42 Baku 2016
+(6.4) 1-0 } ) 14... Na5 { [%emt 0:00:47] } ( 14... h5 $5 15. gxh5 Rh7 { [%cal Gd8h8] } 16. f5 Rdh8 $44 ) 15. b3 { [%emt 0:02:39] } 15... c5 { [%emt 0:07:25] } 16. f5 { [%emt 0:
+02:40] } 16... Nc6 { [%emt 0:02:09] } 17. Qh5 { [%emt 0:00:54] } 17... Rhf8 { [%emt 0:00:22] } 18. Ne2 { [%emt 0:00:26] } 18... c4 $146 { [%emt 0:00:31] Jou√  √  tempo et c'est donc
+probablement une pr√ paration } ( 18... Kb8 19. fxe6 fxe6 20. Qg6 cxd4 21. Nexd4 Nxd4 22. Nxd4 Rde8 23. Nxe6 Rxf1 24. Rxf1 Qb5 25. Rd1 Ba3 26. c4 Qd7 27. cxd5 Rc8 28. Qe4 Qf7 29. Nd4 Qf2 30. Nc2 Bc5 31. d6 { 1-0 (31) Guliyev,N (2577)
+-Marin,M (2572) Baku 2016 } ) ( 18... cxd4 { Propos√  par le GMI MARIN dans ses
+commentaires de la partie des olympiades } ) 19. Rf2 $1 { [%emt 0:16:46] } 19... Kb8 { [%emt 0:22:01] } 20. Rdf1 $36 { [%emt 0:01:55][%cal Gf5e6,Gf2f8] M√|_me si la
+position Noire est solide, le jeu des Blancs est plus facile √  jouer } 20... Rc8 { [%emt 0:13:52] } 21. fxe6 { [%emt 0:10:47] } 21... fxe6 { [%emt 0:00:15] } 22. Qg6 { [%emt
+0:00:03] } 22... Ba3 { [%emt 0:02:35] } 23. Ne1 { [%emt 0:01:14] } 23... Rxf2 { [%emt 0:05:09] } 24. Rxf2 { [%emt 0:00:05] } 24... Rc7 { [%emt 0:07:38] } 25. c3 $5 { [%emt 0:06:01] } 25... cxb3 { [%emt 0:03:36] } 26. axb3 { [%emt 0:00:08] } 26... Na5 { [%emt 0:01:50] } 27. Qc2 { [%emt
+0:00:59] } 27... Qb5 $132 { [%emt 0:04:32] } 28. Ka2 { [%emt 0:00:12] } 28... Be7 { [%emt 0:05:
+30] } 29. Nc1 { [%emt 0:03:11] } 29... Bb4 { [%emt 0:04:14] } 30. Rf3 { [%emt 0:04:19] } 30... Nc6 $11 { [%emt 0:00:39][%cal Gc6d4,Gc7c2] } 31. Ne2 { [%emt 0:02:54] } 31... Qa6+ { [%emt 0:
+08:49] } 32. Kb1 { [%emt 0:00:46] } 32... Be7 { [%emt 0:00:27] } 33. Nd3 { [%emt 0:01:38] } 33... Na5 { [%emt 0:00:41] } 34. Nef4 { [%emt 0:02:30] } 34... Qc8 { [%emt 0:00:18] } 35. Nc1 { [%emt 0:01:52] } 35... Bg5 { [%emt 0:00:17] } 36. Ng6 { [%emt 0:00:14] } 36... Kb7 { [%emt 0:01:
+04] } 37. Ne2 { [%emt 0:00:26] } 37... Qe8 { [%emt 0:00:31] } 38. h4 $1 { [%emt 0:00:13] } 38... Be7 { [%emt 0:00:16] } 39. Ka2 { [%emt 0:03:44] } 39... Qc8 { [%emt 0:00:42] } 40. Rf7 { [%emt 0:00:00] } 40... Bd8 { [%emt 0:00:00] } 41. Rf8 { [%emt 0:03:48] } 41... b5 $2 { [%emt 0:
+05:09] Trop optimiste } 42. Qd3 $1 $40 { [%emt 0:01:12][%csl Rb5] } 42... Kb6 { [%emt 0:
+00:44] } 43. Kb2 { [%emt 0:00:32] } 43... Qd7 { [%emt 0:03:33] } 44. Nef4 { [%emt 0:04:59] } 44... b4 { [%emt 0:10:35] } 45. cxb4 { [%emt 0:01:23] } 45... Nc6 { [%emt 0:00:28] } 46. Qc3 { [%emt 0:05:36] } 46... Nb8 { [%emt 0:07:02] } 47. Qd2 { [%emt 0:02:40] } 47... Nc6 { [%emt 0:00:
+52] } 48. Nd3 $1 { [%emt 0:00:32][%cal Gd3b4,Gd3c5] } 48... Be7 { [%emt 0:02:37] } 49. Nc5 { [%emt 0:01:15] } 49... Bxc5 { [%emt 0:00:34] } 50. dxc5+ { [%emt 0:00:19] } ( 50. bxc5+ Kb5 ) 50... Kb5 { [%emt 0:01:46] } 51. Ka3 { [%emt 0:00:11] } 51... Ka6 { [%emt 0:01:13] } 52. Qd3+ { [%emt 0:00:09] } 52... Kb7 { [%emt 0:00:05] } 53. Qb5# { [%emt 0:00:04] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.25"]
+[Round "5"]
+[White "Martinez Alcantara, Jose Eduardo"]
+[Black "Nitin, Senthilvel"]
+[Result "1/2-1/2"]
+[Annotator "ChessBase II"]
+[BlackElo "2353"]
+[ECO "E62"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "69"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2617"]
+
+1. c4 { [%emt 0:00:00] } 1... g6 { [%emt 0:00:09] } 2. Nf3 { [%emt 0:00:25] } 2... Bg7 { [%emt
+0:00:13] } 3. d4 { [%emt 0:00:05] } 3... Nf6 { [%emt 0:00:34] } 4. g3 { [%emt 0:00:06] } 4... O-O { [%emt 0:00:17] } 5. Bg2 { [%emt 0:00:03] } 5... d6 { [%emt 0:00:10] } 6. O-O { [%emt
+0:00:07] } 6... c6 { [%emt 0:00:05] } 7. Nc3 { [%emt 0:00:04] } 7... Bf5 { [%emt 0:00:16] } 8. Nh4 { [%emt 0:05:58] } 8... Be6 { [%emt 0:03:09] } 9. d5 { [%emt 0:00:05] } 9... cxd5 10. cxd5 { [%emt 0:00:05] } 10... Bd7 { [%emt 0:00:40] } 11. Nf3 { [%emt 0:02:18] } ( 11. a4 a5 12. Nf3 Na6 13. Nd4 Rc8 14. h3 Rc4 15. Nb3 Nb4 16. Be3 e5 17. dxe6 Bxe6 18. Rc1 d5 19. Nd4 Qe7 20. b3 Rcc8 21. Nxe6 Qxe6 22. Bd4 Rfd8 23. e3 Rc6 24. Ne2 Rdc8 25. Rxc6 bxc6 26. Bb6 Ra8 27. Nf4 Qe7 28. Bd4 Nd7 29. Bxg7 Kxg7 30. Qd4+ Qe5 31. Qxe5+ Nxe5 32. Rc1 Na2 33. Rc5 Nb4 34. Ne2 Nd7 35. Rc3 f5 36. Nd4 Ra6 37. Bf1 Rb6 38. Bb5 Nb8 39. Be2 Nd7 40. g4 c5 { Martinez Alcantara,J (2601)-Karttunen,M
+(2466) Pardubice 2019 1/2-1/2 (62) } ) ( 11. h3 ) 11... a5 { [%emt 0:04:06] } 12. h3 { [%emt 0:06:39] } 12... Na6 { [%emt 0:02:56] } 13. e4 $146 { [%emt 0:01:45] } ( 13. Be3 Rc8 14. Nd4 Nc5 15. Qd2 a4 16. Rfc1 Qa5 17. Rab1 Ne8 18. b4 axb3 19. axb3 Qb4 20. Ncb5 Qxd2 21. Bxd2 Nc7 22. b4 Nxb5 23. Nxb5 Nb3 24. Rxb3 Bxb5 25. Rbb1 Bc4 26. Rc2 b5 27. Bg5 f6 28. Be3 f5 29. Rbc1 Ra8 30. Bd2 Bf6 31. Bh6 Rfe8 32. e4 Bd3 33. Rc7 fxe4 34. Re1 Ra1 35. Rxa1 Bxa1 36. h4 Bg7 37. Bg5 Bc4 38. Bxe7 Bxd5 39. Bxd6 Bc4 40. Bc5 h5 41. Be7 Bf8 42. Bxf8 Kxf8 { Ulak,S (2310)-Mikhalevski,V 
+(2500) Pardubice 1996 1/2-1/2 } ) 13... a4 $5 { [%emt 0:10:39][%csl Rb2][%cal
+Ga4a3,Gg7a1] } 14. e5 { [%emt 0:02:15] } ( 14. Bd2 $5 { [%cal Gf1e1] } ) 14... dxe5 { [%emt 0:01:32] } 15. Nxe5 { [%emt 0:00:10] } 15... a3 { [%emt 0:33:31] } 16. bxa3 { [%emt
+0:06:49] } 16... Bf5 { [%emt 0:02:10] } 17. Bb2 { [%emt 0:07:13] } 17... Nc5 { [%emt 0:04:53] } 18. g4 { [%emt 0:09:15] } 18... Qb6 $1 $13 { [%emt 0:03:00] } 19. Qd2 { [%emt 0:00:43] } 19... Be4 { [%emt 0:04:59] } 20. Nxe4 { [%emt 0:07:26] } 20... Nfxe4 $132 { [%emt 0:02:20][%cal
+Gg7e5] } 21. Qc2 { [%emt 0:00:31] } 21... Nd6 { [%emt 0:04:38] } 22. Bd4 { [%emt 0:05:23] } 22... Rfc8 { [%emt 0:01:44] } 23. Rac1 { [%emt 0:06:42] } 23... Qb5 { [%emt 0:01:58] } 24. Qd1 { [%emt 0:08:04] } 24... Rxa3 { [%emt 0:03:37] } 25. Nc6 $1 { [%emt 0:02:32] } 25... bxc6 { [%emt
+0:01:15] } 26. Bxc5 { [%emt 0:00:07] } 26... Rxa2 { [%emt 0:03:12] } ( 26... Rd3 $5 { [%cal
+Gd3d1,Gc6d5] } ) 27. dxc6 { [%emt 0:00:59] } 27... Bh6 { [%emt 0:00:32] } 28. Rc2 { [%emt 0:
+01:16] } 28... Rxc2 { [%emt 0:01:17] } 29. Qxc2 { [%emt 0:00:01] } 29... Rxc6 { [%emt 0:01:12] } 30. Bxc6 { [%emt 0:01:49] } 30... Qxc6 { [%emt 0:00:01] } 31. Rd1 { [%emt 0:00:43] } 31... Nb7 { [%emt 0:02:02] } 32. Qb2 { [%emt 0:00:00] } 32... Qf3 { [%emt 0:04:25] } 33. Qa1 { [%emt 0:
+07:22] } 33... Qxh3 { [%emt 0:01:16] } 34. Rd4 { [%emt 0:01:24] } 34... Be3 { [%emt 0:03:30] } 35. fxe3 { [%emt 0:09:49] } 1/2-1/2
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.25"]
+[Round "5"]
+[White "Nikolov, Momchil"]
+[Black "Boyer, Mahel"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2317"]
+[ECO "A65"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "70"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2539"]
+
+1. d4 { [%emt 0:00:00] } 1... Nf6 { [%emt 0:00:00] } 2. c4 { [%emt 0:00:00] } 2... c5 { [%emt 0:
+00:00] } 3. d5 { [%emt 0:00:00] } 3... e6 { [%emt 0:00:02] } 4. Nc3 { [%emt 0:00:00] } 4... exd5 { [%emt 0:00:03] } 5. cxd5 { [%emt 0:00:06] } 5... d6 { [%emt 0:00:04] } 6. e4 { [%emt 0:
+00:14] } 6... g6 { [%emt 0:00:07] } 7. Nge2 $5 { [%emt 0:00:11][%cal Ge2g3,Gh2h4,Gh4h5]
+Une ligne secondaire } ( 7. f4 Bg7 8. Bb5+ Nfd7 9. Be2 Qh4+ 10. g3 Qd8 11. Nf3 O-O 12. O-O Re8 13. Nd2 Nf6 14. g4 h6 15. Bf3 Nbd7 16. a4 b6 17. Nc4 Bf8 18. h4 Ba6 19. b3 Nh7 20. g5 Bg7 21. Bd2 Qe7 22. Qc2 hxg5 23. hxg5 Bxc4 24. bxc4 f6 25. gxf6 Qxf6 26. Nb5 Re7 27. e5 dxe5 28. d6 Ree8 29. Bxa8 Rxa8 30. Rae1 Qh4 31. Qd3 Qg4+ 32. Kh2 Qh5+ 33. Kg2 Rf8 34. Rf3 e4 35. Qxe4 Ndf6 36. Qe6+ Kh8 { Duda,J (2758)-Ponkratov,P (2632) Moscow 2019 1-0 } ) 7... Bg7 { [%emt 0:00:12] } 8. Ng3 { [%emt 0:00:38] } 8... b6 $146 { [%emt 0:00:17] } ( 8... h5 9. Be2 a6 10. a4 Qe7 11. Bg5 Qe5 12. h4 Nh7 13. Be3 Qe7 14. Qd2 Nd7 15. f4 Ndf6 16. e5 dxe5 17. d6 Qe6 18. O-O exf4 19. Bxf4 O-O 20. Rae1 Qb3 21. Be5 Be6 22. Bf3 Rad8 23. Qf4 Bc4 24. Be2 Bxe2 25. Rxe2 Rfe8 26. Rf3 Qe6 27. a5 Qd7 28. Qc4 Ng4 29. Bxg7 Rxe2 30. Ngxe2 Kxg7 31. Ne4 Ne5 32. Qc3 Re8 33. Rd3 Nf6 34. Nxf6 Kxf6 35. Rd5 Qf5 36. Ng3 Qf4 37. Rxc5 Rd8 38. Ne2 { Mamedyarov,S (2772)-Indjic,A (2646) Budva 2019
+1-0 } ) 9. Bb5+ $1 { [%emt 0:03:06] } 9... Nfd7 { [%emt 0:06:10] } ( 9... Bd7 10. Be2 $14 { [%csl Rb8] } ) 10. Be2 { [%emt 0:16:07] } 10... O-O { [%emt 0:04:32] } 11. O-O { [%emt 0:00:
+17] } 11... Ba6 { [%emt 0:03:32] } 12. Be3 { [%emt 0:12:42] } 12... Ne5 { [%emt 0:06:18] } 13. f4 { [%emt 0:04:34] } 13... Nc4 { [%emt 0:03:54] } 14. Bxc4 { [%emt 0:00:17] } 14... Bxc4 { [%emt 0:
+00:07] } 15. Rf3 { [%emt 0:01:50] } 15... b5 $6 { [%emt 0:07:13] Trop optimiste car les
+Noirs n'ont pas termin√  le d√ veloppement } ( 15... Na6 ) 16. e5 $1 $36 { [%emt 0:
+02:57][%csl Rc5] } 16... dxe5 { [%emt 0:06:04] } 17. f5 $1 { [%emt 0:07:17][%csl Ge4] Un
+th√..me classique dans ce genre de structure } 17... e4 { [%emt 0:15:07] } 18. Ngxe4 { [%emt 0:07:00] } 18... b4 { [%emt 0:12:27] } 19. f6 { [%emt 0:00:31] } 19... Bh8 { [%emt 0:00:10] } 20. b3 { [%emt 0:03:58] } 20... bxc3 { [%emt 0:01:00] } 21. bxc4 $16 { [%emt 0:00:06]
+[%csl Rc5,Rh8] } 21... Re8 { [%emt 0:01:31] } ( 21... Nd7 ) 22. Qc2 { [%emt 0:15:17] } 22... Nd7 { [%emt 0:06:42] } 23. Raf1 $36 { [%emt 0:00:56] } 23... Ne5 { [%emt 0:02:13] } 24. Qxc3 $1 { [%emt 0:01:58] } 24... Nxf3+ { [%emt 0:01:30] } 25. gxf3 { [%emt 0:00:07] } 25... Qd7 { [%emt 0:
+01:46] } 26. Bxc5 { [%emt 0:02:15] } 26... Rac8 { [%emt 0:02:12] } 27. Bd4 $44 { [%emt 0:
+01:24] } 27... Rxe4 { [%emt 0:01:29] } 28. fxe4 { [%emt 0:00:32] } 28... Qg4+ { [%emt 0:00:06] } 29. Qg3 { [%emt 0:00:55] } 29... Qxe4 { [%emt 0:00:05] } 30. Qf4 { [%emt 0:02:10] } 30... Qe2 { [%emt 0:07:13] } ( 30... Qxf4 31. Rxf4 Rxc4 32. d6 $18 { [%csl Rh8] } ) 31. c5 { [%emt 0:00:55] } 31... Qxa2 { [%emt 0:00:14] } 32. Qe5 { [%emt 0:03:44] } 32... h5 { [%emt 0:06:
+36] } 33. d6 { [%emt 0:07:40] } 33... Qa4 { [%emt 0:00:35] } 34. Qd5 { [%emt 0:00:14] } 34... Qd7 { [%emt 0:00:34] } 35. Re1 { [%emt 0:01:01] } 35... Rb8 { [%emt 0:07:25] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.25"]
+[Round "5"]
+[White "Shchekachev, Andrei"]
+[Black "Bauer, Christian"]
+[Result "0-1"]
+[Annotator "Primel,D"]
+[BlackElo "2630"]
+[ECO "E33"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "70"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2529"]
+
+1. Nf3 { [%emt 0:01:09] } 1... Nf6 { [%emt 0:00:56] } 2. c4 { [%emt 0:03:30] } 2... e6 { [%emt
+0:00:33] } 3. Nc3 { [%emt 0:05:44] } 3... Bb4 { [%emt 0:01:29] } 4. Qc2 { [%emt 0:07:24]
+La partie commence par une anglaise anti-Nimzo mais elle va ensuite transposer
+dans une Nimzo-Indienne } 4... O-O { [%emt 0:02:24] } 5. a3 { [%emt 0:00:35] } 5... Bxc3 { [%emt 0:00:14] } 6. Qxc3 { [%emt 0:00:08] } 6... d6 { [%emt 0:00:17] } 7. d4 { [%emt 0:03:
+51] } 7... a5 { [%emt 0:01:13] Une ligne secondaire } 8. b3 { [%emt 0:03:23] } ( 8. Bg5 Nbd7 9. e3 ) ( 8. b4 $143 axb4 9. axb4 Rxa1 10. Qxa1 $11 ) 8... Nc6 $1 { [%emt 0:
+10:47][%csl Re1][%cal Ge6e5] Comme souvent dans cette variante Capa, les Noirs
+ont une petite avance de d√ veloppement et ils doivent essayer de jouer
+activement avant que les Blancs n'aient le temps de terminer le d√ veloppement
+et de faire jouer la paire de Ó P } 9. Bb2 { [%emt 0:08:21][%csl Ge5] } ( 9. g3 Qe7 { [%cal Ge6e5] } 10. Bb2 Re8 11. Bg2 e5 $132 { Balparda,J-Trompowsky,O Montevideo
+Casino Miramar de Carrasco 1938 (9) 0-1 } ) 9... Re8 { [%emt 0:01:16] } 10. Rd1 { [%emt 0:04:56][%cal Gd1d8] } ( 10. e3 e5 11. dxe5 dxe5 12. Be2 ( 12. Rd1 ) 12... Bf5 $11 { Grachev,B (2583)-Grischuk,A (2710) Grischuk-Grachev m blitz 2006 1/
+2-1/2 } ( 12... Bg4 ) ) 10... Qe7 { [%emt 0:05:08] } 11. e3 { [%emt 0:05:20] } 11... e5 { [%emt 0:00:45] Comme dans la variante de Zurich, le coup Ó ..c6 visait √ 
+soutenir la pouss√ e centrale e5 qui lib√..re le Ó Pc8 } 12. d5 { [%emt 0:00:06] } 12... Nb8 { [%emt 0:00:53] } 13. Nd2 { [%emt 0:00:59] La pr√ paration des Blancs face √
+  une partie jou√ e par l'adversaire l'ann√ e pr√ c√ dente √  Cappelle } ( 13. Be2 Bg4 ( 13... Nbd7 ) 14. O-O Nbd7 15. Rfe1 Nc5 16. Nd2 Bxe2 17. Rxe2 c6 18. e4 cxd5 19. cxd5 Rec8 20. Qe3 b5 21. Rc1 Qb7 22. f3 Nfd7 23. Ree1 Qb6 24. Kh1 b4 25. Kg1 Qa6 { 1/2-1/2 (25) Nikolov,M (2577)-Bauer,C (2647) Cappelle-la-Grande
+2019 } ) 13... c6 { [%emt 0:10:45] } ( 13... Nbd7 14. Bd3 c6 ) 14. dxc6 { [%emt 0:11:
+36] } 14... bxc6 { [%emt 0:02:53] } 15. Bd3 { [%emt 0:01:20] } 15... Nbd7 { [%emt 0:11:47] } 16. Ne4 { [%emt 0:06:41] } 16... Nxe4 $146 { [%emt 0:02:55] } ( 16... d5 17. Nxf6+ Nxf6 18. O-O Bb7 19. Rfe1 Nd7 20. cxd5 cxd5 21. Qc7 Nf6 22. Bxe5 Qxe5 23. Qxb7 Qd6 24. Bb5 Reb8 25. Qc6 Qxa3 26. Ba4 Qb4 27. Rc1 h6 28. Qc3 Ne4 29. Qd4 Rc8 30. g3 Nc3 31. Kg2 Rab8 32. h4 Kf8 33. h5 Qxd4 34. exd4 Nxa4 35. bxa4 Rc4 36. Rxc4 dxc4 37. Re5 Rc8 38. Re2 c3 39. Rc2 Rc4 40. Kf3 Rxa4 41. Rxc3 Rxd4 42. Rc7 a4 43. Ra7 Rb4 44. Kg2 g6 45. hxg6 fxg6 46. f4 { Kretov,E (2278)-Kharitonov,A (2558)
+Voronezh 2014 1/2-1/2 } ) 17. Bxe4 { [%emt 0:00:02] } 17... Ra6 { [%emt 0:00:44] } 18. b4 $1 { [%emt 0:06:58] Les Noirs doivent jouer avec pr√ cision car les Blancs
+menacent d'ouvrir le jeu pour la paire de Ó P } 18... Nf6 { [%emt 0:05:34] } 19. Bd3 { [%emt 0:01:09][%cal Gc4c5,Gd3a6] } 19... axb4 { [%emt 0:03:53] } 20. axb4 { [%emt 0:00:
+06] } 20... Rb6 { [%emt 0:05:54] } 21. O-O { [%emt 0:00:37] } 21... Qb7 $1 { [%emt 0:05:50][%csl
+Rb4] Force Ó Pa3 et le Ó P est hors-jeu } 22. Ba3 { [%emt 0:04:30] } 22... Bg4 { [%emt 0:
+01:03] } 23. Rb1 { [%emt 0:04:27] } ( 23. f3 $5 { Peut-√|_tre un moindre mal } ) 23... e4 $1 { [%emt 0:00:36] Gagne de l'espace avec tempo sur le Ó P } 24. Bc2 { [%emt
+0:00:45] } 24... Qc8 $1 $15 { [%emt 0:03:47][%cal Gc8f5,Gf5g5,Gg4f3,Gg5g1] Les pi√..
+ces Noires commencent √  viser l'aile-roi } 25. Rfe1 { [%emt 0:04:58] } 25... Re5 $1 $36 { [%emt 0:06:56][%csl Rg1,Rh2][%cal Gf5h5,Gc8g4,Ge5g5] Les pi√..ces Noires
+commencent √  s'activer et la paire de Ó P des Blancs est inutile.  Le Ó N
+Blanc manque de d√ fenseurs √  l'aile-roi et il commence √  √|_tre sous
+pression } 26. Kh1 { [%emt 0:07:08] } ( 26. Kf1 Rh5 27. h3 d5 ( 27... Bxh3 $5 28. gxh3 Qxh3+ 29. Ke2 Qf3+ 30. Kd2 { [%cal Gd2c1,Gc1b2] Et le Ó N doit pouvoir se
+r√ fugier √  l'aile-roi } ) 28. hxg4 Qxg4 { [%cal Gh5h1] } 29. Kg1 Qh4 30. Kf1 Qg4 { Et les Noirs doivent probablement se contenter de la r√ p√ tition de coups } ) 26... Bf3 $1 { [%emt 0:04:57] } 27. gxf3 { [%emt 0:03:18] } 27... Qh3 $40 { [%emt 0:01:20]
+[%cal Ge4f3,Ge5h5] } 28. Qxe5 $1 { [%emt 0:00:52] } 28... Qxf3+ $1 { [%emt 0:00:53] } 29. Kg1 { [%emt 0:00:02] } 29... dxe5 { [%emt 0:00:07] } 30. Rbd1 { [%emt 0:00:55] } 30... h5 { [%emt
+0:04:04] } 31. Rd8+ { [%emt 0:00:30] } 31... Kh7 { [%emt 0:00:01] } 32. Bd1 { [%emt 0:00:
+22] } 32... Qh3 { [%emt 0:01:32] } 33. Rd6 { [%emt 0:01:24] } 33... Ne8 { [%emt 0:02:05] } 34. b5 $2 $138 { [%emt 0:01:45] } 34... Nxd6 { [%emt 0:00:11] } 35. Bxd6 { [%emt 0:00:02] } 35... c5 $1 { [%emt 0:00:46][%csl Rd6][%cal Gb6g6] La double attaque gagne le Ó P } 0-1
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.25"]
+[Round "5"]
+[White "Stillger, Bernhard"]
+[Black "Bellahcene, Bilel"]
+[Result "0-1"]
+[Annotator "ChessBase II"]
+[BlackElo "2510"]
+[ECO "A13"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "162"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2253"]
+
+1. Nf3 { [%emt 0:03:50] } 1... Nf6 { [%emt 0:02:11] } 2. c4 { [%emt 0:00:18] } 2... e6 { [%emt
+0:00:04] } 3. g3 { [%emt 0:00:17] } 3... d5 { [%emt 0:00:03] } 4. Bg2 { [%emt 0:00:06] } 4... dxc4 { [%emt 0:00:02] } 5. Qa4+ { [%emt 0:01:38] } 5... c6 { [%emt 0:00:28] } 6. Qxc4 { [%emt 0:00:21] } 6... b5 { [%emt 0:00:01] } 7. Qb3 { [%emt 0:00:35] } 7... Bb7 { [%emt 0:00:09] } 8. O-O { [%emt 0:01:54] } 8... Nbd7 { [%emt 0:00:02] } 9. d4 { [%emt 0:00:21] } 9... Be7 { [%emt 0:03:43] } 10. Rd1 { [%emt 0:13:49] } 10... O-O { [%emt 0:01:26] } 11. Bg5 { [%emt 0:
+15:24] } ( 11. Ne5 Nxe5 12. dxe5 Nd7 13. Bf4 Qc7 14. Nc3 Nc5 15. Qc2 b4 16. Nb1 Ba6 17. Bf3 Rac8 18. a3 Rb8 19. axb4 Rxb4 20. Be3 Qb7 21. Nd2 Rxb2 22. Qc3 Rb5 23. Ra3 Qb8 24. Rda1 Bb7 25. Rxa7 Nd7 26. Nc4 Rd8 27. Be4 c5 28. Qc2 h6 29. Bd2 Nf8 30. Bd3 Rd7 31. Nd6 Rb6 32. Qxc5 Bd5 33. Rxd7 Nxd7 34. Qc8+ Nf8 35. Qxb8 Rxb8 36. f4 Bd8 37. Kf2 Nd7 38. Be3 g5 39. Bd4 Rb4 40. Ke3 gxf4+ { Caruana,F 
+(2822)-Duda,J (2758) Wijk aan Zee 2020 1-0 } ) 11... Nd5 $146 { [%emt 0:06:24] } ( 11... Qb6 12. Nc3 Rfd8 13. Rac1 h6 14. Bxf6 Nxf6 15. e3 Rab8 16. Ne5 c5 17. dxc5 Rxd1+ 18. Qxd1 Bxc5 19. Bxb7 Qxb7 20. Qf3 Qxf3 21. Nxf3 Kf8 22. Ne2 Bb6 23. Ned4 a6 24. Kf1 Ke8 25. Ke2 Nd5 26. g4 Ne7 27. h4 Rc8 28. Rxc8+ Nxc8 29. h5 Ne7 30. Kd3 Nd5 31. a3 Bc7 32. Nd2 Nf6 33. f3 Nd7 34. b4 Ne5+ 35. Ke4 Bd6 36. N4b3 Kd7 37. Na5 g6 38. Nb7 f5+ 39. gxf5 gxf5+ 40. Kd4 Nc6+ 41. Kd3 { Ding,L 
+(2812)-Andreikin,D (2727) Wenzhou 2019 1/2-1/2 } ) 12. Bxe7 { [%emt 0:01:28] } 12... Qxe7 { [%emt 0:00:01] } 13. Nc3 { [%emt 0:05:27] } 13... a5 { [%emt 0:00:58] } 14. Nxd5 { [%emt
+0:04:30] } 14... exd5 { [%emt 0:11:30] } 15. e3 { [%emt 0:01:52] } 15... Nb6 $132 { [%emt 0:00:
+37][%cal Gb6c4] } 16. Ne5 { [%emt 0:08:18] } 16... Nc4 { [%emt 0:00:03] } 17. Nd3 $1 { [%emt 0:00:58][%cal Gd3c5] } 17... Bc8 { [%emt 0:01:29] } 18. Qc3 { [%emt 0:03:49] } 18... b4 { [%emt 0:02:46] } 19. Qc1 { [%emt 0:01:04] } ( 19. Qc2 Bd7 20. b3 Na3 21. Qc5 ) 19... Bg4 { [%emt 0:00:57] } 20. Re1 { [%emt 0:01:47] } 20... Be6 { [%emt 0:03:38] } 21. Nc5 { [%emt 0:04:06][%csl Gc5] } 21... Qf6 { [%emt 0:03:03] } 22. a3 $6 { [%emt 0:05:51] } ( 22. b3 { Plus naturel } 22... Na3 23. Qd2 Nb5 ) 22... b3 $1 { [%emt 0:05:47][%csl Ra1,Rb2] } 23. a4 { [%emt 0:09:09] } 23... Rab8 $15 { [%emt 0:01:36][%csl Ra1] } 24. Qc3 { [%emt 0:
+00:36] } 24... Rb4 { [%emt 0:00:22] } 25. Nd3 { [%emt 0:04:29] } 25... Rb6 { [%emt 0:00:22] } 26. Ne5 { [%emt 0:01:50][%cal Gc3a5] } 26... Ra8 { [%emt 0:07:41] } 27. f4 { [%emt 0:00:15] } 27... Nxe5 $6 { [%emt 0:00:48] } 28. fxe5 { [%emt 0:00:54] } 28... Qe7 { [%emt 0:00:20] } 29. Rec1 { [%emt 0:01:59] } 29... Bf5 { [%emt 0:05:29] } 30. Qc5 { [%emt 0:01:05] } 30... Qd8 { [%emt
+0:05:57] } 31. Rf1 { [%emt 0:00:27] } 31... Bg6 { [%emt 0:01:10] } 32. Rf4 { [%emt 0:00:42] } 32... h6 { [%emt 0:00:10] } 33. Raf1 $16 { [%emt 0:01:19] } 33... Rba6 { [%emt 0:01:49] } 34. e4 $6 { [%emt 0:02:20] Permet aux Noirs d'√ changer le mauvais Ó P } ( 34. Bh3 $5 { [%cal Ge5e6,Gf4f8] } 34... Qe8 ( 34... Kh7 ) 35. e6 $1 fxe6 36. Rf8+ Qxf8 37. Bxe6+ ) 34... dxe4 { [%emt 0:00:40] } 35. Bxe4 { [%emt 0:00:25] } 35... Bxe4 { [%emt 0:00:34] } 36. Rxe4 { [%emt 0:00:03] } 36... Qd5 { [%emt 0:00:19] } 37. Qxd5 { [%emt 0:00:23] } 37... cxd5 { [%emt 0:00:02] } 38. Ref4 { [%emt 0:00:17] } 38... R6a7 { [%emt 0:01:12] } 39. Rc1 { [%emt
+0:00:33] } 39... Rb8 { [%emt 0:01:17] } 40. Rc5 { [%emt 0:00:00] } 40... Rb4 $132 { [%emt 0:00:
+00] } 41. Rxd5 { [%emt 0:04:29] } 41... Rxa4 { [%emt 0:01:00] } 42. Rb5 { [%emt 0:01:33] } 42... g5 { [%emt 0:03:24] } 43. Rf2 { [%emt 0:07:01] } ( 43. Re4 Rd7 44. Rxb3 Raxd4 ) 43... Rxd4 { [%emt 0:04:24] } 44. Rxb3 { [%emt 0:00:15] } 44... a4 { [%emt 0:00:01] } 45. Re3 { [%emt 0:02:24] } 45... Ra6 { [%emt 0:01:20] } 46. Rfe2 { [%emt 0:01:43] } 46... Rb4 { [%emt 0:00:
+52] } 47. Re4 { [%emt 0:05:16] } 47... Rb5 { [%emt 0:02:51] } 48. h4 { [%emt 0:00:46] } 48... Kg7 { [%emt 0:00:59] } 49. hxg5 { [%emt 0:00:08] } 49... hxg5 { [%emt 0:00:01] } 50. Kf2 { [%emt 0:04:24] } 50... Rb3 { [%emt 0:00:54] } ( 50... Kg6 51. g4 ) 51. g4 { [%emt 0:01:38] } 51... Rbb6 { [%emt 0:03:30] } 52. Ke1 { [%emt 0:00:31] } 52... Kf8 { [%emt 0:00:18] } 53. Kd1 { [%emt 0:00:27] } 53... Ke7 { [%emt 0:00:08] } 54. Kc1 { [%emt 0:03:04] } 54... Rb5 { [%emt 0:02:
+13] } 55. R2e3 $2 { [%emt 0:04:58] La finale √ tait √ gale mais le Ó N Blanc va
+se trouver expos√  √  l'aile-dame } 55... Rc6+ $1 { [%emt 0:04:34] } 56. Kb1 { [%emt 0:
+01:46] } 56... Rcb6 { [%emt 0:00:04] } 57. Rxa4 { [%emt 0:01:03] } 57... Rxb2+ { [%emt 0:00:01] } 58. Kc1 { [%emt 0:01:05] } 58... Rf2 { [%emt 0:00:50][%csl Rc1] } 59. Ra7+ { [%emt 0:00:
+41] } 59... Ke6 { [%emt 0:01:03] } 60. Raa3 { [%emt 0:00:49] } 60... Rf4 { [%emt 0:01:35] } 61. Rf3 { [%emt 0:00:37] } 61... Rbb4 { [%emt 0:00:15] } 62. Ra6+ { [%emt 0:00:42] } 62... Kxe5 { [%emt 0:00:08] } 63. Ra5+ { [%emt 0:00:31] } 63... Ke4 { [%emt 0:00:22] } 64. Rg3 { [%emt
+0:00:23] } 64... f6 { [%emt 0:00:12] } 65. Kd2 { [%emt 0:00:18] } 65... Rf3 $17 { [%emt 0:01:39] } 66. Rg1 { [%emt 0:00:56] } 66... Rd4+ { [%emt 0:04:45] } 67. Kc1 { [%emt 0:00:24] } 67... Rc4+ { [%emt 0:00:58] } 68. Kb2 { [%emt 0:00:19] } 68... Ke3 $1 { [%emt 0:00:09][%csl Rb2,Ge3] } 69. Raa1 { [%emt 0:00:54] } 69... Re4 { [%emt 0:01:01] } 70. Kc2 { [%emt 0:00:44] } 70... Kf4 { [%emt 0:00:09] } 71. Ra6 { [%emt 0:00:34] } 71... Rg3 { [%emt 0:02:03] } 72. Rxf6+ { [%emt
+0:00:22] } 72... Kxg4 { [%emt 0:00:02] } 73. Rh1 { [%emt 0:00:37] } 73... Re2+ $1 { [%emt 0:00:
+18] } 74. Kb1 { [%emt 0:00:18] } ( 74. Kd1 Ra2 { [%csl Rd1,Rh1] } ) 74... Rgg2 { [%emt
+0:00:38] } 75. Rb6 { [%emt 0:00:07] } 75... Ref2 { [%emt 0:00:39] } 76. Rc1 { [%emt 0:00:
+30] } 76... Kg3 { [%emt 0:00:31] } 77. Rc3+ { [%emt 0:00:50] } 77... Rf3 { [%emt 0:00:10] } 78. Rc1 { [%emt 0:00:05] } 78... g4 { [%emt 0:00:10] } 79. Rb4 { [%emt 0:00:31] } 79... Kh2 { [%emt 0:
+00:44] } 80. Rb8 { [%emt 0:00:23] } 80... Rg1 { [%emt 0:00:24] } 81. Rb2+ { [%emt 0:00:07] } 81... Kh1 { [%emt 0:00:15] } 0-1
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "6"]
+[White "Bellahcene, Bilel"]
+[Black "Ahlander, Bjorn"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2417"]
+[ECO "B48"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "105"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2510"]
+
+1. e4 { [%emt 0:06:21] } 1... c5 { [%emt 0:00:43] } 2. Nf3 { [%emt 0:00:03] } 2... e6 { [%emt 0:
+00:09] } 3. d4 { [%emt 0:00:09] } 3... cxd4 { [%emt 0:00:08] } 4. Nxd4 { [%emt 0:00:01] } 4... Nc6 { [%emt 0:00:17] } 5. Nc3 { [%emt 0:00:07] } 5... Qc7 { [%emt 0:00:06] } 6. Be3 { [%emt 0:00:06] } 6... a6 { [%emt 0:00:05] } 7. Be2 { [%emt 0:00:09] } 7... Nf6 { [%emt 0:00:19]
+[%cal Gf8b4] } 8. a3 { [%emt 0:00:02] Evite le coup actif Ó Pb4 } ( 8. O-O Bb4 ) 8... Be7 { [%emt 0:01:01] } 9. f4 { [%emt 0:00:02] } 9... d6 { [%emt 0:00:39] Transpose
+sur une Sheveningen mais le ooo des Blancs est plus risqu√  apr√..s la pouss√
+ e a3 } 10. g4 $5 { [%emt 0:01:25] Une ligne agressive } 10... d5 $1 { [%emt 0:01:05] } ( 10... Nxd4 $143 11. Qxd4 e5 12. Qd2 exf4 13. Bxf4 Be6 14. O-O-O $14 ) 11. e5 { [%emt 0:03:27] } 11... Ne4 { [%emt 0:04:03] } ( 11... Nd7 12. g5 Bc5 13. Qd2 Nxd4 14. Bxd4 Bxd4 15. Qxd4 Qb6 16. O-O-O Qxd4 17. Rxd4 g6 18. h4 h6 19. Bf3 hxg5 20. hxg5 Rxh1+ 21. Bxh1 Ke7 22. Ne2 Nb6 23. Rd3 Nc4 24. Rh3 Bd7 25. a4 b5 26. b3 Na5 27. axb5 Bxb5 28. Nc3 Rc8 29. Kd2 Nc6 30. Bf3 Nd4 31. Bg4 Bd7 32. Rd3 Nc6 33. Ne2 a5 34. Rh3 Ra8 35. Rh1 a4 36. Ra1 Na5 37. Kc3 Rc8+ 38. Kb2 Rb8 39. Nd4 Rh8 40. Be2 Rh4 41. Rf1 { Bologan,V (2610)-Jakovenko,D (2735) Poikovsky 2018
+0-1 (62) } ) 12. Nxe4 { [%emt 0:00:14] } 12... dxe4 { [%emt 0:00:07] } 13. Nxc6 { [%emt 0:
+01:08] } 13... Qxc6 { [%emt 0:00:09] } 14. Qd4 { [%emt 0:01:52] } 14... b5 { [%emt 0:01:09] } 15. c4 $5 $146 { [%emt 0:07:29] Peut-√|_tre pas une pr√ paration car l'alg√ rien a
+commenc√  √  r√ fl√ chir } ( 15. O-O-O Bb7 16. Kb1 Rc8 17. c3 O-O 18. Qd7 Rc7 19. Qxc6 Bxc6 20. g5 Rb8 21. b4 Bd5 22. Kb2 Rc6 23. h4 Bd8 24. Bc5 Rxc5 25. bxc5 Be7 26. f5 Bxc5 27. Bg4 Bf2 28. Kc2 e3 29. Rxd5 exd5 30. Kd3 Re8 31. e6 fxe6 32. fxe6 Kf8 33. h5 Ke7 34. a4 bxa4 35. Rb1 Ra8 36. Rb7+ Kd6 37. Rb6+ Ke5 38. e7 a3 39. Rxa6 Re8 40. g6 hxg6 41. hxg6 Rxe7 42. Rxa3 Rb7 43. Ra2 Rb6 44. Bh5 Rb1 { Lanka,Z (2465)-Strohhaeker,R (2444) Germany 2011 0-1 (70) } ) 15... O-O { [%emt 0:14:19] } 16. O-O { [%emt 0:13:56] } 16... Rd8 { [%emt 0:05:36] } ( 16... Bb7 17. Rad1 Rad8 18. Qb6 ) 17. cxb5 { [%emt 0:00:44] } 17... axb5 { [%emt 0:01:58] } 18. Rfc1 $32 { [%emt 0:00:43] } 18... Qd5 { [%emt 0:10:55] } 19. Qxd5 { [%emt 0:10:04] } 19... Rxd5 { [%emt 0:
+03:12] } 20. Rd1 $1 { [%emt 0:07:38][%csl Rb5] Malgr√  la simplification, les
+Noirs ont des probl√..mes de d√ veloppement } 20... Rxd1+ { [%emt 0:01:16] } 21. Rxd1 $36 { [%emt 0:02:51][%csl Ra8,Rb5,Rc8,Rg8] } 21... Rb8 { [%emt 0:12:36] } 22. Rc1 $1 { [%emt 0:00:19][%cal Ge2b5,Gc1c8] } 22... b4 { [%emt 0:02:06] } 23. a4 { [%emt 0:00:22]
+[%csl Ga4] } 23... Bd8 { [%emt 0:06:12] } ( 23... b3 $5 ) 24. b3 $16 { [%emt 0:06:08][%csl
+Ga4] } 24... Bb7 { [%emt 0:14:00] } 25. Bc4 { [%emt 0:00:08] } 25... Rc8 { [%emt 0:07:42] } 26. Rd1 $1 { [%emt 0:00:05] } 26... Bc6 { [%emt 0:01:48] } 27. f5 { [%emt 0:01:15] } 27... exf5 { [%emt 0:00:44] } 28. e6 $1 $40 { [%emt 0:03:08][%cal Gc4g8] } 28... Be7 { [%emt 0:02:59] } 29. exf7+ { [%emt 0:01:10] } 29... Kf8 { [%emt 0:00:02] } 30. Be6 $1 { [%emt 0:00:06]
+[%csl Gf7][%cal Ge6f5,Ge6c8] } 30... Ra8 { [%emt 0:01:28] } ( 30... Rd8 ) 31. gxf5 { [%emt
+0:00:05] } 31... Rd8 { [%emt 0:04:58] } 32. Rxd8+ { [%emt 0:00:12] } 32... Bxd8 { [%emt 0:00:02] } 33. a5 { [%emt 0:00:10] } 33... Bb7 { [%emt 0:03:15] } 34. Kf2 { [%emt 0:00:06] } 34... Be7 { [%emt 0:00:10] } 35. Bc4 { [%emt 0:00:15] } 35... Bd6 { [%emt 0:00:37] } 36. a6 { [%emt 0:
+00:01] } 36... Bc6 { [%emt 0:00:28] } 37. h4 { [%emt 0:00:07] } 37... h5 { [%emt 0:01:04] } 38. a7 { [%emt 0:00:00] } 38... Be7 { [%emt 0:01:33] } 39. Kg3 Bd6+ { [%emt 0:00:00] } 40. Bf4 { [%emt 0:00:00] } 40... Be7 { [%emt 0:00:00] } 41. Be5 { [%emt 0:03:42] } 41... Bb7 { [%emt 0:01:
+15] } 42. Bf4 { [%emt 0:01:10] } 42... Bc6 { [%emt 0:00:03] } 43. Bg5 $1 { [%emt 0:00:10] } 43... Bd6+ { [%emt 0:01:38] } 44. Kg2 { [%emt 0:00:17] } 44... Bc5 { [%emt 0:04:11] } 45. f6 { [%emt 0:00:21] } 45... Bb7 { [%emt 0:00:29] } 46. Kf1 { [%emt 0:00:11] } 46... Bc6 { [%emt 0:00:
+40] } 47. Ke2 { [%emt 0:00:01] } 47... Bb7 { [%emt 0:04:38] } 48. fxg7+ { [%emt 0:00:54] } 48... Kxg7 { [%emt 0:00:19] } 49. Be3 { [%emt 0:00:03] } 49... Be7 { [%emt 0:01:50] } 50. Bd4+ { [%emt 0:00:55] } 50... Kf8 { [%emt 0:00:12] } 51. Ke3 { [%emt 0:00:28] } 51... Bd6 { [%emt 0:02:
+37] } 52. Be6 { [%emt 0:01:14] } 52... Ba8 { [%emt 0:01:51] } 53. Bf5 { [%emt 0:00:20] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "6"]
+[White "Bujisho, Benjamin"]
+[Black "Martinez Alcantara, Jose Eduardo"]
+[Result "0-1"]
+[Annotator "ChessBase II"]
+[BlackElo "2617"]
+[ECO "A37"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "66"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2285"]
+
+1. Nf3 { [%emt 0:00:00] } 1... c5 { [%emt 0:00:00] } 2. g3 { [%emt 0:01:17] } 2... Nc6 { [%emt
+0:00:00] } 3. Bg2 { [%emt 0:01:02] } 3... g6 { [%emt 0:00:00] } 4. O-O { [%emt 0:04:15] } 4... Bg7 { [%emt 0:00:08] } 5. c4 { [%emt 0:04:07] } 5... d6 { [%emt 0:00:39] } 6. Nc3 { [%emt
+0:00:44] } 6... e6 { [%emt 0:02:06] } 7. e3 { [%emt 0:04:12] } 7... Nge7 { [%emt 0:00:04] } 8. d4 { [%emt 0:01:26] } 8... O-O { [%emt 0:00:06] } 9. dxc5 { [%emt 0:12:21] } ( 9. Rb1 Rb8 10. a3 Na5 11. Qe2 cxd4 12. Nxd4 Nac6 13. Rd1 Nxd4 14. exd4 b6 15. Bf4 Bb7 16. c5 Bxg2 17. Kxg2 Nf5 18. cxd6 Nxd4 19. Qe4 Nf5 20. d7 Ra8 21. Nb5 e5 22. Bxe5 Qe7 23. Rd5 Rad8 24. Re1 Rxd7 25. Nc3 Rxd5 26. Nxd5 Qxe5 27. Qxe5 Bxe5 28. Rxe5 Rd8 29. Ne7+ Nxe7 30. Rxe7 a5 31. Rb7 Rd6 32. h4 Kg7 33. g4 Kf6 34. b4 axb4 35. axb4 h5 36. g5+ Ke6 37. Kg3 f6 38. gxf6 Kxf6 { Abasov,N (2632)-Jones,G (2688)
+chess24.com INT 2020 1/2-1/2 } ) 9... dxc5 { [%emt 0:00:12] } 10. Qe2 { [%emt 0:00:
+33] } 10... a6 { [%emt 0:03:36] } 11. Rd1 { [%emt 0:02:32] } 11... Qc7 { [%emt 0:00:17] } 12. Bd2 { [%emt 0:00:17] } 12... b6 { [%emt 0:06:39] } 13. h4 { [%emt 0:15:51] } 13... Bb7 { [%emt 0:02:
+28] } 14. h5 { [%emt 0:03:15] } 14... Nf5 $146 { [%emt 0:00:57] } ( 14... Ne5 15. Nxe5 Bxe5 16. e4 Nc6 17. Bh6 Rfd8 18. Qg4 Nd4 19. Bg5 Rd7 20. hxg6 hxg6 21. Qh4 Bg7 22. Bf6 Bxf6 23. Qxf6 Rad8 24. Rf1 Qd6 25. e5 Qe7 26. Qxe7 Rxe7 27. Bxb7 Rxb7 28. Kg2 Nc6 29. Rae1 Kg7 30. f4 Rd2+ 31. Rf2 Rbd7 32. Ree2 Rxe2 33. Rxe2 Rd4 34. b3 g5 35. Rf2 gxf4 36. gxf4 Kg6 37. Ne2 Rd1 38. Ng3 Nd4 39. Kh3 Rd3 40. Kg4 Nf5 41. Nxf5 exf5+ 42. Kh4 f6 43. Rg2+ Kf7 44. exf6 { Lagarde,M (2657)-Abasov,N 
+(2632) chess24.com INT 2020 1-0 } ) 15. hxg6 { [%emt 0:00:24] } 15... fxg6 { [%emt 0:04:
+54] } ( 15... hxg6 { Il n'est pas facile pour les Blancs de monter une attaque
+sur la colonne "h" et la reprise du Ó  "h" devait √|_tre possible } ) 16. Be1 { [%emt 0:03:25] } 16... Rae8 { [%emt 0:01:14] } 17. Ne4 { [%emt 0:12:03] } 17... Nd8 $1 { [%emt 0:
+06:46] } 18. Qc2 { [%emt 0:07:29] } 18... Nf7 { [%emt 0:05:51] } 19. Bc3 { [%emt 0:03:05] } 19... e5 $5 { [%emt 0:00:28] } 20. Ne1 { [%emt 0:04:01] } 20... h5 $1 { [%emt 0:03:46] } 21. Rd2 { [%emt 0:00:23] } 21... h4 { [%emt 0:01:39] } 22. Rad1 { [%emt 0:02:50] } 22... Re7 $1 { [%emt 0:
+00:40] Controlant la seule case d'acc√..s et le doublement des Ó R n'est pas
+tr√..s utile } 23. g4 $2 { [%emt 0:00:52] Jou√  presqu'√  tempo et c'est un net
+affaiblissement } 23... Nd4 $1 { [%emt 0:00:02] } 24. Qd3 { [%emt 0:09:37] } 24... Nh6 $40 { [%emt 0:04:47][%csl Rg4][%cal Gh6g4] } 25. f3 { [%emt 0:01:12] } 25... Rd8 { [%emt 0:08:
+29] } 26. exd4 $2 { [%emt 0:00:53] } 26... Bxe4 $1 { [%emt 0:00:12] } 27. fxe4 { [%emt 0:
+02:29] } 27... exd4 { [%emt 0:00:02] } 28. Re2 { [%emt 0:00:56][%cal Gc3d2] } 28... Nxg4 { [%emt
+0:00:30][%csl Rh2] } 29. Nf3 { [%emt 0:00:22] } 29... Rf8 { [%emt 0:06:37] } 30. Be1 { [%emt 0:00:15] } 30... Ref7 { [%emt 0:00:00] } 31. Bxh4 { [%emt 0:01:03] } 31... Rxf3 { [%emt 0:
+00:22] } 32. Bxf3 { [%emt 0:00:01] } 32... Ne5 { [%emt 0:00:01] } 33. Bg3 { [%emt 0:02:30] } 33... Rxf3 { [%emt 0:00:02] } 0-1
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "6"]
+[White "Demuth, Adrien"]
+[Black "Antonio, Viani D'Cunha"]
+[Result "1/2-1/2"]
+[Annotator "ChessBase II"]
+[BlackElo "2403"]
+[ECO "E70"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "125"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2500"]
+
+1. d4 { [%emt 0:01:17] } 1... Nf6 { [%emt 0:00:00] } 2. c4 { [%emt 0:00:06] } 2... g6 { [%emt 0:
+00:00] } 3. Nc3 { [%emt 0:00:05] } 3... Bg7 { [%emt 0:00:00] } 4. e4 { [%emt 0:00:06] } 4... d6 { [%emt 0:00:04] } 5. Bd3 { [%emt 0:00:06] } 5... O-O { [%emt 0:03:19] } 6. Nge2 { [%emt 0:
+00:05] } 6... e5 { [%emt 0:00:16] } 7. d5 { [%emt 0:00:18] } 7... Nbd7 { [%emt 0:00:52] } 8. O-O { [%emt 0:00:50] } 8... Nc5 { [%emt 0:00:25] } 9. Bc2 { [%emt 0:00:05] } 9... a5 { [%emt 0:00:
+05] } 10. Rb1 { [%emt 0:03:26] } 10... c6 { [%emt 0:08:41] } ( 10... Nh5 11. a3 f5 12. exf5 gxf5 13. b4 axb4 14. axb4 Nd7 15. Ng3 Nxg3 16. hxg3 e4 17. Nb5 Ne5 18. c5 Bd7 19. Nd4 Qf6 20. Ne6 Bxe6 21. dxe6 Qxe6 22. Bb3 Nc4 23. Bf4 Rac8 24. cxd6 cxd6 25. Qxd6 Qxd6 26. Bxd6 Rf6 27. Bc5 b5 28. Rfc1 Rfc6 29. Bxc4+ bxc4 30. Rxc4 Bf8 31. Rbc1 Kf7 32. Kf1 h5 33. Ke2 Ke6 34. f3 exf3+ 35. Kxf3 Kf7 36. R4c3 Bg7 37. Rd3 Bf8 38. Rc4 Bxc5 39. Rdc3 Bxb4 40. Rxc6 { Kryakvin,D (2554)-Popov,I (2596)
+Sochi 2016 1-0 } ) 11. b3 { [%emt 0:22:39] } 11... cxd5 { [%emt 0:03:06] } 12. cxd5 { [%emt
+0:00:27] } 12... b5 { [%emt 0:04:17] } 13. b4 { [%emt 0:12:06] } 13... axb4 { [%emt 0:00:23] } 14. Rxb4 { [%emt 0:01:29] } 14... Bd7 { [%emt 0:00:17] } 15. Bd2 $146 { [%emt 0:08:12] } ( 15. a3 Qa5 16. f3 Rfc8 17. Bd3 Rab8 18. Kh1 Nh5 19. g3 Nf6 20. Kg2 h5 21. h4 Ne8 22. Na2 Nxd3 23. Qxd3 Rc4 24. Qxc4 bxc4 25. Rxb8 Kh7 26. Nac3 Nc7 27. Rd8 Ba4 28. Nxa4 Qxa4 29. Rxd6 Nb5 30. Rc6 Nd4 31. Nxd4 exd4 32. Bf4 d3 33. Rc1 c3 34. R6xc3 Bxc3 35. Rxc3 Qd1 36. Rc7 Qe2+ 37. Kh3 Qxf3 38. Kh2 Qe2+ 39. Kg1 Qe1+ 40. Kh2 d2 41. Bxd2 Qxd2+ 42. Kg1 Kg7 43. Re7 Kf8 44. Rb7 Qe1+ { Rabrenovic,V (2378)
+-Todorovic,J (2420) Kraljevo 2011 0-1 } ) 15... Na6 { [%emt 0:28:08] } 16. Rb2 { [%emt 0:00:26] } 16... b4 $132 { [%emt 0:00:48] } 17. Nb1 { [%emt 0:00:10] } 17... Qc7 { [%emt 0:
+01:16] } 18. Re1 { [%emt 0:03:53] } ( 18. Bxb4 $6 Nxb4 19. Rxb4 Rxa2 ) 18... Rfc8 { [%emt 0:02:27] } 19. Nc1 { [%emt 0:03:02] } 19... Nxd5 { [%emt 0:04:40] } 20. Bb3 { [%emt
+0:06:05] } 20... Nf4 { [%emt 0:07:53] } 21. Qf3 { [%emt 0:04:52] } 21... Nc5 { [%emt 0:07:26] } 22. Bxb4 { [%emt 0:08:42] } 22... Nxb3 { [%emt 0:00:27] } 23. Nxb3 { [%emt 0:00:03] } ( 23. axb3 Qxc1 $1 ) 23... Qc4 $1 { [%emt 0:02:32] Les pi√..ces Blanches sont mal
+coordonn√ es et il y a un risque de mat du couloir } 24. N3d2 { [%emt 0:06:12] } 24... Qa6 { [%emt 0:03:41] } 25. Rb3 { [%emt 0:03:50] } 25... Qxa2 { [%emt 0:06:24] } 26. Bxd6 { [%emt 0:00:11] } 26... Rc2 { [%emt 0:01:44] } 27. Bb4 { [%emt 0:03:36] } 27... Be6 { [%emt 0:03:
+12] } 28. Nc3 { [%emt 0:05:13] } 28... Qa1 $1 { [%emt 0:00:43] } 29. Rxa1 { [%emt 0:04:31] } 29... Rxa1+ { [%emt 0:00:08] } 30. Rb1 { [%emt 0:00:02] } 30... Rxb1+ { [%emt 0:00:38] } 31. Ndxb1 { [%emt 0:00:33] } 31... Rc1+ { [%emt 0:00:35] La pointe } 32. Qd1 { [%emt 0:00:03] } 32... Ne2+ { [%emt 0:02:29] } 33. Kh1 { [%emt 0:00:54] } 33... Rxd1+ { [%emt 0:01:28] } 34. Nxd1 { [%emt 0:00:01] } 34... h5 { [%emt 0:00:17] } 35. Bd2 { [%emt 0:01:38] } 35... h4 { [%emt 0:00:
+48] } 36. Nbc3 { [%emt 0:01:01] } 36... Nd4 { [%emt 0:01:03][%csl Rd1] } 37. h3 { [%emt 0:
+00:08] } 37... f6 { [%emt 0:00:11] } 38. Ne3 { [%emt 0:00:47] } 38... Bh6 { [%emt 0:01:44] } 39. Nf1 { [%emt 0:01:26] } 39... Bf8 { [%emt 0:00:42] } 40. Ne3 { [%emt 0:00:00] } 40... Bc5 { [%emt
+0:00:00] } 41. Ncd5 { [%emt 0:05:18] } 41... Kf7 { [%emt 0:14:04] } 42. Bb4 { [%emt 0:01:
+39] } 42... Bxb4 { [%emt 0:05:18] } 43. Nxb4 { [%emt 0:01:40] } 43... f5 { [%emt 0:00:13] } 44. exf5 { [%emt 0:09:16] } 44... gxf5 { [%emt 0:00:10] } 45. Kg1 { [%emt 0:07:01] } 45... Kf6 { [%emt 0:01:26] } 46. f3 { [%emt 0:00:44] } 46... e4 { [%emt 0:01:28] } 47. fxe4 { [%emt 0:
+01:03] } 47... fxe4 { [%emt 0:00:16] } 48. Kf2 { [%emt 0:00:09] } 48... Ke5 { [%emt 0:00:09] } 49. g3 { [%emt 0:00:57] } 49... hxg3+ { [%emt 0:05:06] } 50. Kxg3 { [%emt 0:00:02] } 50... Ne2+ { [%emt 0:00:28] } 51. Kf2 { [%emt 0:00:51] } 51... Nc3 { [%emt 0:00:22] } 52. h4 { [%emt 0:
+00:55] } 52... Bf7 { [%emt 0:01:29] } 53. Nc6+ { [%emt 0:01:44] } 53... Kd6 { [%emt 0:00:15] } 54. Nd4 { [%emt 0:00:15] } 54... Bh5 { [%emt 0:00:29] } 55. Ndf5+ { [%emt 0:01:08] } 55... Ke5 { [%emt 0:00:15] } 56. Ng3 { [%emt 0:00:21] } 56... Bf3 { [%emt 0:02:00] } 57. h5 { [%emt 0:
+00:12] } 57... Kf6 { [%emt 0:00:06] } 58. h6 { [%emt 0:00:18] } 58... Kg6 { [%emt 0:00:12] } 59. Nc4 { [%emt 0:00:40] } 59... Kxh6 { [%emt 0:01:00] } 60. Nd2 { [%emt 0:00:15] } 60... e3+ { [%emt
+0:00:42] } 61. Kxe3 { [%emt 0:00:05] } 61... Ne4 { [%emt 0:00:04] } 62. Ngxe4 { [%emt 0:00:
+03] } 62... Bxe4 { [%emt 0:00:04] } 63. Kxe4 { [%emt 0:00:04] } 1/2-1/2
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "6"]
+[White "Dimitrov, Radoslav"]
+[Black "Froeyman, Helmut"]
+[Result "1/2-1/2"]
+[Annotator "ChessBase II"]
+[BlackElo "2251"]
+[ECO "A01"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "169"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2519"]
+
+1. b3 { [%emt 0:00:00] } 1... f5 { [%emt 0:05:39] } 2. Bb2 { [%emt 0:00:00] } 2... Nf6 { [%emt
+0:00:10] } 3. Bxf6 $5 { [%emt 0:00:00] KARPOV avait gagn√  une fameuse partie
+avec ce th√..me pour gagner le contr√'le de la case "d5" } ( 3. c4 d6 4. d4 g6 5. g3 Bg7 6. Bg2 e6 7. Nf3 O-O 8. O-O Qe7 9. Nc3 c6 10. a4 Rd8 11. Qc2 a5 12. e4 fxe4 13. Nxe4 Na6 14. Rae1 Nb4 15. Qd1 Bd7 16. Nfg5 Nxe4 17. Nxe4 Re8 18. h4 c5 19. Re2 Rad8 20. dxc5 dxc5 21. Bxg7 Qxg7 22. Nd6 Rf8 23. Nxb7 Rc8 24. Qd6 Bc6 25. Nxc5 Bxg2 26. Kxg2 Rc6 27. Qe5 Qf7 28. f3 Qe7 29. Ne4 Rf5 30. Qc3 Nd5 31. Qd4 Nb4 32. Rd2 Rf8 { Hou,Y (2653)-Muzychuk,M (2545) Hancheng 2016 1-0 (69) } ) 3... exf6 { [%emt 0:00:04] } 4. c4 { [%emt 0:00:02] } 4... d5 { [%emt 0:01:00] } 5. cxd5 { [%emt 0:00:09] } 5... Qxd5 { [%emt 0:00:08] } 6. Nc3 { [%emt 0:00:04] } 6... Qf7 { [%emt 0:00:
+56] } 7. e3 { [%emt 0:00:15] } 7... Nc6 { [%emt 0:03:33] } 8. Bc4 $146 { [%emt 0:11:00] } ( 8. Nh3 g5 9. Bc4 Be6 10. Bxe6 Qxe6 11. Qh5+ Qf7 12. Qxf7+ { 1/2-1/2 (12)
+Hebbinghaus,H (2226)-Besenthal,K (2104) Lueneburg 2015 } ) 8... Be6 { [%emt 0:01:
+19] } 9. Bxe6 { [%emt 0:00:03] } 9... Qxe6 { [%emt 0:00:06] } 10. Nge2 { [%emt 0:00:06] } 10... O-O-O { [%emt 0:10:43] } 11. O-O { [%emt 0:01:03] } 11... g5 { [%emt 0:01:40] } 12. d4 { [%emt 0:01:11] } ( 12. f4 Nb4 { [%csl Rd3,Re3] } ) 12... f4 $132 { [%emt 0:05:34] } 13. d5 $1 { [%emt 0:03:21] For√Pant Ó Be5 qui va permettre des simplifications } 13... Qe5 { [%emt 0:05:33] } 14. Qc1 { [%emt 0:01:38][%cal Gc1c3,Gc1f4] } 14... Nb4 { [%emt 0:
+04:08] } 15. exf4 { [%emt 0:02:11] } 15... gxf4 { [%emt 0:00:13] } 16. Qxf4 { [%emt 0:00:
+48] } 16... Nxd5 { [%emt 0:04:28] } 17. Qxe5 { [%emt 0:00:39] } 17... fxe5 { [%emt 0:00:06] } 18. Rad1 { [%emt 0:02:43] } ( 18. Nxd5 Rxd5 19. Rad1 c6 20. Nc3 { [%cal Gc3e4] } 20... Rd4 21. Rxd4 exd4 22. Ne4 $13 { [%csl Gd4][%cal Gc6c5] } ) 18... Nf6 { [%emt 0:08:53] } 19. Rxd8+ { [%emt 0:00:49] } 19... Kxd8 { [%emt 0:00:07] } 20. Rd1+ { [%emt 0:01:06] } 20... Bd6 { [%emt 0:00:56] } 21. Ng3 $1 { [%emt 0:00:02][%cal Gg3e4,Gg3f5,Gc3e4] } 21... Ke7 { [%emt
+0:06:04] } 22. Nce4 { [%emt 0:00:09] } 22... Nxe4 { [%emt 0:01:30] } 23. Nxe4 { [%emt 0:00:
+02][%csl Rd6,Ge4,Re5] Le Ó .. peut dominer le Ó P } 23... Rf8 { [%emt 0:00:51] } 24. g3 { [%emt 0:02:53] } 24... Ke6 { [%emt 0:01:03] } 25. Kg2 $6 { [%emt 0:01:01][%csl Rg2] La
+Ó R emp√|_che Ó Nf3 et le Ó N risque d'√|_tre hors-jeu } ( 25. Kf1 $1 $142 { [%cal Gf1e2,Ge2e3] } 25... Be7 26. Ke2 h6 27. Ke3 $14 { [%csl Ge3] Ce plan parait plus
+souple pour les Blancs et les Noirs manquent de contre-jeu } 27... Bg5+ 28. Ke2 { [%cal Gh2h4,Ge4c5] } 28... Be7 29. h4 ) 25... Be7 { [%emt 0:00:38] } 26. h4 { [%emt 0:01:
+55] } 26... c5 { [%emt 0:01:51] } 27. a4 { [%emt 0:02:10] } 27... b6 { [%emt 0:16:21] } 28. g4 $6 { [%emt 0:04:34] } 28... a6 { [%emt 0:00:58] } 29. Rc1 { [%emt 0:04:15] } 29... Kd5 $1 { [%emt 0:
+02:22][%csl Gd5,Rg2] } 30. f3 { [%emt 0:00:46] } 30... b5 $1 { [%emt 0:00:53] } 31. g5 { [%emt 0:03:37] } 31... c4 $1 { [%emt 0:01:23] } 32. bxc4+ { [%emt 0:00:09] } 32... bxc4 { [%emt
+0:00:06] } 33. Rb1 { [%emt 0:00:22] } 33... Rc8 { [%emt 0:03:07] } 34. Rb7 { [%emt 0:03:21] } 34... Ke6 { [%emt 0:00:26] } 35. Rb6+ { [%emt 0:00:42] } 35... Kf7 { [%emt 0:00:38] } 36. Rb2 $6 { [%emt 0:04:23] Les finales ne constituent pas le point fort du GMI } ( 36. Nc3 $1 { Le Ó .. est un bon bloqueur et il faut utiliser cette qualit√ } 36... Rd8 37. Rc6 ( 37. Rxa6 Rd3 ) 37... Rd3 ( 37... Rd2+ 38. Kg3 { [%cal Gc6c4] } ) 38. Rxc4 ) 36... Ke6 { [%emt 0:03:05] } 37. Kf2 { [%emt 0:00:21] } 37... c3 $1 { [%emt 0:00:57]
+Exploitant l'erreur du coup pr√ c√ dent } 38. Rc2 { [%emt 0:00:01] } 38... Bb4 $17 { [%emt 0:00:25] } 39. Ke2 { [%emt 0:02:06] } 39... a5 $1 { [%emt 0:01:35] } 40. h5 { [%emt
+0:00:00] } 40... Kf5 $1 { [%emt 0:00:00][%csl Gb4,Gf5] Il ne reste aux Noirs d'activer
+la Ó R pour commencer √  avoir des chances de gain. } 41. Kd3 { [%emt 0:06:36] } 41... Rd8+ { [%emt 0:01:59] } 42. Kc4 { [%emt 0:03:29] } 42... Kf4 { [%emt 0:07:20] } 43. Rf2 { [%emt 0:08:12] } 43... c2 $2 { [%emt 0:09:01] Le zeitnot est pourtant pass√  et le
+belge a pris 10 mns de r√ flexion sur cette position critique } ( 43... Ke3 $1 44. Kb3 ( 44. Rc2 Rd4+ ( 44... Rg8 ) ) 44... Rd2 $1 45. Nxd2 ( 45. Rxd2 cxd2 46. Kc2 Ke2 47. Nxd2 Bxd2 48. g6 hxg6 49. hxg6 Bh6 ) 45... cxd2 46. Rf1 Ke2 47. Rg1 ( 47. g6 hxg6 48. hxg6 Kxf1 49. g7 d1=Q+ ) 47... d1=Q+ 48. Rxd1 Kxd1 49. g6 hxg6 50. h6 Bf8 51. h7 Bg7 ) 44. Rxc2 { [%emt 0:00:19] } 44... Kxf3 { [%emt 0:00:07] Sans l'atout
+du Ó   pass√ , les Noirs n'ont plus de chances de gain } 45. Nf6 { [%emt 0:00:28] } 45... e4 { [%emt 0:11:23] } 46. g6 { [%emt 0:11:09] } 46... hxg6 { [%emt 0:00:33] } 47. hxg6 { [%emt 0:00:02] } 47... Rc8+ { [%emt 0:05:35] } 48. Kb3 { [%emt 0:00:12] } 48... Rxc2 { [%emt 0:
+00:09] } 49. Kxc2 { [%emt 0:00:10] } 49... Bf8 { [%emt 0:01:34] } 50. Nh7 { [%emt 0:01:00] } 50... Bh6 { [%emt 0:00:53] } 51. Ng5+ $1 { [%emt 0:00:20] } 51... Kf4 { [%emt 0:00:24] } 52. Ne6+ { [%emt 0:00:53] } 52... Ke5 { [%emt 0:03:10] } 53. g7 { [%emt 0:00:13] } 53... Bxg7 { [%emt 0:00:
+04] } 54. Nxg7 { [%emt 0:00:02] La partie a bascul√  en quelques coups et les
+Noirs doivent maintenant se battre pour la nulle } 54... Kd4 { [%emt 0:00:12] } 55. Kb3 $2 { [%emt 0:00:52] La com√ die des erreurs continue } ( 55. Nf5+ Ke5 56. Ne3 Kd4 ( 56... Kf4 57. Kd2 Ke5 58. Nc4+ { [%cal Gc4a5] } ) 57. Kd2 Kc5 58. Kc3 { Et les
+Noirs seront vite en zugzwang } ) 55... e3 { [%emt 0:01:07] } 56. Nf5+ { [%emt 0:05:
+50] } 56... Kd3 { [%emt 0:01:20] } 57. Nh4 { [%emt 0:00:16] } 57... e2 { [%emt 0:00:50] } 58. Ng2 { [%emt 0:00:20] } 58... Kd4 { [%emt 0:00:46] } 59. Ne1 { [%emt 0:00:02] } 59... Kc5 { [%emt 0:01:
+37] } 60. Kc3 { [%emt 0:00:17] } 60... Kd5 { [%emt 0:00:03] } 61. Nd3 { [%emt 0:00:15] } 61... Kd6 { [%emt 0:00:49] } 62. Kd4 { [%emt 0:00:19] } 62... Kc6 { [%emt 0:00:23] } 63. Kc4 { [%emt
+0:00:04] } 63... Kb6 { [%emt 0:00:19] } 64. Kd5 { [%emt 0:00:06] } 64... Kc7 { [%emt 0:00:54] } 65. Kc5 { [%emt 0:00:07] } 65... Kb7 { [%emt 0:00:03] } 66. Kb5 { [%emt 0:00:09] } 66... Ka7 { [%emt 0:00:02] } 67. Kxa5 { [%emt 0:00:23] } 67... Kb7 { [%emt 0:00:03] } 68. Kb5 { [%emt
+0:19:52] } 68... Ka7 { [%emt 0:00:03] } 69. Kc4 { [%emt 0:12:16] } 69... Ka6 { [%emt 0:00:12] } 70. Kb4 { [%emt 0:00:08] } 70... Kb6 { [%emt 0:00:09] } 71. Ne1 { [%emt 0:00:37] } 71... Ka6 { [%emt 0:00:01] } 72. Nc2 { [%emt 0:04:44] } 72... Kb6 { [%emt 0:00:05] } 73. Kc3 { [%emt 0:
+00:34] } 73... Ka5 { [%emt 0:00:02] } 74. Kb3 { [%emt 0:00:04] } 74... Ka6 { [%emt 0:00:11] } 75. Nb4+ { [%emt 0:00:57] } 75... Ka5 { [%emt 0:00:09] } 76. Nd3 { [%emt 0:00:12] } 76... Ka6 { [%emt
+0:00:09] } 77. Kb4 { [%emt 0:00:01] } 77... Kb6 { [%emt 0:00:08] } 78. a5+ { [%emt 0:00:03] } 78... Ka6 { [%emt 0:00:05] } 79. Ka4 { [%emt 0:00:07] } 79... Ka7 { [%emt 0:00:10] } 80. Kb5 { [%emt 0:00:07] } 80... Kb7 { [%emt 0:00:13] } 81. a6+ { [%emt 0:00:12] } 81... Ka7 { [%emt 0:00:
+07] } 82. Ka5 { [%emt 0:00:08] } 82... Ka8 { [%emt 0:00:37] } 83. Kb6 { [%emt 0:00:15] } 83... Kb8 { [%emt 0:00:07] } 84. a7+ { [%emt 0:01:06] } 84... Ka8 { [%emt 0:00:05] } 85. Ne1 { [%emt
+0:00:27] } 1/2-1/2
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "6"]
+[White "Karthikeyan, Pandian"]
+[Black "Shchekachev, Andrei"]
+[Result "0-1"]
+[Annotator "ChessBase II"]
+[BlackElo "2529"]
+[ECO "B06"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "76"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2406"]
+
+1. d4 { [%emt 0:00:00] } 1... g6 { [%emt 0:00:34] } 2. e4 { [%emt 0:00:15] } 2... Bg7 { [%emt 0:
+00:52] } 3. Nf3 { [%emt 0:00:08] } 3... d6 { [%emt 0:00:16] } 4. Bc4 { [%emt 0:00:10] } 4... e6 { [%emt 0:02:23] } 5. Bb3 { [%emt 0:01:43] } 5... Nd7 { [%emt 0:01:12] } ( 5... Ne7 6. c3 b6 7. O-O Bb7 8. Re1 Nd7 9. Nbd2 O-O 10. Nf1 c5 11. Ng3 Qc7 12. Bg5 Nc6 13. Qd2 Rac8 14. Bh6 Na5 15. Bxg7 Kxg7 16. Rad1 Nxb3 17. axb3 Nf6 18. e5 dxe5 19. dxe5 Ng8 20. Ng5 Rcd8 21. Qf4 Rd5 22. c4 Rd7 23. h4 Rfd8 24. Rd6 Rxd6 25. exd6 Rxd6 26. Nxf7 Rd7 27. Ne5 Rd4 28. Qg5 Qe7 29. Nf3 Qxg5 30. Nxg5 Bc8 31. Nxe6+ Bxe6 32. Rxe6 Kf7 33. Re4 Rd1+ 34. Kh2 Rd2 35. Re2 { Vachier Lagrave,M (2781)
+-Aronian,L (2765) London 2018 1-0 } ) 6. c3 { [%emt 0:01:18] } 6... Ne7 { [%emt 0:01:26] } 7. h4 { [%emt 0:02:57] } 7... h6 { [%emt 0:00:40] } 8. Qe2 { [%emt 0:01:24] } 8... b6 { [%emt 0:
+00:15] } 9. Bf4 { [%emt 0:02:46] } 9... Bb7 { [%emt 0:02:52] } 10. Nbd2 { [%emt 0:00:03] } 10... a6 { [%emt 0:05:45] } 11. a4 $146 { [%emt 0:01:08] } ( 11. Nc4 O-O 12. O-O-O Nf6 13. e5 Nfd5 14. Bd2 a5 15. h5 b5 16. Ne3 Nf4 17. Qf1 Bxf3 18. gxf3 dxe5 19. Ng4 a4 20. Bc2 Qd5 21. hxg6 Qxa2 22. Bxf4 exf4 23. Nxh6+ Bxh6 24. Qh3 fxg6 25. Qxh6 a3 26. Qh7# { 1-0 (26) Bortnyk,O (2600)-Roshka,Y (2377) Omelnyk 2017 } ) 11... Nc6 { [%emt 0:06:21] } 12. d5 { [%emt 0:07:51][%cal Ge2e8] } 12... exd5 { [%emt 0:01:42] } 13. exd5+ { [%emt 0:07:15] } 13... Ne7 { [%emt 0:02:28] } 14. Ne4 { [%emt 0:02:46] } 14... Nc5 { [%emt 0:08:26] } ( 14... O-O ) 15. Nxc5 { [%emt 0:01:48] } 15... bxc5 { [%emt 0:00:05] } 16. O-O-O $13 { [%emt 0:01:04] } 16... Kf8 { [%emt 0:02:40] } ( 16... O-O ) 17. Rhe1 { [%emt 0:
+23:51] } 17... Ng8 $1 { [%emt 0:10:23][%cal Gg8f6] } 18. a5 $5 { [%emt 0:10:58][%csl Ra6] } ( 18. Bc4 $5 { Plus souple } 18... Nf6 ) 18... Nf6 { [%emt 0:09:07] } 19. c4 { [%emt 0:01:
+15] } 19... Bc8 $1 { [%emt 0:01:49] } 20. Ba4 { [%emt 0:04:24] } 20... Rb8 $132 { [%emt 0:08:15]
+[%csl Rb2][%cal Gf6d5,Gg7b2,Gb8b2,Gf6h5] } 21. Ne5 $2 { [%emt 0:11:33] Les
+Blancs paniquent face au contre-jeu du GMI } 21... dxe5 { [%emt 0:02:55] } 22. Bxe5 { [%emt 0:00:49] } 22... Bd7 { [%emt 0:09:32] } 23. Bc6 { [%emt 0:01:59] } 23... Ne8 { [%emt 0:04:
+59] } 24. Bxg7+ { [%emt 0:06:09] } 24... Kxg7 { [%emt 0:00:33] } 25. Qe5+ { [%emt 0:00:49] } 25... Nf6 { [%emt 0:03:04] } 26. Qe3 { [%emt 0:05:45] } ( 26. f3 { [%cal Gg2g4,Gg4g5,Ge5g7] } 26... Re8 27. Qc3 Rxe1 28. Rxe1 Bxc6 29. dxc6 ) 26... Re8 { [%emt 0:05:32] } 27. Qxc5 { [%emt 0:00:05] } 27... Bxc6 { [%emt 0:01:09] } 28. Qxc6 { [%emt 0:00:19] } 28... Qd6 { [%emt 0:
+02:28] } 29. Qxd6 { [%emt 0:01:17] } 29... cxd6 { [%emt 0:00:02] } 30. Rxe8 { [%emt 0:01:
+59] } 30... Rxe8 { [%emt 0:00:01] } 31. Kc2 { [%emt 0:00:14] } 31... Re4 { [%emt 0:03:55] } 32. Kc3 { [%emt 0:01:24] } 32... Rg4 $19 { [%emt 0:01:49] } 33. b4 { [%emt 0:00:33] } 33... Ne4+ { [%emt 0:01:04] } 34. Kb3 { [%emt 0:00:04] } 34... Nxf2 { [%emt 0:00:51] } 35. Rd2 { [%emt
+0:00:46] } 35... Rg3+ { [%emt 0:00:33] } 36. Kc2 { [%emt 0:00:35] } 36... Ne4 { [%emt 0:00:06] } 37. Rd3 { [%emt 0:00:07] } 37... Rxg2+ { [%emt 0:00:09] } 38. Kb3 { [%emt 0:00:04] } 38... Kf8 { [%emt 0:00:43] } 0-1
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "6"]
+[White "Mohammad, Nubairshah Shaikh"]
+[Black "Guliyev, Namig"]
+[Result "1/2-1/2"]
+[Annotator "ChessBase II"]
+[BlackElo "2537"]
+[ECO "D27"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "39"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2415"]
+
+1. d4 { [%emt 0:00:00] } 1... d5 { [%emt 0:05:13] } 2. c4 { [%emt 0:00:00] } 2... dxc4 { [%emt
+0:00:06] La sp√ cialit√  du GMI } 3. Nf3 { [%emt 0:00:00] } 3... Nf6 { [%emt 0:02:19] } 4. e3 { [%emt 0:00:00] } 4... e6 { [%emt 0:00:55] } 5. Bxc4 { [%emt 0:00:00] } 5... a6 { [%emt
+0:00:03] } 6. a4 { [%emt 0:00:08] } ( 6. O-O ) 6... c5 { [%emt 0:00:35] } 7. O-O { [%emt 0:00:07] } 7... Nc6 { [%emt 0:00:03] } 8. Qe2 { [%emt 0:00:16] } 8... cxd4 { [%emt 0:01:
+29] } ( 8... Qc7 ) 9. Rd1 { [%emt 0:00:01] } 9... d3 $5 { [%emt 0:00:14] Une ligne
+secondaire assez peu ambitieuse mais le GMI l'avait utilis√  quelques jours
+plus t√'t } ( 9... Be7 ) 10. Bxd3 { [%emt 0:00:49] } ( 10. Rxd3 Qc7 11. e4 $14 Bc5 { Alburt,L-Bronstein,D Zonal Vilnius 1975 (14) 1-0 } ) 10... Qc7 { [%emt 0:00:07] } 11. Nbd2 { [%emt 0:03:08] } ( 11. e4 Ng4 12. Be3 $6 Bd6 ( 12... Nxe3 13. Qxe3 Nb4 14. Nc3 Bc5 $132 ) 13. h3 Nxe3 14. Qxe3 O-O 15. Nbd2 Bf4 16. Qe2 Bd7 17. g3 Bxd2 18. Qxd2 e5 19. Bf1 Be6 20. b4 f6 21. b5 axb5 22. axb5 Rxa1 23. Rxa1 Ne7 24. Rc1 Qd8 25. Bc4 Bxc4 26. Rxc4 Nc8 27. Rc5 Qe7 28. Rd5 Nb6 29. Rd6 Qc7 30. Qa2+ Nc4 31. Rd3 Qf7 32. Nd2 Nb6 33. Qxf7+ Rxf7 34. Rd8+ Rf8 35. Rd6 Na4 36. Rd7 b6 37. f3 Rc8 38. Ra7 Rc1+ 39. Kf2 Nc5 40. Ke2 h5 { Wenninger,P (2373)-Guliyev,N 
+(2548) Germany 2020 1-0 } ) 11... Be7 { [%emt 0:00:30] } 12. b3 { [%emt 0:01:42]
+Les Blancs jouent tr√ s vite l'ouverture } 12... O-O { [%emt 0:00:25] } 13. Bb2 { [%emt
+0:00:02] } 13... Bd7 { [%emt 0:00:46] } 14. Rac1 { [%emt 0:01:11] } 14... Rfd8 { [%emt 0:02:14] } 15. Ne5 $146 { [%emt 0:34:19] } ( 15. Ng5 h6 16. Nge4 Be8 17. Nxf6+ Bxf6 18. Bxf6 gxf6 19. Ne4 f5 20. Nf6+ Kg7 21. Nxe8+ Rxe8 22. Bb5 axb5 23. axb5 Red8 24. bxc6 bxc6 25. g3 Rab8 26. Qb2+ Kg6 27. h4 Qe7 28. Qc3 Rxd1+ 29. Rxd1 c5 30. Rd3 Rd8 31. Rxd8 Qxd8 32. Qxc5 Qd1+ 33. Kh2 Qxb3 34. Qf8 Qd1 35. Qg8+ Kf6 36. Qh8+ Kg6 37. Qg8+ Kf6 38. Qh7 h5 39. Qh6+ Ke7 40. Qf4 Qf1 41. Qb4+ { 1/2-1/2 (41)
+Peralta,F (2600)-Guliyev,N (2551) Navalmoral 2013 } ) 15... Be8 { [%emt 0:04:59] } 16. Ne4 { [%emt 0:08:00] Conduit √  une simplifcation } 16... Nxe4 { [%emt 0:06:51] } 17. Bxe4 { [%emt 0:00:23] } 17... Rxd1+ { [%emt 0:00:14] } 18. Qxd1 { [%emt 0:00:04] } 18... Bf6 $132 { [%emt 0:00:21] } 19. Nd3 { [%emt 0:08:20] } 19... Bxb2 { [%emt 0:01:23] } 20. Nxb2 { [%emt 0:00:07] } 1/2-1/2
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "6"]
+[White "Moussard, Jules"]
+[Black "Nikolov, Momchil"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2539"]
+[ECO "C80"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "79"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2608"]
+
+1. e4 { [%emt 0:07:45] } 1... e5 { [%emt 0:00:00] } 2. Nf3 { [%emt 0:00:04] } 2... Nc6 { [%emt
+0:00:00] } 3. Bb5 { [%emt 0:00:04] } 3... a6 { [%emt 0:00:00] } 4. Ba4 { [%emt 0:00:06] } 4... Nf6 { [%emt 0:00:07] } 5. O-O { [%emt 0:00:09] } 5... Nxe4 { [%emt 0:00:16] } 6. d4 { [%emt 0:00:06] } 6... b5 { [%emt 0:00:37] } 7. Bb3 { [%emt 0:00:06] } 7... d5 { [%emt 0:00:06] } 8. dxe5 { [%emt 0:00:06] } 8... Be6 { [%emt 0:00:05] } 9. a4 $5 { [%emt 0:00:38] Une
+ligne secondaire pr√ par√ e par les Blancs qui jouent √  tempo } ( 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Nxf2 { La grande ligne de la variante d'√ change } ) 9... b4 { [%emt 0:12:40] Le bulgare est surpris par le choix de la variante a4 et il
+commence √  r√ fl√ chir. La pouss√ e b4 est un peu lent mais elle a le m√ rite
+d'√ viter l'ouverture de l'aile-dame qui pourrait profiter au camp le mieux d√
+ velopp√ } ( 9... Nc5 $143 10. axb5 $14 ) 10. Nbd2 { [%emt 0:00:45] } ( 10. a5 Nc5 11. Be3 Nxb3 12. cxb3 d4 13. Bg5 Qd5 14. Nbd2 h6 15. Bh4 Bc5 16. Nc4 O-O 17. Qd3 Rab8 18. h3 Rb5 19. Rfd1 Qd7 20. Nfd2 Ba7 21. Ne4 Nxe5 22. Nxe5 Rxe5 23. Nf6+ gxf6 24. Bxf6 Rg5 25. Bxg5 hxg5 26. Qxa6 c5 27. Rd3 Kg7 28. Re1 Bf5 29. Rg3 f6 30. Qc4 d3 31. Rge3 Rf7 32. a6 Qd4 33. Re7 Qxc4 34. bxc4 Bc8 35. Rxf7+ Kxf7 36. b3 Bxa6 37. Ra1 d2 38. Kf1 Bb8 39. Ke2 Bb7 { Movsesian,S (2653)-Ding,L
+(2766) Huaian 2016 0-1 } ) 10... Nc5 { [%emt 0:04:47] } ( 10... Be7 11. Nxe4 dxe4 12. Bxe6 fxe6 ( 12... Qxd1 $5 ) 13. Ng5 Bxg5 14. Qh5+ g6 15. Qxg5 O-O 16. Qg4 Qd5 17. Re1 Nd4 18. Bh6 Nxc2 $13 { Nunn,J (2600)-Huebner,R (2595) Nuremberg rapid
+1990 (6) 0-1 } ) 11. c3 { [%emt 0:01:24] } 11... bxc3 $146 { [%emt 0:10:37] } ( 11... Qd7 12. Nd4 Nxd4 13. cxd4 Nxb3 14. Nxb3 Be7 15. Qd3 O-O 16. Qg3 f6 17. Bf4 fxe5 18. Bxe5 Bd6 19. Rfc1 Bf5 20. Na5 Rf6 21. Qb3 Bxe5 22. dxe5 Re6 23. Qxb4 Rxe5 24. f3 Rae8 25. Nc6 R5e6 26. Nd4 Rb6 27. Qd2 Bg6 28. a5 Rf6 29. Rc5 Qd6 30. Rac1 Qe5 31. Nc6 Qe2 32. Rxd5 Rfe6 33. b4 h6 34. Qxe2 Rxe2 35. Rd7 Kf8 36. Nd4 Rb2 37. h3 Rxb4 38. Rcxc7 Bh5 39. Nf5 Rb5 40. Nxg7 { 1-0 (40) Kosteniuk,A (2504)
+-Muzychuk,M (2552) Saint Louis 2020 } ) 12. bxc3 { [%emt 0:00:34] } 12... Nxb3 { [%emt 0:
+02:57] } 13. Nxb3 { [%emt 0:02:03] } 13... Be7 { [%emt 0:00:31] } 14. Nfd4 $1 { [%emt 0:09:
+16][%cal Gf2f4,Gf4f5] } 14... Qd7 { [%emt 0:17:15] } 15. Ba3 { [%emt 0:21:01] } ( 15. f4 ) ( 15. Re1 { [%cal Ge1e5] } ) 15... Nd8 { [%emt 0:14:04] } ( 15... Bxa3 $5 16. Rxa3 Nxe5 { Il n'est pas certain que les compensations Blanches soient suffisantes } ) 16. Qc1 { [%emt 0:04:53] } 16... Nb7 { [%emt 0:03:57][%csl Rb7][%cal Gc7c5] Un plan tr√..s
+lent pour pousser c5 } 17. Bxe7 { [%emt 0:16:09] } 17... Qxe7 { [%emt 0:00:12] } 18. f4 $16 { [%emt 0:01:08][%cal Gf4f5,Gf5f6] } 18... c5 $1 { [%emt 0:01:41] } 19. f5 $1 { [%emt
+0:00:44][%csl Re8] Le Ó N Noir va √|_tre bloqu√  au centre } 19... cxd4 { [%emt 0:05:
+44] } 20. fxe6 { [%emt 0:00:08] } 20... fxe6 { [%emt 0:02:14] } 21. cxd4 $16 { [%emt 0:00:
+07][%csl Rb7] } 21... Nd8 { [%emt 0:07:22] } 22. Nc5 { [%emt 0:02:29] } 22... Nf7 { [%emt 0:03:
+51][%cal Ge8g8] Le seul coup pour roquer mais la position Noire est tr√ s
+difficile √  jouer } ( 22... Nc6 { [%cal Gc6d4] } 23. Qe3 ) 23. Rb1 $32 { [%emt 0:02:
+36] } 23... Rc8 { [%emt 0:04:48] } 24. Rb6 { [%emt 0:01:15] } 24... O-O { [%emt 0:00:46] } 25. Rxe6 { [%emt 0:00:23] } 25... Qh4 { [%emt 0:01:15] } 26. Qf4 { [%emt 0:00:29] } ( 26. Qe3 ) 26... Qxf4 { [%emt 0:01:47] } 27. Rxf4 { [%emt 0:00:05] } 27... a5 { [%emt 0:00:19] } 28. Re7 { [%emt 0:00:41] } 28... Nh6 { [%emt 0:03:22] } 29. Rxf8+ { [%emt 0:00:17] } 29... Rxf8 { [%emt 0:00:15] } 30. g4 $1 { [%emt 0:03:27][%csl Rh6] } 30... Rb8 { [%emt 0:01:53] } ( 30... Nxg4 $2 31. Ne6 $1 { [%csl Rf8,Rg7] } ) 31. Rb7 { [%emt 0:02:35] } 31... Rxb7 { [%emt 0:01:00] } 32. Nxb7 { [%emt 0:00:05] } 32... Nxg4 { [%emt 0:00:05] } 33. Nxa5 { [%emt 0:00:14] } 33... Ne3 { [%emt 0:00:16] } 34. Nb3 { [%emt 0:03:32] } 34... Nc2 { [%emt 0:00:
+59] } 35. a5 { [%emt 0:00:08] } 35... Nb4 { [%emt 0:00:07] } 36. Nc5 { [%emt 0:00:22] } 36... Kf7 { [%emt 0:01:01] } 37. a6 { [%emt 0:00:13] } 37... Nc6 { [%emt 0:00:06] } 38. Nd3 { [%emt 0:
+00:08] } 38... g5 { [%emt 0:01:17] } 39. Nb4 { [%emt 0:00:17] } 39... Na7 { [%emt 0:00:17] } 40. Nxd5 { [%emt 0:00:00] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "6"]
+[White "Stany, George Anthony"]
+[Black "Guilleux, Fabien"]
+[Result "1/2-1/2"]
+[Annotator "ChessBase II"]
+[BlackElo "2441"]
+[ECO "B56"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "76"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2522"]
+
+1. e4 { [%emt 0:00:00] } 1... c5 { [%emt 0:07:25] } 2. Nf3 { [%emt 0:00:00] } 2... d6 { [%emt 0:
+00:24] } 3. d4 { [%emt 0:00:00] } 3... cxd4 { [%emt 0:00:15] } 4. Nxd4 { [%emt 0:00:00] } 4... Nf6 { [%emt 0:00:13] } 5. Nc3 { [%emt 0:00:00] } 5... Nc6 { [%emt 0:00:11] } 6. f3 { [%emt
+0:00:00] } 6... e5 { [%emt 0:00:15] } 7. Nb3 { [%emt 0:00:04] } 7... Be7 { [%emt 0:00:20] } 8. Be3 { [%emt 0:00:05] } 8... Be6 { [%emt 0:00:20] } 9. Nd5 { [%emt 0:00:54] } 9... O-O { [%emt 0:
+01:12] } ( 9... Bxd5 { L'alternative } 10. exd5 Nb4 11. c4 a5 { [%cal Ga5a4] } ) 10. Qd2 { [%emt 0:01:39] } ( 10. c4 ) 10... a5 { [%emt 0:01:04] } ( 10... Bxd5 ) 11. Bb6 { [%emt 0:21:30] } ( 11. c4 a4 12. Nc1 Bxd5 13. cxd5 Nd4 14. Ne2 Nxe2 15. Bxe2 Nd7 16. O-O h6 17. Bb5 Nc5 18. Bxc5 dxc5 19. Qc2 Qb6 20. Bc4 Qa5 21. d6 Bxd6 22. Rad1 Qc7 23. a3 Be7 24. g3 Rfd8 25. Bd5 c4 26. Kg2 Ra5 27. f4 Bf6 28. Rf2 Kh8 29. Qe2 Rc5 30. Qh5 c3 31. bxc3 Rxc3 32. fxe5 Qxe5 33. Qxf7 Rc7 34. Qg6 b5 35. Be6 Rf8 36. Bf5 Kg8 37. Rd5 Qc3 38. e5 Qc6 39. Be4 { 1-0 (39) Caruana,F (2823)
+-Topalov,V (2760) Saint Louis 2016 } ) 11... Qb8 { [%emt 0:06:55] } 12. Nxe7+ { [%emt 0:38:09] La position est toujours th√ orique mais le GMI a un doute sur
+l'ordre de coups et il a d√ pens√  pr√..s de 40 mns } 12... Nxe7 { [%emt 0:00:27] } 13. Bxa5 { [%emt 0:01:38] } 13... Nc6 $146 { [%emt 0:05:56] } ( 13... Rc8 14. Bb4 Qa7 15. Bd3 Ng6 16. Qf2 Qa4 17. Bd2 Bc4 18. O-O Bxd3 19. cxd3 Rc2 20. Qb6 Qd7 21. a4 Rxb2 22. Qb4 Rc8 23. Rac1 Rc6 24. a5 Qe6 25. Rc4 Rxc4 26. dxc4 h6 27. Qc3 Ra2 28. Ra1 Rxa1+ 29. Nxa1 Nd7 30. Nb3 Nc5 31. Be3 Nf4 32. Bxf4 exf4 33. h3 Nxb3 34. Qxb3 Qe5 35. Qxb7 Qxa5 36. Qb8+ { 1/2-1/2 (36) Nocci,R (2270)-Pogrzeba,G (2304)
+ICCF email 2008 } ) 14. Bb6 { [%emt 0:02:55] } 14... d5 $1 { [%emt 0:23:50][%csl Re1]
+Pour profiter de l'avance de d√ veloppement, il faut ouvrir le centre } 15. Nc5 { [%emt 0:04:42] } 15... dxe4 { [%emt 0:05:28] } 16. fxe4 { [%emt 0:03:06] } 16... Nd4 $132 { [%emt 0:00:51] } 17. Nxe6 { [%emt 0:02:11] } 17... fxe6 { [%emt 0:00:27] Continuant de
+suivre le plan con√Pu avec d5 } ( 17... Nxe6 ) 18. Bxd4 { [%emt 0:08:10] } 18... exd4 { [%emt 0:00:11] } 19. Qxd4 { [%emt 0:01:02] } 19... Qf4 { [%emt 0:01:05] } 20. Bd3 { [%emt
+0:03:58] } 20... Rxa2 $1 { [%emt 0:06:12] } 21. Rd1 { [%emt 0:01:47] } ( 21. Rxa2 Qc1+ 22. Kf2 Qxh1 $36 { [%csl Rf2] } ) 21... Raa8 $1 $17 { [%emt 0:13:00][%csl Re1][%cal
+Gb8d8,Gf8d8] } 22. g3 { [%emt 0:01:59] } 22... Qf3 { [%emt 0:00:39] } 23. Rf1 { [%emt 0:00:
+45] } 23... Qh5 { [%emt 0:00:13] } 24. h4 { [%emt 0:01:09] } 24... Rad8 $40 { [%emt 0:06:19] } 25. Qe3 { [%emt 0:01:00] } 25... Qe5 { [%emt 0:00:11][%csl Ge5,Rg3] } 26. Bc4 { [%emt 0:02:36] } 26... Rxd1+ $6 { [%emt 0:05:53] La simplification aide la d√ fense des Blancs } 27. Kxd1 { [%emt 0:00:04] } 27... Qxb2 { [%emt 0:00:17] } 28. Bxe6+ { [%emt 0:00:48] } 28... Kh8 { [%emt 0:00:02] } 29. Bb3 { [%emt 0:00:44] } 29... Qe5 { [%emt 0:04:31] } 30. Rf5 { [%emt 0:
+00:31] } 30... Rd8+ { [%emt 0:00:49] } 31. Ke2 { [%emt 0:00:10] } 31... Qa1 { [%emt 0:00:28] } 32. Rf1 { [%emt 0:01:14] } 32... Qa6+ { [%emt 0:00:51] } 33. Ke1 { [%emt 0:00:49] } 33... Qa5+ { [%emt 0:01:01] } 34. Ke2 { [%emt 0:00:05] } 34... Qb5+ { [%emt 0:01:02] } 35. Ke1 { [%emt
+0:01:35] } 35... Qa5+ { [%emt 0:03:53] } 36. Ke2 { [%emt 0:00:05] } 36... Qb5+ { [%emt 0:00:07] } 37. Ke1 { [%emt 0:00:04] } 37... Qb4+ { [%emt 0:01:23] } 38. Ke2 { [%emt 0:00:05] } 38... Qb5+ { [%emt 0:04:12] } 1/2-1/2
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "7"]
+[White "Antonio, Viani D'Cunha"]
+[Black "Stany, George Anthony"]
+[Result "1/2-1/2"]
+[Annotator "ChessBase II"]
+[BlackElo "2522"]
+[ECO "C54"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "108"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2403"]
+
+1. e4 { [%emt 0:00:01] } 1... e5 { [%emt 0:11:06] } 2. Nf3 { [%emt 0:00:44] } 2... Nc6 { [%emt
+0:00:05] } 3. Bc4 { [%emt 0:00:29] } 3... Bc5 { [%emt 0:00:05] } 4. O-O { [%emt 0:02:04] } 4... Nf6 { [%emt 0:00:04] } 5. d3 { [%emt 0:01:14] } 5... O-O { [%emt 0:00:06] } 6. Nbd2 { [%emt 0:00:27] } 6... d6 { [%emt 0:00:05] } 7. c3 { [%emt 0:00:48] } 7... a5 { [%emt 0:00:06] } 8. a4 { [%emt 0:00:29] } ( 8. h3 h6 9. Re1 Bb6 10. Nf1 Be6 11. Bb5 Ne7 12. Ng3 Nd7 13. d4 f5 14. exf5 Nxf5 15. Nxf5 Rxf5 16. Bd3 Rf8 17. Be3 Bd5 18. Nh2 exd4 19. cxd4 Nf6 20. Ng4 Qd7 21. Bg6 Be6 22. Nxf6+ Rxf6 23. Qh5 Bf5 24. Bxf5 Rxf5 25. Qg4 Kh8 26. d5 Bxe3 27. Rxe3 Qf7 28. Rae1 Qxd5 29. Re7 Rg5 30. Qe4 Qxe4 31. R1xe4 Rc8 32. Rd7 Re5 33. Rf4 b6 34. Rff7 Rg8 35. Rxc7 Re1+ 36. Kh2 Re2 37. b3 Rxa2 { So,W (2767)-Nakamura,H (2745) chess.com INT 2020 1/2-1/2 } ) 8... Ba7 { [%emt 0:05:17] } 9. h3 { [%emt 0:03:54] } 9... Ne7 { [%emt 0:00:15] } 10. Re1 { [%emt 0:
+01:58] } 10... Ng6 { [%emt 0:00:05] } 11. Nf1 { [%emt 0:01:11] } 11... Be6 { [%emt 0:04:30] } 12. Ng3 $146 { [%emt 0:06:08] } ( 12. Bb3 Re8 13. Ng3 h6 14. d4 Bxb3 15. Qxb3 Qd7 16. Be3 Qc6 17. d5 Qd7 18. Bxa7 Rxa7 19. Nd2 Nf4 20. Re3 Raa8 21. Nc4 b6 22. Na3 Nh7 23. Nb5 Ng5 24. Qc4 Rac8 25. Na7 Ra8 26. Nb5 Rac8 27. Na7 Ra8 28. Nc6 h5 29. h4 Nh7 30. f3 g6 31. b4 axb4 32. cxb4 f5 33. Ne2 Nf6 34. g3 Nh3+ 35. Kg2 fxe4 36. Rh1 Nf4+ 37. gxf4 { 1/2-1/2 (37) Kuba,G (2333)-Wiesinger,R (2262)
+Austria 2019 } ) 12... Bxc4 { [%emt 0:03:15] } 13. dxc4 { [%emt 0:00:07] } 13... Nf4 $132 { [%emt 0:08:03] } 14. Nh2 { [%emt 0:06:02][%cal Gh2g4] } 14... Nd7 { [%emt 0:10:12] } 15. Qf3 { [%emt 0:03:11] } 15... Qf6 { [%emt 0:18:04] } 16. Nf5 { [%emt 0:08:47] } 16... h5 { [%emt 0:
+02:05] } 17. g3 { [%emt 0:23:33] Apr√..s une longue r√ flexion, les Blancs d√
+ clinent le gain du Ó } ( 17. Bxf4 exf4 18. Qxh5 g6 19. Nh6+ Kg7 20. Qd5 Kxh6 ( 20... c6 21. Qd2 ) 21. Ng4+ ) 17... Nxh3+ { [%emt 0:02:50] } 18. Kg2 { [%emt 0:00:
+16] } 18... Nxf2 { [%emt 0:00:09] } 19. Be3 { [%emt 0:01:19] } 19... Bxe3 { [%emt 0:04:57] } 20. Qxe3 { [%emt 0:06:27] } 20... g6 { [%emt 0:06:02] } 21. Rf1 { [%emt 0:02:19] } ( 21. Nh6+ Kg7 22. Rf1 $13 ) 21... gxf5 { [%emt 0:00:29] } 22. Rxf2 { [%emt 0:00:09] } 22... f4 $1 { [%emt 0:00:23] } 23. gxf4 { [%emt 0:00:10] } 23... Qh6 { [%emt 0:01:51] } 24. Kh1 { [%emt
+0:07:45] } 24... Kh8 { [%emt 0:06:31] } 25. Ng4 $1 { [%emt 0:05:10] } 25... exf4 { [%emt 0:05:05] } 26. Qd4+ { [%emt 0:07:43] } 26... Qg7 { [%emt 0:00:17] } 27. Rh2 { [%emt 0:01:04] } 27... Qxd4 { [%emt 0:03:29] } 28. Rxh5+ { [%emt 0:00:07] } 28... Kg7 { [%emt 0:00:40] } 29. Rg5+ { [%emt 0:00:08] } 29... Kh7 { [%emt 0:00:13] } 30. cxd4 { [%emt 0:00:48][%cal Gh1g2,Ga1h1] } 30... Rg8 { [%emt 0:00:59] } 31. Rh5+ { [%emt 0:00:33] } 31... Kg6 { [%emt 0:01:21] } 32. Rf5 { [%emt 0:01:14] } 32... Rh8+ { [%emt 0:03:04] } 33. Kg2 { [%emt 0:02:47] } 33... f6 { [%emt 0:02:
+21] } 34. Rf1 { [%emt 0:01:00] } ( 34. Kf3 ) 34... Rh5 { [%emt 0:01:01] } 35. Rxh5 { [%emt 0:01:48] } 35... Kxh5 { [%emt 0:00:04] } 36. Rxf4 { [%emt 0:00:06] } 36... Kg6 { [%emt 0:
+01:20] } 37. Rf5 { [%emt 0:00:52] } 37... Ra6 { [%emt 0:00:55] } 38. Rb5 { [%emt 0:01:29] } 38... Rb6 { [%emt 0:00:05] } 39. Ne3 { [%emt 0:02:46] } 39... Rxb5 { [%emt 0:01:17] } 40. cxb5 { [%emt 0:00:00] } 40... Kg5 { [%emt 0:00:00] } 41. Kf3 { [%emt 0:02:33] } 41... Nb6 { [%emt 0:05:
+21] } 42. b3 { [%emt 0:00:26] } 42... c6 { [%emt 0:07:11] } 43. bxc6 { [%emt 0:02:28] } 43... bxc6 { [%emt 0:01:05] } 44. Nf5 { [%emt 0:00:52] } 44... d5 { [%emt 0:02:00] } 45. Ne7 { [%emt 0:
+00:12] } 45... dxe4+ { [%emt 0:00:04] } 46. Kxe4 { [%emt 0:00:06] } 46... Kg4 { [%emt 0:00:02] } 47. Nxc6 { [%emt 0:01:52] } 47... f5+ { [%emt 0:00:04] } 48. Ke5 { [%emt 0:05:37] } 48... f4 { [%emt 0:00:19] } 49. Ke4 { [%emt 0:13:47] } 49... Kg3 { [%emt 0:01:13] } 50. d5 { [%emt 0:
+02:09] } 50... Nxd5 $1 { [%emt 0:08:19] } 51. Nd4 { [%emt 0:03:11] } 51... Nc3+ { [%emt 0:04:16] } 52. Kd3 { [%emt 0:01:28] } 52... f3 { [%emt 0:00:30] } 53. Nxf3 { [%emt 0:03:18] } 53... Nxa4 { [%emt 0:00:04] } 54. bxa4 { [%emt 0:00:44] } 54... Kxf3 { [%emt 0:03:42] } 1/2-1/2
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "7"]
+[White "Bauer, Christian"]
+[Black "Moussard, Jules"]
+[Result "0-1"]
+[Annotator "ChessBase II"]
+[BlackElo "2608"]
+[ECO "A46"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "122"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2630"]
+
+1. d4 { [%emt 0:00:00] } 1... Nf6 { [%emt 0:02:34] } 2. Nf3 { [%emt 0:00:00] } 2... e6 { [%emt
+0:00:36] } 3. g3 { [%emt 0:01:57] } 3... b5 $1 { [%emt 0:02:50] } 4. Qd3 $5 { [%emt 0:01:
+08] } ( 4. Bg2 ) 4... Ba6 $5 { [%emt 0:03:55] } ( 4... a6 5. e4 Bb7 6. e5 Nd5 7. Bg2 d6 8. O-O Nd7 9. Nc3 Nxc3 10. Qxc3 Nb6 11. Bg5 Qd7 12. b3 h6 13. Bf4 Nd5 14. Qd2 Nxf4 15. Qxf4 Be7 16. h4 Rd8 17. Rad1 O-O 18. Rd3 Qc8 19. Rfd1 Bd5 20. Ne1 Bxg2 21. Nxg2 dxe5 22. dxe5 Rxd3 23. Rxd3 Rd8 24. Qe4 Rxd3 25. cxd3 Qd8 26. Nf4 Bc5 27. Ne2 Bb6 28. Kg2 Qf8 29. h5 Qa3 30. Qa8+ Kh7 31. Qe4+ Kg8 32. Qa8+ Kh7 33. Qe4+ { 1/2-1/2 (33) Huebner,R (2576)-Karpov,A (2617) Leiden 2020 } ) 5. a3 { [%emt 0:01:12] } 5... c5 { [%emt 0:05:37] } ( 5... b4 6. Qb3 bxa3 7. Nxa3 d5 ( 7... Be7 ) 8. c4 Be7 ) 6. dxc5 { [%emt 0:04:47] } 6... Bxc5 { [%emt 0:00:11] } 7. b4 { [%emt 0:01:40] } 7... Be7 { [%emt 0:00:07] } 8. Bg2 { [%emt 0:09:10] } 8... d5 { [%emt 0:01:47] } 9. Bb2 { [%emt 0:02:03] } ( 9. Nd4 Qc8 10. Bb2 Nbd7 11. Nd2 O-O 12. O-O Nb6 13. N4b3 Nc4 14. Bd4 Bb7 15. Qc3 Nd6 16. Nc5 Nf5 17. e3 a5 18. Rfe1 Nd7 19. Bh3 Nxc5 20. bxc5 g6 21. Bg2 Qc7 22. Rab1 Ba6 23. Nf3 Rac8 24. g4 Nh4 25. Nxh4 Bxh4 26. e4 dxe4 27. Bxe4 Rfd8 28. Bf3 Be7 29. c6 b4 30. Qe3 Rxd4 31. Qxd4 bxa3 32. Kg2 Bf8 33. c3 Rd8 34. Qb6 Qxb6 35. Rxb6 Bd3 36. Be2 Bc2 37. Rc1 Ba4 38. Ra6 Rc8 { Pawlowski,W (2192)-Eliseev,V (2209) ICCF email 2016 1/2-1/2 } ) 9... O-O { [%emt
+0:02:18] } 10. Nbd2 { [%emt 0:06:27] } 10... Nbd7 { [%emt 0:02:53] } 11. O-O { [%emt 0:02:
+44] } 11... Qb6 { [%emt 0:04:40] } 12. e4 { [%emt 0:05:01] } 12... dxe4 { [%emt 0:18:43] } 13. Nxe4 { [%emt 0:00:11] } 13... Bb7 { [%emt 0:00:49] } 14. Nfg5 $1 { [%emt 0:18:42][%csl
+Rh7] } 14... Nxe4 { [%emt 0:00:18] } 15. Nxe4 { [%emt 0:00:36] } 15... Bd5 { [%emt 0:02:31] } 16. Rfd1 { [%emt 0:11:09] } 16... Rfd8 { [%emt 0:06:27] } 17. Qd4 { [%emt 0:07:17] } 17... Bf8 $11 { [%emt 0:07:21] } 18. a4 { [%emt 0:06:36] } 18... Rac8 $1 { [%emt 0:08:08][%csl Ra4,Rb4,
+Rc2] Les Noirs ont une meilleure structure } 19. Qd3 { [%emt 0:08:35] } 19... f5 { [%emt
+0:09:47] } 20. Ng5 { [%emt 0:00:28] } 20... Bxg2 { [%emt 0:02:01] } 21. Kxg2 { [%emt 0:00:
+02] } 21... h6 { [%emt 0:00:43] } 22. Nf3 { [%emt 0:00:52] } 22... bxa4 $17 { [%emt 0:01:08] } 23. Qe2 { [%emt 0:02:50] } 23... Bxb4 { [%emt 0:03:13] } 24. Rxa4 { [%emt 0:00:13] } 24... a5 { [%emt
+0:00:49] } 25. Ra2 { [%emt 0:02:09] } 25... Kh7 { [%emt 0:03:40] } 26. Bd4 { [%emt 0:00:48] } 26... Bc5 $1 { [%emt 0:01:30] } 27. c3 { [%emt 0:00:39] } 27... Bxd4 { [%emt 0:00:31] } 28. cxd4 { [%emt 0:03:09] } 28... Nf6 { [%emt 0:00:33] } 29. Ne5 { [%emt 0:01:10] } 29... Rxd4 { [%emt 0:04:46] } 30. Rxd4 { [%emt 0:00:12] } 30... Qxd4 { [%emt 0:00:04] } 31. Rxa5 { [%emt 0:00:12] } 31... Ne4 $40 { [%emt 0:00:33][%csl Rf2] } 32. Nf3 { [%emt 0:00:48] } 32... Qb6 { [%emt 0:02:53] } 33. Re5 { [%emt 0:02:50] } 33... Rc5 { [%emt 0:01:36] } 34. Qe3 { [%emt
+0:00:39] } 34... Qd6 { [%emt 0:00:15] } 35. Rxc5 { [%emt 0:00:11] } 35... Nxc5 { [%emt 0:00:13] } 36. Qd4 { [%emt 0:00:31] } 36... Qc6 { [%emt 0:00:19] } 37. Qc4 { [%emt 0:00:33] } 37... g5 $1 { [%emt 0:01:31][%cal Gc6g2,Gg5g4] } 38. h3 { [%emt 0:00:41] } 38... Qd5 { [%emt 0:00:07] } 39. Qxd5 { [%emt 0:00:35] } 39... exd5 { [%emt 0:00:01] } 40. Nd4 { [%emt 0:00:00] } 40... Kg6 { [%emt 0:00:00] } 41. g4 { [%emt 0:06:32] } 41... fxg4 { [%emt 0:09:08] } 42. hxg4 { [%emt
+0:00:01] } 42... Nd3 { [%emt 0:00:45] } 43. Kf3 { [%emt 0:03:09] } 43... Ne5+ { [%emt 0:03:20] } 44. Kg3 { [%emt 0:00:07] } 44... Kf6 { [%emt 0:00:05] } 45. f4 $1 { [%emt 0:03:45] Les
+Blancs ont int√ r√|_t √  simplifier la position } 45... Ng6 { [%emt 0:02:38] } 46. fxg5+ { [%emt 0:05:32] } 46... hxg5 { [%emt 0:00:33] } 47. Nf3 { [%emt 0:00:03] } 47... Ne5 { [%emt 0:
+00:16] } 48. Nd4 { [%emt 0:00:01] } 48... Ke7 $1 { [%emt 0:00:59][%cal Ge7c5,Gc5c4,Gd5d4] } 49. Kh3 { [%emt 0:00:18] } 49... Kd7 { [%emt 0:00:45] } 50. Kg2 { [%emt 0:02:15] } 50... Ke7 { [%emt 0:00:46] } 51. Kh3 { [%emt 0:00:51] } 51... Kf6 { [%emt 0:03:24] } 52. Kg3 { [%emt 0:
+01:15] } 52... Kf7 { [%emt 0:00:03] } 53. Kh3 { [%emt 0:02:25] } 53... Ke7 { [%emt 0:00:05] } 54. Kg3 { [%emt 0:00:11] } 54... Kd6 { [%emt 0:00:06] } 55. Kg2 { [%emt 0:06:18] } ( 55. Kh3 Nf7 ( 55... Kc5 56. Ne6+ Kc4 57. Nxg5 d4 ) 56. Kg3 Ke5 57. Nf3+ Ke4 58. Nd2+ Ke3 $19 { [%csl Gd4][%cal Gd5d4] } ) 55... Nxg4 { [%emt 0:01:17] } 56. Nf3 { [%emt 0:00:00] } 56... Ne3+ { [%emt 0:00:07] } 57. Kf2 { [%emt 0:00:07] } 57... g4 { [%emt 0:00:03] } 58. Nd4 { [%emt 0:00:22] } 58... Nc4 { [%emt 0:00:12] } 59. Kg3 { [%emt 0:00:27] } 59... Ke5 { [%emt 0:00:
+26] } 60. Nc6+ { [%emt 0:00:12] } 60... Kd6 { [%emt 0:17:04] } 61. Nd4 { [%emt 0:07:52] } 61... Ke5 { [%emt 0:00:30] } 0-1
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "7"]
+[White "Guliyev, Namig"]
+[Black "Dardha, Daniel"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2442"]
+[ECO "B33"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "139"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2537"]
+
+1. e4 { [%emt 0:03:52] } 1... c5 { [%emt 0:03:50] } 2. Nf3 { [%emt 0:00:24] } 2... Nc6 { [%emt
+0:00:06] } 3. d4 { [%emt 0:00:04] } 3... cxd4 { [%emt 0:00:05] } 4. Nxd4 { [%emt 0:00:04] } 4... Nf6 { [%emt 0:00:07] } 5. Nc3 { [%emt 0:00:04] } 5... e5 { [%emt 0:00:05] } 6. Ndb5 { [%emt 0:00:04] } 6... d6 { [%emt 0:00:04] } 7. Bg5 { [%emt 0:00:08] } 7... a6 { [%emt 0:00:04] } 8. Na3 { [%emt 0:00:10] } 8... b5 { [%emt 0:00:06] } 9. Nd5 { [%emt 0:01:43] } 9... Be7 { [%emt
+0:00:03] } 10. Bxf6 { [%emt 0:00:17] } 10... Bxf6 { [%emt 0:00:04] } 11. c4 { [%emt 0:00:
+11] } ( 11. c3 ) 11... b4 { [%emt 0:00:05] } 12. Nc2 { [%emt 0:00:03] } 12... O-O { [%emt 0:
+00:39] } 13. g3 { [%emt 0:00:15] } 13... Bg5 { [%emt 0:01:28] } 14. h4 { [%emt 0:00:10] } ( 14. Bg2 a5 15. O-O Ne7 16. Nce3 Bxe3 17. Nxe3 Be6 18. b3 Ra7 19. Qd3 Nc6 20. Rfd1 Nd4 21. Nc2 Nxc2 22. Qxc2 a4 23. Rab1 Qb6 24. Rd2 axb3 25. axb3 Rfa8 26. h3 h6 27. Rbd1 Ra1 28. Kh2 Qc5 29. Bf3 f6 30. Rxa1 Rxa1 31. Qd3 Ra6 32. Bg4 Bf7 33. Bd7 Kf8 34. Bb5 Ra3 35. Kg2 Kg8 36. Qf3 Kh8 37. h4 Ra8 38. Qg4 Qc7 39. h5 Kg8 40. Qd1 Rd8 41. Kh2 Be6 42. g4 Kh7 43. Ra2 Qb7 { Nepomniachtchi,I (2776)-Yu,
+Y (2763) Khanty-Mansiysk 2019 1/2-1/2 } ) 14... Bh6 { [%emt 0:00:02] } 15. Bh3 { [%emt 0:00:14] } 15... Be6 { [%emt 0:00:09] } 16. Kf1 { [%emt 0:00:12] } 16... a5 { [%emt 0:00:
+29] } 17. Kg2 { [%emt 0:00:12] } 17... Nb8 { [%emt 0:02:34] } 18. Qd3 { [%emt 0:10:06] } 18... Nd7 { [%emt 0:02:10] } 19. Rad1 { [%emt 0:01:39] } 19... Nc5 { [%emt 0:00:08] } 20. Qf3 { [%emt
+0:00:10] } 20... Rb8 $146 { [%emt 0:05:08] } ( 20... Ra7 21. b3 Kh8 22. Rhe1 Qc8 23. Rh1 Bxh3+ 24. Rxh3 f5 25. exf5 Rxf5 26. Qe2 Raf7 27. Rf1 Rf3 28. Ne1 e4 29. Rh2 Nd3 30. Qxe4 Rxf2+ 31. Rxf2 Nxf2 32. Nb6 Nxe4 33. Nxc8 Rf2+ 34. Kh3 Rf8 35. Ne7 Nxg3 36. Nd3 Ne4 37. Kg4 Nf6+ 38. Kg3 g6 39. Re2 Nh5+ 40. Kg2 Ng7 41. Kg3 Rf1 42. Kg2 Rd1 43. Nf2 Rd4 44. Nc6 Rxh4 45. Nxa5 Nh5 46. Re8+ Kg7 47. Nc6 Bd2 48. Re4 Nf4+ 49. Kg3 g5 50. Re7+ { Nevednichy,V (2542)-Moiseenko,A (2659) Batumi
+2018 0-1 (63) } ) 21. b3 { [%emt 0:00:35] } 21... Qd7 { [%emt 0:04:42] } 22. Bf5 $1 { [%emt
+0:00:10] } 22... Kh8 { [%emt 0:06:35][%cal Gg7g6] } 23. Qh5 { [%emt 0:05:41] } 23... Nxe4 $1 { [%emt 0:27:19] Apr√..s une longue r√ flexion, les Noirs choisissent de
+compliquer } 24. Bxe4 { [%emt 0:00:36] } 24... f5 { [%emt 0:00:23] } 25. Bd3 { [%emt 0:01:
+49] } 25... e4 { [%emt 0:08:19] } 26. f4 { [%emt 0:12:49] } 26... Bf7 { [%emt 0:07:11] } ( 26... exd3 27. Rxd3 $14 ) 27. Qe2 { [%emt 0:00:58] } 27... Bxd5 { [%emt 0:07:30] } 28. cxd5 { [%emt 0:00:41] } 28... exd3 { [%emt 0:00:04] } 29. Rxd3 { [%emt 0:00:28] } 29... Rfe8 { [%emt 0:
+00:23] } 30. Qf3 { [%emt 0:00:20] } 30... Rbc8 $132 { [%emt 0:01:19][%csl Rg2] } 31. Nd4 { [%emt 0:00:09] } 31... Re4 { [%emt 0:02:38] } 32. Rhd1 { [%emt 0:00:16] } 32... Qf7 { [%emt 0:02:
+53] } 33. Ne6 { [%emt 0:02:06] } 33... g6 { [%emt 0:02:09] } 34. Re3 { [%emt 0:01:05] } 34... Rxe3 { [%emt 0:00:59] } 35. Qxe3 $36 { [%emt 0:00:08][%csl Rh8][%cal Ge3d4] } 35... Bg7 { [%emt 0:00:03] } 36. Qb6 { [%emt 0:00:52] } 36... Rc2+ { [%emt 0:03:48] } 37. Kh3 { [%emt
+0:00:51] } 37... h6 { [%emt 0:00:45] } 38. Qd8+ { [%emt 0:14:15] } 38... Kh7 { [%emt 0:00:05] } 39. Nxg7 { [%emt 0:00:10] } 39... Kxg7 { [%emt 0:05:30] } 40. Re1 $1 $40 { [%emt 0:00:00] } 40... Rc7 { [%emt 0:00:00] } 41. Qxd6 { [%emt 0:00:46] } 41... Rd7 { [%emt 0:00:46] } 42. Qe5+ { [%emt 0:00:24] } 42... Qf6 { [%emt 0:00:13] } 43. Kg2 { [%emt 0:07:20] } 43... Qxe5 { [%emt 0:06:
+03] } 44. Rxe5 { [%emt 0:01:46] } 44... Kf7 { [%emt 0:00:11] } 45. h5 $1 { [%emt 0:00:34] } 45... Rc7 { [%emt 0:00:43] } 46. hxg6+ { [%emt 0:00:11] } 46... Kxg6 { [%emt 0:00:03] } 47. Re6+ { [%emt 0:00:34] } 47... Kf7 { [%emt 0:01:39] } 48. Kf2 { [%emt 0:00:59] } 48... Rc2+ { [%emt 0:
+00:24] } 49. Re2 { [%emt 0:00:09] } 49... Rc3 { [%emt 0:01:45] } 50. d6 { [%emt 0:00:58] } 50... Rd3 { [%emt 0:00:10] } 51. Re5 { [%emt 0:00:32] } 51... Kf6 { [%emt 0:01:34] } 52. Rxa5 { [%emt 0:00:44] } 52... Rxd6 { [%emt 0:00:12] } 53. Ke3 { [%emt 0:00:03] } 53... Rc6 { [%emt 0:00:
+43] } 54. Ra4 { [%emt 0:00:19] } 54... Rc3+ { [%emt 0:00:11] } 55. Kd4 { [%emt 0:00:09] } 55... Rxg3 { [%emt 0:00:33] } 56. Rxb4 { [%emt 0:00:05] } 56... h5 { [%emt 0:02:51] } 57. Rb6+ { [%emt 0:00:11] } 57... Kg7 { [%emt 0:00:22] } 58. Re6 { [%emt 0:00:22] } ( 58. Ke5 ) 58... h4 { [%emt 0:00:50] } 59. Re3 { [%emt 0:00:28] } 59... Rg4 { [%emt 0:02:12] } 60. Rf3 { [%emt 0:00:41] } ( 60. Ke5 Rg3 ( 60... Kg6 ) ) 60... Kf6 { [%emt 0:00:52] } 61. b4 { [%emt 0:01:42] } 61... Ke6 { [%emt 0:03:08] } 62. a4 { [%emt 0:01:07] } 62... Kd6 { [%emt 0:00:
+41] } 63. Kc4 { [%emt 0:01:06] } 63... Rg3 { [%emt 0:00:52] } 64. Rf1 { [%emt 0:00:20] } 64... h3 { [%emt 0:01:17] } 65. Rh1 { [%emt 0:00:18] } 65... Rf3 { [%emt 0:06:41] } 66. Kb5 { [%emt
+0:02:55] } ( 66. a5 Rxf4+ 67. Kb5 ) 66... Rc3 { [%emt 0:02:55] } 67. a5 { [%emt 0:01:
+45] } 67... Kc7 { [%emt 0:00:16] } 68. a6 $1 { [%emt 0:00:42] } 68... Re3 { [%emt 0:01:22] } 69. Rg1 { [%emt 0:03:17] } 69... Re7 { [%emt 0:02:46] } 70. Rg8 { [%emt 0:00:10] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "7"]
+[White "Martinez Alcantara, Jose Eduardo"]
+[Black "Kojima, Shinya"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2394"]
+[ECO "B10"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "83"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2617"]
+
+1. e4 { [%emt 0:00:00] } 1... c6 { [%emt 0:00:00] } 2. Nf3 { [%emt 0:00:00] } 2... d5 { [%emt 0:
+00:00] } 3. d3 { [%emt 0:00:00] } 3... Bg4 { [%emt 0:01:30] } ( 3... g6 4. e5 c5 5. c3 d4 6. cxd4 cxd4 7. Bf4 Nc6 8. Nbd2 Bh6 9. Bg3 Bg7 10. Be2 Nh6 11. O-O Nf5 12. Bf4 O-O 13. Re1 Qd5 14. Bf1 Be6 15. h3 Rac8 16. g4 Nh6 17. Ne4 f5 18. exf6 exf6 19. Bg2 Nf7 20. g5 fxg5 21. Nfxg5 Qf5 22. Nxe6 Qxe6 23. Nd6 Qf6 24. Nxc8 Qxf4 25. Ne7+ Nxe7 26. Rxe7 Be5 27. Qg4 Qh2+ 28. Kf1 Bd6 29. Rd7 Bg3 30. Qe6 Bh4 31. Re1 Qf4 32. Qe2 Kh8 33. Kg1 { Giri,A (2769)-Mamedyarov,S (2772) Moscow 2019 1-0 (62) } ) 4. Qe2 { [%emt 0:00:20] } 4... e6 { [%emt 0:02:58] } 5. Nbd2 { [%emt 0:04:48] } 5... Nd7 { [%emt 0:03:58] } 6. h3 { [%emt 0:05:29] } 6... Bxf3 $146 { [%emt 0:04:39] } ( 6... Bh5 7. g4 Bg6 8. h4 h5 9. g5 Bd6 10. Bh3 Ne7 11. e5 Bc7 12. Nf1 Ba5+ 13. Bd2 Bxd2+ 14. N1xd2 Qa5 15. a3 c5 16. O-O Qc7 17. Qe3 Bf5 18. Bg2 Bg4 19. Rfe1 Nf5 20. Qf4 Nf8 21. Qa4+ Qc6 22. Qxc6+ bxc6 23. b4 Bxf3 24. Nxf3 cxb4 25. Bh3 bxa3 26. Bxf5 exf5 27. Nd4 Ne6 28. Nxf5 Kd7 29. c3 g6 30. Nd6 Rhb8 31. Rxa3 Nc5 32. d4 Nb7 33. Nxf7 Ke6 34. Nh6 Nd8 35. Re3 a5 36. Ra4 { Martinez Alcantara,J (2617)
+-Janzelj,T (2451) Graz 2020 1-0 } ) 7. Nxf3 { [%emt 0:00:28] } 7... g6 { [%emt 0:02:21] } 8. c3 { [%emt 0:03:19] } 8... Bg7 { [%emt 0:02:10] } 9. e5 { [%emt 0:04:05] } 9... c5 { [%emt 0:
+04:31] } 10. Bf4 { [%emt 0:05:51] } 10... Ne7 { [%emt 0:02:22] } 11. g3 { [%emt 0:00:59] } 11... h6 { [%emt 0:12:07][%cal Gg6g5] } 12. h4 { [%emt 0:00:46] } 12... Qc7 { [%emt 0:02:02] } 13. Bg2 { [%emt 0:03:11] } 13... O-O-O { [%emt 0:02:56] } 14. O-O { [%emt 0:00:59] } 14... g5 { [%emt 0:02:08] } 15. hxg5 { [%emt 0:05:49] } 15... Ng6 { [%emt 0:01:23] } 16. d4 { [%emt 0:
+00:32] } 16... Nxf4 { [%emt 0:02:33] } 17. gxf4 { [%emt 0:00:03] } 17... Nf8 $5 { [%emt 0:03:09]
+[%cal Gf8g6] } 18. Qe3 { [%emt 0:10:30] } 18... Ng6 { [%emt 0:03:42] } 19. Rfe1 { [%emt 0:
+00:01] } 19... Bf8 { [%emt 0:09:57] } 20. Rac1 { [%emt 0:04:15] } 20... Kb8 { [%emt 0:10:01] } 21. Red1 { [%emt 0:11:40] } 21... Be7 { [%emt 0:06:23] } 22. c4 $1 { [%emt 0:12:10] } 22... hxg5 { [%emt 0:04:22] } 23. cxd5 { [%emt 0:05:22] } 23... gxf4 { [%emt 0:00:49] } 24. Qe2 { [%emt
+0:00:54] } 24... Rxd5 { [%emt 0:05:51] } 25. b4 $36 { [%emt 0:00:01] } 25... c4 { [%emt 0:07:06] } 26. Rxc4 { [%emt 0:00:32] } 26... Qb6 { [%emt 0:00:27] } 27. Rdc1 { [%emt 0:00:52] } 27... Rhd8 { [%emt 0:01:02] } 28. Qc2 { [%emt 0:02:33] } 28... a6 { [%emt 0:00:36] } 29. Qc3 { [%emt 0:
+00:13] } 29... Ka7 { [%emt 0:00:56] } 30. a4 { [%emt 0:00:11] } 30... R5d7 { [%emt 0:01:53] } 31. a5 { [%emt 0:04:03] } 31... Qb5 { [%emt 0:00:09] } 32. Qb2 { [%emt 0:00:11] } 32... Nh4 { [%emt 0:
+01:06] } 33. Nxh4 { [%emt 0:01:34] } 33... Bxh4 { [%emt 0:00:01] } 34. Rc5 { [%emt 0:08:18] } 34... Qd3 $13 { [%emt 0:00:26] } 35. b5 { [%emt 0:00:01] } 35... f3 { [%emt 0:01:15] } 36. bxa6 { [%emt 0:00:24] } 36... Qxa6 { [%emt 0:00:40] } 37. Bxf3 { [%emt 0:03:49] } 37... Rg8+ { [%emt 0:
+00:28] } ( 37... Qd3 $1 { [%cal Gd3f3,Gd3g6] } ) 38. Kh2 { [%emt 0:02:47] } 38... Bd8 { [%emt 0:00:19][%cal Gf7f5,Gd7h7] } 39. Be2 { [%emt 0:01:11] } 39... f5 { [%emt 0:00:27] } 40. R1c3 { [%emt 0:00:00] } 40... Bxa5 $4 $138 { [%emt 0:00:00] } 41. Bxa6 { [%emt 0:00:
+48] } 41... Bxc3 { [%emt 0:02:17] } 42. Rxc3 { [%emt 0:32:01] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "7"]
+[White "Nguyen Cadoret, Nathan"]
+[Black "Dimitrov, Radoslav"]
+[Result "0-1"]
+[Annotator "ChessBase II"]
+[BlackElo "2519"]
+[ECO "B08"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "144"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2193"]
+
+1. d4 { [%emt 0:00:00] } 1... Nc6 { [%emt 0:09:21] Une ouverture un peu douteuse mais
+un bon choix pratique contre un jeune joueur sorti de sa pr√ paration } 2. d5 { [%emt 0:05:36] Le jeune fran√Pais est surpris par Ó ..c6 et il commence √  r√
+ fl√ chir } ( 2. e4 d5 3. Nc3 dxe4 4. d5 $14 ) 2... Nb8 { [%emt 0:00:01] } 3. e4 { [%emt 0:02:16] } 3... d6 { [%emt 0:00:01] } 4. Nf3 { [%emt 0:00:54] } ( 4. c4 Nf6 5. Nc3 g6 6. f4 $5 { La perte de temps Ó ..c6b8 permet aux Blancs de jouer de mani√..
+re ambitieuse } 6... Bg7 7. Nf3 O-O 8. Bd3 { Caruana,F (2816)-Ezra,P (2241) San
+Francisco Mechanics Institute op rapid 2019 (1) 1-0 } ( 8. Be2 Nbd7 9. O-O c6 10. Be3 ( 10. Kh1 ) ) ) 4... Nf6 { [%emt 0:00:38] } 5. Nc3 { [%emt 0:00:51] } 5... g6 { [%emt 0:
+00:11] } 6. Be2 { [%emt 0:02:08] } 6... Bg7 { [%emt 0:00:01] } 7. O-O { [%emt 0:01:58] } 7... O-O { [%emt 0:00:08] } 8. h3 { [%emt 0:01:07] } ( 8. Re1 ) ( 8. Bf4 ) 8... c6 { [%emt 0:
+00:30] } ( 8... e5 9. dxe6 Bxe6 10. Bg5 h6 11. Be3 $16 { Edouard,R (2674)-Bauer,C
+(2641) EU-Cup 30th Bilbao 2014 (6.1) 1/2-1/2 } ) 9. Be3 { [%emt 0:01:26] } 9... b5 { [%emt 0:00:55] } ( 9... Nbd7 10. Qd2 a6 11. a4 a5 12. Rfd1 Qc7 13. Bh6 cxd5 14. exd5 Qb6 15. Bxg7 Kxg7 16. Nb5 Ne4 17. Qd4+ Qxd4 18. Rxd4 Nec5 19. b3 Nf6 20. Re1 Rd8 21. Bd1 Kf8 22. g4 Bd7 23. Na3 Rdb8 24. Be2 b6 25. Bf1 Rc8 26. Kh2 Rab8 27. Kg3 h6 28. Nd2 Rc7 29. f4 Bc8 30. Nb5 Rd7 31. Bc4 Ba6 32. Nf3 Rc8 33. Re2 Bxb5 34. Bxb5 Rdc7 35. Bc6 Na6 36. c4 Nb4 37. Bb5 Kg7 38. Rd1 Rh8 39. Nd4 { Potapov,P (2482)-Alekseenko,K (2704) Moscow 2019 1/2-1/2 } ) 10. a3 { [%emt 0:11:
+55] Apr√..s une longue r√ flexion, les Blancs finissent par trouver le coup
+th√ orique } 10... a6 { [%emt 0:00:11] } 11. Qd2 { [%emt 0:01:42] } 11... cxd5 $1 $146 { [%emt 0:
+00:39][%cal Gc8b7,Gb8d7,Gd7b6,Gb6d5] Le GMI joue tr√..s vite l'ouverture et la
+nouveaut√  est probablement le fruit d'une pr√ paration } ( 11... Bb7 12. Rfe1 Nbd7 13. dxc6 Bxc6 14. Bd3 Bb7 15. Bh6 Rc8 16. Rad1 Qb6 17. Bxg7 Kxg7 18. Re3 Ne5 19. Nxe5 dxe5 20. Re2 Rfd8 21. Qe3 Qd4 22. Rde1 Nh5 { 1/2-1/2 (22)
+Hjartarson,J (2570)-Olafsson,F (2465) Reykjavik 1995 } ) 12. exd5 { [%emt 0:00:08] } 12... Bb7 { [%emt 0:00:06] } 13. Rfe1 { [%emt 0:07:21] } 13... Nbd7 { [%emt 0:00:02] } 14. Nh2 $6 { [%emt 0:06:12] } 14... Nb6 { [%emt 0:02:00] } 15. Bxb6 { [%emt 0:00:46] } 15... Qxb6 { [%emt
+0:00:01] } 16. Bf3 { [%emt 0:01:31] } ( 16. Ng4 Nxg4 17. hxg4 Rac8 $132 { [%cal
+Gc8c5,Gg7c3,Gb7d5] } ) 16... Rfe8 { [%emt 0:00:19] } 17. Ng4 { [%emt 0:00:25] } 17... Nxg4 { [%emt 0:05:36] } 18. hxg4 { [%emt 0:01:50] } 18... Rac8 { [%emt 0:00:37] } 19. Rab1 $6 { [%emt 0:04:06] } 19... Qd4 $1 { [%emt 0:00:31] } 20. Qxd4 { [%emt 0:00:25] } 20... Bxd4 { [%emt
+0:00:01] } 21. Ne2 { [%emt 0:02:38] } 21... Be5 $132 { [%emt 0:01:04][%csl Rf3] } 22. c3 { [%emt 0:00:19] } 22... Rc4 $17 { [%emt 0:00:20] } 23. Rbd1 { [%emt 0:01:02] } 23... Bf6 { [%emt
+0:08:14] } 24. Nd4 { [%emt 0:09:14] } 24... Kf8 { [%emt 0:00:30] } 25. Nc2 { [%emt 0:03:37] } ( 25. Nc6 e6 26. Nb4 a5 ) 25... Bc8 { [%emt 0:00:20] } 26. Ne3 { [%emt 0:00:23] } 26... Rc5 { [%emt 0:00:46] } 27. Kf1 { [%emt 0:05:27] } 27... Bd7 $17 { [%emt 0:00:25][%csl Gd7,
+Rf3] La position Noire est plus facile √  jouer avec la paire de Ó P alors que
+le Ó Pf3 est assez mauvais } 28. Rd2 { [%emt 0:01:25] } 28... a5 { [%emt 0:01:50] } 29. Red1 { [%emt 0:02:09] } 29... b4 $1 { [%emt 0:00:38] } ( 29... Bg5 $5 { [%cal Gg5d2] } ) 30. axb4 { [%emt 0:00:50] } 30... axb4 { [%emt 0:00:01] } 31. cxb4 { [%emt 0:00:45] } 31... Rb5 $36 { [%emt 0:00:01] } 32. Nc2 { [%emt 0:04:15] } 32... Rb6 { [%emt 0:00:01] } ( 32... Bxb2 { Les
+Noirs devaient avoir le temps de prendre le Ó } ) 33. Nd4 $22 { [%emt 0:02:14] } ( 33. b3 Bc3 ) 33... Rxb4 { [%emt 0:00:14] } 34. b3 { [%emt 0:02:32] } 34... Rc8 { [%emt 0:
+01:18] } 35. Be2 { [%emt 0:01:17] } 35... h6 { [%emt 0:01:48] } 36. f3 { [%emt 0:02:42] } ( 36. Bc4 ) 36... Bxd4 { [%emt 0:04:21] } 37. Rxd4 { [%emt 0:00:14] } 37... Rxb3 { [%emt 0:
+00:02] } 38. R4d3 { [%emt 0:01:04] } 38... Rxd3 { [%emt 0:03:42] } 39. Bxd3 { [%emt 0:00:
+32] } 39... Rc5 { [%emt 0:00:04] } 40. Be4 { [%emt 0:00:00] } 40... f5 { [%emt 0:00:00] } 41. gxf5 { [%emt 0:03:36] } 41... gxf5 { [%emt 0:00:25] } 42. Bb1 { [%emt 0:00:07] } 42... Ba4 $1 { [%emt
+0:00:10][%csl Rd1,Rd5] } 43. Rd4 { [%emt 0:01:13] } 43... Bb3 { [%emt 0:03:18] } 44. Bxf5 { [%emt 0:00:31] } 44... Bxd5 { [%emt 0:00:02] } 45. Bd3 { [%emt 0:06:32] } 45... Bf7 { [%emt 0:
+00:01] } 46. Kf2 { [%emt 0:00:41] } 46... h5 { [%emt 0:00:24] } 47. g3 { [%emt 0:01:57] } ( 47. Kg3 ) 47... Kg7 { [%emt 0:00:07] } 48. Rb4 { [%emt 0:05:52] } 48... Rc3 { [%emt 0:00:
+08] } 49. Rd4 { [%emt 0:05:05] } 49... Ra3 { [%emt 0:00:04] } 50. Be2 { [%emt 0:02:29] } 50... Ra2 { [%emt 0:01:14] } 51. Ke3 { [%emt 0:01:27] } 51... Rb2 { [%emt 0:00:49] } 52. Rd2 { [%emt
+0:01:11] } 52... Rb6 { [%emt 0:00:09] } 53. Rd3 { [%emt 0:04:03] } 53... Bg6 { [%emt 0:00:16] } 54. Ra3 { [%emt 0:00:31] } 54... Rb4 { [%emt 0:03:40] } 55. Bd3 { [%emt 0:02:23] } 55... Bf7 { [%emt 0:00:16] } ( 55... Bxd3 $6 { La finale de Ó R donne des meilleures chances
+de nulles pour les Blancs } ) 56. f4 { [%emt 0:02:05] } 56... Kf6 { [%emt 0:00:14] } 57. Ra6 { [%emt 0:02:23] } 57... Rb3 { [%emt 0:00:16][%cal Gf7c4] } 58. Ke2 { [%emt 0:02:09] } 58... Rb2+ { [%emt 0:00:09] } 59. Kf1 { [%emt 0:01:58] } 59... Rd2 { [%emt 0:00:02] } 60. Bb5 { [%emt 0:00:04] } 60... h4 $1 { [%emt 0:01:05] } 61. gxh4 { [%emt 0:02:04] } 61... Rd4 { [%emt 0:
+00:03] } 62. Kf2 { [%emt 0:00:31] } 62... Rxf4+ { [%emt 0:00:02] } 63. Kg3 { [%emt 0:00:06] } 63... Rb4 $19 { [%emt 0:00:06] } 64. Be2 { [%emt 0:00:25] } 64... Rb3+ { [%emt 0:00:12] } 65. Kg4 { [%emt 0:00:53] } 65... Be6+ { [%emt 0:00:24] } 66. Kf4 { [%emt 0:00:07] } 66... Rh3 { [%emt
+0:01:43] } 67. h5 { [%emt 0:00:08] } 67... Bf7 { [%emt 0:00:13] } 68. Bg4 { [%emt 0:00:30] } 68... Rb3 { [%emt 0:02:52] } 69. h6 { [%emt 0:01:00] } 69... Bg6 { [%emt 0:01:13] } 70. Bd7 { [%emt 0:00:40] } 70... Rb4+ { [%emt 0:01:21] } 71. Ke3 { [%emt 0:00:49] } 71... Rh4 { [%emt 0:00:
+17] } 72. Ra4 { [%emt 0:00:38] } 72... Rxh6 { [%emt 0:00:36] } 0-1
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "7"]
+[White "Nikolov, Momchil"]
+[Black "Ermeni, Avni"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2171"]
+[ECO "A58"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "71"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2539"]
+
+1. d4 { [%emt 0:00:08] } 1... Nf6 { [%emt 0:00:00] } 2. c4 { [%emt 0:00:09] } 2... c5 { [%emt 0:
+00:43] } 3. d5 { [%emt 0:00:17] } 3... b5 { [%emt 0:01:11] } 4. cxb5 { [%emt 0:00:07] } 4... a6 { [%emt 0:00:05] } 5. bxa6 { [%emt 0:00:06] } 5... g6 { [%emt 0:00:07] } 6. Nc3 { [%emt 0:
+00:06] } 6... d6 { [%emt 0:00:05] } 7. Nf3 { [%emt 0:01:59] } 7... Bg7 { [%emt 0:01:28] } 8. e4 { [%emt 0:00:09] } 8... O-O { [%emt 0:00:23] } 9. Be2 { [%emt 0:01:44] } 9... Bxa6 { [%emt 0:01:
+37] } ( 9... Qa5 ) 10. O-O { [%emt 0:00:31] } 10... Nbd7 { [%emt 0:03:07] } 11. a4 { [%emt 0:
+03:18] } ( 11. Re1 Qc7 12. Bf4 Ng4 13. Rc1 Rfb8 14. b3 Qa7 15. Nd2 Nge5 16. a4 Nd3 17. Bxd3 Bxd3 18. Nf3 Ba6 19. e5 Rb4 20. Bg3 Qb6 21. exd6 exd6 22. Ne4 Rxb3 23. Nxd6 Rd3 24. Qe2 Nf6 25. Rb1 Rb3 26. Qc2 c4 27. Nd2 Rxb1 28. Rxb1 Qc5 29. N2xc4 Nxd5 30. h3 Nc3 31. Rb3 Qd4 32. Rb4 Nd5 33. Rb1 Nc3 34. Rb4 Nd5 35. Rb1 Nc3 { 1/2-1/2 (35) Baron,T (2524)-Birnboim,N (2379) Netanya 2019 } ) 11... Qb6 { [%emt 0:03:30] } 12. Bxa6 { [%emt 0:05:26] } 12... Qxa6 { [%emt 0:05:04] } 13. Qc2 { [%emt
+0:04:49] } 13... Rfb8 { [%emt 0:02:30] } 14. Bd2 { [%emt 0:03:17] } 14... Qb7 { [%emt 0:16:22] } 15. Nb5 { [%emt 0:03:47] } 15... Ne8 $146 { [%emt 0:06:55] } ( 15... Nb6 16. b3 c4 17. Rab1 cxb3 18. Rxb3 Rc8 19. Qb1 Rxa4 20. Nbd4 Nfd7 21. Nc6 Rca8 22. e5 dxe5 23. Be3 Qa6 24. Rxb6 Nxb6 25. Qxb6 Qxb6 26. Bxb6 e4 27. Nd2 Kf8 28. Bc5 Bf6 29. Be3 Bb2 30. g4 Ke8 31. g5 Kd7 32. Kg2 Ra1 33. Rxa1 Rxa1 34. Nxe4 Rd1 35. Nb4 Bd4 36. h3 Ke8 37. Nc2 Bh8 38. Bd2 Rb1 39. Ne3 Be5 40. Ng4 Bc7 41. Ne3 Rb5 42. Kf3 Kd7 43. Bc3 Rb1 44. Kg2 Rb8 45. Nc5+ { Parmet,D (2373)-Krueger,M (2257) ICCF
+email 2017 1/2-1/2 } ) 16. Bc3 { [%emt 0:00:56] } 16... Nc7 { [%emt 0:00:36] } 17. Nxc7 { [%emt 0:02:32] } 17... Qxc7 { [%emt 0:00:33] } 18. Bxg7 { [%emt 0:14:19] } 18... Kxg7 { [%emt 0:
+00:06] } 19. Nd4 $1 { [%emt 0:00:32] } 19... Rb7 { [%emt 0:06:44] } 20. Nb5 { [%emt 0:02:
+06] } 20... Qa5 { [%emt 0:08:40] } 21. b3 $16 { [%emt 0:00:42][%csl Gb5,Gc4] Les Noirs
+manquent de contre-jeu } 21... Nf6 { [%emt 0:04:34] } 22. Rac1 { [%emt 0:04:50] } 22... Qb6 { [%emt 0:07:03] } 23. h3 { [%emt 0:03:06] } 23... Kg8 { [%emt 0:00:55] } 24. Rfe1 { [%emt 0:
+04:11] } 24... Ne8 { [%emt 0:03:54] } 25. Re3 $1 $36 { [%emt 0:03:27][%cal Ge3b3,Gb5a3,
+Ga3c4,Ge3f3] Les Blancs ont plus d'espace pour manoeuvrer } 25... Nc7 { [%emt 0:03:34] } 26. Na3 { [%emt 0:02:13] } 26... Rab8 { [%emt 0:03:17] } 27. Qd1 $1 { [%emt 0:04:23] } 27... Qa6 { [%emt 0:09:12] } 28. Nc4 { [%emt 0:07:46] } 28... Rb4 { [%emt 0:06:23] } 29. Rcc3 { [%emt
+0:10:24] } 29... Qa8 { [%emt 0:01:35] } 30. Rcd3 { [%emt 0:00:50] } 30... Rd8 { [%emt 0:02:16] } ( 30... Kf8 { [%csl Re7] } 31. e5 dxe5 ) 31. e5 $1 $40 { [%emt 0:02:44] } 31... dxe5 { [%emt
+0:01:18] } 32. Rxe5 { [%emt 0:00:13] } 32... Rd7 { [%emt 0:00:20] } 33. Rxe7 $1 { [%emt 0:
+06:00] } 33... Rxe7 { [%emt 0:01:38] } 34. d6 { [%emt 0:00:07] } 34... Qd8 { [%emt 0:00:44] } 35. dxe7 { [%emt 0:00:17] } 35... Qxe7 { [%emt 0:00:04] } 36. Rd7 { [%emt 0:00:14] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "7"]
+[White "Rathnakaran, Kantholi"]
+[Black "Demuth, Adrien"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2500"]
+[ECO "B30"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "119"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2334"]
+
+1. e4 { [%emt 0:00:00] } 1... c5 { [%emt 0:00:00] } 2. Nf3 { [%emt 0:00:00] } 2... Nc6 { [%emt
+0:00:00] } 3. Bb5 { [%emt 0:00:00] } 3... e6 { [%emt 0:00:00] } ( 3... g6 ) 4. O-O { [%emt
+0:00:00] } 4... Nge7 { [%emt 0:00:02] } 5. Re1 { [%emt 0:00:00] } 5... Nd4 { [%emt 0:00:36] } 6. Bf1 { [%emt 0:01:35] } ( 6. Nxd4 cxd4 7. d3 ( 7. c3 ) 7... a6 8. Ba4 Nc6 9. Nd2 b5 10. Bb3 Bb7 11. Nf3 Qc7 12. Bd2 h6 13. c3 Bc5 14. Rc1 Qb6 15. cxd4 Nxd4 16. Be3 Nxb3 17. Qxb3 Bxe3 18. fxe3 O-O 19. Qb4 Rfc8 20. Rc3 Rxc3 21. bxc3 Qc7 22. Rb1 a5 23. Qxb5 Ba6 24. Qe5 Qxe5 25. Nxe5 d6 26. Nc4 Bxc4 27. dxc4 Rc8 28. Rb5 Rxc4 29. Rxa5 Rxe4 30. Kf2 f5 31. Ra6 d5 32. Rb6 Kf7 33. Rb4 Rxb4 34. cxb4 Ke7 35. a4 Kd6 { Gonzalez Vidal,Y (2567)-Adhiban,B (2701) Havana 2019 1/2-1/2 } ) 6... g6 { [%emt 0:00:25] Une nouveaut√  dans cet ordre de coups } 7. c3 { [%emt 0:04:20] } 7... Nxf3+ { [%emt 0:00:35] } 8. Qxf3 { [%emt 0:00:05] } 8... Bg7 { [%emt 0:00:05] } 9. d3 { [%emt 0:00:11] } 9... Nc6 { [%emt 0:05:04] } 10. Qg3 $146 { [%emt 0:00:26] } ( 10. Be3 b6 11. Nd2 O-O 12. Rad1 Bb7 13. Nb3 a5 14. a4 d5 15. d4 cxd4 16. Nxd4 Nxd4 17. Bxd4 dxe4 18. Qf4 Bxd4 19. Rxd4 Qc8 20. Red1 Bd5 21. Bb5 Qc5 22. c4 Bc6 23. Bxc6 Qxc6 24. b3 e5 25. Qxe5 Rfe8 26. Qf4 Re6 27. Rd7 Rf8 28. R1d5 Rf6 29. Qe5 Re6 30. Qd4 Rfe8 31. Rd8 Qc7 32. g3 h5 33. R8d7 Qc6 34. Qe3 Rf6 35. Rd8 Re6 36. Qd4 Kh7 37. Rxe8 Rxe8 38. Rd6 Qc5 39. Qf6 Kg8 { Bacallao Alonso,Y (2530)
+-Miton,K (2604) Havana 2015 1/2-1/2 } ) 10... O-O { [%emt 0:01:32] } ( 10... d6 ) 11. h4 $5 { [%emt 0:02:06] } 11... h5 { [%emt 0:14:27][%csl Rc8,Rg5] } 12. Bg5 $16 { [%emt 0:
+00:15] } 12... Qb6 { [%emt 0:11:26] } 13. Nd2 $1 { [%emt 0:04:38] } 13... Qxb2 { [%emt 0:01:17] } 14. Rec1 { [%emt 0:00:07] } 14... Qa3 { [%emt 0:12:19] } 15. Be2 { [%emt 0:05:54] } ( 15. Nc4 Qa4 16. Nd6 $44 ) 15... Kh7 { [%emt 0:01:43][%cal Gg7h6] } 16. Be3 { [%emt 0:
+03:11] } 16... d5 { [%emt 0:03:12] } ( 16... Bh6 17. f4 ) 17. Nf3 { [%emt 0:01:10] } 17... e5 { [%emt 0:08:47] Rend le Ó   pour essayer de lib√ rer le Ó Pc8 mais les Noirs
+ont toujours des probl√..mes } 18. exd5 { [%emt 0:05:08] } 18... Ne7 { [%emt 0:00:19] } 19. Nxe5 { [%emt 0:00:12] } ( 19. c4 e4 20. dxe4 Bxa1 21. Rxa1 Qb2 { [%csl Re2] } ) 19... Nxd5 { [%emt 0:07:06] } 20. Nc4 { [%emt 0:15:14] } 20... Nxc3 { [%emt 0:00:19] } 21. Bf3 { [%emt 0:00:05] } 21... Qa4 { [%emt 0:04:16] } 22. Bxc5 { [%emt 0:03:36] } 22... Rd8 { [%emt
+0:00:43] } 23. Bd6 { [%emt 0:06:08] } 23... Bf5 $132 { [%emt 0:15:54] } 24. Be5 { [%emt 0:
+05:18] } 24... Nd5 { [%emt 0:06:09] } ( 24... Bxd3 25. Bxc3 Bxc4 26. Bxg7 Kxg7 27. Qe5+ Kh7 28. Bxh5 gxh5 29. Qxh5+ Kg7 30. Rc3 { [%cal Gc3g3] } 30... Bd3 $1 { Le coup qu'il
+est facile de rater dans la combinaison } ) 25. Bxg7 { [%emt 0:03:18] } 25... Kxg7 { [%emt 0:00:04] } 26. Nd6 { [%emt 0:00:38] } 26... Qf4 $6 { [%emt 0:02:27] Conduit √  une
+meilleure finale pour les Blancs } 27. Qxf4 { [%emt 0:03:53] } 27... Nxf4 { [%emt 0:00:
+02] } 28. Nxf5+ { [%emt 0:00:07] } 28... gxf5 { [%emt 0:00:05] } 29. Rc7 $36 { [%emt 0:00:
+05][%csl Gc7] } 29... Rab8 { [%emt 0:03:49] } 30. Re1 $1 { [%emt 0:00:13][%csl Rf7][%cal
+Ge1e7] } 30... Rdc8 { [%emt 0:00:12] } 31. Ree7 { [%emt 0:01:36] } 31... Rxc7 { [%emt 0:00:03] } 32. Rxc7 { [%emt 0:00:05] } 32... Nxd3 { [%emt 0:02:01] } 33. Bxh5 $40 { [%emt 0:03:01]
+[%csl Gc7,Gh5] Le Ó P va dominer le Ó .. dans cette position ouverte } 33... Ne5 { [%emt 0:00:18] } 34. f4 { [%emt 0:00:37] } 34... Ng6 { [%emt 0:00:01] } 35. g3 $16 { [%emt
+0:00:07] } 35... Rd8 $2 { [%emt 0:01:28] } 36. Rxb7 { [%emt 0:01:06] } 36... Rd3 { [%emt 0:00:03] } 37. Rb3 { [%emt 0:00:58][%cal Gb3g3] Probablement non vu par le GMI lorsqu'il
+a jou√  Ó Rd8 } 37... Rd7 { [%emt 0:00:01] } ( 37... Rd2 38. Ra3 { [%cal Ga3a2,Ga3a7] } ) 38. a4 { [%emt 0:02:31] } 38... Rd4 { [%emt 0:01:23] } 39. a5 $1 { [%emt 0:01:22][%cal
+Ga5a6,Gb3b7] } 39... Ra4 { [%emt 0:00:02] } 40. Rb5 { [%emt 0:00:00][%cal Gb5a5,Gb5f5] } 40... Ra3 { [%emt 0:00:00] } 41. Kf2 { [%emt 0:00:40] Jou√  quasiment √  tempo alors
+que Ó Ng2 √ tait peut-√|_tre plus simple √  jouer } ( 41. Kg2 $5 Ra2+ 42. Kh3 Ra3 { [%cal Gg6f4,Gf4h3,Gf4h5] } 43. Bxg6 fxg6 44. Rb7+ Kf6 45. Rxa7 $18 { [%csl Rf6] } ) 41... Ra2+ { [%emt 0:04:03] } 42. Be2 { [%emt 0:00:41] } 42... Kf6 { [%emt 0:01:40] } 43. Rc5 { [%emt 0:02:21] } 43... Nf8 { [%emt 0:00:48] } 44. Ke3 { [%emt 0:00:19] } 44... Ne6 { [%emt
+0:05:12] } ( 44... Ra3+ 45. Bd3 $18 { [%cal Gc5f5] } ) 45. Re5 { [%emt 0:00:17] } 45... Ke7 { [%emt 0:06:15] } 46. h5 { [%emt 0:02:14] } ( 46. Rxf5 $142 ) 46... Kf6 { [%emt 0:04:
+10] } 47. Bd3 { [%emt 0:01:16] } 47... Rg2 { [%emt 0:02:49] } 48. Kf3 { [%emt 0:02:14] } 48... Rd2 { [%emt 0:00:04] } 49. Bxf5 { [%emt 0:01:01] } 49... Nd4+ { [%emt 0:00:18] } 50. Ke3 { [%emt 0:00:38] } 50... Rd1 { [%emt 0:00:03] } 51. g4 { [%emt 0:00:18] } 51... Kg7 { [%emt 0:01:
+12] } 52. g5 { [%emt 0:03:13] } 52... f6 $2 { [%emt 0:01:52] } 53. h6+ { [%emt 0:00:47] } 53... Kf8 { [%emt 0:00:05] } 54. Rd5 $18 { [%emt 0:08:08][%csl Rf8,Gh6] } 54... Nc2+ { [%emt 0:
+00:42] } 55. Bxc2 { [%emt 0:01:37] } 55... Rxd5 { [%emt 0:00:06] } 56. g6 { [%emt 0:00:02] } 56... Rb5 { [%emt 0:00:42] } 57. Bd3 { [%emt 0:00:06] } 57... Rb4 { [%emt 0:00:39] } 58. Bf5 { [%emt 0:01:13] } 58... Rb3+ { [%emt 0:00:33] } 59. Kf2 { [%emt 0:00:06] } 59... Rb2+ { [%emt 0:
+00:06] } 60. Kf1 { [%emt 0:00:07] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.26"]
+[Round "7"]
+[White "Shchekachev, Andrei"]
+[Black "Bellahcene, Bilel"]
+[Result "1/2-1/2"]
+[Annotator "ChessBase II"]
+[BlackElo "2510"]
+[ECO "E60"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "60"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2529"]
+
+1. Nf3 { [%emt 0:01:54] } 1... Nf6 { [%emt 0:00:32] } 2. b3 { [%emt 0:00:24] } 2... g6 { [%emt
+0:00:34] } 3. Bb2 { [%emt 0:00:21] } 3... Bg7 { [%emt 0:00:03] } 4. e3 { [%emt 0:03:32] } 4... O-O { [%emt 0:01:41] } 5. c4 { [%emt 0:05:09] Il ne s'agissait probablement pas
+d'une pr√ paration car les Blancs ont commenc√  √  r√ fl√ chir } 5... d6 { [%emt 0:05:
+19] } 6. d4 { [%emt 0:01:55] } 6... Nbd7 { [%emt 0:04:52] } 7. Be2 { [%emt 0:14:13] } 7... e5 { [%emt 0:05:23] La partie a transpos√  dans une Est-Indienne } 8. Nc3 { [%emt 0:
+02:56] } 8... Re8 { [%emt 0:00:34][%cal Ge5e4] Les Noirs jouent dans l'esprit d'une
+fran√Paise ferm√ e avec couleurs invers√ es } 9. Qc2 { [%emt 0:00:07] } 9... Nf8 { [%emt 0:08:17] } ( 9... exd4 10. Nxd4 Nc5 11. O-O a5 12. a3 Bg4 13. b4 Bxe2 14. Ndxe2 Ncd7 15. Rad1 axb4 16. axb4 Qe7 17. Nb5 Rac8 18. Nf4 Ne5 19. h3 Red8 20. c5 Qe8 21. Qe2 dxc5 22. Nxc7 Qe7 23. Ncd5 Nxd5 24. Nxd5 Qe6 25. Nf4 Qe7 26. bxc5 Qxc5 27. Rxd8+ Rxd8 28. Rc1 Qb4 29. Bc3 { 1/2-1/2 (29) Le,Q (2697)
+-Durarbayli,V (2618) Baku 2015 } ) 10. dxe5 $5 { [%emt 0:03:38][%cal Ga1d1] } 10... dxe5 { [%emt 0:00:53] } 11. Rd1 { [%emt 0:00:10] } 11... Bd7 { [%emt 0:08:40] } 12. O-O { [%emt
+0:04:45] } 12... Qe7 $146 { [%emt 0:08:01] } ( 12... e4 13. Nd2 Qe7 14. Ndb1 c6 15. a3 Qc5 16. b4 Qg5 17. Kh1 Qh4 18. Kg1 Ng4 19. h3 Nf6 20. c5 Bf5 21. Qc1 Ne6 22. f4 exf3 23. Bxf3 Ng5 24. Ne2 Bxb1 25. Qxb1 Rxe3 26. Nd4 Qg3 27. Kh1 Rae8 28. a4 Ng4 29. Bxg4 Be5 30. Kg1 Qh2+ { 0-1 (30) Albrecht,R (2093)-Kurayan,R (2385)
+Berlin 2018 } ) 13. Qc1 { [%emt 0:16:02][%cal Gc1a1] } 13... e4 { [%emt 0:03:24] } 14. Nd2 { [%emt 0:00:22] } 14... c6 { [%emt 0:03:47] } 15. Qa1 { [%emt 0:01:34] } 15... Bh6 { [%emt 0:07:
+59] } 16. Nb5 { [%emt 0:05:48] } 16... cxb5 { [%emt 0:14:39] } 17. Bxf6 { [%emt 0:00:20] } 17... Qc5 { [%emt 0:00:01] } 18. cxb5 { [%emt 0:06:06] } ( 18. Bd4 Qb4 19. Bc3 Qc5 20. Bd4 $11 ) 18... Bxb5 { [%emt 0:00:01] } 19. Nc4 { [%emt 0:04:20] } 19... Ne6 { [%emt 0:02:10] } 20. Rd2 { [%emt 0:03:36] } 20... Bg5 { [%emt 0:10:21] } 21. Rfd1 { [%emt 0:04:25] } 21... Bxf6 { [%emt 0:01:19] } 22. Qxf6 { [%emt 0:00:03] } 22... Qe7 { [%emt 0:00:07] } 23. Qe5 { [%emt
+0:05:06] } 23... Nc5 { [%emt 0:01:22] } 24. Qxe7 { [%emt 0:00:07] } 24... Rxe7 { [%emt 0:00:01] } 25. Rd5 { [%emt 0:00:56] } 25... Bxc4 { [%emt 0:00:28] } 26. Bxc4 { [%emt 0:00:07] } 26... Rc8 { [%emt 0:00:01] } 27. g4 $1 { [%emt 0:02:51] } 27... Kg7 { [%emt 0:01:01] } 28. Kg2 { [%emt
+0:01:49] } 28... Rcc7 { [%emt 0:00:51] } 29. Kg3 { [%emt 0:01:23] } 29... Na4 { [%emt 0:01:49] } 30. bxa4 { [%emt 0:04:04] } 30... Rxc4 { [%emt 0:00:08] } 1/2-1/2
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.27"]
+[Round "8"]
+[White "Bellahcene, Bilel"]
+[Black "Bauer, Christian"]
+[Result "1-0"]
+[Annotator "Primel,D"]
+[BlackElo "2630"]
+[ECO "B15"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "61"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2510"]
+
+1. e4 { [%emt 0:04:48] } 1... c6 { [%emt 0:00:00] } 2. d4 { [%emt 0:00:34] } 2... d5 { [%emt 0:
+00:00] } 3. Nc3 { [%emt 0:00:28] } 3... dxe4 { [%emt 0:00:33] } 4. Nxe4 { [%emt 0:00:05] } 4... Nf6 { [%emt 0:00:12] } 5. Nxf6+ { [%emt 0:00:09] } 5... exf6 { [%emt 0:00:01] La
+variante a connu un regain de popularit√  depuis quelques ann√ es avec un
+nouveau plan des Noirs } 6. c3 { [%emt 0:00:28] } 6... Bd6 { [%emt 0:00:08] } 7. Bd3 { [%emt 0:00:05] } 7... O-O { [%emt 0:00:12] } ( 7... Be6 ) 8. Qc2 { [%emt 0:00:04] C'√
+ tait ce plan qui posait des probl√..mes en for√Pant un affablissement de
+l'aile-roi } 8... Re8+ { [%emt 0:00:09] } 9. Ne2 { [%emt 0:00:04] } ( 9. Be3 ) 9... h5 $1 { [%emt 0:00:12] Le nouveau plan qui a relanc√  la variante. C'est le GMI norv√
+ gen HANSEN qui a jou√  plusieurs parties en 2017 avec cette id√ e et attir√ 
+l'attention des th√ oriciens sur ce nouveau plan. } ( 9... g6 10. h4 $40 { [%cal
+Gh4h5] Et l'attaque Blanche est tr√..s rapide avec h5,hg6 suivi du sacrifice
+du Ó P avec prise sur √ chec } ) ( 9... h6 { Un moindre mal mais les Noirs
+manquent de contre-jeu } 10. O-O Qc7 11. Ng3 $16 ) 10. Be3 { [%emt 0:00:04][%cal
+Ge1c1] L'alg√ rien r√ pond √  tempo alors que selon les bases, c'√ tait la
+premi√..re fois que son adversaire utilisait cette ligne h5 } ( 10. O-O h4 $1 { [%csl Re2][%cal Gh4h3] L'id√ e de la variante et la pouss√ e emp√|_che Ó ..g3
+tout en mena√Pant  d'attaquer le Ó N Blanc avec h3 } ) ( 10. h3 $5 Nd7 11. g4 h4 $1 12. Be3 Nf8 13. c4 Bb4+ 14. Kf1 b5 $1 { [%csl Gd5];Saric,I (2690)-Shimanov,A
+(2610) PRO League Stage rapid 2019 (5) 1-0 } ) 10... Nd7 { [%emt 0:01:22][%cal
+Gd7f8] } ( 10... Be6 $5 ) 11. O-O-O { [%emt 0:02:00] l'id√ e de Ó Pe3 et avec des
+roques sur les ailes oppos√ es, la partie sera tranchante.  Il n'est par
+contre pas facile pour les Blancs d'attaquer √  l'aile-roi car le Ó   doubl√ 
+"f6" contr√'le des cases importantes } ( 11. O-O Qc7 12. h3 Nf8 13. Qd2 Ng6 14. Rfe1 Be6 15. c4 Rad8 16. b3 a5 17. c5 Bf8 18. Nf4 Nxf4 19. Bxf4 Qd7 20. Be3 Bxc5 21. dxc5 Qxd3 22. Rad1 Qxd2 23. Rxd2 Bd5 24. Rd4 Re4 25. Red1 f5 26. Rxe4 fxe4 27. Rd4 f6 28. Ra4 h4 29. Rxa5 Kf7 30. Ra4 g5 31. Rb4 Rd7 32. g3 hxg3 33. fxg3 Kg6 34. Kg2 f5 35. h4 f4 36. gxf4 gxh4 37. Kh3 Rh7 38. Rd4 Be6+ 39. Kh2 Kf5 40. Bc1 Rg7 { So,W (2767)-Vachier Lagrave,M (2774) chess.com INT 2019 0-1 } ) 11... Nf8 { [%emt 0:00:14] La suite logique du plan des Noirs. Le Ó ..
+contr√'le la case "h7" et en cas de pouss√ e g6, il √ vite le sacrifice Ó Pg6 } ( 11... a5 $5 { Apr√..s le ooo, c'est √ galement une option logique } 12. h3 a4 13. g4 h4 $1 14. a3 ( 14. Kb1 a3 15. b3 Nf8 { [%csl Ga3] Et le Ó   "a3" fait
+pression sur l'aile-dame et en cas de passage en finale, il peut jouer le
+r√'le de "Ó   pass√  de r√ serve3 avec l'option Ó Pe6b3 lib√ rant le Ó } ) ) 12. Kb1 { [%emt 0:00:09] Un coup typique √ vacuant le Ó N pour surprot√ ger a2 tout
+en am√ liorant la s√ curit√  du Ó N en cas d'ouverture de la colonne "c" } 12... Be6 { [%emt 0:13:35] A nouveau un coup typique mais Christian commence √  r√ fl√
+ chir dans une position encore th√ orique avec une trentaine de parties dans
+les bases et cel√  peut-√|_tre le signal d'une pr√ paration insuffisante.
+C'est le risque d'un changement de r√ pertoire. } 13. c4 { [%emt 0:00:25] } ( 13. h3 b5 14. g4 h4 ) 13... Ng6 $6 $146 { [%emt 0:06:11] Il ne s'agissait pas d'une
+pr√ paration puisque les Noirs avaient d√ j√  commenc√  √  r√ fl√ chir au coup
+pr√ c√ dent et ils d√ pensent √  nouveau 6 mns sur coup.  La pr√ paration des
+Noirs √ tait insuffisante et le manque de pratique avec cette ligne nouvelle
+se fait sentir. } ( 13... Rc8 $1 { [%cal Gc6c5,Gc8c2] } 14. h3 { [%cal Gg2g4] } 14... h4 $1 ( 14... b5 $5 { [%csl Gd5] } 15. g4 bxc4 16. Bxc4 h4 $132 { Pikula,D (2471)-Sedlak,
+N (2608) BIH-chT 17th 2018 (9.2) 0-1 } ) 15. Rdg1 ( 15. Nc3 $5 Bb4 ( 15... b5 $5 16. cxb5 ( 16. c5 Bb8 17. g4 a5 18. Rhe1 a4 { [%cal Gb5b4] } 19. Bf5 ( 19. a3 $6 Bb3 ( 19... b4 $5 ) ) 19... Qa5 $132 ( 19... a3 $5 ) ) 16... cxb5 17. Bxb5 Qa5 { [%cal Gc8c2,Ga5b5] } 18. Bxe8 Bxa2+ { [%csl Rb1] Avec d'√ normes complications
+et le sacrifice de qualit√  est peut-√|_tre jouable } ) 16. Ne4 b5 { [%cal Gc8c2] } ( 16... f5 17. Nc5 Bxc5 18. dxc5 Qf6 $13 { [%cal Gf6f5,Gf5f4] } ) ) 15... b5 16. c5 Bb8 17. Nc3 b4 18. Ne4 f5 19. Nd6 Bxd6 20. cxd6 Qxd6 21. Bxf5 Qd5 22. Bxe6 Nxe6 23. Rd1 Qxg2 24. Qf5 Qd5 25. Qg4 Nf8 26. Qxh4 Qe4+ 27. Qxe4 Rxe4 28. Kc2 Ng6 29. h4 Nxh4 30. Kd3 Rg4 31. Kc4 c5 32. Kb3 cxd4 33. Rxd4 Rxd4 34. Bxd4 Nf3 35. Bxa7 g5 36. Kxb4 Ra8 37. Be3 Rxa2 38. Kb3 Ra8 39. Kc2 Rc8+ 40. Kd3 Rb8 41. Ke4 g4 42. Kf5 Rxb2 43. Kxg4 { Saric,I (2669)-Howell,D (2676) Riadh 2017 1/2-1/2 } ) 14. h3 { [%emt 0:17:30][%cal Gg2g4] Les Blancs sont surpris par la nouveaut√ 
+et commencent √  r√ fl√ chir longuement } ( 14. Bxg6 $6 fxg6 15. Qxg6 Bxc4 $36 { [%csl Ra2][%cal Gd8a5] } ) 14... Rc8 { [%emt 0:11:16] } ( 14... b5 $5 { [%csl Ra2,
+Gd5][%cal Gd8a5] } 15. cxb5 cxb5 16. Bxb5 Rc8 ( 16... Qa5 17. Nc3 Rec8 18. d5 ) 17. Nc3 Bd7 ( 17... Re7 { [%cal Ge7c7] } 18. d5 ) 18. Bd3 Nf4 $44 { [%cal Gd8a5] } 19. Bh7+ Kf8 ( 19... Kh8 ) ) 15. Nc3 $1 { [%emt 0:04:26] Il est maintenant trop
+tard pour essayer la pouss√ e b5 } 15... Bb4 { [%emt 0:07:45] } 16. Ne4 { [%emt 0:05:33] } 16... Bf8 { [%emt 0:05:07] } ( 16... b5 $5 { [%cal Ge6c4,Ge8e4] } ) 17. g4 { [%emt 0:15:17] } 17... b5 $6 { [%emt 0:05:36] } ( 17... h4 $8 { Th√ matique pour √  la fois fixer la
+faiblesse "h3" et √ viter l'ouverture de l'aile-roi } ) 18. gxh5 { [%emt 0:12:35] } 18... bxc4 { [%emt 0:00:15] } 19. Bxc4 { [%emt 0:00:09] } 19... Bxc4 { [%emt 0:15:19] } 20. Qxc4 { [%emt 0:00:21] } 20... Nf4 $1 { [%emt 0:01:12] Les Noirs trouvent une id√ e
+astucieuse pour jouer Ó ..d5 avec qualques compensations mais apr√..s
+l'ouverture de la colonne "g", le Ó N Noir est plus en danger que celui des
+Blancs } 21. Nc3 { [%emt 0:08:57] } 21... Nd5 $1 { [%emt 0:04:06] } 22. Nxd5 $1 { [%emt 0:
+00:08] Eliminant la seule pi√..ce active des Noirs et l'attaque risque
+d'√|_tre plus rapide sur la colonne "g" que celle des Noirs sur la colonne "c" } 22... cxd5 { [%emt 0:00:06] } 23. Qd3 { [%emt 0:00:03] } 23... Qd7 $1 { [%emt 0:03:54] } 24. Rdg1 $36 { [%emt 0:04:11][%csl Rg8][%cal Gg1g3,Gh1g1,Ge3h6] } 24... Re4 $6 { [%emt 0:05:32] } 25. h6 { [%emt 0:05:19] } 25... g6 { [%emt 0:00:22] } 26. f3 { [%emt 0:00:15] } ( 26. h4 $5 { [%cal Gh4h5] } ) 26... Ree8 { [%emt 0:05:06] } 27. h4 { [%emt 0:01:43] } 27... Kh8 { [%emt
+0:00:44] } ( 27... Kh7 $2 28. h5 { [%csl Rg6] } ) 28. Rg2 { [%emt 0:01:52] } 28... Qe6 { [%emt 0:00:55] } 29. Bd2 { [%emt 0:02:29] } 29... Bxh6 { [%emt 0:06:39] Une derni√..re
+tentative d'arnaque } 30. Bxh6 { [%emt 0:05:54] } 30... Qh3 { [%emt 0:04:25] } 31. Rgg1 { [%emt 0:01:05] } ( 31. Rxh3 Re1+ 32. Bc1 Rexc1# ) 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.27"]
+[Round "8"]
+[White "Dimitrov, Radoslav"]
+[Black "Hutois, Mickael"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2294"]
+[ECO "E20"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "51"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2519"]
+
+1. d4 { [%emt 0:10:58] } 1... Nf6 { [%emt 0:00:00] } 2. c4 { [%emt 0:00:11] } 2... e6 { [%emt 0:
+00:00] } 3. Nc3 { [%emt 0:00:05] } 3... Bb4 { [%emt 0:00:00] } 4. f3 { [%emt 0:00:05] } 4... d5 { [%emt 0:01:33] } ( 4... O-O $1 5. e4 d5 6. e5 Nfd7 7. cxd5 exd5 8. a3 Bxc3+ 9. bxc3 f6 $32 { [%csl Re1] } ) 5. a3 { [%emt 0:00:02] } 5... Be7 { [%emt 0:10:37] Un coup
+passif } ( 5... Bxc3+ $142 6. bxc3 c5 7. cxd5 Nxd5 8. dxc5 Qa5 9. e4 Ne7 ( 9... Nf6 ) ) 6. e4 { [%emt 0:00:04] } 6... c5 { [%emt 0:13:33] Les Noirs ne connaissent pas
+la position et ils prennent beaucoup de temps pour jouer } 7. dxc5 { [%emt 0:03:
+22] } 7... dxe4 $6 $146 { [%emt 0:02:15] } ( 7... Bxc5 8. cxd5 exd5 9. exd5 O-O 10. Bd3 b6 11. Nge2 Ba6 12. b4 Bd6 13. O-O Re8 14. Bg5 Qe7 15. Ne4 Bxd3 16. Qxd3 Nbd7 17. Nxd6 Qxd6 18. Rad1 h6 19. Bh4 Rac8 20. Bg3 Qe7 21. Nf4 Qe5 22. Rfe1 Qb2 23. Rxe8+ Rxe8 24. h3 g5 25. Ne2 Rxe2 { 0-1 (25) Rush,S (2006)-Turner,M (2534)
+Birmingham 2019 } ) 8. Qxd8+ { [%emt 0:00:17] } 8... Kxd8 { [%emt 0:03:50] } 9. Be3 $1 { [%emt 0:00:02][%cal Ge3c5] } 9... a5 { [%emt 0:06:28] } 10. O-O-O+ { [%emt 0:02:09] } 10... Bd7 { [%emt 0:00:31] } 11. Nb5 { [%emt 0:22:15] } 11... Na6 { [%emt 0:03:04] } 12. Nd6 $1 { [%emt 0:06:54] Gagne la paire de Ó P } 12... Bxd6 { [%emt 0:00:18] } 13. cxd6 { [%emt 0:
+00:22] } 13... Rc8 { [%emt 0:00:37] } 14. Bb6+ $1 { [%emt 0:01:31] } 14... Ke8 { [%emt 0:00:05] } 15. Bxa5 { [%emt 0:00:32] } ( 15. Kb1 ) 15... b5 { [%emt 0:00:39] } 16. Kb1 { [%emt 0:
+10:16] } 16... bxc4 { [%emt 0:00:21] } 17. Rc1 { [%emt 0:00:01] } 17... Bb5 { [%emt 0:04:06] } 18. Ne2 { [%emt 0:00:15] } 18... exf3 { [%emt 0:04:14] } 19. Nd4 $40 { [%emt 0:04:58] } 19... fxg2 { [%emt 0:08:35] } 20. Bxg2 { [%emt 0:00:01] } 20... Bd7 { [%emt 0:00:17] } 21. Bb7 { [%emt
+0:00:07] } 21... Rb8 { [%emt 0:00:25] } 22. Bxa6 { [%emt 0:00:06] } 22... Ra8 { [%emt 0:00:03] } 23. Nb5 $1 { [%emt 0:00:27] } 23... Nd5 { [%emt 0:00:49] } 24. Rhd1 { [%emt 0:00:32] } 24... f6 { [%emt 0:02:36] } 25. Nc7+ { [%emt 0:07:35] } 25... Kf7 { [%emt 0:03:23] } 26. Be1 { [%emt
+0:00:31] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.27"]
+[Round "8"]
+[White "Eden, James"]
+[Black "Nikolov, Momchil"]
+[Result "0-1"]
+[Annotator "ChessBase II"]
+[BlackElo "2539"]
+[ECO "B22"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "93"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2326"]
+
+1. e4 { [%emt 0:05:29] } 1... c5 { [%emt 0:00:00] } 2. Nf3 { [%emt 0:00:19] } 2... e6 { [%emt 0:
+00:00] } 3. c3 { [%emt 0:03:05] } 3... d5 { [%emt 0:00:00] } ( 3... Nf6 ) 4. exd5 { [%emt 1:
+23:07] } 4... Qxd5 { [%emt 0:00:06] } 5. d4 { [%emt 0:00:12] } 5... Nf6 { [%emt 0:00:18] } 6. Be2 { [%emt 0:05:51] } ( 6. Na3 ) 6... Nc6 { [%emt 0:04:07] } 7. O-O { [%emt 0:01:05] } 7... cxd4 { [%emt 1:28:59] } ( 7... Be7 $143 8. c4 $1 ) 8. cxd4 { [%emt 0:00:47] } 8... Be7 { [%emt 0:00:28] } 9. Nc3 { [%emt 0:01:04] } 9... Qd6 { [%emt 0:01:14] } 10. Bg5 { [%emt 0:
+05:07] } ( 10. Nb5 Qd8 11. Bf4 Nd5 12. Bg3 { Lautier,J (2625)-Polgar,J (2630)
+Linares 12th 1994 (12) 1-0 } ) 10... O-O { [%emt 1:28:17] } 11. Qd2 { [%emt 0:05:03] } ( 11. Rc1 Nd5 $132 ) 11... b6 { [%emt 0:08:16] } 12. Rad1 { [%emt 0:22:04] } 12... Nb4 $5 $146 { [%emt 0:14:33][%csl Gd5] Dans l'esprit d'un gambit dame accept√ , les
+Noirs luttent pour le contr√'le de la case "d5" } ( 12... Bb7 13. a3 Nd5 14. Ne4 Qc7 15. Bd3 Rad8 16. Bb1 Bxg5 17. Qxg5 Qf4 18. Qh5 Qh6 19. Qxh6 gxh6 20. Ne5 f6 21. Nxc6 Bxc6 22. Rfe1 f5 23. Nc3 Nxc3 24. bxc3 Bd5 25. Bd3 Kf7 26. Re5 Rc8 27. Rc1 Rg8 28. g3 Rgd8 29. c4 Bb7 30. d5 Bxd5 31. Rce1 Bc6 32. Be2 Rd6 33. c5 bxc5 34. Bc4 Bd5 35. Bxd5 Rxd5 36. Rxe6 Rc7 37. Rxh6 Kg7 38. Rhe6 Kf7 39. Rh6 Kg7 40. Rhe6 c4 41. Re7+ Rxe7 42. Rxe7+ { Kienast,J (2223)-Bonnmann,R (2229)
+Germany 2018 0-1 (62) } ) 13. Bxf6 $1 { [%emt 0:02:31] Si personne n'avait jou√ 
+la nouveaut√  Ó ..b4, il y avait probablement des raisons } 13... Bxf6 { [%emt 0:02:44] } 14. Ne4 { [%emt 0:04:01] } 14... Qe7 { [%emt 0:00:15] } 15. Nxf6+ { [%emt 0:01:25] } 15... gxf6 { [%emt 0:00:09][%csl Rb4] } 16. Qh6 { [%emt 0:02:28] } 16... Bb7 { [%emt 0:05:14] } 17. d5 $1 { [%emt 0:06:52][%cal Gd1d4,Gd4g4,Gd4h4] } 17... Nxd5 { [%emt 0:03:40] } 18. Rd3 { [%emt 0:03:43] Ó Rd4 √ tait plus naturel } ( 18. Rd4 f5 19. Rh4 f6 ( 19... Nf6 20. Ng5 $18 ) 20. Rd1 Rad8 $11 ) 18... Kh8 { [%emt 0:04:09] } 19. Nh4 { [%emt 0:05:03] } 19... f5 { [%emt 0:17:13] } 20. Bf3 $6 { [%emt 0:04:08] } ( 20. Rh3 f6 21. Re1 $36 { [%cal
+Ge2d3,Gd3f5,Ge1e7] } ) 20... Rg8 { [%emt 0:05:31] } 21. Nxf5 { [%emt 0:05:11] } 21... exf5 { [%emt 0:29:26] } 22. Bxd5 { [%emt 0:00:21] } 22... Rg6 $1 { [%emt 0:11:23] } 23. Qf4 { [%emt 0:00:59] } 23... Rd8 { [%emt 0:01:11][%csl Rd3,Rd5][%cal Gg6d6] } 24. Qd4+ { [%emt
+0:05:21] } 24... Kg8 { [%emt 0:05:21] } 25. Qc4 { [%emt 0:00:22] } 25... Rxd5 { [%emt 0:01:44] } 26. Rxd5 { [%emt 0:00:18] } 26... Bxd5 { [%emt 0:00:12] } 27. Qxd5 { [%emt 0:00:09] } 27... Qe4 { [%emt 0:00:08] } 28. Qd8+ { [%emt 0:00:50] } 28... Kg7 { [%emt 0:00:03] } 29. f3 { [%emt 0:
+00:42] } 29... Qe3+ { [%emt 0:00:27] } 30. Kh1 { [%emt 0:00:29] } 30... Rc6 { [%emt 0:01:09]
+[%cal Gc6c2] } 31. Qd1 { [%emt 0:10:18] } 31... Rc4 { [%emt 0:00:47] } 32. h3 { [%emt 0:09:
+53] } 32... Rd4 { [%emt 0:00:30] } 33. Qc2 { [%emt 0:07:15] } 33... f4 { [%emt 0:01:01] } 34. Qf5 { [%emt 0:06:52] } 34... Rd6 { [%emt 0:00:23] } 35. Qg5+ { [%emt 0:01:04] } 35... Rg6 { [%emt 0:
+00:30] } 36. Qd5 { [%emt 0:00:11] } 36... h6 { [%emt 0:00:33] } 37. Rd1 { [%emt 0:01:49] } 37... Re6 { [%emt 0:00:54] } 38. Qd4+ { [%emt 0:01:39] } 38... Kg6 { [%emt 0:00:34] } 39. Qh8 { [%emt 0:01:15] } 39... Qe5 { [%emt 0:00:29] } 40. Qg8+ { [%emt 0:00:00] } 40... Qg7 { [%emt 0:00:
+00] } 41. Qb8 { [%emt 0:06:02] } 41... Qxb2 { [%emt 0:31:44] } 42. Rd8 $2 { [%emt 0:03:37]
+Comme souvent la gaffe intervient juste apr√..s le contr√'le de temps } ( 42. Qxf4 ) 42... Re1+ { [%emt 0:09:49] } 43. Kh2 { [%emt 0:00:11] } 43... Qa1 { [%emt 0:06:31] } 44. Qd6+ { [%emt 0:25:42] } 44... Kh5 { [%emt 0:00:26] } 45. g4+ { [%emt 0:01:41] } 45... fxg3+ { [%emt 0:00:07] } 46. Kxg3 { [%emt 0:18:24] } 46... Qg7+ { [%emt 0:00:12] } 47. Kh2 { [%emt
+0:18:38] } 0-1
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.27"]
+[Round "8"]
+[White "Godart, Francois"]
+[Black "Martinez Alcantara, Jose Eduardo"]
+[Result "1/2-1/2"]
+[Annotator "Primel,D"]
+[BlackElo "2617"]
+[ECO "B96"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "65"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2445"]
+
+1. e4 { [%emt 0:00:49] } 1... c5 { [%emt 0:00:00] } 2. Nf3 { [%emt 0:00:07] } 2... d6 { [%emt 0:
+00:00] } 3. d4 { [%emt 0:00:06] } 3... cxd4 { [%emt 0:00:00] } 4. Nxd4 { [%emt 0:00:05] } 4... Nf6 { [%emt 0:00:00] } 5. Nc3 { [%emt 0:00:05] } 5... a6 { [%emt 0:00:00] } 6. Bg5 { [%emt
+0:00:17] } 6... e6 { [%emt 0:00:51] Une petite surprise car selon les bases, le p√
+ ruvien ne jouait que Ó ..bd7 } ( 6... Nbd7 7. Qe2 h6 { Valmana Canto,J (2401)
+-Martinez Alcantara,J (2601) Benasque op 39th 2019 (10) 1/2-1/2 } ) 7. f4 { [%emt
+0:02:10] } 7... h6 { [%emt 0:00:01] } 8. Bh4 { [%emt 0:01:03] } 8... Qb6 { [%emt 0:00:01] La
+variante du Ó   empoisonn√  retard√ e avec l'interposition du coup h6 } 9. Qd2 { [%emt 0:06:47] } ( 9. a3 Be7 10. Bf2 Qc7 11. Qf3 Nbd7 12. O-O-O b5 13. g4 Bb7 14. h4 Nc5 15. Bd3 d5 16. e5 Nfe4 17. Be1 O-O-O 18. Kb1 Kb8 19. Qe3 h5 20. g5 g6 21. Bxe4 Nxe4 22. Nxe4 dxe4 23. Bb4 Bd5 24. Bxe7 Qxe7 25. Ne2 Qa7 26. Rd4 Rd7 27. Rhd1 Rhd8 28. c3 Bb3 29. R1d2 Bc4 30. Qxe4 Bxe2 31. Rxd7 Rxd7 32. Qxe2 Rxd2 33. Qxd2 Qg1+ 34. Ka2 Qf1 35. Qd6+ Kb7 36. Qd7+ Kb6 37. Qd4+ Kb7 38. Kb3 Qe2 { Wei,Y (2737)-Lu,S (2619) Changsha 2019 1-0 } ) ( 9. Qd3 Qxb2 10. Rb1 Qa3 11. f5 ) 9... Qxb2 { [%emt 0:06:53] } 10. Rb1 { [%emt 0:01:11] } 10... Qa3 { [%emt 0:00:01] } 11. f5 { [%emt 0:00:26] } ( 11. e5 { La grande ligne } ) 11... Be7 { [%emt 0:06:52][%cal
+Ge7h4] } 12. fxe6 { [%emt 0:03:10] } 12... fxe6 { [%emt 0:00:06] } 13. Bc4 { [%emt 0:02:15] } 13... Nxe4 $1 { [%emt 0:05:28] Le th√..me de la variante } 14. Nxe4 { [%emt 0:00:56] } 14... Bxh4+ { [%emt 0:00:03] } 15. g3 { [%emt 0:00:42] } 15... Bg5 { [%emt 0:00:01] } 16. Nxg5 { [%emt 0:05:35] } 16... hxg5 { [%emt 0:00:09] } 17. O-O { [%emt 0:30:47] Une position
+typique du Ó   empoisonn√ , les Blancs ont une √ norme avance de d√
+ veloppement et on ne donne pas cher de la peau du Ó N Noir.  Dans la pratique,
+les Noirs ont des ressources √ tonnantes et des bons r√ sultats.  Apr√..s
+avoir jou√  rapidement l'ouverture, les Blancs font une longue pause d'une 1/2
+heure pour choisir un plan } ( 17. Nxe6 { L'alternative qui m√..ne probablement √
+  une nulle forc√ e } 17... Bxe6 18. Bxe6 Qxg3+ $1 { La pointe! } 19. hxg3 Rxh1+ 20. Ke2 Rh2+ { Vallejo Pons,F (2697)-Morozevich,A (2715) Reggio Emilia 53rd 2010 (5) 1/
+2-1/2 } ) 17... Qc5 { [%emt 0:02:41][%cal Gc5c4,Gc5d4] Gagnant un tempo important
+pour ramener la Ó B en d√ fense } 18. Qf2 { [%emt 0:03:50] } 18... Qxc4 { [%emt 0:05:51] } ( 18... Nc6 19. Nxe6 Qxf2+ 20. Rxf2 Bxe6 21. Bxe6 $44 { Martinez Duany,L (2470)
+-Vachier Lagrave,M (2758) EU-Cup 31st Skopje 2015 (1.2) 1/2-1/2 } ) 19. Qf7+ { [%emt 0:00:51] } 19... Kd8 { [%emt 0:00:08] } 20. Qxg7 { [%emt 0:00:28] } 20... Re8 { [%emt 0:00:
+02] } 21. Rf7 { [%emt 0:01:02] } 21... Bd7 $6 { [%emt 0:13:15] } ( 21... Nd7 22. Rxb7 Bxb7 23. Rxd7+ Kc8 24. Rxb7 Qxd4+ $1 { [%cal Gd4g1,Gd4g7] La pointe qui simplifie et
+doit conduire √  une nulle } 25. Qxd4 Kxb7 { Igonin,T (2498)-Zhu,Y (2295) Moscow
+op-A 2016 (3) 1/2-1/2 } ) 22. Rxb7 { [%emt 0:01:06] } 22... Qa4 { [%emt 0:00:01] } 23. Rb4 $6 $146 { [%emt 0:15:49] } ( 23. c4 Kc8 24. Rb3 Ra7 25. Re7 Rxe7 26. Qxe7 Rb7 27. Rf3 Qd1+ { 0-1 (27) Trifan,A (2253)-Gschnitzer,A (2396) Neustadt an der
+Weinstrasse 2020 } ) ( 23. a3 $1 { [%cal Gb7b4] Un coup difficile √  trouver
+devant l'√ chiquier mais mena√Pant Ó Rb4 pour d√ vier la Ó B de la d√ fense du
+Ó Pd7.  C'est dommage car les Blancs ont vu la bonne id√ e Ó Rb4 pour d√ vier
+la Ó B mais ils pouvaient l'am√ liorer avec le coup pr√ paratoire a3. Au
+surplus, les Noirs peuvent difficilement exploiter le tempo donn√  par la
+pouss√ e a3 car ils sont proches du zugzwang. Le Ó ..b8 est li√  √  la
+protection du Ó Pd7, ainsi que la Ó B, les Ó R Noires ne peuvent pas bouger.
+Le seul coup est Ó Pc8 mais avec un mat en 2.  Malgr√  un 1/4 d'heure de r√
+ flexion, les Blancs n'ont pas vu que les Noirs √ taient en zugzwang et il
+aurait mieux vallu d'approfondir la r√ flexion pour peut-√|_tre trouver la
+pointe 23.a3  Apr√..s le 22√..me coup, les Blancs avaient encore 38 mns √  la
+pendule contre une heure pour l'adversaire et ils pouvaient utiliser 5 √  10
+mns suppl√ mentaires pour trouver un meilleur coup que Ó Rb4 mais peut-√|_tre
+que les Blancs ont vu la suite de la partie qui m√..ne √  une nulle rapide qui
+est un bon r√ sultat face √  un 2600. } 23... Qxa3 ( 23... Bc8 24. Qf6+ Re7 25. Qxe7# ) 24. Rfxd7+ ) 23... Qxb4 { [%emt 0:08:19] } 24. Rxd7+ { [%emt 0:00:10] Gagne la Ó B
+mais les Blancs vont manquer de mat√ riel pour mater } 24... Nxd7 { [%emt 0:00:01] } 25. Nc6+ { [%emt 0:00:07] } 25... Kc7 { [%emt 0:04:29] } 26. Nxb4 { [%emt 0:00:04] } 26... a5 { [%emt
+0:01:22] } 27. Qc3+ { [%emt 0:00:38] } 27... Nc5 $132 { [%emt 0:00:19] } 28. Nd3 { [%emt 0:
+00:09] } 28... Kc6 $1 { [%emt 0:01:09] } 29. Nxc5 { [%emt 0:01:31] } 29... dxc5 { [%emt 0:00:07] } 30. Qf3+ { [%emt 0:01:54] } 30... Kb6 { [%emt 0:03:25] } 31. Qb3+ { [%emt 0:00:59] } 31... Kc6 { [%emt 0:00:03] } 32. Qf3+ { [%emt 0:00:13] } 32... Kb6 { [%emt 0:00:01] } 33. Qb3+ { [%emt
+0:00:44] } 1/2-1/2
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.27"]
+[Round "8"]
+[White "Mohammad, Nubairshah Shaikh"]
+[Black "Shchekachev, Andrei"]
+[Result "1/2-1/2"]
+[Annotator "ChessBase II"]
+[BlackElo "2529"]
+[ECO "E46"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "40"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2415"]
+
+1. d4 { [%emt 0:06:50] } 1... Nf6 { [%emt 0:00:00] } 2. c4 { [%emt 0:00:02] } 2... e6 { [%emt 0:
+00:00] } 3. Nc3 { [%emt 0:00:02] } 3... Bb4 { [%emt 0:00:10] } 4. e3 { [%emt 0:00:01] } 4... O-O { [%emt 0:01:00] } ( 4... c5 ) ( 4... d5 ) 5. Ne2 { [%emt 0:00:02] } 5... Re8 { [%emt 0:02:
+24] } ( 5... c6 { A la ronde 2, j'ai essay√  cette ligne secondaire interessante } 6. a3 Ba5 7. b4 Bc7 8. d5 $5 Qe7 9. g3 $1 a5 10. b5 $14 Be5 $5 { Duhayon,Y 
+(2136)-Primel,D 36th Cappelle Open 2020 2020 (2.40) 0-1 } ) 6. a3 { [%emt 0:00:02] } 6... Bf8 { [%emt 0:00:12] } 7. Ng3 { [%emt 0:00:02] Lib√ rant le Ó P et luttant pour
+le contr√'le de la case "e4" } ( 7. d5 a5 8. g3 ) 7... d5 { [%emt 0:01:42] Sinon
+les Blancs peuvent prendre de l'espace avec la pouss√ e d4d5 } ( 7... d6 8. Bd3 e5 9. d5 $14 ) 8. Be2 { [%emt 0:00:02] } 8... b6 { [%emt 0:07:35] } ( 8... dxc4 9. Bxc4 c5 10. dxc5 { [%cal Gb2b4] } 10... Qxd1+ 11. Nxd1 Bxc5 12. b4 Bd6 13. Bb2 Nbd7 $11 { Mohammad,N (2408)-Hammer,J (2630) PRO League KO Stage 2017 (1) 1/2-1/2 } ) ( 8... c5 9. dxc5 Bxc5 10. b4 $14 Bf8 { Ott,F (2254)-Zeller,F (2402) Vienna op 2015 (3)
+1-0 } ) 9. O-O { [%emt 0:00:03] } 9... Bb7 { [%emt 0:01:01] } 10. Qc2 { [%emt 0:00:29] } ( 10. b4 Nbd7 11. Qb3 c6 12. Rd1 a5 ( 12... Qc7 13. Bb2 Rad8 ) 13. Bd2 axb4 14. axb4 Qe7 15. cxd5 exd5 16. Qc2 g6 17. Bd3 Bg7 18. Nce2 b5 19. Rxa8 Rxa8 20. Nc1 Nb6 21. Nb3 Nc4 22. Be1 h5 23. Nf1 Bc8 24. Ra1 Rxa1 25. Nxa1 Qa7 26. Nb3 Ne8 27. Nfd2 Ned6 28. Na5 Qc7 29. Qa2 Qa7 30. Ndb3 Bf5 31. Bf1 Qa8 32. Nc5 Ne4 33. Bd3 Ned6 34. Bf1 Bf8 35. Qa1 Ne4 36. Nab3 Qxa1 { 1/2-1/2 (36) Aleksandrov,A 
+(2577)-Le,Q (2708) Khanty-Mansiysk 2019 } ) 10... Nbd7 { [%emt 0:04:00] } 11. Rd1 { [%emt 0:00:01][%cal Gd1d8] } 11... a6 $146 { [%emt 0:01:14] } ( 11... c5 12. dxc5 bxc5 13. cxd5 exd5 14. Bf3 Nb6 15. Nxd5 Bxd5 16. Bxd5 Nbxd5 17. e4 Qa5 18. exd5 Re1+ 19. Nf1 Rxd1 20. Qxd1 Rd8 21. Ne3 Nxd5 22. Nxd5 Rxd5 23. Qe2 c4 24. Be3 c3 25. g3 h5 26. h4 Re5 27. Rc1 cxb2 28. Qxb2 Rb5 29. Qd4 a6 30. Rc8 Qxa3 31. Qd8 Re5 32. Kg2 Qb4 33. Bd2 Qa3 34. Bc1 Qb4 35. Bd2 Qa3 36. Bc1 { 1/2-1/2 (36) Zujev,O 
+(2381)-Iturrizaga Bonelli,E (2665) London 2017 } ) 12. b4 { [%emt 0:00:32] } 12... c5 { [%emt 0:00:24][%cal Ga8c8,Gc8c2] } 13. bxc5 { [%emt 0:00:04] } 13... bxc5 { [%emt 0:00:
+05] } 14. Rb1 { [%emt 0:00:13] } 14... Qc7 { [%emt 0:00:14] } 15. cxd5 { [%emt 0:00:27] } 15... Nxd5 { [%emt 0:00:13] } 16. Nce4 $5 { [%emt 0:00:36][%csl Rc5][%cal Gc2c7] } 16... Rab8 { [%emt 0:01:05] } 17. Bb2 { [%emt 0:00:29] } ( 17. Ng5 ) 17... h6 { [%emt 0:03:04] } 18. dxc5 { [%emt 0:00:08] } 18... Nxc5 { [%emt 0:00:12] } 19. Nxc5 { [%emt 0:01:01] } 19... Bxc5 { [%emt 0:00:24] } 20. Rbc1 { [%emt 0:00:07] } 20... Rec8 { [%emt 0:00:24] } 1/2-1/2
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.27"]
+[Round "8"]
+[White "Moussard, Jules"]
+[Black "Guliyev, Namig"]
+[Result "1-0"]
+[Annotator "Primel,D"]
+[BlackElo "2537"]
+[ECO "B56"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "97"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2608"]
+
+1. e4 { [%emt 0:05:47] Une partie importante dans la course √  la premi√..re
+place } 1... c5 { [%emt 0:00:00] } 2. Nf3 { [%emt 0:00:05] } 2... d6 { [%emt 0:00:00] } 3. d4 { [%emt 0:00:09] } 3... cxd4 { [%emt 0:00:00] } 4. Nxd4 { [%emt 0:00:06] } 4... Nf6 { [%emt 0:00:
+00] } 5. Nc3 { [%emt 0:00:10] } 5... a6 { [%emt 0:00:00] } 6. Nb3 { [%emt 0:00:37] Une
+ligne secondaire devenue populaire lorsque le Top GMI BARTEL a commenc√  √  la
+pratiquer √  haut niveau en 2016.  Le pr√ curseur historique √ tait Efim
+GELLER mais avec un seul essai dans les ann√ es 60 avec une partie jou√ e √ 
+l'interzonal mais comme la partie avait transpos√  dans la variante 6.Ó Pe2 de
+la Najdorf apr√..s 6.Ó ..b3 e5 7.Ó Pe2, elle n'a pas attir√  l'attention. Il
+est m√|_me possible qu'il s'agisse d'une erreur de saisie et il faudrait
+consulter le bulletin de l'interzonal. } 6... Nc6 { [%emt 0:05:38] L'az√ ri n'avait
+peut-√|_tre pas pr√|_t√  attention au changement de r√ pertoire de son
+adversaire qui avait d√ j√  jou√  cette variante √  la ronde 4 et il commence
+√  r√ fl√ chir. } ( 6... e6 { Moussard,J (2608)-Maerevoet,S (2412) Cappelle op
+36th 2020 (4.4) 1-0 } ) ( 6... Nbd7 7. g4 $1 { [%csl Rf6][%cal Gg4g5] Le plus
+logique car le Ó ..f6 n'a pas la case de repli d7 } 7... h6 8. a4 g5 ( 8... Qc7 9. Bg2 Ne5 10. h3 g5 11. f4 $1 { Bartel,M (2623)-Ragger,M (2695) Bundesliga 1516 2015 
+(12.7) 1-0 } ) ( 8... b6 9. Bg2 { [%cal Ge4e5,Gg2a8] } 9... Ne5 ( 9... Bb7 10. f4 ( 10. h4 g6 11. Qe2 Rc8 12. Rh3 $5 Bg7 13. h5 g5 14. Nd4 { [%csl Gf5] } 14... Ne5 ( 14... e6 $143 15. Nd5 $5 { [%csl Re8][%cal Ge2e8] Th√ matique et logique avec le vis-√ -vis Ó
+ B et Ó N } 15... O-O 16. Nxf6+ Nxf6 17. f4 gxf4 18. g5 ( 18. Bxf4 e5 ) 18... hxg5 19. h6 Bh8 20. h7+ $1 Kg7 ( 20... Nxh7 $2 21. Qh5 ) 21. Bxf4 $1 gxf4 22. Qf2 $1 $40 { [%csl Rg7][%cal Gf2h4,Gh4g5,Gh4h6] } ) 15. Nf5 Bf8 16. f4 $13 { Aryan,C (2553)
+-Gopal,G (2594) Biel MTO op 52nd 2019 (9) 1/2-1/2 } ) 10... e5 $5 { Peut-√|_tre
+la ligne la plus simple pour √ galiser m√|_me si les Noirs doivent jouer avec
+pr√ cision. } ( 10... g6 ) 11. O-O g6 12. Qf3 { [%cal Gf3f7] } 12... Bg7 13. h4 O-O $1 { N'ayant pas peur des fantomes } 14. f5 Nh7 $5 { [%csl Gg5][%cal Gf8f3] } 15. g5 hxg5 16. hxg5 Nxg5 17. Qg4 $13 { Alekseenko,K (2638)-Kokarev,D (2598) RUS Cup
+final 2018 (3.1) 1/2-1/2 } ) 10. h3 g5 11. f4 $14 { Alekseenko,K (2554)-Lu,S 
+(2615) Chigorin Memorial 24th 2016 (9) 1-0 } ) 9. h4 Rg8 $13 { Supi,L (2530)
+-Delgado Ramirez,N (2622) Rio Branco Acre GM 2017 (3) 1/2-1/2 } ) ( 6... e5 7. Be2 ( 7. Bg5 $5 { Comme les Blancs n'ont pas jou√  Ó Pe2, ils peuvent essayer de
+lutter pour le contr√'le de la case "d5" en gardant l'option Ó Pc4 comme
+l'avait montr√  une vieille partie du tournoi de Caissa que j'avais saisie. } 7... Be7 8. Bxf6 ( 8. Qd2 Be6 9. O-O-O $32 ) ( 8. Bc4 b5 $6 ( 8... O-O 9. O-O ( 9. Bxf6 Bxf6 10. a4 Nc6 11. O-O Be6 12. Nd5 $14 { [%csl Gd5];Djurhuus,R (2455)-Ziska,H 
+(2474) Oslo Sveins op 6th 2013 (9) 1-0 } ) 9... b5 ) 9. Bxf6 Bxf6 10. Bxf7+ $1 Kf8 11. Bd5 { Bereczki,I (2205)-Szulics,I Nyiregyhaza op 1998 (1) 1-0 } ) 8... Bxf6 9. Nd5 $14 { [%csl Gd5,Rf6];Rosenberg,S-Scherbakoff,G Paris Caissa Autumn  1955 (1)
+0-1 } ) 7... Be7 { Geller,E-Stein,L Interzonal-05 1962 (3) 1-0 } ) 7. Be3 { [%emt 0:
+01:08] } 7... e6 { [%emt 0:00:56] } ( 7... Ng4 8. Bd2 Nf6 9. Be3 Ng4 { Avec une nulle
+par r√ p√ tition de position } ) 8. g4 $1 { [%emt 0:02:16] le plan des Noirs avec
+e6d6 et Ó ..f6 rend tentant de jouer dans l'esprit d'une attaque Keres } ( 8. a4 ) 8... b5 { [%emt 0:04:06] } ( 8... h5 9. gxh5 b5 10. Bg2 Ne5 11. a4 b4 12. Ne2 Bb7 13. Ng3 Rc8 14. O-O d5 15. Bd4 Nc4 16. exd5 Nxd5 17. Qg4 Qc7 18. Rfe1 Nf6 19. Bxf6 gxf6 20. Bxb7 Qxb7 21. Rad1 Ne5 22. Rxe5 fxe5 23. Ne4 Be7 24. h6 Rc4 25. Qg7 Qxe4 26. Qxh8+ Bf8 27. Rd8+ Kxd8 28. Qxf8+ Kc7 29. Qxf7+ Kb8 30. Qf8+ Ka7 31. Qe7+ Kb8 32. Qd6+ Ka7 33. Qd7+ Kb8 34. Qd8+ Ka7 35. Qe7+ Kb8 36. Qd6+ Ka7 37. Qd7+ Kb8 38. Qd6+ { Alekseenko,K (2704)-Korobov,A (2668) Moscow 2019 1/2-1/2 } ) ( 8... h6 9. h4 Qc7 10. Bg2 Ne5 11. g5 hxg5 12. hxg5 Rxh1+ 13. Bxh1 Nfd7 14. Nd2 $13 { [%csl Gc4];Bellahcene,B (2541)-Oussedik,M (2440) Africa-ch Hammamet
+2019 (6) 1-0 } ) 9. Bg2 { [%emt 0:02:37] } ( 9. g5 Nd7 10. Bg2 $14 ) 9... Bb7 { [%emt
+0:03:00] } 10. a3 $6 $146 { [%emt 0:15:00][%csl Rc4] Fin de la pr√ paration des
+Blancs mais ce coup a le d√ faut d'affaiblir la case "c4" } ( 10. g5 Nd7 11. f4 Nb6 12. Qe2 Nc4 13. O-O-O Nxe3 14. Qxe3 Na5 15. f5 Nc4 16. Qg3 b4 17. Na4 e5 18. Nac5 Bc6 19. Bf1 Nb6 20. Nxa6 Be7 21. f6 gxf6 22. Nxb4 Bxe4 23. Bg2 Bg6 24. Bxa8 Qxa8 25. Qf2 Nd7 26. Nd5 Qxa2 27. gxf6 Bf8 28. Qd2 h5 29. Nc3 Qa6 30. Qf2 Bh6+ 31. Kb1 O-O 32. Qe2 Qxe2 33. Nxe2 Nxf6 34. Rxd6 Ng4 35. Nc3 Ne3 36. Rg1 Kh7 37. Rgxg6 fxg6 38. Nd2 Bf4 39. h3 g5 { Bartel,M (2625)-Gelfand,B (2735)
+Moscow 2016 1/2-1/2 (77) } ) 10... Ne5 $1 { [%emt 0:03:52][%csl Gc4][%cal Ge5c4,
+Gc4e3,Gc4b2] Evacue la case d7 pour le Ó ..f6 tout en faisant pression sur
+l'aile-dame } 11. g5 { [%emt 0:00:07] } 11... Nfd7 { [%emt 0:00:11] } 12. Qd4 { [%emt 0:02:
+23][%cal Ge1c1] Donne la possibilit√  du ooo mais la Ó Bd4 est un peu expos√ e
+au centre } 12... Nc4 { [%emt 0:03:59] } 13. O-O-O $5 { [%emt 0:00:46] Risqu√  apr√..s
+la pouss√ e a3 } 13... Rc8 $1 { [%emt 0:02:21] Le Ó N Noir est en s√ curit√  au centre
+et les Noirs ont du contre-jeu √  l'aile-dame } 14. f4 { [%emt 0:04:20] } 14... Qc7 $132 { [%emt 0:04:26][%csl Gc4][%cal Gc4b2,Gc7c3,Gc4a3,Gc4e3] } 15. Bd2 { [%emt 0:02:
+12] } ( 15. h4 $2 Nxa3 ) 15... Ndb6 $1 $15 { [%emt 0:04:58] L'attaque Noire est
+plus rapide } 16. Na1 { [%emt 0:11:47][%cal Ga1c2] Le signe que l'ouverture des
+Blancs n'est pas une r√ ussite } 16... e5 { [%emt 0:04:30] } ( 16... d5 $5 { [%csl Gf8]
+Avec un Ó N au centre, la pouss√ e d5 peut faire peur mais elle lib√..re le Ó
+ Pf8 } 17. exd5 Nxd2 18. Rxd2 Nc4 19. Re2 Bc5 $1 20. Qxg7 Qxf4+ $1 21. Kb1 Bd4 22. Qg6 Nxa3+ $40 ) ( 16... Nxd2 $1 { Principe de la pi√..ce superflue avec les Ó
+ ..b6 et c4 qui visent les m√|_mes cases. Il y a donc une pi√..ce en "trop" } 17. Rxd2 Nc4 $17 18. Rd3 ( 18. Rdd1 Nxa3 { [%csl Rc3] } ) 18... e5 19. Qf2 d5 { La
+pouss√ e th√ matique dans la sicilienne qui semble tr√..s forte malgr√  le Ó N
+Noir au centre } 20. Nxd5 ( 20. fxe5 Nxe5 ) ( 20. exd5 Bc5 $44 { [%csl Gc5] } 21. Qe2 O-O { [%csl Ra1] Et avec la paire de Ó P et des pi√..ces plus actives, les
+Noirs gardent l'avantage } ) 20... Bxd5 21. Rxd5 exf4 ) 17. Qf2 { [%emt 0:00:28] } 17... Be7 { [%emt 0:15:09] } 18. h4 { [%emt 0:07:29] } 18... Nxb2 $6 { [%emt 0:12:37] } 19. Kxb2 { [%emt 0:00:14] } 19... Nc4+ { [%emt 0:01:40] } 20. Kb3 $1 { [%emt 0:00:04] Jou√  √ 
+tempo et il n'est pas certain que les compensations Noires soient suffisantes } 20... d5 { [%emt 0:06:00] } 21. Nxd5 $1 { [%emt 0:03:13][%cal Gd5c7] Force des √
+ changes et sans paire de Ó P, les compensations Noires s'amoindrissent } 21... Bxd5 { [%emt 0:02:17] } 22. exd5 { [%emt 0:00:14] } 22... Nxa3 { [%emt 0:00:13] } 23. Rh3 $6 { [%emt 0:03:05][%cal Gh3c3] Un coup humain mais inutile car le Ó Pd2 d√ fendait
+d√ j√  la case "c3" } ( 23. Qe2 $8 { [%csl Gc4] } 23... Nxc2 24. Qd3 Nd4+ 25. Kb2 { Et
+l'attaque Noire s'essoufle } ) 23... Qc4+ $1 { [%emt 0:08:01] } 24. Kb2 { [%emt 0:
+00:04] } 24... Bc5 $1 { [%emt 0:06:56][%cal Gc5f2,Gc5d4,Gd4b2] } 25. Qf3 { [%emt 0:11:35] } 25... Bd4+ $6 { [%emt 0:04:58] } ( 25... O-O $5 { L'apport d'une Ó R suppl√ mentaire
+peut-√|_tre utile √  l'attaque } 26. c3 Qa4 $40 { [%cal Ga3c4] } ) 26. c3 { [%emt 0:
+00:05] } ( 26. Kxa3 Qa4# ) 26... Qb4+ { [%emt 0:01:31] } 27. Ka2 { [%emt 0:00:05] } 27... Qa4 { [%emt 0:00:33] } 28. cxd4 $1 { [%emt 0:00:47][%cal Gf3a3,Gf3b3] } 28... Nc2+ { [%emt 0:02:43] } 29. Kb2 { [%emt 0:00:03] } 29... Nxa1 { [%emt 0:01:09] } 30. Bc3 { [%emt
+0:09:54] } ( 30. Rxa1 Qc2+ 31. Ka3 Qa4+ 32. Kb2 Qc2+ { For√Pant la nulle } ) 30... b4 { [%emt 0:00:07] } 31. Rxa1 { [%emt 0:00:59] } 31... bxc3+ { [%emt 0:00:03] } 32. Qxc3 $1 { [%emt 0:00:02] } 32... Qb5+ { [%emt 0:00:14] } 33. Qb3 { [%emt 0:00:03] } 33... Qe2+ { [%emt
+0:00:17] } 34. Ka3 { [%emt 0:00:01] } 34... Qxg2 { [%emt 0:00:20] } 35. Qa4+ $1 { [%emt 0:
+00:56] Illustrant le probl√..me d'avoir rat√  l'occasion de roquer au 25√..me
+coup } 35... Kf8 { [%emt 0:00:24] } 36. Qb4+ $16 { [%emt 0:00:41] } 36... Kg8 { [%emt 0:00:37] } 37. Re3 { [%emt 0:01:06] } 37... h6 { [%emt 0:01:32] } 38. d6 { [%emt 0:02:14] } 38... Kh7 { [%emt 0:01:45] } 39. dxe5 { [%emt 0:00:11] } 39... g6 { [%emt 0:00:18] } 40. Rb1 { [%emt 0:
+00:00] } 40... hxg5 { [%emt 0:00:00] } 41. Qb7 $1 { [%emt 0:08:29][%csl Rf7][%cal Ge5e6,
+Gb7f7,Gf7h7] } 41... Qxb7 { [%emt 0:05:31] } 42. Rxb7 { [%emt 0:00:58] } 42... Kg8 { [%emt 0:01:
+26] } 43. hxg5 { [%emt 0:06:03] } 43... Rh4 { [%emt 0:27:12] } 44. f5 $1 { [%emt 0:33:27] } 44... gxf5 { [%emt 0:00:00] } 45. g6 { [%emt 0:00:00] } 45... f4 { [%emt 0:00:00] } 46. gxf7+ { [%emt 0:00:00] } 46... Kg7 { [%emt 0:00:00] } 47. d7 { [%emt 0:00:00] } 47... Rf8 { [%emt 0:00:
+00] } 48. e6 { [%emt 0:00:00] } 48... fxe3 { [%emt 0:00:00] } 49. e7 { [%emt 0:00:00] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.27"]
+[Round "8"]
+[White "Stany, George Anthony"]
+[Black "Rathnakaran, Kantholi"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2334"]
+[ECO "C02"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "67"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2522"]
+
+1. e4 { [%emt 0:00:00] } 1... e6 { [%emt 0:00:00] } 2. d4 { [%emt 0:00:00] } 2... d5 { [%emt 0:
+00:00] } 3. e5 { [%emt 0:00:00] } 3... c5 { [%emt 0:00:00] } 4. c3 { [%emt 0:00:00] } 4... Nc6 { [%emt 0:00:00] } 5. Nf3 { [%emt 0:00:00] } 5... Bd7 { [%emt 0:00:00] } 6. Be2 { [%emt 0:
+00:00] } 6... Nge7 { [%emt 0:00:21] } 7. O-O { [%emt 0:00:40] } ( 7. Na3 ) 7... b6 $6 { [%emt 0:01:08] Trop passif } ( 7... Ng6 8. a3 Be7 9. Be3 cxd4 10. cxd4 O-O 11. Bd3 a6 12. Nc3 Rc8 13. Rc1 Na5 14. Nd2 b5 15. f4 Nc4 16. Nxc4 bxc4 17. Bb1 Rb8 18. Rf2 f5 19. exf6 Bxf6 20. f5 Ne7 21. fxe6 Bxe6 22. Qe2 Qd7 23. Rcf1 Nc6 24. Qd2 Be7 25. Rxf8+ Rxf8 26. Rxf8+ Bxf8 27. Qf2 g6 28. h3 Bg7 29. Qf4 Bf7 30. Bc2 h6 31. Ba4 Qe6 32. Bxc6 Qxc6 33. Qb8+ Kh7 34. Qa7 Qe6 35. Bf2 g5 36. Qb7 h5 37. Qc7 { Mamedov,R (2645)-Bruzon Batista,L (2644) chess24.com INT 2020 0-1 } ) 8. Na3 $36 { [%emt 0:12:10][%csl Re8][%cal Ga3b5,Gb5d6] } 8... a6 { [%emt 0:00:08] } 9. Nc2 { [%emt 0:03:36] } 9... Qc7 { [%emt 0:01:48] } 10. b3 { [%emt 0:10:49] } 10... cxd4 { [%emt 0:06:
+04] } 11. cxd4 { [%emt 0:02:19] } 11... f6 { [%emt 0:00:04] } 12. Re1 { [%emt 0:09:37] } 12... Ng6 { [%emt 0:00:54] } 13. Bd3 { [%emt 0:00:18] } 13... Be7 { [%emt 0:06:59] } 14. exf6 { [%emt
+0:19:31] } 14... gxf6 { [%emt 0:00:20] } 15. Nh4 $1 { [%emt 0:01:19] } 15... O-O-O { [%emt 0:07:
+24] } ( 15... Nxh4 16. Qh5+ ) 16. Bxa6+ { [%emt 0:02:38] Avec des roques sur les
+ailes oppos√ es, la position n'est pas si claire mais la perte d'un Ó   ne va
+pas arranger la position Noire d√ j√  difficile √  jouer. } 16... Kb8 { [%emt 0:00:40] } 17. Nf3 { [%emt 0:00:55] } 17... Rdg8 { [%emt 0:00:07] } 18. Bf1 { [%emt 0:02:44] } 18... h5 { [%emt 0:00:35] } 19. a4 { [%emt 0:07:38] } 19... Rg7 { [%emt 0:13:02] } 20. Na3 { [%emt 0:
+01:17] } 20... Nf4 { [%emt 0:06:48] } 21. Kh1 { [%emt 0:00:17] } 21... Bxa3 { [%emt 0:04:06] } ( 21... Rhg8 22. g3 ) 22. Rxa3 { [%emt 0:00:32] } 22... h4 { [%emt 0:00:05] } 23. b4 { [%emt
+0:05:33] } 23... Rhg8 { [%emt 0:08:25] } 24. Nxh4 $18 { [%emt 0:00:38] Les Noirs n'ont
+aucune compensation } 24... e5 { [%emt 0:00:28] } 25. dxe5 { [%emt 0:02:22] } 25... fxe5 { [%emt
+0:01:55] } 26. b5 { [%emt 0:05:20] } 26... Nh3 { [%emt 0:06:08] } ( 26... Na5 ) 27. Rxh3 { [%emt 0:01:30] } 27... Bxh3 { [%emt 0:00:05] } 28. bxc6 { [%emt 0:00:04] } 28... Qd8 { [%emt 0:
+00:17] } 29. Qh5 { [%emt 0:01:34] } 29... Ka7 { [%emt 0:01:15] } 30. a5 { [%emt 0:01:53] } 30... bxa5 { [%emt 0:01:00] } 31. Qxe5 { [%emt 0:01:52] } 31... Qxh4 { [%emt 0:01:01] } 32. Be3+ { [%emt 0:00:02] } 32... Ka8 { [%emt 0:00:08] } 33. Qxd5 { [%emt 0:00:05] } 33... Kb8 { [%emt 0:
+06:55] } 34. Rb1+ { [%emt 0:00:55] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.28"]
+[Round "9"]
+[White "Antonio, Viani D'Cunha"]
+[Black "Dimitrov, Radoslav"]
+[Result "0-1"]
+[Annotator "ChessBase II"]
+[BlackElo "2519"]
+[ECO "B04"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "115"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2403"]
+
+1. e4 { [%emt 0:00:07] } 1... Nf6 { [%emt 0:06:26] } 2. e5 { [%emt 0:00:17] } 2... Nd5 { [%emt
+0:00:02] } 3. d4 { [%emt 0:00:10] } 3... d6 { [%emt 0:00:01] } 4. Nf3 { [%emt 0:00:11] } 4... dxe5 { [%emt 0:00:09] } 5. Nxe5 { [%emt 0:00:22] } 5... c6 { [%emt 0:00:07] } 6. Be2 { [%emt 0:00:37] } 6... Bf5 { [%emt 0:00:30] } 7. O-O { [%emt 0:01:03] } ( 7. g4 ) 7... Nd7 { [%emt 0:00:22] } 8. Nf3 { [%emt 0:00:41] } 8... e6 { [%emt 0:00:05] } 9. c4 { [%emt 0:00:
+48] } 9... N5f6 { [%emt 0:00:02] } ( 9... Nb4 10. a3 Nc2 11. Ra2 $36 { [%csl Rc2][%cal
+Gb2b4] } ) 10. Nh4 { [%emt 0:01:02] } 10... Bg6 { [%emt 0:00:28] } 11. Nc3 { [%emt 0:01:16] } 11... Bd6 { [%emt 0:00:07] } 12. g3 { [%emt 0:05:04] } 12... e5 $146 { [%emt 0:01:00] } ( 12... O-O 13. Nxg6 hxg6 14. Bf3 Re8 15. Bg2 Qc7 16. Be3 e5 17. c5 Bf8 18. b4 exd4 19. Bxd4 Rad8 20. Qb3 Ne5 21. Rad1 Rd7 22. Be3 Red8 23. Rxd7 Rxd7 24. Rd1 Qc8 25. Bf4 Rxd1+ 26. Nxd1 Ned7 27. Nb2 a5 28. a3 axb4 29. axb4 b6 30. cxb6 Nxb6 31. b5 cxb5 { 1/2-1/2 (31) Ragger,M (2674)-Movsesian,S (2641) Austria 2020 } ) 13. d5 { [%emt 0:06:14] } ( 13. dxe5 Bxe5 14. Na4 Bc7 15. Qb3 Be4 16. Be3 Qc8 17. Nc3 Bg6 18. Qa3 Bd8 19. Bf4 Be7 20. Bd6 Bxd6 21. Qxd6 Qb8 22. Qa3 Qc7 23. Rfe1 O-O-O 24. Qxa7 Qb6 25. Qa3 Kb8 26. Rad1 Nc5 27. b4 Nce4 28. c5 Qc7 29. Na4 Rxd1 30. Rxd1 Nd7 31. Nxg6 hxg6 32. Qe3 Ndf6 33. Nb6 Re8 34. Qa3 Qe7 35. Bf3 g5 36. h3 Rd8 37. Re1 { 1-0 (37) Krueger,H (2336)-Ambirk,J (2051) ICCF email 2013 } ) 13... Bc5 { [%emt 0:05:27] } 14. Bf3 { [%emt 0:07:01] } 14... Rc8 { [%emt 0:00:01] } 15. dxc6 { [%emt 0:02:45] } 15... bxc6 { [%emt 0:00:02] } 16. Nxg6 { [%emt 0:02:56] } 16... hxg6 { [%emt 0:
+00:02] } 17. b3 { [%emt 0:03:03] } 17... Bd4 { [%emt 0:03:28] } 18. Bb2 $16 { [%emt 0:02:
+08][%csl Gb2,Gf3] } 18... O-O { [%emt 0:00:26] } 19. Qc2 { [%emt 0:01:48] } 19... Re8 { [%emt 0:
+02:22] } 20. Rad1 { [%emt 0:02:34] } 20... Qc7 { [%emt 0:03:58] } 21. Rfe1 { [%emt 0:04:07] } 21... Nc5 { [%emt 0:01:53] } 22. Bg2 { [%emt 0:11:12] } 22... a5 { [%emt 0:04:48] } 23. Ne2 { [%emt 0:02:52] } 23... Bxb2 { [%emt 0:41:56] } 24. Qxb2 { [%emt 0:00:10] } 24... e4 { [%emt 0:00:
+56][%csl Rg2][%cal Gc5d3] } 25. Qb1 { [%emt 0:11:38] } 25... Nd3 $36 { [%emt 0:05:26] } 26. Rf1 { [%emt 0:00:07] } 26... Qe5 { [%emt 0:02:31] } 27. Nc1 { [%emt 0:08:07] } 27... Nc5 $1 $17 { [%emt 0:01:00] } 28. Rfe1 { [%emt 0:00:30] } 28... Qh5 { [%emt 0:01:01] } 29. Qc2 { [%emt 0:02:15] } 29... Ng4 { [%emt 0:01:48] } 30. h3 { [%emt 0:03:37] } 30... Ne5 $40 { [%emt 0:
+00:01][%cal Ge5d3,Ge5f3] } 31. Qe2 { [%emt 0:01:39] } 31... Qxe2 { [%emt 0:03:09] } ( 31... Nf3+ $4 32. Bxf3 exf3 33. Qxe8+ Rxe8 34. Rxe8+ Kh7 35. Rdd8 { [%csl Rh5,Rh7]
+[%cal Ge8h8] } ) 32. Rxe2 { [%emt 0:01:20] } 32... f5 { [%emt 0:00:02] } 33. Red2 { [%emt 0:
+01:56] } 33... Rb8 { [%emt 0:00:04] } 34. Ne2 { [%emt 0:10:14] } 34... a4 $1 { [%emt 0:00:52] } 35. bxa4 { [%emt 0:00:24] } 35... Nxa4 { [%emt 0:00:02] } 36. Rd6 { [%emt 0:01:34] } 36... Nb2 { [%emt 0:01:24] } 37. Rc1 { [%emt 0:00:52] } 37... Nbxc4 { [%emt 0:04:19] } 38. Rdd1 { [%emt 0:02:30] } 38... Nb2 $1 { [%emt 0:01:06][%csl Gb2,Ge5,Rg2][%cal Gb2d3] La paire
+de Ó .. est terrible } 39. Rf1 { [%emt 0:00:03] } 39... Nbd3 { [%emt 0:00:20] } 40. Rc3 { [%emt 0:00:00] } 40... c5 { [%emt 0:00:00] } 41. f3 { [%emt 0:06:03] } 41... exf3 { [%emt 0:18:
+29] } 42. Bxf3 { [%emt 0:00:07] } 42... Nxf3+ { [%emt 0:00:06] } 43. Rxf3 { [%emt 0:00:04] } 43... Rxe2 { [%emt 0:00:40] } 44. Rcxd3 { [%emt 0:00:07] } 44... Rb1+ { [%emt 0:00:20] } 45. Rf1 { [%emt 0:00:08] } 45... Rbb2 { [%emt 0:00:02] } 46. Ra1 { [%emt 0:02:47] } 46... Rxa2 { [%emt 0:
+01:56] } 47. Rxa2 { [%emt 0:00:16] } 47... Rxa2 { [%emt 0:00:03] } 48. Rc3 { [%emt 0:02:34] } 48... Ra5 { [%emt 0:00:11] } 49. Kf2 { [%emt 0:00:56] } 49... Kf7 { [%emt 0:00:01] } 50. Ke3 { [%emt 0:00:39] } 50... g5 { [%emt 0:00:46] } 51. Kd3 { [%emt 0:01:40] } 51... Ke6 { [%emt 0:00:
+44] } 52. Kc4 { [%emt 0:00:29] } 52... f4 { [%emt 0:00:10] } 53. Rd3 { [%emt 0:03:46] } 53... g6 { [%emt 0:00:54] } 54. g4 { [%emt 0:05:06] } 54... Ra8 { [%emt 0:03:06] } 55. Rb3 { [%emt 0:
+08:11] } 55... Ke5 { [%emt 0:01:15] } 56. Rb6 { [%emt 0:00:50] } 56... f3 { [%emt 0:00:34] } 57. Rxg6 { [%emt 0:00:35] } 57... Rf8 { [%emt 0:00:33] } 58. Rxg5+ { [%emt 0:09:28] } 0-1
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.28"]
+[Round "9"]
+[White "Bauer, Christian"]
+[Black "Navrotescu, Andreea Cristiana"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2247"]
+[ECO "A00"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "55"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2630"]
+
+1. Nc3 { [%emt 0:00:00] } 1... c5 { [%emt 0:00:00] } 2. Nf3 { [%emt 0:00:00] } 2... Nc6 { [%emt
+0:00:04] } 3. d4 { [%emt 0:00:20] } 3... cxd4 { [%emt 0:00:21] } 4. Nxd4 { [%emt 0:00:01] } 4... Nf6 { [%emt 0:04:19] } 5. Bg5 $5 { [%emt 0:14:41] } ( 5. e4 { Aurait transpos√  dans
+une sicilienne mais apr√..s une longue r√ flexion, le GMI tente de sortir son
+adversaire de sa zone de confort avec une ligne secondaire car Andr√ a a la
+sicilienne √  son r√ pertoire } ) 5... Qa5 $6 { [%emt 0:09:43] } ( 5... Qb6 $5 { [%cal Gb6b2,Gc6d4] } 6. Nb3 e6 7. e4 Be7 ( 7... d6 ) 8. Bd3 a6 9. Qe2 d6 10. O-O-O Qc7 11. f4 h6 12. Bh4 Nxe4 13. Nxe4 Bxh4 14. Qg4 d5 15. Qxh4 dxe4 16. Bxe4 O-O 17. Kb1 a5 18. Nd4 Nxd4 19. Rxd4 Bd7 20. Qe7 Rad8 21. Rhd1 Rfe8 22. Rxd7 Rxe7 23. Rxd8+ { 1-0 (23) Andreikin,D (2720)-Rublevsky,S (2702) Berlin 2015 } ) ( 5... e6 $142 6. e4 d6 7. Qd2 a6 { Transposant dans une Rauzer } ) 6. Bxf6 { [%emt 0:00:
+58] } 6... gxf6 { [%emt 0:00:10] } 7. Nb3 $1 { [%emt 0:00:25][%csl Gd5] } 7... Qd8 { [%emt 0:
+01:13] } 8. e4 $14 { [%emt 0:01:09] } 8... a6 { [%emt 0:04:28] } 9. Qh5 { [%emt 0:01:56]
+[%cal Gf1c4] } 9... e6 { [%emt 0:03:06] } 10. Be2 { [%emt 0:08:48] } 10... Qc7 { [%emt 0:01:41] } 11. O-O { [%emt 0:00:43] } 11... Qf4 $6 { [%emt 0:08:25] 4 coups de Ó B en 11 coups! } 12. g3 { [%emt 0:03:13] } 12... Qg5 { [%emt 0:02:30] } 13. Na4 $1 { [%emt 0:14:08] } 13... Qxh5 { [%emt 0:02:58] } 14. Bxh5 { [%emt 0:00:01] } 14... b5 { [%emt 0:00:30] } 15. Nb6 { [%emt 0:
+00:01] } 15... Rb8 { [%emt 0:00:07] } 16. Nxc8 { [%emt 0:00:04] } 16... Rxc8 { [%emt 0:00:03] } 17. a4 { [%emt 0:04:09] } 17... Ne5 { [%emt 0:06:02] } 18. axb5 { [%emt 0:06:01] } 18... axb5 { [%emt 0:00:22] } 19. Rfd1 { [%emt 0:00:45] } 19... Be7 { [%emt 0:08:28] } ( 19... Rxc2 20. Ra8+ Ke7 ) 20. Nd4 { [%emt 0:03:05] } 20... O-O { [%emt 0:02:29] } 21. b3 { [%emt 0:05:36] } 21... Bb4 { [%emt 0:09:41] } 22. Ra2 { [%emt 0:03:42] } 22... Rc5 { [%emt 0:04:05] } 23. Be2 { [%emt 0:00:33] } 23... Rfc8 { [%emt 0:00:23] } 24. Kf1 { [%emt 0:02:56] } 24... Ng6 { [%emt 0:06:
+03] } 25. Bxb5 { [%emt 0:04:42] } 25... e5 { [%emt 0:00:22] } 26. Bxd7 { [%emt 0:00:06] } 26... Rd8 { [%emt 0:06:32] } 27. Ne6 $1 { [%emt 0:00:18] } 27... Rxd7 { [%emt 0:00:38] } ( 27... fxe6 28. Bxe6+ Kf8 29. Rxd8+ ) 28. Ra8+ { [%emt 0:00:08] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.28"]
+[Round "9"]
+[White "Bellahcene, Bilel"]
+[Black "Moussard, Jules"]
+[Result "1/2-1/2"]
+[Annotator "ChessBase II"]
+[BlackElo "2608"]
+[ECO "A30"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "54"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2510"]
+
+1. Nf3 { [%emt 0:12:12] } 1... Nf6 { [%emt 0:00:00] } 2. b3 { [%emt 0:00:06] } 2... g6 { [%emt
+0:00:01] } 3. Bb2 { [%emt 0:00:05] } 3... Bg7 { [%emt 0:00:05] } 4. g3 { [%emt 0:00:06] } 4... b6 { [%emt 0:00:04] } 5. Bg2 { [%emt 0:00:20] } 5... Bb7 { [%emt 0:00:07] } 6. O-O { [%emt
+0:00:05] } 6... c5 { [%emt 0:00:15] } 7. c4 { [%emt 0:01:03] } 7... O-O { [%emt 0:00:56] } 8. d4 { [%emt 0:00:08] } 8... cxd4 { [%emt 0:00:03] } 9. Qxd4 { [%emt 0:01:39] La partie a
+tranpos√  dans une anglaise h√ risson } 9... d6 { [%emt 0:01:23] } 10. Nc3 { [%emt 0:01:
+01] } 10... Nbd7 { [%emt 0:01:58] } ( 10... Nc6 11. Qf4 $14 ) 11. Rac1 { [%emt 0:01:27] } 11... Rc8 { [%emt 0:01:19] } 12. Nd5 { [%emt 0:02:44] Entraine des simplifications et
+comme la nulle assure probablement le gain du tournoi, les Noirs sont contents
+du choix des Blancs } ( 12. Rfd1 Rc5 ( 12... Ne4 ) 13. Ne1 Bxg2 14. Nxg2 Re8 15. Nd5 b5 16. Nge3 bxc4 17. Rxc4 Qb8 18. Rxc5 Nxc5 19. Nxf6+ Bxf6 20. Qd2 Bxb2 21. Qxb2 a5 22. Nd5 Qb7 23. Qc3 Ra8 24. h4 h5 25. f3 Kh7 26. Kg2 Ne6 27. Rd2 a4 28. b4 Rc8 29. Qd3 Rc1 30. Rd1 Rc8 31. a3 Qa7 32. Qe4 Ng7 33. b5 Nf5 34. b6 Qd7 35. g4 hxg4 36. fxg4 Nh6 37. h5 Qxg4+ 38. Qxg4 Nxg4 39. hxg6+ fxg6 40. b7 Rb8 41. Rb1 Ne5 { Bu,X (2725)-Dubov,D (2696) Liaocheng 2018 1-0 } ) 12... Ne5 $146 { [%emt
+0:05:47] Provoque un √ change g√ n√ ral des pi√..ces mineures } ( 12... Kh8 13. Ng5 h6 14. Ne4 e5 15. Qd2 Bxd5 16. cxd5 Nxe4 17. Bxe4 Nc5 18. Bg2 a5 19. e4 Rc7 20. f4 Kh7 21. fxe5 Bxe5 22. Bxe5 dxe5 23. Qe2 Kg7 24. Qb5 Qd6 25. a3 Rfc8 26. Bh3 Nd7 27. Rxc7 Rxc7 28. Bxd7 Rxd7 29. Rc1 Qxa3 30. Rc8 Qa1+ 31. Kg2 Qb2+ 32. Kh3 Qf2 33. Qxd7 Qf1+ 34. Kh4 Qf6+ 35. Kh3 Qf1+ 36. Kh4 Qf6+ 37. Kh3 Qf1+ 38. Kh4 Qf6+ { 1/2-1/2 (38) Gholami,A (2554)-Mitrabha,G (2434) Mumbai 2019 } ) 13. Nxe5 { [%emt 0:02:13] } 13... Nxd5 { [%emt 0:00:29] } 14. Bxd5 { [%emt 0:00:10] } 14... Bxe5 { [%emt 0:00:43] } 15. Qd2 { [%emt 0:00:08] } 15... Bxb2 { [%emt 0:00:16] } 16. Qxb2 $11 { [%emt 0:00:04] } 16... Qd7 { [%emt 0:00:17] } 17. Rfd1 { [%emt 0:00:10] } ( 17. h4 { [%cal
+Gh4h6] } 17... Rc5 18. Bxb7 Qxb7 $132 ) 17... Rc5 { [%emt 0:00:08] } 18. Rd3 { [%emt 0:01:
+40] } 18... Rfc8 { [%emt 0:01:02] } 19. Rcd1 { [%emt 0:00:04] } 19... Bxd5 { [%emt 0:00:17] } 20. Rxd5 { [%emt 0:00:06] } 20... b5 { [%emt 0:00:36] } 21. Rxc5 { [%emt 0:01:32] } 21... Rxc5 { [%emt 0:00:10] } 22. Rd5 { [%emt 0:00:16] } 22... Rxd5 { [%emt 0:01:19] } 23. cxd5 { [%emt
+0:00:05] } 23... Qf5 { [%emt 0:00:05] } 24. Qd2 { [%emt 0:00:05] } 24... Qb1+ { [%emt 0:00:02] } 25. Kg2 { [%emt 0:00:06] } 25... Qe4+ { [%emt 0:00:03] } 26. Kg1 { [%emt 0:00:07] } 26... Qb1+ { [%emt 0:00:07] } 27. Kg2 { [%emt 0:00:04] } 27... Qe4+ { [%emt 0:00:04] } 1/2-1/2
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.28"]
+[Round "9"]
+[White "Froeyman, Helmut"]
+[Black "Demuth, Adrien"]
+[Result "1/2-1/2"]
+[Annotator "ChessBase II"]
+[BlackElo "2500"]
+[ECO "C60"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "194"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2251"]
+
+1. e4 { [%emt 0:00:00] } 1... e5 { [%emt 0:10:50] } 2. Nf3 { [%emt 0:00:00] } 2... Nc6 { [%emt
+0:00:04] } 3. Bb5 { [%emt 0:00:00] } 3... a6 { [%emt 0:00:03] } 4. Ba4 { [%emt 0:00:00] } 4... g6 { [%emt 0:00:14] } 5. O-O { [%emt 0:06:55] } 5... Bg7 { [%emt 0:00:19] } 6. c3 { [%emt
+0:00:14] } 6... Nge7 { [%emt 0:00:45] } 7. d4 { [%emt 0:00:31] } 7... exd4 { [%emt 0:00:51] } 8. cxd4 { [%emt 0:00:06] } 8... b5 { [%emt 0:00:11] } 9. Bc2 { [%emt 0:01:46] } 9... d6 { [%emt 0:
+00:34] } ( 9... d5 10. exd5 Nb4 11. Bb3 Nbxd5 12. Nc3 O-O 13. Re1 h6 14. h3 Nxc3 15. bxc3 Bb7 16. Ne5 Bd5 17. Qg4 Bxb3 18. axb3 Nd5 19. Qf3 Nf6 20. Nc6 Qd7 21. Bf4 Kh7 22. c4 bxc4 23. bxc4 Rfe8 24. Be5 Ng8 25. d5 Qf5 26. Qxf5 gxf5 27. Bxc7 Bxa1 28. Rxa1 Nf6 29. d6 Re4 30. Rc1 Ne8 31. Bb8 Nf6 32. c5 a5 33. Bc7 a4 34. Na5 Nd5 35. Nc4 Rxc4 36. Rxc4 a3 37. Rc1 Nxc7 38. dxc7 Rc8 39. Ra1 { Caruana,F 
+(2816)-Giri,A (2782) Leuven 2018 1/2-1/2 } ) 10. h3 { [%emt 0:05:18] } 10... O-O { [%emt
+0:00:06] } 11. Re1 { [%emt 0:04:21] } 11... Bb7 { [%emt 0:00:15] } 12. Nc3 { [%emt 0:01:28] } 12... Rc8 { [%emt 0:09:45] } 13. Bf4 { [%emt 0:01:51] } 13... Na5 { [%emt 0:07:28] } 14. Qc1 { [%emt 0:00:18] } 14... c5 $1 { [%emt 0:09:36][%cal Gc8c1] } 15. d5 $146 { [%emt 0:01:38] } ( 15. Bh6 cxd4 16. Bxg7 Kxg7 17. Nxd4 Nec6 18. Nxc6 Bxc6 19. Qd1 Qf6 20. Bb3 Nxb3 21. Qxb3 Rfe8 22. Rad1 Re6 23. f3 Qe7 24. Ne2 Re5 25. Qa3 Rc5 26. Qd3 Rd8 27. Nd4 Bb7 28. Nb3 Re5 29. Qc3 Kg8 30. Rc1 d5 31. exd5 Rdxd5 32. Rxe5 Rxe5 33. Nd4 Re3 34. Qd2 Kg7 35. a3 h5 36. Rd1 Kh7 37. Rc1 Kg7 38. Rd1 Kh7 39. Rf1 Kg7 40. Rc1 Kh7 41. Rd1 { 1/2-1/2 (41) Sebag,M (2451)-Cornette,D (2444) Saint
+Quentin 2019 } ) 15... Nc4 { [%emt 0:18:40] } 16. Bd3 { [%emt 0:02:50] } 16... Ne5 $5 { [%emt 0:01:43] } 17. Nxe5 { [%emt 0:00:20] } 17... dxe5 { [%emt 0:00:02] } 18. Be3 { [%emt
+0:00:08] } 18... f5 { [%emt 0:14:03] } 19. f3 { [%emt 0:00:18] } 19... Qc7 $6 { [%emt 0:03:26]
+Si les Noirs veulent attaquer √  l'aile-roi, il vallait peut-√|_tre mieux
+retarder ce coup } ( 19... f4 $142 20. Bf2 g5 21. a4 b4 22. Nb1 Ng6 23. Nd2 h5 24. Nc4 ( 24. Bc4 Kh8 ) ( 24. Be2 { [%csl Gg4] } 24... Kh8 25. Nc4 Rf7 26. Qd1 Bf8 $132 { Et il semble plus facile de jouer la position Noire avec un plan classique
+d'Est-indienne m√|_me si le Ó Pb7 est mal plac√ } ) 24... g4 25. hxg4 hxg4 26. fxg4 Qg5 $13 ) 20. Be2 { [%emt 0:10:32] } 20... f4 { [%emt 0:01:34] } 21. Bf2 { [%emt 0:11:
+26] } 21... g5 { [%emt 0:00:05] } 22. a4 { [%emt 0:00:36] } 22... b4 { [%emt 0:00:03] } 23. Nb1 { [%emt 0:00:12] } 23... Ng6 { [%emt 0:10:14] } 24. Nd2 { [%emt 0:51:12] } 24... Rf7 $6 { [%emt 0:
+01:33] Le GMI est dans un mauvais jour } ( 24... Kh8 ) 25. d6 $1 { [%emt 0:06:14]
+Exploitant un autre d√ faut du coup Ó Bc7 } 25... Qxd6 { [%emt 0:00:33] } 26. Bc4 { [%emt 0:00:09] } 26... Nh8 { [%emt 0:05:47] } 27. Rd1 { [%emt 0:03:53] } 27... Qg6 { [%emt 0:00:
+04] } 28. Nb3 { [%emt 0:39:57] } ( 28. Bxf7+ Nxf7 29. Nc4 h5 30. Rd7 Bc6 31. Rxf7 Qxf7 ( 31... Kxf7 32. Nb6 Rd8 33. Qxc5 g4 $13 ) 32. Nd6 ) 28... h5 { [%emt 0:02:42] } 29. Nxc5 { [%emt 0:38:09] } 29... g4 $1 { [%emt 0:00:01] Jou√  √  tempo, la position
+noire est d√ sesp√ r√ e et il faut tenter d'attaquer le Ó N Blanc } 30. hxg4 { [%emt 0:10:45] } 30... hxg4 { [%emt 0:00:01] } 31. Nxb7 { [%emt 0:03:11] } 31... Rxc4 $1 { [%emt
+0:00:22] } 32. Qxc4 { [%emt 0:00:50] } 32... gxf3 { [%emt 0:00:03] } 33. Qf1 { [%emt 0:00:
+58] } 33... Rxb7 { [%emt 0:00:37] La Ó R clou√ e est miracul√ e! } 34. Rd8+ { [%emt 0:01:
+21] } 34... Kh7 { [%emt 0:00:04] } 35. Rd3 { [%emt 0:00:40] } 35... Nf7 { [%emt 0:01:23] } 36. Bh4 { [%emt 0:00:23] } ( 36. Rxf3 Ng5 $36 ) 36... Qxe4 { [%emt 0:02:01] } 37. Qxf3 { [%emt 0:00:25] } 37... Qxf3 { [%emt 0:00:05] } 38. gxf3 { [%emt 0:00:07] } 38... e4 $1 { [%emt 0:
+02:16] } 39. fxe4 { [%emt 0:00:04] } 39... Bxb2 { [%emt 0:00:04] } 40. Rb1 { [%emt 0:00:00] } 40... Bg7 { [%emt 0:01:33] } 41. Be1 { [%emt 0:10:38] } 41... a5 $44 { [%emt 0:06:05][%csl
+Gb4][%cal Gf7e5] } 42. Rd5 { [%emt 0:02:17] } 42... Re7 { [%emt 0:01:34] } 43. Rxa5 { [%emt 0:01:00] } 43... Rxe4 { [%emt 0:00:11] } 44. Bxb4 { [%emt 0:01:02] } 44... Bd4+ $1 { [%emt
+0:00:06][%csl Rg1] Le Ó N Blanc manque de d√ fenseur } 45. Kf1 { [%emt 0:00:53] } 45... f3 { [%emt 0:01:19] } 46. Be1 $6 { [%emt 0:09:57] } ( 46. Rb3 f2 { [%cal Ge4g4,Gg4g1] } 47. Rh3+ Kg6 48. Rg3+ Kf6 49. Rf3+ Kg6 50. Ra6+ Kg7 ( 50... Kg5 51. Bd2+ ) 51. Bc3 $18 ) 46... f2 { [%emt 0:09:04] } 47. Bxf2 { [%emt 0:00:37] } 47... Rf4 { [%emt 0:00:
+03] } 48. Rh5+ { [%emt 0:00:09] } 48... Nh6 { [%emt 0:01:23] } 49. Rh2 { [%emt 0:11:07] } 49... Bxf2 { [%emt 0:00:11] } 50. Rb7+ { [%emt 0:00:39] } 50... Kg6 { [%emt 0:00:55] } 51. Rxf2 { [%emt 0:00:13] } 51... Rxa4 { [%emt 0:00:02] } 52. Rb6+ { [%emt 0:01:28] } 52... Kg5 { [%emt 0:
+03:00] } 53. Rb5+ { [%emt 0:00:22] } 53... Kg6 { [%emt 0:00:27] } 54. Rg2+ { [%emt 0:00:30] } 54... Rg4 $1 { [%emt 0:00:26] } 55. Rb6+ { [%emt 0:00:51] } ( 55. Rxg4+ Nxg4 $11 ) 55... Kg7 { [%emt 0:01:10] } 56. Ra2 { [%emt 0:00:47] } 56... Rg6 { [%emt 0:00:48] } 57. Ra7+ { [%emt 0:00:53] } 57... Nf7 { [%emt 0:00:05] } 58. Rb3 { [%emt 0:00:27] } 58... Rf6+ { [%emt 0:00:
+08] } 59. Ke2 { [%emt 0:00:14] } 59... Re6+ { [%emt 0:00:16] } 60. Kd3 { [%emt 0:00:13] } 60... Rd6+ { [%emt 0:00:07] } 61. Ke4 { [%emt 0:00:19] } 61... Re6+ { [%emt 0:00:04] } 62. Kd5 { [%emt 0:00:07] } 62... Rd6+ { [%emt 0:00:03] } 63. Kc5 { [%emt 0:03:38] } 63... Rf6 { [%emt 0:15:
+36] } 64. Rg3+ { [%emt 0:00:12] } 64... Rg6 { [%emt 0:00:12] } 65. Rf3 { [%emt 0:00:40] } 65... Rf6 { [%emt 0:00:01] } 66. Rxf6 { [%emt 0:00:26] } 66... Kxf6 $11 { [%emt 0:00:06] Tant
+que le Ó N Noir reste √  proximit√  du Ó .., la position est nulle } 67. Kd5 { [%emt 0:04:13] } 67... Ng5 { [%emt 0:01:08] } 68. Ra1 { [%emt 0:00:15] } 68... Kf5 { [%emt 0:01:
+19] } 69. Rf1+ { [%emt 0:00:10] } 69... Kg4 { [%emt 0:00:02] } 70. Rf8 { [%emt 0:00:52] } 70... Kg3 { [%emt 0:00:21] } 71. Ke5 { [%emt 0:00:11] } 71... Nf3+ { [%emt 0:00:06] } 72. Ke4 { [%emt 0:00:08] } 72... Ng5+ { [%emt 0:00:04] } 73. Ke3 { [%emt 0:00:17] } 73... Kg4 { [%emt 0:00:
+02] } 74. Rf4+ { [%emt 0:00:32] } 74... Kh5 { [%emt 0:00:07] } 75. Ra4 { [%emt 0:00:22] } 75... Kg6 { [%emt 0:00:06] } 76. Kf4 { [%emt 0:00:08] } 76... Kf6 { [%emt 0:06:40] } 77. Ra6+ { [%emt 0:00:06] } 77... Ne6+ { [%emt 0:00:04] } 78. Ke4 { [%emt 0:00:06] } 78... Ke7 { [%emt 0:00:
+20] } 79. Ke5 { [%emt 0:00:11] } 79... Nc7 { [%emt 0:00:35] } 80. Rd6 { [%emt 0:01:07] } 80... Ne8 { [%emt 0:00:16] } 81. Rh6 { [%emt 0:00:54] } 81... Kd7 { [%emt 0:00:03] } 82. Ra6 { [%emt
+0:00:41] } 82... Nc7 { [%emt 0:00:11] } 83. Rd6+ { [%emt 0:00:38] } 83... Ke7 { [%emt 0:00:26] } 84. Rh6 { [%emt 0:01:17] } 84... Kd7 { [%emt 0:00:23] } 85. Rg6 { [%emt 0:00:10] } 85... Ne8 { [%emt 0:00:05] } 86. Rg1 { [%emt 0:02:38] } 86... Nc7 { [%emt 0:00:27] } 87. Rd1+ { [%emt
+0:00:19] } 87... Ke7 { [%emt 0:00:40] } 88. Rd2 { [%emt 0:01:05] } 88... Ne8 { [%emt 0:00:04] } 89. Rh2 { [%emt 0:03:03] } 89... Kd7 { [%emt 0:00:05] } 90. Rh7+ { [%emt 0:00:09] } 90... Kc6 { [%emt 0:00:11] } 91. Re7 { [%emt 0:00:19] } 91... Nc7 { [%emt 0:00:05] } 92. Rg7 { [%emt 0:
+00:50] } 92... Ne8 { [%emt 0:00:07] } 93. Rg6+ { [%emt 0:03:36] } 93... Kd7 { [%emt 0:00:05] } 94. Re6 { [%emt 0:02:01] } 94... Nc7 { [%emt 0:00:30] } 95. Rb6 { [%emt 0:00:25] } 95... Ne8 { [%emt
+0:00:59] } 96. Rb7+ { [%emt 0:00:11] } 96... Nc7 { [%emt 0:00:11] } 97. Rxc7+ { [%emt 0:00:
+10] } 97... Kxc7 { [%emt 0:00:03] } 1/2-1/2
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.28"]
+[Round "9"]
+[White "Martinez Alcantara, Jose Eduardo"]
+[Black "Karthikeyan, Pandian"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2406"]
+[ECO "C72"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "61"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2617"]
+
+1. e4 { [%emt 0:01:29] } 1... e5 { [%emt 0:00:00] } 2. Nf3 { [%emt 0:00:30] } 2... Nc6 { [%emt
+0:00:00] } 3. Bb5 { [%emt 0:00:04] } 3... a6 { [%emt 0:00:00] } 4. Ba4 { [%emt 0:00:01] } 4... Nf6 { [%emt 0:00:04] } 5. d3 { [%emt 0:00:05] Une ligne secondaire } ( 5. O-O ) 5... d6 { [%emt 0:02:20] } 6. c3 { [%emt 0:00:14] } 6... Bd7 { [%emt 0:02:44] } ( 6... g6 $5 7. O-O Bg7 8. Re1 O-O 9. Nbd2 b5 10. Bc2 Bb7 $132 ) 7. O-O { [%emt 0:00:16] } 7... g6 { [%emt 0:01:26] Face au d√ but lent des Blancs, les Noirs ont le temps
+d'essayer d'activer le Ó Pg7 plut√'t qu'en e7 } 8. h3 { [%emt 0:02:16] } ( 8. Re1 Bg7 9. Nbd2 ) 8... Bg7 { [%emt 0:00:03] } 9. Be3 { [%emt 0:00:09] } 9... O-O { [%emt 0:00:
+29] } 10. Nbd2 { [%emt 0:00:00] } 10... Re8 { [%emt 0:09:33] } ( 10... Nh5 11. d4 Qe7 12. Re1 Rad8 13. a3 Kh8 14. b4 Qe8 15. Bc2 Ne7 16. Nf1 f5 17. exf5 gxf5 18. dxe5 dxe5 19. Nxe5 Bxe5 20. Bd4 Bxd4 21. Qxd4+ Ng7 22. Qc5 Be6 23. Qxc7 Rd7 24. Qb6 Nd5 25. Qd4 Qf7 26. Qe5 Ne7 27. a4 Ng6 28. Qc5 Rc7 29. Qd4 Rfc8 30. b5 axb5 31. axb5 Rxc3 32. Bd1 R3c4 33. Qd6 Qd7 34. Qb6 Qd4 35. Qxd4 Rxd4 36. Bf3 Rd7 37. Ng3 Nh4 38. Ra7 Nxf3+ 39. gxf3 Bd5 40. f4 { Vallejo Pons,F (2704)-Bartel,M 
+(2634) Moscow 2019 0-1 (68) } ) 11. Re1 { [%emt 0:01:02] } 11... h6 { [%emt 0:03:39] } 12. Bb3 { [%emt 0:04:33] } ( 12. Nf1 d5 $1 { Jakovenko,D (2748)-Tomashevsky,E (2702)
+RUS-ch 71st Satka 2018 (1) 1/2-1/2 } ) 12... Na5 { [%emt 0:10:40] } 13. Bc2 { [%emt
+0:00:14] } 13... c5 { [%emt 0:00:21] } ( 13... d5 14. b4 Nc6 15. Nb3 b6 16. a4 Qc8 17. Bd2 ( 17. Kh2 { [%csl Rh3] } ) 17... Qb7 18. a5 Rad8 19. Qc1 Kh7 20. Qa3 Bc8 21. Rad1 Be6 $11 { Salgado Lopez,I (2643)-Ibarra Jerez,J (2570) ESP-ch rapid 2018 
+(5) 0-1 } ) 14. a3 { [%emt 0:00:05] } 14... Nc6 { [%emt 0:04:18] } 15. b4 $146 { [%emt 0:06:
+15] } ( 15. Qc1 Be6 16. b4 b6 17. Rb1 Rc8 18. bxc5 bxc5 19. Ba4 Qc7 20. Qb2 Rb8 21. Qc2 Rxb1 22. Rxb1 Rc8 23. Bb3 d5 24. Bxc5 Na5 25. exd5 Nxb3 26. Bb6 Qxc3 27. Qxc3 Rxc3 28. dxe6 Nxd2 29. exf7+ Kxf7 30. Nxd2 Rxd3 31. Nc4 Nd5 32. Ba5 Rd4 33. Rb7+ Kg8 34. Rb8+ Kh7 35. Rc8 Rd1+ 36. Kh2 Rc1 37. Rd8 e4 38. Rxd5 Rxc4 { 1/2-1/2 (38) Sikorsky,H (2521)-Williamson,H (2529) ICCF email 2017 } ) 15... cxb4 { [%emt 0:04:32] } 16. axb4 { [%emt 0:00:06] } 16... d5 $5 { [%emt 0:00:48] } 17. Qb1 { [%emt 0:00:20] } 17... Rc8 { [%emt 0:06:37] } 18. Nb3 { [%emt 0:04:30] } 18... d4 $1 { [%emt 0:
+03:17] } 19. cxd4 { [%emt 0:00:56] } 19... Nxb4 { [%emt 0:00:59] } 20. Bd1 { [%emt 0:00:10] } 20... exd4 { [%emt 0:06:36] } ( 20... Bb5 $5 { [%cal Gb5d3,Gb4d3] } 21. Be2 Nc2 ) 21. Nbxd4 { [%emt 0:00:45] } 21... a5 { [%emt 0:01:08] } 22. Bb3 { [%emt 0:01:14] } 22... Bf8 { [%emt
+0:10:47] } 23. Bd2 { [%emt 0:08:15] } 23... Bc6 { [%emt 0:08:28] } 24. Bc4 $16 { [%emt 0:
+03:51] } 24... Bxe4 $6 { [%emt 0:04:24] } 25. Bxf7+ $1 { [%emt 0:00:13] } 25... Kxf7 { [%emt 0:
+00:01] } 26. dxe4 { [%emt 0:00:02] } 26... Kg7 { [%emt 0:00:58] } 27. e5 { [%emt 0:04:46] } 27... Nd7 { [%emt 0:04:49] } 28. e6 $18 { [%emt 0:06:49] } 28... Nf6 { [%emt 0:00:42] } 29. Ne5 { [%emt 0:02:16] } 29... Nc2 { [%emt 0:01:24] } 30. Nxc2 { [%emt 0:00:03] } 30... Qxd2 { [%emt 0:
+00:06] } 31. Ne3 { [%emt 0:00:10] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.28"]
+[Round "9"]
+[White "Nikolov, Momchil"]
+[Black "Godart, Francois"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2445"]
+[ECO "A52"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "101"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2539"]
+
+1. d4 { [%emt 0:00:00] } 1... Nf6 { [%emt 0:02:02] } 2. c4 { [%emt 0:00:00] } 2... e5 { [%emt 0:
+00:29] } 3. dxe5 { [%emt 0:00:00] } 3... Ng4 { [%emt 0:00:04] } 4. e3 { [%emt 0:00:23] } 4... Nxe5 { [%emt 0:00:06] } 5. Nc3 { [%emt 0:00:08] } ( 5. Nh3 Bb4+ 6. Bd2 a5 7. Nf4 d6 8. Nc3 O-O 9. Be2 Re8 10. O-O Nbd7 11. Qc2 Nf6 12. Rad1 c6 13. Na4 Bxd2 14. Rxd2 g5 15. Nd3 Bf5 16. Qb3 Ne4 17. Rdd1 Qe7 18. Nxe5 dxe5 19. f3 Nc5 20. Nxc5 Qxc5 21. Qc3 Rad8 22. Rxd8 Rxd8 23. Rd1 Rxd1+ 24. Bxd1 f6 25. Kf2 Be6 26. Be2 f5 27. a3 a4 28. Qb4 Qxb4 29. axb4 f4 30. c5 Bb3 31. Bd3 h6 32. Bf5 Kf7 33. Bc8 Ke7 34. Bxb7 Kd7 { Wojtaszek,R (2727)-Ivanchuk,V (2710) Huaian 2016 1-0 } ) 5... d6 { [%emt 0:02:08] } 6. Nge2 $5 { [%emt 0:06:03] } 6... g6 { [%emt 0:01:00] } 7. Nf4 { [%emt 0:00:26] } 7... Bg7 { [%emt 0:00:31] } 8. Be2 { [%emt 0:00:18] } 8... O-O { [%emt 0:00:
+07] } 9. O-O { [%emt 0:00:20] } 9... a5 { [%emt 0:00:20] } ( 9... Nbd7 ) 10. e4 { [%emt 0:
+08:15] } 10... Na6 { [%emt 0:21:45] } 11. Be3 { [%emt 0:01:16] } 11... Nc5 { [%emt 0:05:34] } 12. Qd2 { [%emt 0:01:06] } 12... Ng4 $146 { [%emt 0:07:29] } ( 12... Re8 13. Rad1 b6 14. Nfd5 c6 15. Nf4 Ra7 16. f3 Bf8 17. Rfe1 f5 18. exf5 Bxf5 19. Bf1 Rf7 20. Kh1 Qh4 21. Qf2 Qxf2 22. Bxf2 Bd7 23. Nd3 Nexd3 24. Bxd3 Rxe1+ 25. Bxe1 Nxd3 26. Rxd3 Bf5 27. Rd2 g5 28. Bg3 Rf6 29. Kg1 Re6 30. b3 g4 31. Ne4 gxf3 32. gxf3 Bxe4 33. fxe4 Kf7 34. Kf2 Rf6+ 35. Ke2 Ke6 36. Rd3 Be7 { 1/2-1/2 (36) Mekhitarian,K 
+(2545)-Gareyev,T (2588) Sao Paulo 2019 } ) 13. Bxc5 { [%emt 0:23:44] } 13... dxc5 { [%emt
+0:01:54] } 14. Qxd8 { [%emt 0:00:08] } 14... Rxd8 { [%emt 0:00:03] } 15. Nfd5 { [%emt 0:00:
+10] } 15... Be5 { [%emt 0:06:48] } 16. Rad1 { [%emt 0:17:49] } ( 16. Ne7+ Kf8 17. Nxc8 { [%cal Ge2g4] } 17... Nxh2 ( 17... Bxh2+ $2 18. Kh1 { [%csl Rg4,Rh2] } ) 18. Rfd1 ) 16... Be6 { [%emt 0:02:54] } 17. h3 { [%emt 0:03:14] } 17... Nf6 { [%emt 0:01:41] } 18. f4 { [%emt 0:02:04] } 18... Bxc3 { [%emt 0:08:53] } ( 18... Bd4+ 19. Rxd4 cxd4 20. Nxf6+ Kg7 21. f5 $44 ) 19. Nxc3 { [%emt 0:02:10] } 19... Rd4 { [%emt 0:02:25] } 20. e5 { [%emt 0:04:
+47] } 20... Ne8 { [%emt 0:08:30] } 21. b3 { [%emt 0:06:41] } 21... Rad8 { [%emt 0:02:20] } 22. Bf3 { [%emt 0:01:21] } 22... b6 { [%emt 0:02:43] } 23. Kf2 { [%emt 0:11:26] } 23... Ng7 { [%emt 0:05:
+33] } 24. g4 $16 { [%emt 0:01:53][%csl Gf5,Rg7] } 24... Bc8 { [%emt 0:00:54] } 25. Ke3 { [%emt 0:03:54][%csl Ge3,Rg8] } 25... Ne6 { [%emt 0:00:48] } 26. Nb5 $1 { [%emt 0:01:18] } 26... Rxd1 { [%emt 0:02:50] } 27. Rxd1 { [%emt 0:00:02] } 27... Rxd1 { [%emt 0:01:54] } 28. Bxd1 { [%emt 0:00:02] } 28... Bd7 { [%emt 0:00:58] } 29. Nc3 { [%emt 0:00:11] } 29... Kf8 { [%emt 0:09:
+33] } 30. Bc2 { [%emt 0:00:46] } 30... Nd4 { [%emt 0:00:54] } 31. Be4 { [%emt 0:02:30] } 31... h5 { [%emt 0:00:07] } 32. gxh5 { [%emt 0:01:02] } 32... gxh5 { [%emt 0:00:05] } 33. h4 { [%emt
+0:00:08] } 33... Nf5+ { [%emt 0:01:07] } 34. Bxf5 { [%emt 0:00:10] } 34... Bxf5 { [%emt 0:00:03] } 35. Nd5 { [%emt 0:01:58] } 35... Bb1 { [%emt 0:00:49] } 36. Nc3 { [%emt 0:00:03] } 36... Bf5 { [%emt 0:00:05] } 37. Kd2 { [%emt 0:01:10] } 37... Ke8 { [%emt 0:00:21] } 38. Nd5 { [%emt 0:
+00:24] } 38... Kd8 { [%emt 0:00:17] } 39. Nf6 { [%emt 0:01:22] } 39... Bg6 { [%emt 0:00:21] } 40. Nd5 { [%emt 0:00:00] } 40... Kd7 { [%emt 0:00:00] } 41. Ke3 { [%emt 0:10:49] } 41... Bb1 { [%emt
+0:02:54] } 42. a3 { [%emt 0:00:41] } 42... Bc2 { [%emt 0:05:10] } 43. Nf6+ { [%emt 0:00:16] } ( 43. b4 cxb4 44. axb4 $11 ) 43... Ke7 { [%emt 0:00:23] } 44. Nxh5 { [%emt 0:00:
+16] } 44... Bxb3 { [%emt 0:00:06] } 45. Kd3 $1 { [%emt 0:00:54][%csl Rb3] } 45... c6 { [%emt 0:
+01:12] } 46. Nf6 { [%emt 0:01:52][%csl Gh4][%cal Gh4h8] } 46... Ba2 { [%emt 0:08:47] } 47. Ne4 { [%emt 0:02:55] } 47... b5 { [%emt 0:14:35] } 48. Nd2 { [%emt 0:03:08] } ( 48. cxb5 cxb5 49. Nxc5 ) 48... f6 { [%emt 0:03:46] } 49. h5 { [%emt 0:00:38] } 49... fxe5 { [%emt 0:
+00:39] } 50. fxe5 { [%emt 0:00:06] } 50... b4 { [%emt 0:00:10] } 51. a4 { [%emt 0:00:31] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.28"]
+[Round "9"]
+[White "Philippe, Guillaume"]
+[Black "Stany, George Anthony"]
+[Result "0-1"]
+[Annotator "ChessBase II"]
+[BlackElo "2522"]
+[ECO "C44"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "76"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2371"]
+
+1. e4 { [%emt 0:00:00] } 1... e5 { [%emt 0:00:00] } 2. Nf3 { [%emt 0:00:27] } 2... Nc6 { [%emt
+0:00:00] } 3. Be2 { [%emt 0:00:37] Une Philidor en premier } 3... Nf6 { [%emt 0:00:00] } 4. d3 { [%emt 0:00:21] } 4... d5 { [%emt 0:00:00] } ( 4... Bc5 ) 5. Nbd2 { [%emt 0:00:06] } 5... Bc5 { [%emt 0:00:00] } 6. c3 { [%emt 0:01:42] } 6... a5 { [%emt 0:00:32] } ( 6... O-O $6 $143 7. b4 $1 ) 7. O-O { [%emt 0:00:26] } 7... O-O { [%emt 0:00:05] } 8. b3 { [%emt 0:01:42] } 8... Re8 { [%emt 0:04:18] } ( 8... Qe7 ) 9. a3 { [%emt 0:03:01] } 9... d4 { [%emt 0:07:42] } 10. Bb2 { [%emt 0:01:08] } ( 10. cxd4 Nxd4 11. Bb2 b6 12. Nxd4 Bxd4 13. Bxd4 Qxd4 14. Qc2 c5 15. Nc4 b5 16. Nd2 Ba6 17. Rac1 Rac8 18. Rfd1 Re7 19. g3 g6 20. Bf1 Qd6 21. Qc3 b4 22. Qa1 Rcc7 23. axb4 axb4 24. Qa5 Bc8 25. Rc2 Rc6 26. Rdc1 Rec7 27. d4 Qxd4 28. Bb5 Nxe4 29. Nxe4 Qxe4 30. Bxc6 Rxc6 31. Qa8 Kg7 32. Rxc5 Rxc5 33. Qxe4 Rxc1+ 34. Kg2 Rc5 35. Qxb4 Rd5 36. Qc3 Bb7 37. f3 g5 38. Kf2 Kg6 39. Qc7 Rb5 { Indjic,A (2620)-Keymer,V (2508) Sitges 2018 1-0 } ) 10... dxc3 { [%emt 0:
+01:16] } 11. Bxc3 { [%emt 0:00:12] } 11... Bg4 { [%emt 0:00:14] } 12. Qc2 { [%emt 0:21:31]
+[%cal Gc2c5,Gc3e5] } 12... Qe7 { [%emt 0:14:39] } 13. Qb2 { [%emt 0:17:13] } 13... Rad8 $132 { [%emt 0:00:36][%csl Rd3] Le but des Blancs √ tait d'obtenir une position
+jouable en √ vitant le d√ bat th√ orique mais ils doivent maintenant lutter
+pour l'√ galit√  car la position Noire est nettement plus facile √  jouer } 14. Rfc1 { [%emt 0:16:07] } 14... Bxf3 { [%emt 0:10:03][%csl Gd4] } 15. Nxf3 { [%emt 0:00:08] } 15... Nd4 $5 { [%emt 0:00:04] } 16. Nxd4 { [%emt 0:02:39] } 16... Bxd4 { [%emt 0:02:16] } 17. Bxd4 { [%emt 0:00:06] } 17... Rxd4 { [%emt 0:00:27][%csl Rd3,Re2] } 18. Qc3 { [%emt 0:00:
+30] } 18... c6 { [%emt 0:08:35] } 19. Qxa5 { [%emt 0:00:04] } 19... Red8 $44 { [%emt 0:00:08] } 20. b4 { [%emt 0:04:37] } 20... g6 { [%emt 0:05:12] } 21. b5 { [%emt 0:12:42] } 21... c5 { [%emt
+0:03:55] } 22. Qb6 { [%emt 0:01:09] } ( 22. b6 { [%cal Ga5c5,Gc1c5] } 22... c4 { [%cal
+Gf6e4] } ) 22... c4 { [%emt 0:03:15] } 23. Rxc4 { [%emt 0:00:16] } 23... Rxc4 { [%emt 0:00:
+05] } 24. dxc4 { [%emt 0:00:06] } 24... Nxe4 { [%emt 0:00:05] } 25. Bf3 { [%emt 0:00:15] } 25... Rd4 { [%emt 0:04:58] } ( 25... Nc5 { [%csl Gc5] } ) 26. Re1 { [%emt 0:03:10] } 26... Nc5 { [%emt 0:01:50] } 27. Bd5 $1 { [%emt 0:01:31][%csl Gd5] Le mauvais Ó P a r√ ussi
+√  se ranimer et les compensations du GMI sont peut-√|_tre maintenant
+insuffisantes } 27... Rd2 { [%emt 0:00:28] } 28. g3 { [%emt 0:00:38] } 28... Ra2 { [%emt 0:02:01] } 29. Qa7 { [%emt 0:05:05] } 29... Kg7 { [%emt 0:03:03] } 30. Qb8 $2 { [%emt 0:00:45] } ( 30. h4 { [%cal Gh4h5] } ) 30... Nd3 $1 $40 { [%emt 0:00:46] } ( 30... f6 31. f4 { [%cal Ge1e7] } 31... e4 $13 ) 31. Qxb7 { [%emt 0:05:29] } 31... Qxb7 { [%emt 0:05:33] } 32. Bxb7 { [%emt 0:00:04] } 32... Nxe1 { [%emt 0:00:03] } 33. c5 { [%emt 0:00:15] } 33... Rc2 { [%emt 0:03:
+51] } 34. c6 { [%emt 0:00:03] } 34... Nf3+ { [%emt 0:02:16] } 35. Kf1 { [%emt 0:00:35] } 35... Nd4 $19 { [%emt 0:00:13][%cal Gd4c6,Gd4b5] Le Ó .. bloque toute avanc√ e des Ó   de
+l'aile-dame } 36. a4 { [%emt 0:00:36] } 36... Kf6 { [%emt 0:00:38] } 37. Ke1 { [%emt 0:02:
+04] } 37... Ke7 { [%emt 0:00:46] } 38. Kd1 { [%emt 0:00:23] } 38... Rc5 { [%emt 0:04:03] } 0-1
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.28"]
+[Round "9"]
+[White "Shchekachev, Andrei"]
+[Black "Nitin, Senthilvel"]
+[Result "1-0"]
+[Annotator "ChessBase II"]
+[BlackElo "2353"]
+[ECO "E90"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "87"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2529"]
+
+1. Nf3 { [%emt 0:00:00] } 1... Nf6 { [%emt 0:00:09] } 2. c4 { [%emt 0:00:00] } 2... g6 { [%emt
+0:00:17] } 3. Nc3 { [%emt 0:00:00] } 3... Bg7 { [%emt 0:00:35] } 4. e4 { [%emt 0:00:06] } 4... d6 { [%emt 0:00:13] } 5. d4 { [%emt 0:00:06] } 5... O-O { [%emt 0:00:10] } 6. h3 { [%emt 0:
+00:03] La ligne √  la mode } 6... Na6 { [%emt 0:02:50] } ( 6... e5 { La grande ligne } ) 7. Be3 { [%emt 0:01:09] } ( 7. Bg5 Qe8 ) 7... c6 { [%emt 0:00:28] Probablement une
+simple interversion si les Noirs jouent e5 ensuite } ( 7... e5 8. d5 Nc5 9. Nd2 a5 10. g4 c6 11. Be2 a4 12. g5 Nfd7 13. h4 Qa5 14. a3 f5 15. h5 f4 ( 15... fxe4 ) 16. Bxc5 Nxc5 $13 ) 8. a3 $5 { [%emt 0:00:46] Une ligne secondaire et le GMI a
+jou√  vite, il s'agissait donc d'une pr√ paration } ( 8. Rc1 e5 9. d5 Nc5 10. Nd2 a5 11. Be2 Nfd7 12. g4 a4 13. h4 Qa5 14. h5 Rb8 15. Kf1 Nb6 16. g5 Qb4 17. Rc2 Bd7 18. Kg2 a3 19. b3 cxd5 20. Nxd5 Nxd5 21. cxd5 b5 22. Rh4 Rbc8 23. hxg6 hxg6 24. Bg4 Nd3 25. Rxc8 Bxc8 26. Nf3 Bxg4 27. Rxg4 Nf4+ 28. Bxf4 Qxe4 29. Qd2 Rc8 30. Rh4 exf4 31. Rxf4 Qc2 32. Qe3 Rf8 33. Nd4 Qc5 34. Qe4 Qxd4 35. Qxd4 Bxd4 36. Rxd4 Rc8 37. Kf3 Rc2 { Wei,Y (2732)-Tomashevsky,E (2705) chess.com INT 2020
+1/2-1/2 } ) ( 8. Be2 e5 9. d5 ) ( 8. Bd3 e5 9. O-O exd4 10. Bxd4 Nc5 11. Bc2 { Ljubojevic,L (2605)-Jadoul,M (2360) Brussels SWIFT 1986 1-0 } ) 8... e5 { [%emt 0:
+08:20] } 9. d5 { [%emt 0:01:15] } 9... Nh5 { [%emt 0:00:17] } 10. Nd2 { [%emt 0:05:52] } 10... Qe8 { [%emt 0:02:16] } ( 10... Nf4 $6 11. g3 { [%cal Gf1h3] } ) 11. b4 $5 $146 { [%emt 0:22:12][%csl Ra6] } ( 11. c5 Nxc5 12. Nc4 cxd5 13. Nxd6 Qc6 14. Qxd5 Ne6 15. Qxc6 bxc6 16. Rc1 Nd4 17. Na4 Nf4 18. f3 Rb8 19. Kf2 Bd7 20. Nc4 Nfe6 21. b4 Rfd8 22. Na5 Bf8 23. Bc4 c5 24. Nxc5 Nxc5 25. bxc5 Rb2+ 26. Kg3 Rc8 27. Bxd4 exd4 28. c6 Be8 29. Bd5 Bd6+ 30. f4 Bc7 31. Nb7 g5 32. e5 Rb5 33. Rc5 Rxc5 34. Nxc5 Bxc6 35. Bxc6 gxf4+ 36. Kxf4 Bb6 37. Rc1 Rxc6 38. Nb3 Rc3 39. Rxc3 dxc3 40. Ke4 Kf8 { Tikkanen,H (2552)-Bekker Jensen,S (2412) Ballerup 2013 0-1 } ) 11... f5 { [%emt 0:06:05] } 12. Nb3 $1 { [%emt 0:02:49] } 12... c5 { [%emt 0:15:56] } ( 12... f4 $6 13. Bd2 f3 14. g3 $16 ) 13. Nb5 { [%emt 0:10:54] } 13... f4 { [%emt 0:05:20] } 14. Nxd6 $5 { [%emt 0:23:18] Apr√..s une longue r√ flexion , le GMI a calcul√  qu'il
+pouvait prendre le Ó } 14... Qd7 { [%emt 0:06:28] } 15. Bxc5 { [%emt 0:00:07] } 15... b6 { [%emt 0:00:30] } 16. Nxc8 { [%emt 0:00:18] } 16... bxc5 { [%emt 0:01:04] } 17. b5 { [%emt
+0:01:19] } 17... f3 { [%emt 0:08:37] } ( 17... Nc7 18. d6 $1 Ne6 19. Ne7+ Kh8 20. Qd5 Rfd8 21. Nxc5 $36 ) 18. g3 { [%emt 0:02:29] } 18... Qxc8 { [%emt 0:14:02] } 19. bxa6 { [%emt 0:00:18] } 19... Qxa6 { [%emt 0:00:26] } 20. Bd3 { [%emt 0:06:54] } ( 20. Nxc5 $2 Qa5+ ) 20... Bh6 { [%emt 0:02:15] } 21. Kf1 $1 { [%emt 0:02:56][%cal Gf1g1,Gg1h2]
+Le Ó N va roquer tranquillement √  la main et les Noirs sont priv√ s de
+contre-jeu } 21... Rac8 { [%emt 0:04:47] } 22. Kg1 { [%emt 0:03:05] } 22... Qf6 { [%emt 0:04:03] } 23. Kh2 { [%emt 0:03:32] } 23... Rf7 { [%emt 0:04:20] } 24. Ra2 { [%emt 0:01:39] } 24... g5 { [%emt 0:05:36] } 25. Nd2 { [%emt 0:03:01] } 25... Rcf8 { [%emt 0:00:30] } 26. Nf1 $1 { [%emt 0:00:23][%cal Gf1e3,Ge3f5,Ge3g4] } 26... g4 { [%emt 0:02:44] } 27. hxg4 { [%emt 0:
+00:36] } 27... Ng7 { [%emt 0:00:10] } 28. Rb2 { [%emt 0:02:34] } 28... Qg6 { [%emt 0:00:23] } 29. Kg1 { [%emt 0:00:17] } 29... Rf6 { [%emt 0:01:14] } 30. Nh2 { [%emt 0:02:04] } 30... Bg5 { [%emt
+0:00:42] } 31. Rb3 { [%emt 0:01:02] } 31... Ne8 { [%emt 0:01:14] } 32. Rb8 { [%emt 0:01:47] } 32... Qf7 { [%emt 0:00:18] } 33. Nf1 { [%emt 0:02:04] } 33... Qd7 { [%emt 0:00:35] } 34. Qe1 { [%emt 0:00:39] } 34... Rb6 { [%emt 0:02:42] } 35. Rxb6 { [%emt 0:00:13] } 35... axb6 { [%emt 0:
+00:01] } 36. Ne3 { [%emt 0:00:21] } 36... Qa4 { [%emt 0:00:49] } 37. Rh5 { [%emt 0:00:55] } 37... h6 { [%emt 0:00:21] } 38. Nf5 $40 { [%emt 0:00:11] } 38... Qxa3 { [%emt 0:00:06] } 39. Qd1 { [%emt 0:01:11] } 39... Ng7 { [%emt 0:01:00] } 40. Nxh6+ { [%emt 0:00:00] } 40... Bxh6 { [%emt 0:
+00:00] } 41. Rxh6 { [%emt 0:00:50] } 41... Ra8 { [%emt 0:01:55] } 42. Rxb6 { [%emt 0:07:51] } 42... Qc3 { [%emt 0:01:20] } 43. Rb3 $1 { [%emt 0:07:21] } ( 43. Qxf3 Rf8 ) 43... Qd4 { [%emt 0:00:45] } 44. Qxf3 { [%emt 0:03:07] } 1-0
+
+[Event "Cappelle op 36th"]
+[Site "Cappelle la Grande"]
+[Date "2020.02.28"]
+[Round "9"]
+[White "Terletsky, Oleg"]
+[Black "Guliyev, Namig"]
+[Result "0-1"]
+[Annotator "ChessBase II"]
+[BlackElo "2537"]
+[ECO "B80"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "78"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[TimeControl "40/5400+30:1800+30"]
+[WhiteElo "2314"]
+
+1. e4 { [%emt 0:00:00] Ce joueur ukrainien a gagn√  90 points dans un tournoi
+inconnu en Ukraine en r√ alisant le score parfait de 14/14 avant de tour
+reperdre un mois plus tard } 1... c5 { [%emt 0:00:00] } 2. Nf3 { [%emt 0:00:00] } 2... e6 { [%emt 0:00:00] } 3. d4 { [%emt 0:00:00] } 3... cxd4 { [%emt 0:00:00] } 4. Nxd4 { [%emt 0:
+00:00] } 4... Nf6 { [%emt 0:00:00] } ( 4... d6 $143 5. c4 $1 ) ( 4... Nc6 5. Nc3 d6 { Une
+autre mani√..re de rentrer dans la Sheveningen √ vitant l'attaque K√..r√..s
+face √  Ó ..f6 g4 } 6. Be3 ) 5. Nc3 { [%emt 0:00:00] } 5... d6 { [%emt 0:00:00] L'ordre
+de coups des Noirs pour jouer une Sheveningen avec e6 avant d6 a le m√ rite
+d'√ viter la variante de Moscou 3.Ó Pb5 } 6. Be3 { [%emt 0:05:15] } ( 6. g4 h6 7. g5 ( 7. h4 ) ) ( 6. f3 a6 ) 6... a6 { [%emt 0:00:23] } ( 6... Be7 { Il est √ galement
+possible de retarder la pouss√ e a6 } 7. f3 ) ( 6... Nc6 7. f3 Be7 8. Qd2 O-O ( 8... Bd7 9. Ndb5 $36 { [%csl Rd6] } ) 9. O-O-O d5 10. Be2 a6 ( 10... Nxd4 11. Bxd4 dxe4 12. fxe4 Nd7 13. Kb1 e5 14. Be3 Nf6 15. Qe1 Qc7 16. Qg3 Be6 17. Bh6 $36 { De la Villa Garcia,J (2494)-Franco Alonso,A (2472) ESP-chT Autonomicas 5th
+2010 (5.32) 1/2-1/2 } ) ) 7. f3 { [%emt 0:00:07] } 7... b5 { [%emt 0:00:04] } ( 7... Nc6 8. Qd2 Bd7 ( 8... Qc7 9. O-O-O Be7 10. g4 b5 11. Nxc6 Qxc6 12. Ne2 Bb7 13. Nd4 ( 13. h4 O-O 14. g5 Nd7 15. Nd4 Qc7 16. g6 $40 ) ) ( 8... h5 9. O-O-O Bd7 10. Kb1 Qc7 11. Nxc6 Bxc6 12. Ne2 d5 13. e5 Nd7 14. f4 g5 15. f5 { Cheparinov,I (2687)-Al
+Modiahki,M (2556) Sochi FIDE GP 2008 (12) 1/2-1/2 } ) 9. g4 ) 8. Qd2 { [%emt 0:00:
+07] } ( 8. g4 { Probablement une simple transposition sauf si les Noirs jouent Ó .
+.bd7 } 8... Nfd7 ( 8... Nbd7 $6 9. g5 Nh5 10. Qd2 ( 10. f4 ) 10... Ne5 11. f4 Ng4 12. Bg1 e5 13. Nd5 $1 Nxf4 ( 13... exd4 14. Bxd4 $44 ) 14. Nxb5 $1 { Talla,V (2407)
+-Vlasak,L (2136) Olomouc Jihlavanka Cup 2008 (1) 0-1 } ) ( 8... h6 ) ( 8... Bb7 9. Qd2 Nfd7 10. O-O-O Nb6 11. Nb3 $1 N8d7 ( 11... Nc6 12. Qf2 $36 ) 12. Na5 { [%cal
+Ga5b7,Ga5c6] } 12... Qc7 13. h4 Ne5 14. g5 ( 14. Qf2 Nbc4 ) 14... Rb8 $13 { Paulik,V 
+(2359)-Krzyzanowski,A (2368) CZE Uhlava07 email 2017 1-0 } ) ) 8... Nbd7 { [%emt 0:
+00:06] } 9. g4 { [%emt 0:01:42] } 9... h6 { [%emt 0:00:54] } ( 9... Nb6 10. a4 $5 ) 10. O-O-O { [%emt 0:01:06] } 10... Ne5 { [%emt 0:00:10] Une ligne secondaire d√ j√  utilis√
+ e par le GMI } ( 10... b4 11. Nce2 d5 12. exd5 Nxd5 13. Nf4 N7f6 14. Bc4 Nxe3 15. Qxe3 Bc5 16. Qe5 Bxd4 17. Rxd4 Qb6 18. Nd5 Nxd5 19. Bxd5 f6 20. Qh5+ Ke7 21. Re4 Rb8 22. Qg6 Rg8 23. Rhe1 Qd6 24. Bxe6 Bxe6 25. Qf5 Rb6 26. Rxe6+ Qxe6 27. Qc5+ Rd6 28. Rxe6+ Kxe6 29. Qc4+ Rd5 30. Qxa6+ Ke5 31. Qc4 Rgd8 32. Qe4+ Kd6 33. Qxb4+ Ke6 34. b3 f5 35. a4 Rd4 36. Qb6+ R8d6 37. gxf5+ Kxf5 38. Qc5+ Kf4 39. a5 g5 40. a6 { Andriasian,Z (2611)-Savchenko,B (2573) chess.com INT
+2020 1-0 } ) ( 10... Bb7 { La grande ligne } 11. h4 b4 12. Na4 Qa5 13. b3 Nc5 14. a3 { [%cal Gd2a5] } ) 11. Bd3 { [%emt 0:05:51] } ( 11. a3 Bb7 { Shirov,A (2714)-Guliyev,
+N (2526) FRA-chT Top 16 GpB 2005 (9) 1/2-1/2 } ) 11... b4 { [%emt 0:02:23] } ( 11... Bb7 12. Rhe1 ) 12. Nce2 { [%emt 0:00:08] } 12... d5 $1 { [%emt 0:00:06] } 13. exd5 { [%emt
+0:01:11] } 13... Qxd5 { [%emt 0:02:20] } ( 13... Nxd5 14. Nf4 Bb7 15. Rhe1 { [%cal Ge1e8] } 15... Qa5 { De la Riva Aguado,O (2537)-Caruana,F (2640) Olympiad-38 Dresden 2008 (3)
+0-1 } ) 14. Kb1 { [%emt 0:03:27] } 14... Be7 $146 { [%emt 0:04:03] } ( 14... Nxd3 15. Qxd3 e5 16. Rhe1 Be7 17. c4 bxc3 18. Nxc3 Qb7 19. Nf5 Bxf5 20. Qxf5 O-O 21. g5 Rab8 22. Re2 g6 23. Qxe5 hxg5 24. Bd4 Qxf3 25. Qxe7 { 1-0 (25) Perez Candelario,M 
+(2522)-Oms Pallisse,J (2481) Lorca 2005 } ) 15. Nf4 { [%emt 0:01:00] } 15... Qd7 { [%emt
+0:00:55] } 16. Be2 { [%emt 0:02:13] } 16... g5 $1 { [%emt 0:01:32] Un coup multifonction
+qui force l'√ change du fort Ó ..f4 tout en retardant la pouss√ e f4 } 17. Nh5 { [%emt 0:00:54] } ( 17. Nd3 Nc4 18. Qc1 Nd5 $36 ) 17... Nxh5 { [%emt 0:01:21] } 18. gxh5 { [%emt 0:00:02] } 18... Bb7 { [%emt 0:01:05] } 19. Rhf1 { [%emt 0:04:01] Un coup
+pas forc√ ment indispensable } 19... Bd5 $5 { [%emt 0:05:05] } 20. b3 { [%emt 0:05:37] } ( 20. Nf5 Bxa2+ 21. Kxa2 Qa4+ 22. Kb1 exf5 23. Qd5 { [%cal Gd5e5,Gd5a8] } 23... Nc6 24. Qd7+ $40 ) 20... Rd8 { [%emt 0:04:44] } 21. Bxa6 { [%emt 0:04:50] } 21... O-O $13 { [%emt
+0:00:07] } 22. h4 $1 { [%emt 0:05:18] } 22... Ra8 { [%emt 0:01:58] } 23. Bb5 { [%emt 0:04:
+47] } 23... Qb7 { [%emt 0:01:44] } ( 23... Qa7 $5 { Peut-√|_tre plus rapide } 24. Ba4 Nc6 25. Nxc6 Bxc6 26. Bxc6 Qxa2+ 27. Kc1 Qa1# ) 24. hxg5 { [%emt 0:11:45] } 24... Nxf3 { [%emt 0:00:48] } 25. Rxf3 { [%emt 0:09:48] } 25... Bxf3 { [%emt 0:01:06] } 26. Rg1 { [%emt
+0:01:37][%cal Gg1g8] Un coup qui fait peur devant l'√ chiquier } 26... Bxh5 { [%emt 0:
+00:16] } 27. gxh6+ { [%emt 0:09:29] } 27... Kh8 { [%emt 0:01:38] } ( 27... Bg6 28. Bd3 Kh7 29. Nxe6 $1 ) 28. Bc6 { [%emt 0:07:58] } 28... Qa7 { [%emt 0:04:31] Autant jouer Ó Ba7
+au 23√..me coup } 29. a4 $1 { [%emt 0:00:42] } 29... bxa3 { [%emt 0:01:53] } 30. Ka2 { [%emt 0:02:34] Un th√..me classique et la position est particuli√..rement
+confuse } 30... Rad8 { [%emt 0:02:00] } 31. Qh2 $2 { [%emt 0:02:55][%cal Gh2h5,Gh2e5] } ( 31. Rg7 $1 { Non seulement les Blancs pouvaient sauver la partie mais
+probablement m√|_me la gagner } 31... Bf6 32. Be4 ( 32. Qd3 $2 Bg6 33. Rxg6 ) 32... Bxd4 ( 32... Bxg7 33. hxg7+ Kxg7 34. Nxe6+ $1 fxe6 35. Qg2+ ) 33. Rh7+ Kg8 34. Qg2+ ) 31... Qc5 $1 { [%emt 0:01:11] } ( 31... Rxd4 $2 32. Qe5+ ) 32. Qf2 { [%emt 0:04:32] } 32... Qc3 $19 { [%emt 0:00:39] } 33. Rb1 { [%emt 0:00:28] } 33... Bg6 { [%emt 0:01:18] } 34. Bb5 { [%emt 0:01:13] } 34... e5 { [%emt 0:01:49] } 35. Nc6 { [%emt 0:02:50] } 35... Bxc2 { [%emt 0:01:
+07] } 36. Nxe7 { [%emt 0:00:33] } 36... Bxb1+ { [%emt 0:00:07] } 37. Kxa3 { [%emt 0:00:06] } 37... Ra8+ { [%emt 0:01:14] } 38. Ba4 { [%emt 0:00:08] } 38... Rxa4+ { [%emt 0:01:12] } 39. Kxa4 { [%emt 0:00:05] } 39... Ra8+ { [%emt 0:00:22] } 0-1
+
+[Event "Rochefort op-A 19th"]
+[Site "Rochefort"]
+[Date "2020.02.22"]
+[Round "1"]
+[White "Burmakin, Vladimir"]
+[Black "Derieux, Christian"]
+[Result "1-0"]
+[BlackElo "2053"]
+[ECO "A40"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "31"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[WhiteElo "2514"]
+
+1. Nf3 g6 2. d4 Bg7 3. g3 b5 4. Bg2 Bb7 5. Qd3 c5 6. Qxb5 Bc6 7. Qxc5 Na6 8. Qa3 Qb6 9. c3 Nh6 10. O-O Nc7 11. Nbd2 a5 12. Qb3 Qa6 13. Qc4 Bb5 14. Qxc7 d6 15. c4 Ba4 16. c5 1-0
+
+[Event "Rochefort op-A 19th"]
+[Site "Rochefort"]
+[Date "2020.02.22"]
+[Round "1"]
+[White "Coste, Thierry"]
+[Black "Vorobiov, Evgeny E"]
+[Result "0-1"]
+[BlackElo "2520"]
+[ECO "D00"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "56"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[WhiteElo "2056"]
+
+1. Nf3 g6 2. d4 Nf6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Be2 c5 7. Ne5 cxd4 8. exd4 Nc6 9. O-O Bf5 10. Nxc6 bxc6 11. Na4 Nd7 12. g4 Be6 13. c3 f5 14. g5 Bf7 15. Bg3 e5 16. dxe5 Nxe5 17. f4 Nd7 18. Bf2 Re8 19. Bf3 Qc7 20. Qd2 Qa5 21. b3 Rad8 22. Rfd1 Nb6 23. Bd4 Nxa4 24. Bxg7 Kxg7 25. Qd4+ Kg8 26. bxa4 c5 27. Qd2 Qxa4 28. Rab1 d4 0-1
+
+[Event "Rochefort op-A 19th"]
+[Site "Rochefort"]
+[Date "2020.02.22"]
+[Round "1"]
+[White "Korneev, Oleg"]
+[Black "Mota, Pankit"]
+[Result "1-0"]
+[BlackElo "2048"]
+[ECO "C06"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "97"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[WhiteElo "2505"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4 f6 9. exf6 Nxf6 10. O-O Bd6 11. Nf3 Qc7 12. Bg5 O-O 13. Rc1 h6 14. Bh4 a6 15. Bg3 Nh5 16. Bxd6 Qxd6 17. Ng3 Nf4 18. Bb1 Rf6 19. Re1 Bd7 20. Ne5 Raf8 21. Ng4 Qb4 22. Nxf6+ Rxf6 23. b3 Nxd4 24. Kh1 Qb6 25. Nh5 Nxh5 26. Qxh5 Rxf2 27. Rf1 Nf5 28. Bxf5 Rxf1+ 29. Rxf1 exf5 30. Qf3 Qe6 31. h3 Bc6 32. Qxf5 Qe2 33. Qf8+ Kh7 34. Qf2 Qe7 35. Kh2 Qd6+ 36. Qf4 Qc5 37. Qf5+ Kg8 38. Qe6+ Kh7 39. Qe5 Qc2 40. Qf5+ Qxf5 41. Rxf5 Kg6 42. g4 a5 43. Kg3 d4 44. Rxa5 Kf6 45. h4 g6 46. Kf4 Ke6 47. g5 hxg5+ 48. Rxg5 Kf6 49. Rc5 1-0
+
+[Event "Rochefort op-A 19th"]
+[Site "Rochefort"]
+[Date "2020.02.22"]
+[Round "1"]
+[White "Mas, Victor"]
+[Black "Maiorov, Nikita"]
+[Result "0-1"]
+[BlackElo "2506"]
+[ECO "E15"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "108"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[WhiteElo "2049"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Bb4+ 6. Nbd2 O-O 7. O-O d5 8. Ne5 Be7 9. b3 a5 10. a3 c5 11. e3 cxd4 12. exd4 Ra7 13. Bb2 Nbd7 14. Re1 Qa8 15. Qe2 a4 16. Nxd7 Nxd7 17. b4 dxc4 18. Bxb7 Qxb7 19. Nxc4 b5 20. Ne3 Nf6 21. Rad1 Nd5 22. Qh5 Rd8 23. Rc1 h6 24. Ng4 Bf8 25. Rc2 Rc8 26. Rce2 Qe7 27. Bc1 Rac7 28. Bf4 Nxf4 29. gxf4 Qd7 30. Ne3 g6 31. Qg4 Qxd4 32. h4 h5 33. Qg5 Qd3 34. Nf1 Qxa3 35. Ng3 Be7 36. Qh6 Bf8 37. Qg5 Qf3 38. Re3 Qg4 39. Qxb5 a3 40. Rxa3 Qxf4 41. Rae3 Qxb4 42. Qf1 Qxh4 43. Re4 Qf6 44. Qg2 Rc5 45. R1e3 h4 46. Ne2 Rg5 47. Rg4 Rcc5 48. Ree4 Bd6 49. Qh3 Rce5 50. Rxe5 Qxe5 51. Qxh4 Rh5 52. Qd8+ Kg7 53. Ng3 Qe1+ 54. Kg2 Bxg3 0-1
+
+[Event "Rochefort op-A 19th"]
+[Site "Rochefort"]
+[Date "2020.02.22"]
+[Round "1"]
+[White "Van den Doel, Erik"]
+[Black "Bailleul, Adrien"]
+[Result "1-0"]
+[BlackElo "2061"]
+[ECO "D02"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "47"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[WhiteElo "2583"]
+
+1. d4 Nf6 2. Nf3 c5 3. c3 d5 4. dxc5 e6 5. Be3 Nbd7 6. b4 a5 7. Nbd2 axb4 8. cxb4 e5 9. Bg5 Be7 10. e3 O-O 11. Be2 e4 12. Nd4 Ne5 13. O-O b6 14. N2b3 bxc5 15. Nxc5 Bxc5 16. bxc5 Ba6 17. a4 Bxe2 18. Qxe2 Nd3 19. c6 Qd6 20. Rfb1 Rfb8 21. Rxb8+ Rxb8 22. a5 Rb2 23. Qxb2 Nxb2 24. a6 1-0
+
+[Event "Rochefort op-A 19th"]
+[Site "Rochefort"]
+[Date "2020.02.22"]
+[Round "2"]
+[White "Mohite, Ranveer"]
+[Black "Korneev, Oleg"]
+[Result "1/2-1/2"]
+[BlackElo "2505"]
+[ECO "B41"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "88"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[WhiteElo "2231"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be2 b6 8. O-O Bb7 9. Qd3 d6 10. f4 Nbd7 11. b4 Be7 12. f5 e5 13. Nc2 a5 14. a3 axb4 15. axb4 Rxa1 16. Nxa1 d5 17. Nxd5 Bxd5 18. cxd5 Bxb4 19. Nb3 O-O 20. g4 Ne8 21. Be3 Nc5 22. Qb5 Ba3 23. Ra1 Nxb3 24. Rxa3 Nd4 25. Qd3 Nxe2+ 26. Qxe2 Nd6 27. Qd3 Rc8 28. Ra1 h6 29. Rc1 Qd7 30. Rxc8+ Qxc8 31. Bxb6 Qc1+ 32. Kg2 Qf4 33. h3 Qc1 34. Be3 Qb2+ 35. Bf2 f6 36. Kf3 Qa1 37. Kg2 Kh7 38. Be3 Qb2+ 39. Kg3 Qb4 40. Kf3 Qe1 41. Kg2 Qb4 42. Kf3 Qe1 43. Kg2 Qb4 44. Kf3 Qe1 1/2-1/2
+
+[Event "Rochefort op-A 19th"]
+[Site "Rochefort"]
+[Date "2020.02.23"]
+[Round "2"]
+[White "Dalaud, Dorian"]
+[Black "Burmakin, Vladimir"]
+[Result "0-1"]
+[BlackElo "2514"]
+[ECO "D94"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "68"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[WhiteElo "2236"]
+
+1. c4 c6 2. Nf3 Nf6 3. Nc3 d5 4. e3 g6 5. d4 Bg7 6. Bd3 O-O 7. O-O Be6 8. cxd5 Nxd5 9. e4 Nb6 10. Be3 Bc4 11. Qe2 Bxd3 12. Qxd3 Na6 13. Rad1 Qd6 14. h4 Rad8 15. Qe2 Qe6 16. h5 Qg4 17. h6 Bh8 18. Qc2 Nc7 19. Ne5 Qh5 20. Qb3 Ne6 21. Nxf7 Kxf7 22. f4 Qxh6 23. Rf3 Qh5 24. f5 Ke8 25. Qxe6 Rd6 26. Qb3 gxf5 27. Rxf5 Rxf5 28. exf5 Qg4 29. d5 Bxc3 30. Bxb6 axb6 31. bxc3 b5 32. f6 Qe2 33. Rf1 Qe3+ 34. Rf2 Rxf6 0-1
+
+[Event "Rochefort op-A 19th"]
+[Site "Rochefort"]
+[Date "2020.02.23"]
+[Round "2"]
+[White "Gareyev, Timur"]
+[Black "Parnali, S Dharia"]
+[Result "1-0"]
+[BlackElo "2275"]
+[ECO "A34"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "61"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[WhiteElo "2607"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. c4 d5 6. cxd5 Nxd5 7. Nc3 Nc7 8. d3 Be7 9. Nd2 Bd7 10. Nc4 f6 11. f4 b5 12. Ne3 exf4 13. Nf5 b4 14. Nxe7 Qxe7 15. Ne4 fxg3 16. Bf4 gxh2+ 17. Kh1 Ne5 18. Rc1 O-O 19. d4 Ng4 20. Bxc7 Bc6 21. Qb3+ Kh8 22. Bd6 Qb7 23. Bxf8 Rxf8 24. Qf3 h5 25. Rxc5 g6 26. Qf4 Qd7 27. d5 Bxd5 28. Rd1 g5 29. Qg3 Rc8 30. Rdxd5 Rxc5 31. Nxc5 1-0
+
+[Event "Rochefort op-A 19th"]
+[Site "Rochefort"]
+[Date "2020.02.23"]
+[Round "2"]
+[White "Maiorov, Nikita"]
+[Black "Jeet, Jain"]
+[Result "1-0"]
+[BlackElo "2223"]
+[ECO "E14"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "125"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[WhiteElo "2506"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 b6 5. Bd3 Bb7 6. O-O Bd6 7. b3 O-O 8. Nc3 c5 9. Bb2 a6 10. cxd5 exd5 11. Rc1 Nbd7 12. Qe2 Qe7 13. Rfd1 Ne4 14. Qf1 b5 15. dxc5 Ndxc5 16. Bb1 Nxc3 17. Bxc3 Ne4 18. Bd4 Ba3 19. Rc2 Rac8 20. Qd3 Rxc2 21. Bxc2 Rc8 22. Ne1 g6 23. Bb1 Bd6 24. Nf3 b4 25. Bb2 Nc3 26. Re1 Qe4 27. Qf1 Nxb1 28. Rxb1 Qe8 29. Qd1 Qe4 30. Ra1 Rc2 31. Bd4 Rc8 32. Ne1 Bc6 33. Qd2 Bb5 34. Rd1 Bf8 35. Ba1 Bg7 36. Bxg7 Kxg7 37. Qb2+ f6 38. Rd4 Qe7 39. Rxd5 Qc7 40. Qd2 Qc3 41. f3 Qxd2 42. Rxd2 Rc1 43. Kf2 Ra1 44. e4 Kf7 45. g3 a5 46. Rb2 f5 47. e5 Ke6 48. f4 Bc6 49. Nf3 Bd5 50. Rd2 h6 51. Nd4+ Ke7 52. Nxf5+ gxf5 53. Rxd5 Rxa2+ 54. Ke3 Rxh2 55. Rxa5 Rb2 56. Ra7+ Ke8 57. Kd4 Rxb3 58. e6 Rxg3 59. Ke5 Ra3 60. Rb7 Re3+ 61. Kf6 Kd8 62. Rxb4 Kc7 63. Rd4 1-0
+
+[Event "Rochefort op-A 19th"]
+[Site "Rochefort"]
+[Date "2020.02.23"]
+[Round "2"]
+[White "Sahil, Tickoo"]
+[Black "Van den Doel, Erik"]
+[Result "0-1"]
+[BlackElo "2583"]
+[ECO "D02"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "80"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[WhiteElo "2275"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Bg4 4. Nf3 e6 5. Nbd2 Be7 6. Bd3 O-O 7. c3 c5 8. Qb1 Nc6 9. Ne5 Bh5 10. Bg5 cxd4 11. Nxc6 bxc6 12. exd4 h6 13. Bf4 c5 14. dxc5 Bxc5 15. O-O Re8 16. Nb3 Bd6 17. Bxd6 Qxd6 18. f4 Rab8 19. Nd4 Qb6 20. b4 Rbc8 21. Qb2 Bg6 22. Bxg6 fxg6 23. Rad1 Ne4 24. Kh1 Rxc3 25. Rf3 Rec8 26. h3 Rxf3 27. gxf3 Ng3+ 28. Kh2 Nh5 29. Qd2 Rf8 30. Re1 Rxf4 31. Nxe6 Rxf3 32. Qd4 Rf2+ 33. Kg1 Rxa2 34. Qxb6 axb6 35. Rd1 Rb2 36. Rxd5 Rxb4 37. Rd7 Re4 38. Rd6 Kf7 39. Nc7 Nf4 40. Rd7+ Re7 0-1
+
+[Event "Rochefort op-A 19th"]
+[Site "Rochefort"]
+[Date "2020.02.23"]
+[Round "2"]
+[White "Vorobiov, Evgeny E"]
+[Black "Doyen, Remi"]
+[Result "1/2-1/2"]
+[BlackElo "2242"]
+[ECO "D26"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "140"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[WhiteElo "2520"]
+
+1. d4 d5 2. c4 e6 3. Nf3 a6 4. e3 Nf6 5. Nc3 dxc4 6. Bxc4 b5 7. Bb3 Bb7 8. O-O Nbd7 9. e4 b4 10. e5 bxc3 11. exf6 Qxf6 12. bxc3 Bd6 13. Ba4 Bxf3 14. Qxf3 Qxf3 15. gxf3 Ke7 16. Rb1 Rab8 17. Be3 Rxb1 18. Rxb1 Rb8 19. Rxb8 Nxb8 20. c4 Bb4 21. Kf1 Nd7 22. Ke2 c5 23. Bc6 Kd6 24. Bb7 a5 25. Ba6 Bc3 26. dxc5+ Nxc5 27. Bb5 e5 28. Be8 f6 29. f4 exf4 30. Bxf4+ Be5 31. Bd2 Nb7 32. f4 Bd4 33. Bf7 Kc5 34. Bd5 Nd6 35. Kd3 Bg1 36. Bxa5 Bxh2 37. a3 Nc8 38. Bb4+ Kb6 39. c5+ Kc7 40. Ba5+ Kd7 41. Bd2 h6 42. f5 Ne7 43. Be4 g6 44. fxg6 f5 45. Bh1 Nxg6 46. Bxh6 Kc7 47. a4 f4 48. Ke4 Bg1 49. Kf5 Ne7+ 50. Ke6 Bxc5 51. Bxf4+ Kb6 52. Bf3 Nc8 53. Kd7 Ka5 54. Kc6 Bf2 55. Bd1 Nb6 56. Bd2+ Ka6 57. a5 Ka7 58. Be2 Bg1 59. Bg5 Bf2 60. Bb5 Bg1 61. Bd8 Na8 62. Bf6 Bf2 63. Be5 Bg1 64. Kd7 Bf2 65. Kc8 Nb6+ 66. Kd8 Bg1 67. Bg3 Be3 68. Kc7 Na8+ 69. Kc8 Nb6+ 70. axb6+ Kxb6 1/2-1/2
+
+[Event "Rochefort op-A 19th"]
+[Site "Rochefort"]
+[Date "2020.02.22"]
+[Round "3"]
+[White "Korneev, Oleg"]
+[Black "Sim, Sylvain"]
+[Result "1-0"]
+[BlackElo "2191"]
+[ECO "B31"]
+[EventCountry "FRA"]
+[EventDate "2020.02.22"]
+[EventRounds "9"]
+[EventType "swiss"]
+[PlyCount "59"]
+[Source "ChessBase"]
+[SourceDate "2020.05.31"]
+[WhiteElo "2505"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg4 6. Nbd2 Bg7 7. h3 Bxf3 8. Nxf3 e5 9. Be3 Qe7 10. Qd2 h6 11. Qc3 b6 12. b4 a5 13. bxc5 b5 14. O-O Nf6 15. a4 b4 16. Qxe5 Qxe5 17. Nxe5 Nxe4 18. dxe4 Bxe5 19. Rad1 Rb8 20. f4 Bg7 21. Rd6 O-O 22. Rxc6 b3 23. Rb6 bxc2 24. Rc1 Rxb6 25. cxb6 Rc8 26. Kf1 Bb2 27. b7 Rb8 28. Rxc2 Rxb7 29. Bd2 Ba3 30. Bxa5 1-0
+

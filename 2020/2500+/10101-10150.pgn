@@ -1,0 +1,1493 @@
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.05"]
+[Round "1"]
+[White "Dubov, Daniil"]
+[Black "Esipenko, Andrey"]
+[Result "1-0"]
+[BlackElo "2686"]
+[ECO "E06"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "71"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2702"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. Qc2 c5 7. dxc5 d4 8. b4 a5 9. b5 Bxc5 10. Nbd2 Nbd7 11. Nb3 Bb4+ 12. Bd2 Bxd2+ 13. Nfxd2 a4 14. Nxd4 e5 15. Nf5 Nc5 16. Ne3 e4 17. O-O Qd4 18. Nd5 Nxd5 19. cxd5 e3 20. Nc4 exf2+ 21. Kh1 Bd7 22. Rad1 Qf6 23. d6 Rae8 24. Nb6 Re5 25. Qxc5 Rxc5 26. Nxd7 Qg5 27. Nxf8 Kxf8 28. d7 Qd8 29. Rxf2 Rc7 30. Bh3 g6 31. Rf6 Kg8 32. Rfd6 Rc2 33. R6d2 Rc7 34. Rd3 f5 35. b6 Rc2 36. Re3 1-0
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.05"]
+[Round "1"]
+[White "Fedoseev, Vladimir1"]
+[Black "Chigaev, Maksim"]
+[Result "1/2-1/2"]
+[BlackElo "2619"]
+[ECO "D90"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "68"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2674"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. h4 dxc4 6. e4 c5 7. d5 O-O 8. Bxc4 b5 9. Bxb5 Nxe4 10. Nxe4 Qa5+ 11. Nc3 Bxc3+ 12. bxc3 Qxb5 13. h5 Qc4 14. hxg6 fxg6 15. Rh4 Qxc3+ 16. Bd2 Qd3 17. Bh6 Qxd1+ 18. Rxd1 Rf5 19. Re4 Nd7 20. Rxe7 Rh5 21. Be3 Nf6 22. d6 Bg4 23. Rd3 Nd5 24. Re5 Nb4 25. Rd2 Bxf3 26. Rxh5 Bxh5 27. d7 Nc6 28. f3 g5 29. Bxg5 Bf7 30. a3 Nd8 31. Re2 Nc6 32. Rd2 Nd8 33. Re2 Nc6 34. Rd2 Nd8 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.05"]
+[Round "1"]
+[White "Goganov, Aleksey"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[BlackElo "2723"]
+[ECO "D90"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "49"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2594"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Nb6 6. Nf3 Bg7 7. Bf4 O-O 8. Be5 Bxe5 9. Nxe5 N8d7 10. Nd3 e5 11. dxe5 Qe7 12. g3 Nxe5 13. Nxe5 Qxe5 14. Bg2 c6 15. O-O Be6 16. Qc2 Rfd8 17. Rad1 a5 18. Rxd8+ Rxd8 19. Rd1 Rxd1+ 20. Qxd1 Nc4 21. Qc1 Nd6 22. Qd2 Nc4 23. Qc1 Nd6 24. Qd2 Nc4 25. Qc1 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.05"]
+[Round "1"]
+[White "Nepomniachtchi, Ian"]
+[Black "Matlakov, Maxim"]
+[Result "1-0"]
+[BlackElo "2698"]
+[ECO "D35"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "77"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2784"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Bb4 6. e3 h6 7. Bh4 g5 8. Bg3 Ne4 9. Ne2 h5 10. h4 Nxg3 11. Nxg3 gxh4 12. Nxh5 Qg5 13. Qa4+ Nc6 14. Nf4 Rh6 15. Qb5 Bf5 16. Nxd5 a6 17. Qa4 Bd6 18. O-O-O Kf8 19. f4 Qg6 20. Be2 Re8 21. Bf3 b5 22. Qxa6 Nb8 23. Qb7 c6 24. Nc7 Rc8 25. e4 Bxc7 26. exf5 Qxf5 27. Be4 Qd7 28. Kb1 Bxf4 29. Qb6 Qd6 30. Rhf1 Nd7 31. Qa6 Re8 32. Bc2 Nf6 33. a3 Qc7 34. d5 Nxd5 35. Nxd5 cxd5 36. Qxb5 Rb6 37. Qxd5 Qc3 38. b4 Rf6 39. Rxf4 1-0
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.05"]
+[Round "1"]
+[White "Vitiugov, Nikita"]
+[Black "Artemiev, Vladislav"]
+[Result "1/2-1/2"]
+[BlackElo "2711"]
+[ECO "B45"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "42"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2720"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 Bc5 7. Nd6+ Ke7 8. Bf4 e5 9. Nf5+ Kf8 10. Bg5 Bb4 11. Bc4 d5 12. Bxf6 Qxf6 13. Qxd5 Bxf5 14. exf5 g6 15. O-O Kg7 16. Ne4 Qxf5 17. c3 Be7 18. Ng3 Qf4 19. Ne2 Qf5 20. Ng3 Qf4 21. Ne2 Qf5 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.06"]
+[Round "2"]
+[White "Antipov, Mikhail Al"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[BlackElo "2720"]
+[ECO "B90"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "80"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2611"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e5 7. Nf3 Be7 8. Bc4 Be6 9. Bb3 Nbd7 10. Be3 Ng4 11. Qe2 Nxe3 12. Qxe3 Nf6 13. Bxe6 fxe6 14. Ng5 Ng4 15. Qh3 Bxg5 16. Qh5+ Kf8 17. Qxg4 Kf7 18. h4 Bf6 19. Qh5+ Ke7 20. O-O-O Rc8 21. Rh3 Rc6 22. Rhd3 Qe8 23. Qe2 Qg6 24. Kb1 Rhc8 25. Qe3 Bxh4 26. Na2 Bg5 27. Qe1 Rd8 28. f3 Bf6 29. Qa5 Qe8 30. Nb4 Rc4 31. Qb6 Kf7 32. Rxd6 Rxd6 33. Rxd6 Be7 34. Qxb7 Kf8 35. Rb6 Qxa4 36. c3 Qd1+ 37. Ka2 Qa4+ 38. Kb1 Qd1+ 39. Ka2 Qa4+ 40. Kb1 Qd1+ 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.06"]
+[Round "2"]
+[White "Artemiev, Vladislav"]
+[Black "Goganov, Aleksey"]
+[Result "1/2-1/2"]
+[BlackElo "2594"]
+[ECO "A36"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "88"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2711"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. d3 d6 6. Bd2 e6 7. Qc1 Qd7 8. Nf3 b6 9. O-O Bb7 10. Rd1 Rc8 11. a3 Nf6 12. Bh6 O-O 13. b4 e5 14. Bg5 Ne8 15. Nd5 f6 16. Bh6 Nc7 17. Bxg7 Kxg7 18. e3 Ne7 19. Nc3 Ne6 20. Qb2 Bc6 21. b5 Bb7 22. a4 Rce8 23. a5 Nc8 24. a6 Bxf3 25. Bxf3 Ne7 26. Bg2 Qc7 27. Rf1 Kh8 28. Rae1 Nf5 29. Bc6 Rd8 30. f4 Qg7 31. Rf2 exf4 32. exf4 Nfd4 33. Rff1 f5 34. Re3 Nxc6 35. Rxe6 Nb4 36. Na4 Nxd3 37. Qc3 Qxc3 38. Nxc3 Rf7 39. Nd5 Nb4 40. Nxb4 cxb4 41. Rb1 d5 42. Rxb4 dxc4 43. Rxc4 Rd5 44. Rec6 Rdd7 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.06"]
+[Round "2"]
+[White "Chigaev, Maksim"]
+[Black "Dubov, Daniil"]
+[Result "1-0"]
+[BlackElo "2702"]
+[ECO "B31"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "73"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2619"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. O-O Bg7 6. Re1 Nh6 7. c3 O-O 8. h3 f5 9. e5 Nf7 10. d3 h6 11. d4 cxd4 12. cxd4 e6 13. b3 c5 14. Ba3 d6 15. Nbd2 Re8 16. Nc4 Bb7 17. dxc5 dxe5 18. Nfxe5 Nxe5 19. Nxe5 Be4 20. Nc4 Bxa1 21. Qxa1 Qg5 22. g3 e5 23. Nxe5 Re6 24. Qd4 Rae8 25. Nd7 Bc6 26. Rxe6 Rxe6 27. Ne5 Qf6 28. Bb2 f4 29. gxf4 Be8 30. Kh2 Re7 31. c6 Bxc6 32. Qc4+ Kh7 33. Qxc6 Qxc6 34. Nxc6 Re2 35. Bd4 Rxa2 36. Nxa7 Rd2 37. Bc5 1-0
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.06"]
+[Round "2"]
+[White "Karjakin, Sergey"]
+[Black "Esipenko, Andrey"]
+[Result "1/2-1/2"]
+[BlackElo "2686"]
+[ECO "C42"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "113"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2752"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4 c6 9. Nc3 Nxc3 10. bxc3 dxc4 11. Bxc4 Bf5 12. Bg5 Qa5 13. d5 Qc5 14. Bb3 cxd5 15. Be3 Qc7 16. Qxd5 Be6 17. Qh5 Bxb3 18. axb3 Qxc3 19. Bd4 Qc2 20. Rfc1 Qg6 21. Qxg6 hxg6 22. Bxa7 Nc6 23. Be3 Be7 24. g3 Rxa1 25. Rxa1 Rd8 26. Kf1 Rd5 27. Rc1 Rb5 28. Nd4 Nxd4 29. Bxd4 Rb4 30. Rc4 Rxb3 31. Rc8+ Kh7 32. Rc7 Rb4 33. Rxe7 Rxd4 34. Rxf7 b5 35. Rb7 b4 36. h4 Rc4 37. Kg2 Rd4 38. Kh3 Rd2 39. f4 Rb2 40. Kg4 b3 41. Kg5 Rb1 42. Rb8 Rb2 43. Rb6 Rb1 44. Kg4 Rb2 45. Kg5 Rb1 46. Rb8 Rb2 47. Rb5 Rb1 48. Kg4 Kh6 49. Rb4 Kh7 50. Kg5 b2 51. g4 Rc1 52. Rxb2 Rc5+ 53. f5 gxf5 54. gxf5 Rc1 55. Rg2 Rf1 56. h5 Rh1 57. Rg4 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.06"]
+[Round "2"]
+[White "Matlakov, Maxim"]
+[Black "Fedoseev, Vladimir1"]
+[Result "0-1"]
+[Annotator "Fedoseev, Vladimir"]
+[BlackElo "2674"]
+[ECO "C45"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "70"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2698"]
+
+{ For a beautiful  game full of ideas you need, as a rule, a motivated playing
+partner - whenever both players are aiming for all out struggle there is a
+significant increase in the probability of a noteworthy game emerging.  For me
+the start of the tournament had been anything but easy - just previously I had
+experienced a devastating defeat (even if the game had been anything but chess)
+and I didn't want to make matters worse. F√1/4r eine sch√Pne und ideenreiche
+Partie braucht man in der Regel einen motivierten Co-Autor - wenn beide
+Spieler einen vollbl√1/4tigen Kampf anstreben, steigt die Wahrscheinlichkeit,
+eine bemerkenswerte Partie zu produzieren, bedeutend.  Der Start des Turniers
+war f√1/4r mich alles andere als leicht - kurz davor habe ich in einem Match
+eine verheerende Niederlage erlitten (auch wenn es ein anderes Spiel als
+Schach war) und wollte nun das Ganze nicht weiter verschlimmern. } 1. e4 $1 { I
+didn't really expect this and so I paid too little attention to this
+possibility in my preparation - I had enough other problems. Das habe ich
+nicht wirklich erwartet, daher schenkte ich dieser M√Pglichkeit bei meiner
+Vorbereitung zu wenig Aufmerksamkeit - ich hatte genug andere Probleme. } 1... e5 2. Nf3 Nc6 3. d4 $1 { I should at least have taken a fresh look at our game from
+the Eliseev Memorial 2017 - in it Maxim also played the Scotch (with which I
+had had no problems worth mentioning). Mindestens h√Ntte ich unsere Partie aus
+dem Eliseev Memorial 2017 auffrischen sollen - dort spielte Maxim auch
+Schottisch (erw√Nhnenswerte Probleme hatte ich dabei nicht bekommen). } 3... exd4 4. Nxd4 Bc5 5. Nb3 Bb4+ { I decided to go for a variation which is slightly worse,
+but which in my opinion best suits my style. Ich habe mich f√1/4r eine etwas
+schlechtere, aber meinen Stil m. E. am besten entsprechende Variante
+entschieden. } 6. c3 Be7 { This reply is not as good an option as the classical
+reply 5...Ó Pb6,  but in return it leads to a quite different sort of position.
+White must now choose a plan and develop his pieces according to it, and his
+play is much less clear than after the main option 5...Ó Pb6. Diese Erwiderung
+ist keine ebenb√1/4rtige Alternative der klassischen Antwort 5...Ó Pb6,  daf√1/
+4r aber f√1/4hrt sie zu einer ganz anderen Art der Stellung. Jetzt muss Wei√Y
+einen Plan w√Nhlen und dementsprechend die Figuren entwickeln, wobei sein
+Spiel hier viel weniger klar ist, als nach der Hauptoption 5...Ó Pb6. } 7. Bf4 { This is probably the most ambitious move here, but Black has an interestion
+reaction available to him.   Das ist wohl der ambitionierteste Zug hier, aber
+Schwarz verf√1/4gt √1/4ber eine interessante Reaktion. } ( 7. f4 $5 { The setup
+which starts with this continuation deserves serious attention. Der mit dieser
+Fortsetzung beginnende Aufbau verdient ernsthafte Beachtung. } 7... d6 8. N1d2 ( 8. Bd3 $5 d5 $1 { Why not? Oleg Romanishin employed this continuation three times
+and in my view you can really trust such a player. This continuation changes
+the character of the struggle and lets the position leave behind the usual
+channels.   Warum nicht? Oleg Romanishin wendete diese Fortsetzung drei Mal an,
+und meines Erachtens darf man so einem Spieler wirklich vertrauen. Diese
+Fortsetzung √Nndert den Charakter des Kampfes und l√Nsst die Stellung die
+gew√Phnlichen Umrisse verlassen. } ( 8... Nf6 $6 { This can lead to problems. Das
+kann zu Problemen f√1/4hren. } 9. O-O O-O 10. N1d2 Re8 11. Nf3 $16 { Here the
+consequences of the opening are unsatisfactory for Black - a good example of
+the risk the second player takes if he decides to go for such a variation.
+Hier sind die Er√Pffnungsfolgen f√1/4r Schwarz unbefriedigend - ein gutes
+Beispiel davon, welches Risiko der Nachziehende eingeht, wenn er sich f√1/4r
+eine solche Variante entscheidet. } 11... Bf8 12. Qc2 Qe7 13. Re1 g6 14. Nbd4 Bg7 15. Be3 Bg4 16. Bf2 Nxd4 17. Nxd4 c5 18. Nb3 Qc7 19. Nd2 Bd7 20. Kh1 Bc6 21. c4 Bh6 22. f5 Ng4 23. Bg1 Ne5 24. Be2 Qe7 25. Rad1 Rad8 26. b3 Qh4 27. Nf3 Qxe4 28. Qxe4 Bxe4 29. Nxe5 Rxe5 30. fxg6 hxg6 31. Bf1 Rde8 32. Re2 R8e6 33. h3 Bf4 34. Rde1 Bg3 35. Rd1 b6 36. Bh2 Bxh2 37. Kxh2 f5 38. Red2 Kf7 39. Rxd6 Rxd6 40. Rxd6 Re6 41. Rd7+ Re7 42. Rd6 Re6 43. Rd7+ Re7 44. Rd6 f4 45. Kg1 Re6 46. Rd7+ Re7 47. Rd6 Bb1 48. Rd2 Bf5 49. Kf2 g5 50. Be2 Rd7 51. Rb2 Kf6 52. Bf3 Rd3 53. Re2 Rc3 54. Rd2 Rc2 55. Ke2 Ke5 56. Kd1 Rxd2+ 57. Kxd2 Kd4 58. Be2 Be4 59. Bf3 Bb1 60. a3 a5 61. a4 Bd3 62. Bd1 Be4 63. Bf3 Bf5 64. Bd1 Be6 65. Bf3 { 1-0 (65)
+Giri,A (2764)-Artemiev,V (2708) Chess.com INT 2020 } ) ) ( 8. Be2 $5 { With this
+development of the bishop (unlike after 8.Ó Pd3) - the reply ...d6-d5 is not
+allowed. Bei dieser Entwicklung des L√Nufers wird die Antwort d6-d5 - im
+Unterschied zu 8.Ó Pd3 - nicht erlaubt. } 8... f5 $1 { A worthy reply. Play becomes
+clearly sharper!   Eine w√1/4rdige Erwiderung. Das Spiel wird deutlich
+sch√Nrfer! } ) 8... d5 $5 { The advance ...d5 is so important that it is even
+worth carrying it out in two steps  (...d6-d5 after ...d7-d6)!       Der
+Vorsto√Y ...d5 ist von solcher Bedeutung, dass es sich lohnt, ihn sogar in
+zwei Schritten (d6-d5 nach d7-d6) durchzusetzen! } 9. e5 Nh6 $1 { An important
+possibility, which sees the start of the double-edged struggle which demands
+of both players great inventiveness. Eine wichtige M√Pglichkeit, wonach der
+zweischneidige Kampf beginnt, der von beiden Gegnern viel Einfallsreichtum
+erfordert. } ) ( 7. c4 $5 { Have we now reached a Maroczy pawn structure? Not
+quite, Because here Black has the c-pawn (instead of the e-pawn as in the
+Maroczy constellation) and consequenly has the semi-open e-file available to
+him. Ist nun die Maroczy-Bauernstruktur entstanden? Nicht ganz, weil Schwarz
+hier den c-Bauern hat (statt des e-Bauern bei der Maroczy-Konstellation) und
+folglich √1/4ber die halboffene e-Linie verf√1/4gt. } 7... a5 $5 { Thanks to this
+resource Black obtains counterplay. Dank dieser Ressource erh√Nlt Schwarz
+Gegenspiel. } ) ( 7. g3 $5 { This appears to me to be the most unpleasant move for
+Black, but recently no less a player than Magnus Carlsen lost with White
+against Daniil Dubov an even better version of the present position - and that
+is of some significance, even though it was only a rapid game. When we compare
+it with the position reached after 7.g3 in the Fianchetto Variation of the
+Philidor Defence, in my opinion the difference is in Black's favour. Dieser
+Zug scheint mir der unangenehmste f√1/4r Schwarz zu sein, aber vor kurzem
+verlor mit Wei√Y kein Geringerer als Magnus Carlsen gegen Daniil Dubov sogar
+eine bessere Version der aktuellen Stellung - und das hat etwas zu bedeuten,
+auch wenn es nur eine Schnellpartie war. Wenn wir die nach 7.g3 entstandene
+Position mit der Fianchetto-Variante der Philidor-Verteidigung vergleichen,
+wird der Unterschied meines Erachtens zugunsten des Schwarzen fallen. } 7... Nf6 8. Bg2 O-O 9. O-O Re8 $5 { With the idea of regrouping the pieces later in "King's
+Indian" fashion. Mit der Idee, die Figuren sp√Nter  "k√Pnigsindisch"
+umzugruppieren. } ( 9... d6 $5 { is perhaps more precise than the "rough and
+ready" 9...Ó Re8, but I leave it up to the reader to investigate this question.
+ist vielleicht genauer, als das "grobe" 9...Ó Re8, aber ich √1/4berlasse dem
+Leser, diese Frage zu untersuchen. } ) ) 7... d6 8. N1d2 Bg5 $1 { And once more I
+refer to Oleg Romanishin - this is what he played in one of his games! Und
+wieder beziehe ich mich auf Oleg Romanishin - so spielte er in einer seiner
+Partien! } 9. Bg3 Nge7 { After investing a lot of time in 9...h5, I chose the
+most provocative option  - it sometimes happens that when you are caught up in
+an idea you drift away from the essence of the position. The positions which
+can now arise are extremely complex, but in my view Black finds things clearly
+more difficult than does his opponent, and that because his dark-squared
+bishop is now forced back to h6 and will be in a miserable position. Nachdem
+ich viel Zeit in 9...h5 investierte, w√Nhlte ich die provokativste
+M√Pglichkeit - manchmal passiert, dass wenn man von einer Idee gefangen ist,
+entfernt man sich vom Kern der Stellung. Die Positionen, die nun entstehen
+k√Pnnen, sind h√Pchst komplex, aber aus meiner Sicht hat es Schwarz  deutlich
+schwieriger als sein Gegner, und zwar weil sein schwarzfeldriger L√Nufer nun
+auf h6 gedr√Nngt  und in eine kl√Ngliche Lage geraten wird. } ( 9... Qf6 $1 { This continuation is much cleverer than the move in the game. Looking back, I
+could not understand how it came about that I did not decide to play it! With
+it Black would get a simple and easily understandable game. Diese Fortsetzung
+ist viel kl√1/4ger als der Partiezug. Im Nachhinein konnte ich nicht verstehen,
+wie es kam, dass ich mich nicht daf√1/4r entschieden hatte! Damit bek√Nme
+Schwarz einfaches und leicht verst√Nndliches Spiel. } 10. Bc4 ( 10. Nf3 $5 Bf4 $1 $11 { - after this Black simply finishes his development and will have no badly
+placed pieces. The resulting position is level, with chances for both sides. -
+danach beendet Schwarz einfach seine Entwicklung und wird keine schlechten
+Figuren haben. Die daraus resultierende Position ist ausgeglichen, mit
+beiderseitiger Chancen. } 11. Bh4 ) 10... Nge7 11. Qh5 Ng6 12. Bxf7+ Kxf7 13. f4 Bh6 14. f5 Kg8 15. fxg6 hxg6 16. Qe2 Be6 17. Nf3 Bf4 18. Bxf4 Qxf4 19. g3 Qg4 20. Nbd2 Rf8 21. O-O Qh5 22. Rf2 Qc5 23. Rf1 Bh3 24. Re1 Bg4 25. Qe3 Qxe3 26. Rxe3 Rh5 27. h4 Ra5 28. a3 Bxf3 29. Rexf3 Rxf3 30. Nxf3 Ne5 31. Ng5 Ng4 32. Rd2 Re5 33. Rd4 Nf6 34. Kf2 a5 35. Kf3 b6 36. a4 Kf8 37. Nh3 Kf7 38. Nf4 Re8 39. Nd5 Nxd5 40. exd5 Re5 41. Rc4 Re7 42. Rf4+ Kg8 43. Rc4 Kh7 44. b4 g5 45. bxa5 bxa5 46. Rc6 gxh4 47. gxh4 Kg6 48. Ra6 Kf5 49. Ra8 Ke5 50. Rxa5 Rf7+ { 1/2 (50)
+Warakomski,T (2449)-Romanishin,O (2475) Warsaw 2015 } ) 10. f4 { A principled
+move. But White could also have simply continued his development. Prinzipiell
+gespielt. Aber Wei√Y h√Ntte auch einfach seine Entwicklung fortsetzen k√Pnnen. } ( 10. Nf3 $5 Bh6 11. Bd3 O-O 12. O-O { - and the first player has the easier
+game. , und der Anziehende hat leichteres Spiel. } ) 10... Bh6 11. Qf3 { This
+move looks logical, but now the situation once more enters the realm of
+dynamic balance. Dieser Zug sieht logisch aus, aber jetzt  kommt die Lage
+wieder in den Bereich des dynamischen Gleichgewichtes. } ( 11. Bc4 $5 { It is not
+easy to spot that this continuation is the strongest move. Let us take a
+closer look. Es ist nicht einfach zu erkennen, dass diese Fortsetzung der
+st√Nrkste Zug ist. Lassen wir uns sie genauer anschauen: } 11... O-O 12. O-O Ng6 $5 { The best option.  But now White will not be confronted with the idea 13...f5
+and thus has some time to try to seize the initiative for himself. Die beste
+Option.  Aber jetzt wird Wei√Y nicht mit der Idee 13...f5 konfrontiert und hat
+somit etwas Zeit, um zu versuchen, die Initiative an sich zu rei√Yen. } ( 12... Kh8 13. Nf3 f5 14. e5 $1 { We can now see how much the position of the white
+bishop on c4 is hindering the opponent's development. Jetzt sieht man, wie
+stark die Position des wei√Yen L√Nufers auf c4 den Gegner an seiner
+Entwicklung hindert. } ) 13. Kh1 Kh8 $1 14. f5 $5 ( 14. Nd4 $1 Nxd4 15. cxd4 f5 16. e5 dxe5 17. dxe5 b5 $1 { Even here Black is capable of sharpening up the
+game Sogar hier ist Schwarz f√Nhig, das Spiel zu versch√Nrfen } ) 14... Nge5 15. Bd5 { The continuation 14.f5 is one of the sort of decisions one would rather
+not take - this advance frees some important squares for the opponent  whereas
+it is hard to see at first glance how how White should continue to develop his
+initiative. But in return White would get a large advantage in space, which
+would proably have a large role to play later. All in all I would claim that
+White would be a clear favourite here. Die Fortsetzung 14.f5 geh√Prt zu
+solchen Entscheidungen, auf welche man eher verzichtet - dieser Vorsto√Y macht
+einige wichtige Punkte f√1/4r den Gegner frei, w√Nhrend es auf Anhieb nicht zu
+sehen ist, wie der Anziehende seine Initiative weiter entwickeln soll. Daf√1/
+4r aber bek√Nme Wei√Y gro√Yen Raumvorteil, der sp√Nter wohl eine gro√Ye Rolle
+spielen w√1/4rde. Alles in Allem w√1/4rde ich behaupten, dass Wei√Y hier ein
+klares Favorit w√Nre. } ) 11... O-O 12. Bf2 $2 { A really unfortunate reaction.
+White loses a tempo and in addition the f-file now opens up  - these factors
+lead to Black seizing the initiative. Eine recht ungl√1/4ckliche Reaktion.
+Wei√Y verliert ein Tempo, au√Yerdem √Pffnet sich nun die f-Linie - diese
+Faktoren f√1/4hren dazu, dass der Nachziehende Initiative erobert. } ( 12. Bd3 $5 f5 13. O-O fxe4 14. Bxe4 Bf5 15. Bh4 Bxe4 16. Qxe4 Qe8 17. Bxe7 Qxe7 18. Qxe7 Nxe7 19. g3 g5 20. fxg5 Bxg5 21. Ne4 Be3+ 22. Kg2 Nd5 23. Rxf8+ Rxf8 24. Rd1 Nf6 25. Re1 Nxe4 26. Rxe3 d5 27. Re2 Kf7 28. Nd2 Nxd2 29. Rxd2 Ke6 30. Re2+ Kd6 31. Rf2 Rxf2+ 32. Kxf2 b5 33. Ke3 a5 34. a3 Kc5 35. g4 Kc4 36. g5 { [%eval 12,
+40] } ) 12... f5 $1 13. exf5 { A really important moment, which I later discussed
+in a lecture for young players from Magnitogorsk. Here an important role is
+played by Black's choice of piece with which to recapture on f5, and at this
+point I should have taken enough time. Instead I took my decision rather
+quickly - in order to establish later, with the help of the computer, that it
+was the wrong one! Ein sehr wichtiger Moment, den ich sp√Nter in einem Vortrag
+f√1/4r Jugendliche aus Magnitogorsk besprochen habe. Hier spielt eine gro√Ye
+Rolle, mit welcher Figur Schwarz auf f5 zur√1/4ckschl√Ngt, und ich h√Ntte mir
+an dieser Stelle genug Zeit nehmen sollen. Statt dessen habe meine
+Entscheidung ziemlich schnell getroffen - um sp√Nter mit Hilfe des Computers
+festzustellen, dass sie fehlerhaft war! } 13... Nxf5 $2 ( 13... Bxf5 $1 { The correct
+continuation - this is how Black continues to develop. Die richtige
+Fortsetzung - so entwickelt Schwarz sich weiter! } 14. g3 $1 $13 { Black now has
+a wide choice of possible continuations.His pieces are harmoniously posted and
+in many variations he can quickly develop an attack. Jetzt verf√1/4gt Schwarz
+√1/4ber eine breite Auswahl der m√Pglichen Fortsetzungen. Seine Figuren sind
+harmonischer platziert und in vielen Varianten kann er schnell einen Angriff
+entwickeln. } ( 14. O-O-O Qd7 { I will show you Stockfish's main line to
+demonstrate the risk White is taking here. Ich zeige die Hauptlinie von
+Stockfish, um zu demonstrieren, welches Risiko Wei√Y hier eingeht: Stockfish
+251220, syzygy, no fake: } 15. g3 Bg4 16. Qe4 Bxd1 17. Kxd1 g5 18. Rg1 Kh8 19. Bb5 gxf4 20. Bd4+ Bg7 21. Bxg7+ Kxg7 22. Nd4 Kh8 23. gxf4 d5 24. Qe6 Qd6 25. Bxc6 bxc6 26. Re1 Nf5 27. Nxf5 Qxe6 28. Rxe6 Rxf5 29. Rxc6 Rc8 30. Ra6 Rxf4 31. Rxa7 Rf2 32. a4 Rxh2 33. b4 Rg8 34. Ra5 { [%eval -311,31] } ) ( 14. Be2 Be6 $1 15. g3 Bd5 16. Bc4 $8 Bxc4 17. Nxc4 g5 $1 $17 ) 14... Qd7 ( 14... g5 $5 { Ambitious
+and very forced. Ambiti√Ps und sehr forciert. } 15. Qh5 Qe8 ( 15... Bg7 $5 16. Qxg5 Qe8 $44 { with a complicated struggle. mit kompliziertem Kampf } ) 16. Qxh6 Rf6 $1 17. Qxg5+ ( 17. Qxf6 Nd5+ $19 ) 17... Rg6 18. Qh4 Bg4 $1 { The key move
+for the whole variation. Der Schl√1/4sselzug der ganzen Variante. } 19. Bc4+ Kh8 20. Qxg4 $3 Rxg4 21. O-O-O $14 { - with an easier and more pleasant game for
+White. - mit leichterem und angenehmerem Spiel f√1/4r Wei√Y. } ) ( 14... Ng6 $5 15. O-O-O $5 $13 ) 15. Be2 Kh8 { Handling this position with White is still
+anything but easy. Castling short appears to be very risky, and anyway
+castling long is the equivalent of suicide. Bu when you give this position to
+the computer and allow it some time, you find out that the first option is in
+reality not so dangerous as it looks at first sight - Es ist nach wie vor
+alles andere als einfach, diese Stellung mit Wei√Y zu behandeln. Die kurze
+Rochade scheint sehr riskant zu sein, die lange bedeutet √1/4berhaupt einen
+Selbstmord. Wenn man aber diese Stellung dem Computer zeigt und ihm etwas Zeit
+gibt, findet man heraus, dass die erste Option in Wirklichkeit nicht so
+gef√Nhrlich ist, wie sie auf den ersten Blick aussieht - } 16. O-O $13 ) 14. O-O-O Kh8 $6 ( 14... a5 $1 { was much more natural, but strangely during this
+phase of the game both of us had rather lost sight of the logic of the
+struggle. war viel nat√1/4rlicher, aber seltsamerweise ist uns beiden in
+dieser Phase der Partie die Logik des Kampfes ziemlich abhandengekommen. } 15. a3 a4 16. Na1 Nfe7 { This position promises Black more than the one he got
+after the continuation in the game. Diese Stellung verspricht dem Schwarzen
+mehr, als diejenige, die er nach der Partiefortsetzung bekam. } 17. g3 g5 18. Qh5 Bg7 $36 { and Black has the initiative. mit schwarzer Initiative } ) 15. h4 $5 { Aggressive and makes absolute sense! Aggressiv und absolut sinnvoll! } ( 15. Rg1 $1 { was even better, but you need to be extremely sure of yourself to play
+this in the heat of battle war noch besser, aber um im Feuer des Gefechts so
+zu spielen, muss man √Nu√Yerst selbstsicher sein. } 15... Nh4 $5 16. Bxh4 Qxh4 17. g3 Qg4 $5 18. Be2 Qxf3 19. Nxf3 $11 ) 15... Nfe7 ( 15... a5 $5 { is more concrete.
+ist konkreter. } 16. a3 $1 ( 16. g4 $2 Ne5 $1 17. fxe5 Ne3 18. Qxe3 Bxe3 19. Bxe3 Bxg4 20. Re1 a4 { here the black queen is stronger than three minor pieces.
+Hier ist die schwarze Dame st√Nrker, als drei Leichtfiguren. } ) 16... a4 17. Na1 { During the game I thought that this driving the knight back to a1 could turn
+out to be favourable for White - the knight soon appears on c2, where it will
+be much better posted than on b3. W√Nhrend der Partie dachte ich, dass sich
+dieses Vertreiben des Springers nach a1 als g√1/4nstig f√1/4r Wei√Y erweisen
+k√Pnnte - bald erscheint dieser Springer auf c2, wo er viel besser platziert
+sein wird, als auf b3. } 17... Ne5 ( 17... Nfe7 $5 18. g3 Ne5 19. Qg2 Bd7 { This line
+is very similar to the game; only Black is even more ambitious here. Dieses
+Abspiel ist der Partie sehr √Nhnlich, nur dass Schwarz hier sogar noch
+ambitionierter steht. } 20. Nc2 $5 Bc6 21. Qg1 Bxh1 22. Qxh1 $44 { - the
+situation is very difficult to evaluate, but I would prefer to have White here
+- his game is simpler, whilst for Black it is not at all easy to understand
+how he should deploy his pieces. - die Lage ist  ist sehr schwer zu bewerten,
+aber ich w√1/4rde hier lieber Wei√Y haben - sein Spiel ist einfacher, w√Nhrend
+es f√1/4r Schwarz gar nicht leicht zu verstehen ist, wie er seine Figuren
+anordnen soll. } ) 18. fxe5 $1 Ne3 19. Qxe3 $1 Bxe3 20. Bxe3 Bg4 21. Re1 dxe5 22. Nc2 $44 { - it is known that in games between humans three minor pieces are as
+a rule stronger than a queen - es ist bekannt, dass in menschlichen Partien
+drei Leichtfiguren in der Regel st√Nrker sind, als eine Dame } ) 16. g3 Ne5 17. Qg2 Bd7 { Another critical position. It is rare for me to find it sensible to
+include in my annotations computer lines with no further ado. If you just take
+a fleeting look at the four variations which follow you will get a good
+impression of how complicated the forthcoming struggle can be. Eine weitere
+kritische Stellung. Das ist ein seltener Fall, wann es mir sinnvoll zu sein
+scheint, f√1/4r meine Kommentare die Computerlinien ohne weiteres zu √1/
+4bernehmen - wenn Sie sich auch nur fl√1/4chtig die nachfolgenden vier
+Varianten anschauen, bekommen sie einen guten Eindruck davon, wie kompliziert
+der bevorstehende Kampf sein kann. } 18. Rg1 { A human solution and I shall not
+criticise it. Eine menschliche L√Psung, und ich werde sie nicht kritisieren. } ( { Stockfish 251220, syzygy, no fake: 1) } 18. Ne4 $1 { The most aggressive move.
+But it also has a disadvantage - the Ó ..e5 is no longer hanging. Der
+aggressivste Zug. Er hat aber auch einen Nachteil - der Se5  h√Nngt jetzt
+nicht mehr. } 18... Qe8 $1 { We will also see this idea in the game. Diese Idee werden
+wir auch in der Partie sehen. } 19. Re1 $5 { A sensible reply. White occupies
+the only open file, shores up the Ó ..e4 and and prepares to fully consolidate
+his forces.     Eine vern√1/4nftige Antwort. Wei√Y besitzt die einzige offene
+Linie, befestigt den Se4 und bereitet das vollst√Nndige Konsolidieren seiner
+Kr√Nfte vor. } ( 19. Ng5 { Extremely ambitious.  As we previously saw, with the
+help of an exchange sacrifice White can often get a position which offers him
+better prospects in practical play. Extrem ambiti√Ps.  Wie wir fr√1/4her
+gesehen haben, kann Wei√Y oft mit Hilfe des Qualit√Ntsopfer eine Stellung
+bekommen, die ihm beim praktischen Spiel bessere Aussichten anbietet. } 19... Bc6 20. Qh3 Bxh1 21. Qxh1 Ng4 22. Bg1 Nc6 23. Bd3 Qh5 $13 { with chances for both sides.
+mit verteilten Chancen. } ) 19... Qh5 20. Nbd2 Ng4 21. Be2 Qd5 $1 { This brings
+Black counterplay. The evaluation of this complex poisition depends on whether
+White manages to consolidate his position before his opponent's initiative
+becomes too dangerous. Damit bekommt Schwarz Gegenspiel. Die Bewertung dieser
+komplexen Stellung h√Nngt davon ab, ob es dem Wei√Yem gelingt, seine Stellung
+zu konsolidieren, bevor die gegnerische Initiative zu gef√Nhrlich wird. } ) ( { Stockfish 251220, syzygy, no fake: 2) Stockfish 251220, syzygy, no fake: 2) } 18. Qg1 $5 { a practical decision - in view of the idea of Ó Pd7-c6 the queen
+leaves the main light-squared diagonal. eine praktische Entscheidung -
+angesichts der Idee Ld7-c6 verl√Nsst die Dame die wei√Ye Hauptdiagonale } 18... a5 $5 { Why not?! Warum nicht?! } 19. fxe5 ( 19. Nd4 $5 c5 ) ( 19. Re1 a4 20. Nd4 c5 ) 19... a4 20. Nd4 dxe5 21. Nc2 ( 21. g4 $5 Bxg4 $1 22. Qxg4 Rxf2 23. Ne6 Qd5 24. Be2 $1 { You might think that Black must have a decisive strike here, but this
+impression is not confirmed by the computer. Man k√Pnnte denken, hier muss
+Schwarz √1/4ber einen entscheidenden Schlag verf√1/4gen,  aber dieser Eindruck
+wird vom Computer nicht best√Ntigt. Stockfish 251220, syzygy, no fake: 1) } 24... Qxa2 ( { Stockfish 251220, syzygy, no fake: 2) } 24... a3 25. Kb1 Rxe2 26. Qxe2 Qxe6 27. Ne4 axb2 28. Qxb2 Nf5 29. Qb3 Qe8 30. Ng5 Bxg5 31. hxg5 e4 32. Rd5 Ng3 33. Re1 c6 34. Rd4 e3 35. Qc2 Qe6 36. Qd2 Qg8 37. Qh2 Nf5 38. Rd7 Ng3 39. Qb2 Nf5 40. Qb3 Qe8 41. Qd1 b5 42. Qd3 Qg8 43. c4 Qxc4 44. Qxc4 bxc4 45. Rc7 Kg8 46. Rxc6 Kf7 47. g6+ hxg6 48. Rxc4 Ke6 49. a4 Kd5 50. Rg4 Nd4 51. Rxe3 Rxa4 52. Rxg6 Rb4+ 53. Kc1 Nb3+ 54. Kd1 Nd4 55. Re7 Rb1+ 56. Kd2 Rb2+ 57. Kc1 Rh2 58. Rg5+ Kd6 { [%eval 0,49] } ) ( { Stockfish 251220, syzygy, no fake: 3) } 24... Rxe2 25. Qxe2 a3 26. Kb1 Qxe6 27. Ne4 axb2 28. Qxb2 Nf5 29. Qb3 Qe8 30. Ng5 Bxg5 31. hxg5 e4 32. Rd5 Ng3 33. Re1 c6 34. Rd4 e3 35. Qc2 Qe6 36. Qd2 Qg8 37. Qh2 Nf5 38. Rd7 Ng3 39. Qb2 Nf5 40. Qb3 Qe8 41. Qd1 b5 42. Qd3 Qg8 43. c4 Qxc4 44. Qxc4 bxc4 45. Rc7 Kg8 46. Rxc6 Kf7 47. g6+ hxg6 48. Rxc4 Ke6 49. a4 Kd5 50. Rg4 Nd4 51. Rxe3 Rxa4 52. Rxg6 Kc4 53. Kc1 Nb3+ 54. Kd1 Nd4 55. Kd2 Ra2+ 56. Kc1 Ra1+ 57. Kb2 Rf1 58. Rc3+ Kd5 59. Rg5+ Ke6 60. Rd3 { [%eval 0,49] } ) 25. Bc4 Qa1+ 26. Kc2 Rxd2+ 27. Rxd2 Qxh1 28. Rd1 Qh2+ 29. Kb1 a3 30. bxa3 g6 31. Qf3 Nf5 32. Qxb7 Re8 33. Qxc7 Ne3 34. Rd8 Qc2+ 35. Ka1 Qxc3+ 36. Ka2 Qc2+ 37. Ka1 { [%eval
+0,50] } ) 21... Bg4 $1 22. Be3 $1 Bxd1 23. Kxd1 Bxe3 24. Qxe3 a3 $44 { This
+complicated position with different material on both sides is really hard to
+evaluate. Diese komplizierte Position mit ungleichem Material ist recht schwer
+einzusch√Ntzen. } ) ( { Stockfish 251220, syzygy, no fake: 3) } 18. Kb1 { This reply
+makes sense if White sees the subsequent variation. Diese Antwort macht Sinn,
+wenn Wei√Y die nachfolgende Variante sieht: } 18... Bc6 19. Ne4 Bxf4 20. Na5 $1 Bh6 21. Nxc6 bxc6 22. g4 $44 Bf4 { This position too is not at all easy to evaluate.
+auch diese Stellung ist gar nicht einfach zu bewerten } ) ( 18. Re1 $5 a5 19. Nc5 dxc5 20. Rxe5 Bc6 21. Qg1 Bxh1 22. Qxh1 b6 23. Bb5 $1 $44 { Objectively
+speaking Black has an advantage, but the activity of the white pieces should
+on no account be underestimated! Objektiv gesehen hat Schwarz Vorteil, aber
+die Aktivit√Nt der wei√Yen Figuren ist keinesfalls zu untersch√Ntzen! } ) 18... Bc6 19. Qh3 $11 Qe8 $5 { I am proud of this reply. The position is very
+complicated and contains countless dangers for both sides that something
+unexpected could happen on each and every move - in such a situation many
+would prefer to end the game at this point by means of a threefold repetition
+of moves. But I thought that in a higher sense they would all lose something 
+- I would then be missing a good opportunity to enrich my experience by
+playing out such a complicated position, Maxim would lose the opportunity to
+prove that he was the stronger player on the day in an uncompromising and
+theoretical duel and chess fans would be robbed of a potentially very
+beautiful game. Auf diese Antwort bin ist stolz. Die Stellung ist sehr
+kompliziert und beinhaltet unz√Nhlige Gefahren f√1/4r beide Seiten, in jedem
+Zug etwas unerwartetes passieren - in solcher Situation w√1/4rden viele an
+dieser Stelle bevorzugen, die Partie mittels Zugwiederholung zu beenden. Aber
+ich dachte, dass im h√Pheren Sinne alle davon  nur verlieren w√1/4rden - ich
+lie√Ye dann eine gute Gelegenheit aus, meine Erfahrung durch das Ausspielen
+einer solch komplizierten Stellung zu bereichern, Maxim verl√Pre die
+M√Pglichkeit, in einem kompromisslosen und prinzipiellen Duell zu beweisen,
+dass er an diesem Tag st√Nrker sei, und die Schachfans w√1/4rden einer
+potentiell sehr sch√Pnen Partie beraubt. } ( 19... a5 $5 { was clearly more
+logical than 19...Ó Be8, but because of the above 15...a5 variation I am left
+with the impression that  ...a7-a5 is not an option that Black should be
+aiming for. In addition the reply 20.Ó ..d4 seemed to be very dangerous for me.
+But tjhat would only be the start of a long line! war deutlich logischer als
+19...Ó Be8, aber aufgrund der obigen Variante 15...a5 ist bei mit der Eindruck
+verblieben, dass a7-a5 f√1/4r Schwarz keine besonders erstrebenswerte Option
+ist, au√Yerdem schien mir der Antwort 20.Ó ..d4 sehr gef√Nhrlich f√1/4r mich
+zu sein. Aber das w√Nre nur der Anfang eines langen Abspiels! } 20. Nd4 Ba4 $1 { This move is already a very hard one to find over the board. Bereits dieser
+Zug ist am Brett schwer zu finden } 21. Re1 ( 21. Ne6 $5 Qc8 $1 $19 22. Nxf8 Qxh3 23. Bxh3 Nd3+ $19 ) 21... Bd7 22. Qg2 $5 { The most natural reply. Die nat√1/
+4rlichste Antwort } ( 22. Qh2 $5 { (a bold decision) (eine mutige Entscheidung) } 22... c5 23. fxe5 { This position too is eminently suitable for the training of one's
+own imagination. It was analysed by Alexej Dreev and in order to protect his
+rights as an authot I refrain from giving here the variations he demonstrated.
+Auch diese Stellung passt wunderbar dazu, eigene Phantasie zu trainieren. Sie
+wurde von Alexej Dreev analysiert, und um seine Autorenrechte nicht zu
+verletzen, verzichte ich darauf, die von ihm pr√Nsentierten Varianten hier
+anzugeben. } ) ( 22. Qh1 $6 { This looks strange. Sieht seltsam aus. } 22... c5 ( 22... a4 $5 { with growing tension. mit steigender Spannung } ) 23. Nb5 Ng4 $13 ) 22... c5 $1 23. fxe5 Bxd2+ 24. Kxd2 cxd4 25. Bxd4 { Black has a wide choice of replies,
+but the position remains in dynamic balance. Schwarz hat eine breite Auswahl
+an Antworten, aber die Stellung befindet sich im dynamischen Gleichgewicht 
+Stockfish 251220, syzygy, no fake: 1) Stockfish 251220, syzygy, no fake: 1)
+Stockfish 251220, syzygy, no fake: 1) } 25... Nf5 ( { Stockfish 251220, syzygy, no fake:
+2) } 25... Bc6 26. Qe2 Nf5 ) ( { Stockfish 251220, syzygy, no fake: 3) Stockfish
+251220, syzygy, no fake: 3) Stockfish 251220, syzygy, no fake: 3) } 25... dxe5 26. Rxe5 Bc6 27. Qe2 Nf5 ) 26. e6 Nxd4 27. cxd4 Bc6 28. Qe2 Qb6 ) 20. Be2 Nd5 21. Rge1 $5 ( 21. Bd4 $1 $11 { was stronger and could also lead to complications;
+moreover, Black had the possibility of forcing a draw by repetition, which
+would be a logical end to the struggle. war st√Nrker und k√Pnnte ebenfalls zu
+Verwicklungen f√1/4hren, √1/4brigens h√Ntte Schwarz dann die M√Pglichkeit,
+Remis durch Zugwiederholung zu erzwingen, was ein logisches Ende des Kampfes
+w√Nre. } 21... a5 { The decision to play this instead of going in for the repetition
+would have demanded more courage of me than was the case with 19...Ó Be8!?.
+Die Entscheidung, so zu spielen, statt such auf die Zugwiederholung
+einzulassen, h√Ntte von mir noch mehr Courage erfordert, als es bei 19...Ó
+ Be8!? der Fall war. } ( 21... Bd7 $5 22. Qh1 Bc6 23. Qh3 $11 ) 22. fxe5 a4 23. Na1 a3 $3 $44 { and in the ensuing variations Black has justified hopes of
+success! und in den danach entstehenden Varianten kann Schwarz berechtigt
+hoffen, erfolgreich zu sein! Stockfish 251220, syzygy, no fake: } 24. Bc4 b5 ( 24... dxe5 $5 25. Rge1 exd4 $5 26. Rxe8 axb2+ 27. Kxb2 dxc3+ 28. Kc2 Rfxe8 29. Bxd5 Bxd5 30. Ndb3 { The computer evaluates the situation as 0.00. Der Computer
+bewertet die Lage als 0.00. } 30... Rxa2+ $5 31. Kxc3 Bg8 $44 { Over the board it is
+easier to play this position as Black. Am Brett ist leichter, diese Stellung
+mit Schwarz zu spielen. } ) 25. Bb3 dxe5 26. Rge1 ( 26. Bc5 $5 Rf3 $5 ( 26... e4 $5 { In the spirit of the old masters! Im Geiste der alten Meister! } 27. Nc2 e3 28. Bxf8 exd2+ 29. Kb1 Qxf8 30. g4 $5 Bf4 { and here White has various options, but
+the computer keeps on announcing 0.00. } ) 27. Kb1 Rd3 $1 28. Ne4 Ne3 $3 29. Nf2 Rxd1+ 30. Nxd1 Be4+ 31. Nc2 Nc4 $5 { with an extremely unclear situation. mit
+√Nu√Yerst unklarer Lage } ( 31... Nxc2 $5 32. Nf2 $1 Bg6 33. Bxc2 axb2 $1 $44 { - double-edged position, but White is risking more. - eine zweischneidige
+Stellung, aber Wei√Y riskiert mehr! Stockfish 251220, syzygy, no fake: } 34. Nd3 Qf7 ( 34... Bxd3 35. Bxd3 Qg8 36. c4 e4 $1 37. Be2 bxc4 38. Qf5 c3 39. a3 { The computer evaluation is still 0.00. As Evgeni Tomashevski said in his
+analysis of this game, "It is absolutely obvious that this position is a dead
+draw" :) . Die Computerbewertung ist nach wie vor 0.00. Wie Evgeni Tomashevski
+bei seiner Analyse dieser Partie sagte, "es ist absolut offensichtlich, dass
+diese Stellung Totremis ist" :) . } 39... Be3 $3 40. Bxe3 Rxa3 41. Bc4 $8 Ra1+ 42. Kc2 Qxc4 43. Qf8+ Qg8 44. Qxg8+ Kxg8 45. Rb1 Kf7 46. Bd4 Ke6 47. Bxc3 Rxb1 48. Kxb1 Kf5 $11 49. Bxg7 Kg4 50. Kxb2 Kxg3 51. h5 e3 $11 ) 35. Nb4 Bxc2+ 36. Kxc2 Qc4 37. Qh1 e4 38. Bd4 Rxa2 39. Nxa2 Qxa2 40. Rb1 Bc1 41. Bxg7+ Kxg7 42. Qxe4 Qa4+ 43. Qxa4 bxa4 44. Rxb2 Bxb2 45. Kxb2 Kf6 46. Ka3 Kf5 47. Kxa4 Kg4 48. Kb5 Kxg3 { [%eval 0,52] } ) ) 26... exd4 $3 27. Rxe8 axb2+ 28. Kxb2 dxc3+ 29. Kc2 Rfxe8 30. Bxd5 Bxd5 31. Ndb3 { An almost identical position arose earlier in the24...dxe5
+variation. Here too the computer  displays 0.00,so that Black has to choose
+betwen various drawing variations. .   Eine fast identische Position entstand
+bei uns fr√1/4her in der Variante 24...dxe5. Auch hier zeigt der Computer 0.00,
+wobei Schwarz zwischen verschiedenen Remisvarianten ausw√Nhlen darf. Eine
+davon ist } 31... Bf3 32. Rd3 Be4 33. Kxc3 Bxd3 34. Kxd3 g6 35. h5 Bg7 36. Nc1 Bxa1 37. hxg6 Re7 38. Kc2 Bf6 39. Nd3 Rxa2+ 40. Kb3 Rae2 41. Kb4 c6 42. Nf4 R2e4+ 43. Kc5 Be5 44. Kxc6 Bxf4 45. gxf4 Rxf4 46. Kxb5 Rfe4 47. gxh7 { [%eval 0,47] } ) 21... Qg6 { Here I already saw the future plan of attack, and the computer
+confirms that it is strong enough! Hier sah ich bereits den weiteren
+Angriffsplan, und der Computer best√Ntigt, dass dieser stark genug war! } 22. Bd4 ( 22. h5 $5 Nd3+ 23. Bxd3 Qxd3 24. Qf1 Qxf1 25. Nxf1 Nf6 $15 26. Nd4 $1 { ,
+and White should be able to hold on, even if not without some effort. , und
+Wei√Y sollte sich halten k√Pnnen, auch wenn nicht ohne M√1/4he. } ) 22... Bxf4 $1 { This logical and beautiful move wins! Dieser logische und sch√Pner Zug
+gewinnt! } 23. gxf4 Nxf4 24. h5 { Here it is easy to get the wrong impression
+that White has the advantage. Hier kann leicht der falsche Eindruck entstehen,
+dass Wei√Y im Vorteil ist. } 24... Qg5 $1 25. Qe3 { Objectively speaking not a high
+quality move, but under practical conditions it sets the opponent the greatest
+problems.     Objektiv ist dieser Zug von keiner guten Qualit√Nt, aber unter
+praktischen Bedingungen stellt er den Gegner vor den gr√P√Yten Problemen. } ( 25. Qh2 $5 { I thought this reply was much stronger than 45.Ó Be3. But Maxim had
+correctly evaluated the consequences of the exchange of queens. Ich dachte,
+diese Antwort sei viel st√Nrker, als 45.Ó Be3. Aber Maxim hat die Folgen des
+Damentausches richtig bewertet. } 25... Ned3+ 26. Bxd3 Nxd3+ 27. Kb1 Nxe1 28. Rxe1 h6 $17 { After the game Maxim said that this position is almost lost for White. I
+did not feel safe with it, but would nevertheless have played it. The computer
+however, immediately confirms that Maxim's judgement was accurate. Nach der
+Partie sagte Maxim, dass diese Stellung f√1/4r Wei√Y fast verloren ist. Ich
+war mir darin nicht sicher, h√Ntte aber so trotzdem gespielt. Der Computer
+best√Ntigt jedoch sofort, dass Maxims Urteil zutreffend war. Stockfish
+251220, syzygy, no fake: } 29. Rg1 Qf5+ 30. Ka1 Rf7 $17 { -1.14 depth 36 -1.14
+depth 36 -1.14 depth 36 } ) 25... Rae8 26. Bf1 { Here I saw two ways to win the
+opposing queen, but after further calculations (in time trouble) I eschewed
+both options. Doubtless that was wrong but I shall show how I arrived at that
+mad decision! Hier sah ich zwei M√Pglichkeiten, die gegnersiche Dame zu
+gewinnen, aber bei der weiteren Berechnung, die in Zeitnot stattfand, habe ich
+auf diese beiden Optionen verzichtet. Zweifelsohne war das falsch, aber ich
+werde zeigen, wie ich auf diese wahnsinnige Entscheidung kam! } 26... Ng4 { ??!  In
+the time trouble phase this decision makes absolute sense from a practical
+point of view - i prepared a strike linked to it (see later) and correctly
+judged that Black would have an easier game, but from a purely mathematical
+point of view this move deserves 2 points out of 5.   ??!  In der Zeitnotphase
+macht diese Entscheidung aus praktischer Sicht durchaus Sinn - ich habe einen
+mit ihr verbundenen Schlag vorbereitet (s. weiter) und richtig eingesch√Ntzt,
+dass Schwarz ein leichteres Spiel hat, aber rein mathematisch verdient dieser
+Zug 2 Punkte aus 5. } ( 26... Ned3+ $1 { The best option. Die beste Option. } 27. Bxd3 ( 27. Qxd3 $5 Nxd3+ 28. Bxd3 Rxe1 29. Rxe1 Qxh5 $19 ) 27... Rxe3 28. Rxe3 Be8 $3 { I did not find this decisive continuation. And (as the 2019 Russian
+champion Evgeni Tomashevsky said in his express analysis) if you do not see it,
+then it appears almost impossible to evaluate the resulting position, as
+favourable for Black (not to mention the fact to spot that it is even in
+reality a win).   Diese entscheidende Fortsetzung habe ich nicht gefunden. Und
+(wie es nach der Partie der russische Meister 2019 Evgeni Tomashevsky bei
+seiner Express-Analyse sagte) wenn man sie nicht sieht, erscheint es dann fast
+unm√Pglich, die entstandene Position als vorteilhaft f√1/4r Schwarz
+einzusch√Ntzen (ganz zu schweigen davon, zu erkennen, dass sie in Wirklichkeit
+gar gewonnen ist). Stockfish 251220, syzygy, no fake: } 29. h6 Nxd3+ 30. Rxd3 Qxh6 31. Rg3 Bg6 $19 ) ( 26... Nf3 $5 27. Nxf3 Bxf3 28. Qxf3 Ne2+ 29. Kb1 Rxf3 30. Bxe2 { I also calculated this and again did not discover the crowning move
+- Auch das habe ich gerechnet und wieder den kr√Pnenden Zug nicht endeckt - } 30... Rg3 $3 $19 ) 27. Qg1 $6 ( 27. Qg3 $1 Nxh5 28. Qg1 $44 { is a sensible alternative
+- the struggle continues unabated andf the situation is again absolutely
+unclear even if after ist eine sinnvolle Alternative - der Kampf entfacht mit
+der neuen Kraft, und die Lage ist wieder absolut unklar, auch wenn der
+Computer nach } 28... b6 $1 { the computer prefers the black pieces. die schwarzen
+Steine bevorzugt. } ) 27... Bf3 $1 { I thought that after this strong move I
+would win immediately (or at least almost immediately). I had also calculated
+the forthcoming reply in the game. But as we shall go on to see, in doing so I
+missed an enormously powerful idea for my opponent. Ich dachte, dass ich nach
+diesem starken Zug sofort (oder zumindest fast sofort) gewinnen werde (die in
+der Partie kommende Antwort habe ich auch gerechnet), dabei ist mir, wie wir
+weiter sehen werden, eine enorm kraftvolle gegnerische Idee entgangen. } 28. h6 $3 { As I said, I still considered this continuation and knew aht my reply
+would be. But that is just the beginning. Wie gesagt, diese Fortsetzung zog
+ich noch in Betracht und wusste, was ich darauf antworten werde, aber das ist
+erst der Anfang. } 28... Qxh6 29. Rxe8 Rxe8 { And now everything could have gone quite
+differently from what I expected.   Und jetzt h√Ntte alles ganz anders gehen
+k√Pnnen, als ich es erwartete. } 30. Bb5 $6 ( 30. Bxg7+ $3 { An amazing strike -
+not everyone would survive it with Black. Ein verbl√1/4ffender Schlag - nicht
+alle w√1/4rden ihn mit Schwarz √1/4berleben! } 30... Kxg7 31. Nd4 Bxd1 $8 32. Nf5+ Kg6 33. Nxh6 Re1 34. Qg3 $8 Rxf1 35. Kb1 $8 { I think even Magnus would need a few
+minutes to calculate this totally offbeat variation :). Ich denke, sogar
+Magnus w√1/4rde ein paar Minuten gebrauchen, um diese total ausgefallene
+Variante zu berechnen :). } 35... Rh1 36. Qxf4 Bf3+ 37. Kc2 Bd1+ { and here only White
+(if he so desires) can decide the continuation of the struggle - und hier kann
+nur Wei√Y (wenn er will) sich f√1/4r die Fortsetzung des Kampfes entscheiden - } 38. Kd3 Rh3+ 39. Kd4 Nxh6 40. Kd5 $3 { The white king seems to go out of its
+mind, but on the almost empty board the queen is a strong trump card, so White
+can enter this variation. Der wei√Ye K√Pnig scheint den Verstand zu verlieren,
+aber die Dame auf dem fast leeren Brett ist ein starker Trumpf, daher darf
+sich der Anziehende auf diese Variante einlassen. } ) 30... Bxd1 { I thought that
+this position was already won, but I had overlooked the same resource for my
+opponent as before. Ich dachte, dass diese Stellung bereits gewonnen ist, aber
+dabei habe ich die gleiche gegnerische Ressource √1/4bersehen, wie auch zuvor. } 31. Qxd1 $2 ( 31. Kxd1 $1 Qh5 32. Bxg7+ $8 ( 32. Bxe8 Ne3+ 33. Kc1 Ne2+ 34. Kb1 Qf5+ 35. Ka1 Nc2+ 36. Kb1 Ncxd4+ 37. Ka1 Nc2+ 38. Kb1 Ne3+ 39. Ka1 Nxg1 { , an
+as can easily be established White mates in 12 (Stockfish 12). , und wie es
+leicht festzustellen ist, setzt Schwarz Matt in 12 (Stockfish 12). } ) 32... Kg8 $3 33. Bh6 $3 Re5 $1 34. Bc4+ Nd5 35. Kc1 Kh8 { - Black has the advantage but
+the outcome of the game is uncertain. - Schwarz hat Vorteil, aber der
+Partieausgang ist ungewiss. } ) 31... c6 32. Bf1 ( 32. Qxg4 cxb5 33. Bxg7+ Qxg7 34. Qxf4 Re1+ 35. Kc2 Qg6+ $19 { I suppose this is precisely the variation
+Maxim had overlooked. ich vermute, gerade diese Variante hatte Maxim √1/
+4bersehen. } ) 32... Nh2 33. Bc4 b5 34. Bf7 Re1 35. Bg8 Kxg8 0-1
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.06"]
+[Round "2"]
+[White "Svidler, Peter"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[BlackElo "2784"]
+[ECO "B90"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "49"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2723"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Nb3 e6 7. g4 b5 8. Bg2 Bb7 9. g5 Nfd7 10. h4 b4 11. Ne2 Nc6 12. O-O h6 13. g6 Qxh4 14. gxf7+ Kxf7 15. a3 a5 16. axb4 axb4 17. Rxa8 Bxa8 18. f4 Nf6 19. f5 e5 20. Rf3 d5 21. Rh3 Qg4 22. Rg3 Qh4 23. Rh3 Qg4 24. Rg3 Qh4 25. Rh3 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.07"]
+[Round "3"]
+[White "Dubov, Daniil"]
+[Black "Matlakov, Maxim"]
+[Result "1/2-1/2"]
+[BlackElo "2698"]
+[ECO "E07"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "96"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2702"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. g3 dxc4 6. Bg2 c6 7. O-O Be7 8. e4 O-O 9. a4 b5 10. axb5 cxb5 11. e5 Nd5 12. Nd2 Nxc3 13. bxc3 Rb8 14. Rxa7 Qb6 15. Ra1 Bb7 16. Ne4 Bd5 17. Qg4 Kh8 18. Bg5 Bxg5 19. Nxg5 Bxg2 20. Kxg2 h6 21. Ne4 Qc6 22. Qf3 b4 23. cxb4 Rxb4 24. Rfb1 Rb3 25. Rxb3 cxb3 26. Rb1 Rb8 27. Nc5 Nxe5 28. Qxc6 Nxc6 29. Rxb3 Rd8 30. Rf3 Kg8 31. Nb3 g5 32. h3 Kg7 33. Rc3 Nxd4 34. Nxd4 Rxd4 35. g4 h5 36. Kg3 h4+ 37. Kg2 Kf6 38. Rc7 Rd6 39. Ra7 e5 40. Ra8 Ke6 41. Rg8 f6 42. Ra8 e4 43. Ra5 Rd5 44. Ra8 Ke5 45. Re8+ Kf4 46. Re6 f5 47. Rf6 Ra5 48. Rf8 Rb5 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.07"]
+[Round "3"]
+[White "Esipenko, Andrey"]
+[Black "Chigaev, Maksim"]
+[Result "1/2-1/2"]
+[BlackElo "2619"]
+[ECO "C90"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "80"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2686"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Re1 Re8 9. Nbd2 Bf8 10. Nf1 h6 11. Ng3 b5 12. Bb3 Be6 13. d4 Bxb3 14. Qxb3 d5 15. dxe5 dxe4 16. Rd1 Qc8 17. exf6 exf3 18. Qd5 Ne5 19. Bf4 c6 20. Qe4 Nc4 21. Qxf3 g5 22. Bc1 Qe6 23. b3 Rad8 24. Rf1 Ne5 25. Qf5 Ng4 26. h3 Qxf5 27. Nxf5 Nxf6 28. c4 Ne4 29. Be3 Nd6 30. Nxd6 Rxd6 31. cxb5 cxb5 32. g4 f5 33. gxf5 Re5 34. Rac1 Rxf5 35. Rc8 Re6 36. Rd1 Kf7 37. Rd7+ Kg6 38. Ra7 Rf7 39. Rxf7 Kxf7 40. Kg2 Ba3 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.07"]
+[Round "3"]
+[White "Fedoseev, Vladimir1"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[BlackElo "2723"]
+[ECO "D85"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "81"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2674"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. Be3 Qa5 9. Qd2 Nc6 10. Rb1 a6 11. Rc1 cxd4 12. cxd4 Qxd2+ 13. Kxd2 e6 14. Bd3 O-O 15. h4 h6 16. e5 Rd8 17. h5 g5 18. Nxg5 Nxd4 19. Ne4 Bxe5 20. Bxh6 f5 21. Nc5 Nc6 22. g4 Bb2 23. Rc2 Ba3 24. gxf5 exf5 25. Rg1+ Kh7 26. Be3 Nb4 27. Rc3 Nxd3 28. Rxd3 Rxd3+ 29. Nxd3 Be6 30. Rg6 Re8 31. Bc5 Bxc5 32. Nxc5 Bxa2 33. Nxb7 Re6 34. Rxe6 Bxe6 35. Nc5 Bf7 36. Nxa6 Bxh5 37. f4 Kg7 38. Nc5 Kf6 39. Nd3 Be8 40. Ne5 Bb5 41. Ke3 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.07"]
+[Round "3"]
+[White "Goganov, Aleksey"]
+[Black "Antipov, Mikhail Al"]
+[Result "1/2-1/2"]
+[BlackElo "2611"]
+[ECO "D97"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "81"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2594"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. Be2 b5 9. Qb3 c5 10. dxc5 Bb7 11. e5 Nfd7 12. Be3 Nxe5 13. Rd1 Qc7 14. Nd5 Bxd5 15. Qxd5 Nbc6 16. Nxe5 Bxe5 17. Bf3 Rfc8 18. Qxc6 Qxc6 19. Bxc6 Rxc6 20. Rd2 f5 21. f4 Bf6 22. Ke2 Kf7 23. h3 h6 24. g4 Rh8 25. gxf5 gxf5 26. Kf3 Rg8 27. Bf2 Rgc8 28. Rhd1 R8c7 29. Rc2 Ke8 30. b4 Ra7 31. Rd3 Ra8 32. Be3 Kf7 33. a3 a5 34. a4 Rb8 35. bxa5 bxa4 36. Ra3 Rb3 37. Rxa4 Re6 38. Re2 Bh4 39. a6 Rg6 40. Rg2 Re6 41. Re2 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.07"]
+[Round "3"]
+[White "Nepomniachtchi, Ian"]
+[Black "Artemiev, Vladislav"]
+[Result "1/2-1/2"]
+[BlackElo "2711"]
+[ECO "C79"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "62"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2784"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Nxe4 7. d4 Bd7 8. Re1 Nf6 9. Bxc6 Bxc6 10. dxe5 dxe5 11. Qxd8+ Kxd8 12. Nxe5 Be8 13. Bg5 h6 14. Bxf6+ gxf6 15. Ng4 Be7 16. Nd2 Bd7 17. Ne3 c6 18. Rad1 b5 19. Nb3 Re8 20. f4 Kc7 21. Nd4 Bf8 22. Kf2 Re4 23. g3 Bc5 24. Nec2 Rxe1 25. Rxe1 a5 26. a3 h5 27. Kf3 Bg4+ 28. Kg2 Bd7 29. Kf3 Bg4+ 30. Kg2 Bd7 31. Kf3 Bg4+ 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.07"]
+[Round "3"]
+[White "Vitiugov, Nikita"]
+[Black "Karjakin, Sergey"]
+[Result "0-1"]
+[BlackElo "2752"]
+[ECO "C67"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "84"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2720"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. Rd1+ Ke8 10. Nc3 Ne7 11. a4 Ng6 12. a5 a6 13. h3 Be7 14. Be3 h5 15. Re1 h4 16. Bg5 Rh5 17. Bxe7 Kxe7 18. Ra4 b5 19. Rd4 Be6 20. b4 Kf8 21. Rdd1 Re8 22. Nd4 c5 23. Nxe6+ Rxe6 24. Rd8+ Re8 25. Rxe8+ Kxe8 26. Nd5 Kd7 27. f4 c6 28. Nb6+ Ke7 29. Nc8+ Ke6 30. Nd6 Nxf4 31. Ne4 cxb4 32. Nc5+ Kd5 33. Nxa6 c5 34. Rd1+ Kc4 35. Nc7 Ne6 36. Nd5 Nd4 37. Nb6+ Kc3 38. a6 Kxc2 39. a7 Rh8 40. Rf1 b3 41. Rf2+ Kd3 42. Nd7 Ra8 0-1
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.08"]
+[Round "4"]
+[White "Antipov, Mikhail Al"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[BlackElo "2784"]
+[ECO "B90"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "60"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2611"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a3 e5 7. Nf3 h6 8. Bc4 Be6 9. Bb3 Nc6 10. O-O Rc8 11. h3 Be7 12. Nh2 O-O 13. Ng4 Nxg4 14. hxg4 Bg5 15. Nd5 Nd4 16. c3 Bxc1 17. Rxc1 Nxb3 18. Qxb3 Bxg4 19. Qxb7 Rb8 20. Qxa6 Rxb2 21. Rb1 Be2 22. Qc6 Rd2 23. Rfe1 Qg5 24. Rxe2 Rxe2 25. Qxd6 Re8 26. Qd7 Re6 27. g3 Qh5 28. Kg2 Kh7 29. Qd8 Qg4 30. Rb4 Rg6 0-1
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.08"]
+[Round "4"]
+[White "Artemiev, Vladislav"]
+[Black "Fedoseev, Vladimir1"]
+[Result "1/2-1/2"]
+[BlackElo "2674"]
+[ECO "A28"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "156"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2711"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. Qc2 Nxc3 7. bxc3 Bd6 8. g3 Qe7 9. d3 O-O 10. Bg2 Bd7 11. O-O Rae8 12. Nd2 Kh8 13. Bb2 f5 14. c4 f4 15. Ne4 Qf7 16. Rad1 Be7 17. Kh1 Bg4 18. Bf3 Bxf3+ 19. exf3 Rd8 20. Rd2 Rd7 21. Kg2 Qe6 22. Re1 Rfd8 23. Red1 b6 24. Qa4 Qg6 25. Qb5 Qe6 26. Qa4 a5 27. c5 Nd4 28. cxb6 cxb6 29. Qc4 Qg6 30. Bxd4 Rxd4 31. Qb3 a4 32. Qb2 h6 33. Rb1 Qe6 34. Qxb6 Qxb6 35. Rxb6 Bxa3 36. Ra6 Bb4 37. Rc2 a3 38. Rc7 R4d7 39. Rc4 Be7 40. Nc5 Rd5 41. Ne4 Rxd3 42. Rcc6 R3d5 43. Re6 Bb4 44. Reb6 Bf8 45. g4 Kg8 46. h4 Rd1 47. g5 h5 48. g6 Rc8 49. Ng5 Ra1 50. Rb7 Rcc1 51. Nh3 Rab1 52. Rf7 Rc8 53. Ng5 Rcc1 54. Nh3 Rb8 55. Ng5 Re8 56. Rfa7 Rec8 57. Ne6 R1c6 58. Nxf8 Kxf8 59. Rxc6 Rxc6 60. Rxa3 Rxg6+ 61. Kf1 Kf7 62. Ra7+ Ke6 63. Ra8 Rf6 64. Rh8 g6 65. Kg2 Kf5 66. Rg8 Rf7 67. Kg1 e4 68. Kg2 Re7 69. Rf8+ Ke5 70. fxe4 Kxe4 71. Ra8 Rd7 72. Ra6 Rd1 73. Rxg6 f3+ 74. Kh2 Rf1 75. Re6+ Kf4 76. Rf6+ Kg4 77. Rg6+ Kxh4 78. Rg4+ hxg4 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.08"]
+[Round "4"]
+[White "Karjakin, Sergey"]
+[Black "Chigaev, Maksim"]
+[Result "1/2-1/2"]
+[BlackElo "2619"]
+[ECO "C90"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "56"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2752"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4 b4 9. a5 d6 10. c3 Rb8 11. Bc4 h6 12. d4 bxc3 13. Nxc3 Bg4 14. dxe5 dxe5 15. Bxa6 Qxd1 16. Rxd1 Ra8 17. Bb7 Rxa5 18. Be3 Rxa1 19. Rxa1 Nd8 20. Nd5 Nxd5 21. Bxd5 Bxf3 22. gxf3 Ne6 23. b3 Bd6 24. Ra4 Rb8 25. Ba7 Rd8 26. Be3 Rb8 27. Ba7 Rd8 28. Be3 Rb8 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.08"]
+[Round "4"]
+[White "Matlakov, Maxim"]
+[Black "Esipenko, Andrey"]
+[Result "1/2-1/2"]
+[BlackElo "2686"]
+[ECO "E17"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "61"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2698"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. b3 b6 7. O-O Bb7 8. Nc3 Nbd7 9. Bb2 c5 10. Ne1 Ne4 11. cxd5 exd5 12. Nc2 Ndf6 13. Nxe4 Nxe4 14. dxc5 bxc5 15. Bxe4 dxe4 16. Ne3 Qc8 17. Qc2 Qe6 18. Rfd1 Rfd8 19. Qc4 Qxc4 20. Nxc4 f6 21. Kf1 Kf7 22. Na5 Bd5 23. Rac1 Rac8 24. Ba3 Ke6 25. Rd2 Rd7 26. Rdc2 Rdc7 27. Nc4 Bc6 28. Nd2 Bd5 29. Nc4 Bc6 30. Nd2 Bd5 31. Nc4 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.08"]
+[Round "4"]
+[White "Svidler, Peter"]
+[Black "Dubov, Daniil"]
+[Result "1/2-1/2"]
+[BlackElo "2702"]
+[ECO "C78"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "80"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2723"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3 d6 9. d4 Bb6 10. axb5 axb5 11. Qd3 O-O 12. Bg5 exd4 13. cxd4 h6 14. Bh4 g5 15. Bg3 Nh5 16. Rc1 Ne7 17. Nc3 Kg7 18. Nxb5 Ng6 19. Nc3 Nhf4 20. Qd2 f5 21. Bc2 fxe4 22. Bxe4 g4 23. Ne1 Qg5 24. Rc2 Bf5 25. Bxf4 Nxf4 26. Nd3 Bxe4 27. Nxe4 Qf5 28. Nxf4 Qxf4 29. Qd3 Qf5 30. Rd2 Rbe8 31. Ng3 Qxd3 32. Rxd3 Kg6 33. Kf1 Re7 34. Re1 Rxe1+ 35. Kxe1 Ra8 36. Ne2 Ra2 37. Rb3 Ra4 38. Rd3 Ra2 39. Rb3 Ra4 40. Rd3 Ra2 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.08"]
+[Round "4"]
+[White "Vitiugov, Nikita"]
+[Black "Goganov, Aleksey"]
+[Result "1-0"]
+[Annotator "Vitiugov, Nikita"]
+[BlackElo "2594"]
+[ECO "D39"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "55"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2720"]
+
+{ The day before I lost an important game to Sergey Karjakin. It was quite
+painful - I was playing very decently the first part of the game, got the
+better position, and out of nothing, looking for an advantage, missed the
+thread and lost in time trouble.   So, to stay in the tournament, I was in
+"must win" situation in this game. } 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 { I don't think the sharp lines of the Vienna Variation suit the solid style of
+my opponent. } 5. e4 Bb4 ( { Nowadays they also play } 5... b5 { a lot, but Ó Pb4
+is the main line } ) 6. Bg5 h6 { I can't call it a sideline. For instance,
+Caruana played it in the Candidates in 2018. But anyway, I have a feeling,
+that here Black should be more precise than after 6...c5. However, all these
+speculations don't matter in modern chess - you're either better prepared and
+get a good game, or you forget one detail and find yourself in trouble. These
+generalities work only at a distance. } 7. Bxf6 Qxf6 8. Bxc4 c5 9. O-O cxd4 10. e5 ( { If White players want to claim they are better, they choose } 10. Nb5 Qe7 11. Qxd4 O-O 12. Nxa7 Bc5 13. Nxc8 Rxc8 14. Qd3 Nc6 15. Bb3 Rd8 16. Qe2 Nd4 { without any real chances to convert. } ) 10... Qd8 11. Ne4 O-O 12. Qe2 Be7 13. Rfd1 ( { After } 13. Rad1 { Alexey correctly reacted with } 13... Qc7 { and soon got a
+superb position: } 14. Rc1 Bd7 15. Ng3 Bc6 16. Nxd4 Rd8 17. Nxc6 Nxc6 18. Bb5 Qxe5 { 0-1 (53) Sjugirov,S (2675)-Goganov,A (2573) Sochi 2020 } ) 13... Qa5 { To
+my surprise, this artificial move is the main line in the position. } ( { Analysing it some time ago, I'd decided that Black should play } 13... Qb6 { or
+he is in danger. Well, it turned out to be not the most objective analysis,
+but it gave me confidence. Only if I knew how to maintain this balance! } 14. Rxd4 Nc6 15. Rdd1 Rd8 16. Rxd8+ Qxd8 17. Rd1 Qc7 18. Nd6 Bd7 19. Nb5 Qc8 20. Nd6 $11 { ¬1/2-¬1/2 (22) Bacrot,E (2730)-Pelletier,Y (2578) Cap d'Agde 2013 } ) 14. a3 Rd8 15. b4 Qb6 16. Ng3 { Very natural way to proceed. Alexey sank into
+deep thought. After the game he said that he knew he should have been OK, but
+couldn't find the way - engines don't suggest Ó ..g3 in their top lines. } ( 16. g4 { Another typical way to develop the initiative. } 16... Nd7 17. Rac1 Qc7 { That's
+how they play chess now. No offence to the young generation, but it is very
+sad that chess has changed so dramatically - impossible moves are easily
+played just because they are recommended by the engine. } 18. Bxe6 Qb6 19. Bf5 Nf8 20. Bxc8 Raxc8 21. Rxc8 Rxc8 22. Nxd4 Ng6 23. Ng3 Rd8 { 0-1 (31) Sokolov,I 
+(2584)-Van Foreest,L (2521) Amsterdam 2019 } ) 16... a5 $2 ( { Black should have
+played slowly } 16... Bd7 17. Rxd4 ( 17. Nxd4 Ba4 $1 ) 17... Be8 18. Rg4 Nd7 19. Nh5 g6 { and surprisingly, White is out of ideas to break this fortress. } ) ( 16... Nd7 $2 17. Rxd4 Nf8 18. Rg4 Bd7 19. Nh5 Ng6 20. h4 $36 { - that's what we
+both saw. } ) 17. b5 a4 $2 { Too much. Now it's lost for Black. } ( { Here after } 17... Bd7 $2 { White has } 18. Nxd4 $1 ) ( { Good or bad, } 17... Nd7 { must be
+played. } ) 18. Nh5 g6 19. Qd2 $1 { Nice move, however, kind of standard for the
+line. } 19... gxh5 ( 19... Kh7 20. Qf4 $18 ) 20. Qxh6 Nd7 21. Bd3 f5 22. Qg6+ ( { More
+natural is } 22. exf6 Nxf6 ( 22... Bxf6 23. Ng5 Bxg5 24. Qxg5+ Kf8 25. Bh7 $18 ) 23. Ne5 Rf8 { and I just forgot about } 24. Qg5+ Kh8 25. Ng6+ ) 22... Kf8 23. Bc4 ( { Some tricks are always around } 23. Bxf5 $4 exf5 24. e6 Ne5 $1 ) 23... Nc5 24. Nxd4 Rxd4 25. Rxd4 Qc7 { This loses simply. } ( 25... Ne4 { would have given me a
+choice. I was going to play } 26. Rxe4 ( 26. Rad1 Nxf2 27. Kxf2 Bc5 28. Ke3 { is
+also good enough } ) 26... fxe4 27. Re1 Bxa3 28. Rxe4 Ke7 29. Rf4 Kd8 30. Qd3+ $18 ) 26. Re1 Nb3 27. Rf4 Bc5 28. Rd1 { There is no defence against Ó Rxf5+ and
+mate. Black resigned. } 1-0
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.09"]
+[Round "5"]
+[White "Chigaev, Maksim"]
+[Black "Matlakov, Maxim"]
+[Result "0-1"]
+[BlackElo "2698"]
+[ECO "B90"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "94"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2619"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4 O-O 9. O-O Nc6 10. Bb3 h6 11. Nh4 Na5 12. Ng6 Nxb3 13. Nxe7+ Qxe7 14. axb3 b5 15. Nd5 Nxd5 16. Qxd5 Be6 17. Qd3 Qc7 18. Rfc1 Rfc8 19. Bd2 Qc6 20. h3 f6 21. c4 bxc4 22. bxc4 Bxc4 23. Qg3 Qxe4 24. Bxh6 Qh7 25. Qg4 f5 26. Qd1 d5 27. Bg5 Qg6 28. b3 Qxg5 29. bxc4 d4 30. c5 Rc6 31. Rc4 Rac8 32. Rac1 Kh7 33. g3 Rd8 34. Qa4 Qf6 35. Rd1 Rd5 36. Qb4 Qh6 37. h4 Qh5 38. Rd2 d3 39. Qa4 Qh6 40. g4 Rdxc5 41. Rxc5 Rxc5 42. g5 Qh5 43. Rxd3 Rc1+ 44. Kh2 Qe2 45. Rg3 f4 46. Rg2 Qe1 47. Kh3 Qh1+ 0-1
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.09"]
+[Round "5"]
+[White "Dubov, Daniil"]
+[Black "Artemiev, Vladislav"]
+[Result "1/2-1/2"]
+[BlackElo "2711"]
+[ECO "B83"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "49"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2702"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 d6 7. Be3 Bd7 8. Qd2 a6 9. O-O-O b5 10. a3 b4 11. axb4 Nxb4 12. Kb1 e5 13. Nf5 d5 14. Bg5 Be6 15. f4 Qa5 16. Bxf6 gxf6 17. fxe5 fxe5 18. Qg5 Rc8 19. Ne3 Rxc3 20. bxc3 Bc5 21. cxb4 Qxb4+ 22. Kc1 Qa3+ 23. Kb1 Qb4+ 24. Kc1 Qa3+ 25. Kb1 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.09"]
+[Round "5"]
+[White "Esipenko, Andrey"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[BlackElo "2723"]
+[ECO "D90"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "73"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2686"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. h4 dxc4 6. e4 c5 7. d5 b5 8. h5 O-O 9. hxg6 fxg6 10. e5 Ng4 11. d6 e6 12. Rxh7 Rf5 13. Ne4 Nd7 14. Bg5 Qe8 15. Be7 Ngxe5 16. Nfg5 Bb7 17. Qc2 Nc6 18. Rxg7+ Kxg7 19. Qc3+ e5 20. Ne6+ Kg8 21. Nc7 Qf7 22. Nxa8 Nxe7 23. dxe7 Bxe4 24. Nc7 Qxe7 25. Nxb5 Nb6 26. Rd1 Qh4 27. g3 Qh2 28. Rd8+ Kh7 29. Qe3 Bd3 30. Qxc5 Rf7 31. Rf8 Rxf8 32. Qxf8 Qh1 33. Qe7+ Kh6 34. Qf8+ Kh7 35. Qe7+ Kh6 36. Qf8+ Kh7 37. Qe7+ 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.09"]
+[Round "5"]
+[White "Fedoseev, Vladimir1"]
+[Black "Antipov, Mikhail Al"]
+[Result "1/2-1/2"]
+[BlackElo "2611"]
+[ECO "E97"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "63"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2674"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. e3 O-O 5. Be2 d6 6. Nc3 Re8 7. e4 e6 8. Be3 Nc6 9. O-O e5 10. d5 Nd4 11. Nxd4 exd4 12. Bxd4 Nxe4 13. Bxg7 Kxg7 14. Qd4+ Qf6 15. Qxf6+ Kxf6 16. Nb5 Re7 17. f3 Nc5 18. Rfe1 Bd7 19. Nc3 Rae8 20. Kf2 Na4 21. Nxa4 Bxa4 22. b3 Bd7 23. Rad1 a5 24. Rd2 h5 25. Rc1 b6 26. Rc3 Kg5 27. h4+ Kf6 28. a3 Ra8 29. Bd1 Rae8 30. Be2 Ra8 31. Rc1 Rae8 32. Rc3 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.09"]
+[Round "5"]
+[White "Goganov, Aleksey"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[BlackElo "2752"]
+[ECO "E02"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "84"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2594"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Nh3 c5 7. dxc5 Bxc5 8. O-O O-O 9. Qxc4 Qe7 10. Nc3 h6 11. Nf4 Ne5 12. Qb3 Rb8 13. Ne4 Nxe4 14. Bxe4 b6 15. Be3 Bxe3 16. Qxe3 Ng4 17. Qb3 Nf6 18. Bf3 Bb7 19. Bxb7 Qxb7 20. Rfd1 Rfd8 21. Rxd8+ Rxd8 22. Rd1 Rxd1+ 23. Qxd1 Qc7 24. Nd3 Qc4 25. a3 Nd5 26. Qd2 f6 27. Nf4 Nxf4 28. gxf4 Kh7 29. f3 Kg6 30. Kg2 Kh5 31. e4 g5 32. fxg5 fxg5 33. Qd6 Qe2+ 34. Kg3 Qe1+ 35. Kg2 Kh4 36. Qg3+ Qxg3+ 37. hxg3+ Kh5 38. g4+ Kg6 39. a4 a6 40. Kf2 e5 41. b4 b5 42. axb5 axb5 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.09"]
+[Round "5"]
+[White "Nepomniachtchi, Ian"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[BlackElo "2720"]
+[ECO "C45"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "49"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2784"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. c4 Ba6 9. b3 g6 10. f4 d6 11. Qf2 Nf6 12. Be2 dxe5 13. O-O Ne4 14. Qe1 Qc5+ 15. Kh1 Qd4 16. Bf3 Qxa1 17. Qxe4 Bb7 18. Qc2 Bc5 19. Nc3 Bb4 20. Na4 O-O-O 21. Be2 Qd4 22. Rd1 Qa1 23. Rf1 Qd4 24. Rd1 Qa1 25. Rf1 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.10"]
+[Round "6"]
+[White "Antipov, Mikhail Al"]
+[Black "Dubov, Daniil"]
+[Result "1/2-1/2"]
+[BlackElo "2702"]
+[ECO "D02"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "113"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2611"]
+
+1. g3 d5 2. Nf3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c3 c6 7. a4 a5 8. Qb3 Ra7 9. h3 Bf5 10. Bf4 Nbd7 11. Nbd2 Ne4 12. g4 Nxd2 13. Nxd2 Be6 14. e3 Nf6 15. Qc2 Ra8 16. Rae1 Ne8 17. c4 dxc4 18. Nxc4 Nc7 19. Be5 Nd5 20. Bxg7 Kxg7 21. Ne5 Nb4 22. Qc3 f6 23. Nd3 Nxd3 24. Qxd3 Ra6 25. e4 Rb6 26. d5 Bf7 27. Qc3 cxd5 28. exd5 Rd6 29. Qb3 b6 30. Re3 Bxd5 31. Bxd5 Rxd5 32. Rxe7+ Qxe7 33. Qxd5 Rd8 34. Qf3 Rd4 35. Rd1 Qe4 36. Qxe4 Rxe4 37. Rd7+ Kh6 38. Rd6 Rb4 39. Kg2 Kg7 40. Rd7+ Kg8 41. Rb7 Rxb2 42. Kg3 Rb4 43. f4 Rb3+ 44. Kh4 Rb4 45. Kg3 h6 46. h4 h5 47. g5 fxg5 48. fxg5 Kf8 49. Kf3 Ke8 50. Rg7 Rxa4 51. Rxg6 b5 52. Ra6 Ke7 53. Ra7+ Kd6 54. g6 Rxh4 55. Rxa5 Kc5 56. Ra2 Rd4 57. Rh2 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.10"]
+[Round "6"]
+[White "Artemiev, Vladislav"]
+[Black "Esipenko, Andrey"]
+[Result "1-0"]
+[BlackElo "2686"]
+[ECO "A07"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "59"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2711"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Bf4 c5 7. e4 Nc6 8. Ne5 Nxe5 9. Bxe5 Nd7 10. Bf4 d4 11. a4 e5 12. Bd2 Nb8 13. Na3 Nc6 14. f4 exf4 15. gxf4 f5 16. Nc4 Be6 17. a5 Qd7 18. exf5 Bd5 19. Ne5 Nxe5 20. Bxd5+ Qxd5 21. fxe5 Qxe5 22. Qf3 Rad8 23. Qxb7 Rxf5 24. Rfe1 Qf6 25. Rxe7 Rf8 26. Ree1 Qg6+ 27. Kh1 Rf2 28. Qd5+ Kh8 29. Rg1 Qe8 30. Rg2 1-0
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.10"]
+[Round "6"]
+[White "Goganov, Aleksey"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[BlackElo "2784"]
+[ECO "D24"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "92"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2594"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 dxc4 5. e4 b5 6. e5 Nd5 7. Nxb5 Nb6 8. Be2 Nc6 9. O-O Be7 10. Qd2 O-O 11. Qf4 Rb8 12. Qg3 Kh8 13. Rd1 Nb4 14. Nc3 Bb7 15. Rb1 N4d5 16. Bd2 Nxc3 17. Bxc3 Bd5 18. b3 Be4 19. Ra1 Nd5 20. Be1 c3 21. Bd3 Bxd3 22. Rxd3 Ba3 23. Bxc3 Nxc3 24. Rxc3 Bb2 25. Rac1 c5 26. Rxc5 Bxc1 27. Rxc1 Qa5 28. h4 Qxa2 29. Qf4 Qxb3 30. Ng5 h6 31. Ne4 Rbc8 32. Re1 Qb4 33. Rd1 Rcd8 34. Qe3 a5 35. g4 a4 36. g5 h5 37. Nf6 g6 38. Kh2 Qb3 39. Rd3 Qc2 40. Rc3 Qf5 41. Ra3 Ra8 42. d5 exd5 43. Qd4 Qe6 44. f4 Rfc8 45. f5 Qxf5 46. Nxd5 Qe6 0-1
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.10"]
+[Round "6"]
+[White "Karjakin, Sergey"]
+[Black "Matlakov, Maxim"]
+[Result "1-0"]
+[BlackElo "2698"]
+[ECO "E11"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "86"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2752"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 a5 6. Bg2 O-O 7. Qc2 c5 8. cxd5 cxd4 9. Nxd4 Qb6 10. e3 exd5 11. O-O Nc6 12. Nxc6 bxc6 13. Rc1 Be6 14. Qxc6 Bxd2 15. Qxb6 Bxc1 16. Qd4 Rfb8 17. b3 Rb4 18. Qd3 Bb2 19. a3 Bxa1 20. axb4 axb4 21. h3 h6 22. f4 Rc8 23. Nd2 Rc1+ 24. Nf1 Bc3 25. f5 Bd7 26. Bxd5 Be5 27. g4 Rc3 28. Qa6 Nxd5 29. Qa8+ Bc8 30. Qxd5 Bf6 31. Nd2 Rc1+ 32. Kh2 Rd1 33. Kg3 Bc3 34. Qd8+ Kh7 35. Qxc8 Rxd2 36. Qe8 f6 37. h4 Rd1 38. Kg2 Rd2+ 39. Kf3 Rd5 40. Qg6+ Kh8 41. g5 hxg5 42. hxg5 fxg5 43. f6 g4+ 1-0
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.10"]
+[Round "6"]
+[White "Svidler, Peter"]
+[Black "Chigaev, Maksim"]
+[Result "1/2-1/2"]
+[BlackElo "2619"]
+[ECO "C91"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "63"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2723"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Nbd2 Re8 9. Re1 Bf8 10. d4 b5 11. Bc2 exd4 12. cxd4 Bg4 13. Nf1 Bxf3 14. gxf3 Nh5 15. Ng3 Qh4 16. Be3 g6 17. Rc1 Nb4 18. Bb3 c5 19. a3 Nc6 20. Bd5 Rac8 21. dxc5 dxc5 22. Nxh5 Qxh5 23. f4 Qxd1 24. Rexd1 c4 25. Kg2 Na5 26. Rc2 Nb3 27. Bb7 Rb8 28. Rd7 Bc5 29. Rc7 Bd6 30. Rd7 Bc5 31. Rc7 Bd6 32. Rd7 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.10"]
+[Round "6"]
+[White "Vitiugov, Nikita"]
+[Black "Fedoseev, Vladimir1"]
+[Result "1/2-1/2"]
+[BlackElo "2674"]
+[ECO "E43"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "80"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2720"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. e3 Bb7 6. Bd3 O-O 7. O-O c5 8. Na4 cxd4 9. exd4 Re8 10. a3 Bf8 11. Nc3 h6 12. Bf4 Nc6 13. Re1 d6 14. h3 Rc8 15. d5 exd5 16. Rxe8 Qxe8 17. cxd5 Ne5 18. Be2 Ng6 19. Bg3 Ne4 20. Nxe4 Qxe4 21. Nd4 Ne5 22. Nb5 Qxd5 23. Bf1 a5 24. Qxd5 Bxd5 25. Nxd6 Bxd6 26. Rd1 Nf3+ 27. gxf3 Bxg3 28. Rxd5 Bh4 29. Bd3 Rd8 30. Rxd8+ Bxd8 31. a4 Bf6 32. b3 Be5 33. Bc4 Kf8 34. Kg2 h5 35. Kf1 Ke7 36. Kg2 Kf8 37. Kf1 Bf4 38. Kg2 Ke7 39. Kf1 Kf8 40. Kg2 Ke7 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.12"]
+[Round "7"]
+[White "Chigaev, Maksim"]
+[Black "Artemiev, Vladislav"]
+[Result "1-0"]
+[BlackElo "2711"]
+[ECO "B69"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "103"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2619"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 a6 8. O-O-O e6 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. Kb1 Qb6 13. g3 O-O-O 14. Bh3 Kb8 15. f5 Rhe8 16. fxe6 fxe6 17. Qh6 Qc5 18. Ne2 Rc8 19. Nf4 Qc4 20. Nd2 Qa4 21. c3 b4 22. b3 Qb5 23. c4 Qg5 24. Qh5 Nd4 25. Rhf1 Qxh5 26. Nxh5 Rc5 27. Nxf6 Bxf6 28. Rxf6 Ne2 29. Rh1 Ra5 30. Kb2 Nc3 31. a4 Re5 32. Bg4 Nxe4 33. Nxe4 Rxe4 34. Bf3 Rd4 35. Rd1 Rxd1 36. Bxd1 Re7 37. Bc2 Kc7 38. Rh6 Rf7 39. Rxh7 Rf2 40. Kc1 Kc8 41. h4 e5 42. Bd1 e4 43. Re7 Bc6 44. h5 Rh2 45. a5 Kd8 46. Re6 Kc7 47. h6 d5 48. cxd5 Bxd5 49. Re5 Bg8 50. Rh5 Rxh5 51. Bxh5 Bh7 52. g4 1-0
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.12"]
+[Round "7"]
+[White "Dubov, Daniil"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[BlackElo "2720"]
+[ECO "D13"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "119"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2702"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 a6 7. Rc1 Bf5 8. Ne5 Rc8 9. Qa4 Bd7 10. Nxd7 Qxd7 11. e3 e6 12. Be2 Bd6 13. Bg5 h6 14. Bxf6 gxf6 15. O-O f5 16. Qd1 Ne7 17. Kh1 Kf8 18. Rc2 Rc7 19. Bd3 h5 20. f3 h4 21. e4 Bf4 22. Ne2 Rxc2 23. Bxc2 Bb8 24. exf5 exf5 25. Qd2 Qd6 26. f4 Rh6 27. Ng1 Nc6 28. Bxf5 Rf6 29. Bg4 Rxf4 30. Rxf4 Qxf4 31. Qxf4 Bxf4 32. Bc8 Nxd4 33. Bxb7 a5 34. Bxd5 Ke7 35. Bc4 f6 36. Nh3 Bc1 37. b3 Kd6 38. Nf2 Be3 39. Nd1 Bd2 40. Kg1 Kc5 41. Kf2 Kb4 42. Ne3 Ka3 43. Bf7 Bb4 44. Nc4+ Kxa2 45. Nxa5 Kb2 46. Nb7 Kc3 47. Ke3 Nf5+ 48. Kf3 Nd6 49. Nd8 Ba5 50. Nc6 Bc7 51. Ne7 Bd8 52. Nd5+ Kxb3 53. Bg8 Kc4 54. Nf4+ Kc3 55. Kg4 f5+ 56. Kf3 Ne4 57. Be6 Ng5+ 58. Ke2 Kd4 59. Bc8 Bc7 60. Ne6+ 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.12"]
+[Round "7"]
+[White "Esipenko, Andrey"]
+[Black "Antipov, Mikhail Al"]
+[Result "1-0"]
+[BlackElo "2611"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "0"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2686"]
+
+1-0
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.12"]
+[Round "7"]
+[White "Fedoseev, Vladimir1"]
+[Black "Goganov, Aleksey"]
+[Result "1/2-1/2"]
+[BlackElo "2594"]
+[ECO "D03"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "99"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2674"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 e6 4. Bd3 c5 5. c3 Nc6 6. Nf3 Be7 7. Nbd2 b6 8. Ne5 Nxe5 9. dxe5 Nd7 10. Bxe7 Qxe7 11. f4 Qh4+ 12. g3 Qe7 13. e4 c4 14. Bc2 Bb7 15. Qe2 Nc5 16. O-O b5 17. exd5 Bxd5 18. b4 Nd3 19. Bxd3 cxd3 20. Qxd3 O-O 21. Qxb5 Rfc8 22. Qd3 Qc7 23. c4 Bxc4 24. Nxc4 Qxc4 25. Qxc4 Rxc4 26. a3 Rac8 27. Rf3 Rd8 28. Ra2 h5 29. Kg2 Kh7 30. Rff2 Kg6 31. Rac2 Rxc2 32. Rxc2 Rd3 33. a4 Rd4 34. Rb2 Kf5 35. a5 a6 36. Kf3 Rd3+ 37. Ke2 Ra3 38. Rc2 h4 39. gxh4 Kxf4 40. Rc7 Kxe5 41. Rxf7 Rh3 42. Rxg7 Rxh4 43. Ra7 Rxb4 44. Kf3 Kf5 45. Rxa6 Rb3+ 46. Kf2 Rb2+ 47. Kg3 Rb3+ 48. Kf2 Rb2+ 49. Kg3 Rb3+ 50. Kf2 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.12"]
+[Round "7"]
+[White "Matlakov, Maxim"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[BlackElo "2723"]
+[ECO "D97"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "57"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2698"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. Be2 b5 9. Qb3 c5 10. dxc5 Be6 11. Qc2 Nbd7 12. Be3 Rc8 13. Rd1 b4 14. Nd5 Bxd5 15. exd5 Nxc5 16. O-O Nce4 17. Qd3 Qd6 18. Qxa6 Qxa6 19. Bxa6 Rc2 20. Ne5 Rxb2 21. Bc4 Nc3 22. d6 exd6 23. Rxd6 Nfe4 24. Nxf7 Nxd6 25. Nxd6+ Kh8 26. Nf7+ Kg8 27. Nd6+ Kh8 28. Nf7+ Kg8 29. Nd6+ 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.12"]
+[Round "7"]
+[White "Nepomniachtchi, Ian"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[BlackElo "2752"]
+[ECO "E20"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "63"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2784"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 dxe4 7. fxe4 c5 8. d5 exd5 9. exd5 O-O 10. Be2 Re8 11. Nf3 Bg4 12. O-O Nbd7 13. d6 Bf8 14. h3 Bh5 15. Bf4 Qb6 16. b3 Rad8 17. Ra2 h6 18. a4 Bxf3 19. Bxf3 Ne5 20. Nb5 Bxd6 21. a5 Qa6 22. Rd2 Nxf3+ 23. Rxf3 Ne4 24. Nxd6 Nxd2 25. Qxd2 Re6 26. Rd3 b6 27. Nf5 Rxd3 28. Qxd3 Qb7 29. Qd5 Qxd5 30. cxd5 Re1+ 31. Kf2 Rd1 32. Ke2 1-0
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.13"]
+[Round "8"]
+[White "Antipov, Mikhail Al"]
+[Black "Chigaev, Maksim"]
+[Result "0-1"]
+[BlackElo "2619"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "0"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2611"]
+
+0-1
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.13"]
+[Round "8"]
+[White "Artemiev, Vladislav"]
+[Black "Matlakov, Maxim"]
+[Result "1-0"]
+[BlackElo "2698"]
+[ECO "A01"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "85"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2711"]
+
+1. b3 d5 2. Bb2 Bf5 3. d3 Nd7 4. Nd2 Ngf6 5. Ngf3 c6 6. Nh4 Bg6 7. Nxg6 hxg6 8. g3 e5 9. Bg2 Bc5 10. e3 O-O 11. O-O a5 12. c4 d4 13. exd4 Bxd4 14. Bxd4 exd4 15. Nf3 Qb6 16. Re1 a4 17. Rb1 axb3 18. axb3 c5 19. Qd2 Ra3 20. b4 cxb4 21. Rxb4 Qd6 22. Bf1 Nc5 23. Rb5 b6 24. Qd1 Nfd7 25. h4 Rfa8 26. Rb2 Qf6 27. Ng5 Ne5 28. Rd2 Qf5 29. Bh3 Qf6 30. Bg2 Rf8 31. Ne4 Nxe4 32. Bxe4 Nd7 33. Qb1 Nc5 34. Bd5 Rb3 35. Qd1 Qf5 36. Be4 Qf6 37. Ra2 Rc3 38. Ra7 g5 39. Bd5 gxh4 40. Rxf7 Rxf7 41. Re8+ Kh7 42. Qh5+ Qh6 43. Qxf7 1-0
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.13"]
+[Round "8"]
+[White "Goganov, Aleksey"]
+[Black "Dubov, Daniil"]
+[Result "0-1"]
+[BlackElo "2702"]
+[ECO "E04"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "72"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2594"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. Bg5 Be7 8. e3 O-O 9. Qc1 h6 10. Bxf6 Bxf6 11. Nfd2 e5 12. d5 Ne7 13. Nxc4 Nxd5 14. Rd1 e4 15. Bxe4 c6 16. Nc3 Be6 17. Ne2 Qe7 18. Nd4 Bg4 19. Bf3 Bh3 20. Bg2 Bxg2 21. Kxg2 Rfd8 22. a3 c5 23. Nf3 b5 24. Ncd2 c4 25. e4 Nb6 26. Re1 Nd7 27. Re2 Nc5 28. e5 Bg5 29. Nxg5 hxg5 30. Qc2 Rd3 31. Rae1 Rad8 32. Ne4 Qb7 33. Kg1 Ne6 34. Re3 g4 35. Rxd3 cxd3 36. Qc1 Nd4 0-1
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.13"]
+[Round "8"]
+[White "Karjakin, Sergey"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[BlackElo "2723"]
+[ECO "B96"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "75"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2752"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8. Bxf6 gxf6 9. Qd2 Nc6 10. O-O-O b5 11. Kb1 Nxd4 12. Qxd4 Be7 13. f5 Bd7 14. Qd2 O-O-O 15. Ne2 d5 16. exd5 Bc6 17. Qe3 Bxd5 18. Nc3 Bb7 19. Bd3 Kb8 20. fxe6 Bc5 21. Qh3 fxe6 22. Qxe6 Bd4 23. Be4 Bxc3 24. Bxb7 Kxb7 25. bxc3 Qxc3 26. Qe7+ Kc8 27. a3 Rhe8 28. Qxh7 Qxa3 29. Qf5+ Kc7 30. Qf4+ Kb7 31. Qxf6 Qb4+ 32. Qb2 Qg4 33. Rxd8 Rxd8 34. Re1 Qxg2 35. Re7+ Ka8 36. Qf6 Qg1+ 37. Ka2 Qg8+ 38. Rf7 1-0
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.13"]
+[Round "8"]
+[White "Nepomniachtchi, Ian"]
+[Black "Fedoseev, Vladimir1"]
+[Result "1/2-1/2"]
+[BlackElo "2674"]
+[ECO "B51"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "101"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2784"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. a4 Nf6 5. Nc3 a6 6. Be2 b6 7. d4 cxd4 8. Qxd4 Bb7 9. O-O e5 10. Qe3 Qc7 11. Rd1 Be7 12. Nd2 O-O 13. Nb3 Rfd8 14. Bf3 Bc6 15. Qe2 h6 16. g3 b5 17. axb5 axb5 18. Rxa8 Rxa8 19. Nxb5 Bxb5 20. Qxb5 Qxc2 21. Qd3 Qxd3 22. Rxd3 Ra4 23. Rc3 Nxe4 24. Rc7 Nef6 25. Bc6 Rb4 26. Bxd7 Rxb3 27. Ba4 Rb4 28. Bc2 Bf8 29. Rc8 g5 30. h4 Kg7 31. hxg5 hxg5 32. Bxg5 Rxb2 33. Bf5 Nd5 34. Be4 Rb5 35. Rd8 Nc3 36. Bd3 Rd5 37. Bf5 e4 38. g4 Ne2+ 39. Kg2 Nd4 40. Bf4 Nxf5 41. gxf5 f6 42. Re8 Rxf5 43. Rxe4 Kf7 44. Ra4 Rb5 45. Kf3 d5 46. Ra6 Bc5 47. Rc6 Rb3+ 48. Kg4 Be7 49. Kf5 Rf3 50. Rc7 Rxf2 51. Rd7 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.13"]
+[Round "8"]
+[White "Vitiugov, Nikita"]
+[Black "Esipenko, Andrey"]
+[Result "1/2-1/2"]
+[Annotator "Vitiugov, Nikita"]
+[BlackElo "2686"]
+[ECO "C42"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "86"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2720"]
+
+{ The race for the first place seemed to be finished by that time - Nepo had +4,
+but many players were more concerned by the positive COVID test, which Mikhail
+Antipov got before the 7th round. Well, I am not sure continuing the
+tournament was the best idea, but there were other opinions on this account. } 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Bd3 { A modest line, one of many
+against Petroff. } 5... d5 6. Qe2 ( { Another way to get the same position is } 6. O-O Be7 7. Re1 Nd6 { , but in the game we made 2 more moves, which matter in a
+sense of reaching time control. } ) 6... Qe7 7. O-O Nd6 ( 7... Nc5 $2 { is very
+bad because of } 8. Re1 ) 8. Qd1 Qd8 9. Re1+ Be7 10. c3 ( { They also play } 10. Nc3 c6 11. Qe2 { but here it is a question of one precise move, after which Black
+is totally fine. In the game White gets kind of a strategic initiative. But
+Black is very solid, of course. } ) 10... O-O 11. Bc2 c6 12. d4 Bf5 13. Bf4 Bxc2 14. Qxc2 Na6 15. Nbd2 Nc7 { All these moves are very logical. I came up with so
+called idea } 16. h4 { Just the first line. } ( 16. Re2 Re8 17. Rae1 Bf8 18. Ne5 Qf6 19. Bg3 Qf5 20. Qxf5 Nxf5 21. Nd3 Nxg3 22. hxg3 f6 { ¬1/2-¬1/2 (46) So,W 
+(2786)-Caruana,F (2804) Saint Louis 2018 } ) 16... g6 $6 { Poor reaction. Maybe
+it isn't that bad, but now the run of the h-pawn has become definitely
+reasonable. } ( { The best is } 16... Re8 ) ( { And Black shouldn't impatiently play } 16... Ne6 { because of } 17. Be5 ) 17. h5 Nf5 18. Ne5 ( { Engines recommend } 18. g3 { , but who on earth would play like that? } ) 18... Bd6 19. Ndf3 ( { I didn't want
+to exchange the pawns. It was a correct decision - after } 19. hxg6 hxg6 20. Ndf3 { Black is ok } 20... Ne6 21. Bd2 ( 21. Nxg6 fxg6 22. Rxe6 Bxf4 23. Rxg6+ Kh8 24. g3 Qe8 25. Rg4 Bh6 26. Ne5 Rf6 $13 ) 21... Re8 { and with the open h-file Black
+always get some ideas here. For instance, } 22. Ng4 Kg7 23. Re2 Nexd4 $1 24. Nxd4 Rxe2 25. Nxe2 Qh4 26. f3 Rh8 $13 ) 19... f6 ( { I was impressed how bad the
+black position is after } 19... Ne6 20. Bd2 Re8 21. Ng4 Kg7 22. Re2 $16 { and it
+is almost more than 1.50 by Stockfish } ) 20. hxg6 $6 { I wanted my position to
+be better. As it happens, it wasn't. } ( { The normal way was } 20. Nd3 { and here
+Black should have found } 20... Qd7 21. hxg6 hxg6 22. g4 Nh6 $1 ) 20... fxe5 21. gxh7+ Kg7 $2 { I wasn't sure about this move, and Andrey played it with a firm hand.
+Chess is full of psychological stuff! } ( { The correct reaction was } 21... Kh8 22. Nxe5 Qf6 $1 { By the way, Andrey saw this idea, but only after 21...Ó Ng7
+22.h8Ó B+ Ó Nxh8. } 23. Nd7 Nxd4 24. Nxf6 Nxc2 25. Bxd6 Nxe1 26. Rxe1 Rxf6 27. Bxc7 Rf7 { with a balanced position. } ) 22. Rxe5 $1 Ne6 $6 ( 22... Bxe5 23. Bxe5+ Kxh7 24. g4 $16 ) ( 22... Qd7 23. Rxf5 Qxf5 24. Qxf5 Rxf5 25. Bxd6 $16 ) 23. Rxe6 { Tempting move, but there was a better alternative: } ( 23. Rxf5 Nxf4 24. g3 Qd7 ( 24... Rxf5 25. Qxf5 Ng6 26. Re1 Qf6 27. Qg4 $18 ) 25. Rg5+ Kh8 26. gxf4 Bxf4 27. Ne5 $1 { I underestimated this move. } 27... Bxe5 28. dxe5 $18 ) 23... Bxf4 24. g3 { After that, I played all the strongest move up to a certain point. My only
+mistake was spending too much time - at the critical moment, I didn't have
+enough minutes to realise that for winning the game it isn't necessary to
+destroy the opponent's position - an endgame with pawn up also works fine. } 24... Qd7 25. Rae1 Bd6 26. g4 Ne7 27. Qd2 ( { I wanted to play } 27. h8=Q+ Rxh8 28. Qd2 Rag8 29. Qg5+ Kf8 30. Qf6+ Ke8 { but here you have to foresee } 31. Ng5 $3 { the only
+winning move, which I didn't find. } ) 27... Kh8 28. Nh4 Rf7 29. Qg5 Rg7 30. Qf6 Kxh7 31. g5 $2 { And here we go. I was calculating really hard here, but what I
+missed was the simplest move - just taking an extra bishop! } ( 31. Rxd6 Qxg4+ 32. Kf1 $18 { and as the worst case, White can always play Ó Bh6-e6, getting
+winning endgame } ) 31... Rd8 32. R1e3 Kg8 33. g6 $4 { I couldn't believe my eyes
+- there was no win. So, I just made some move with a seconds on my clock. } ( { Of course } 33. Rf3 { was the way. } ) 33... Rf8 34. Rxd6 Qg4+ 35. Rg3 Qd1+ 36. Kg2 Rxf6 37. Rxf6 { They said about Karpov - even when he blunders, his pieces are
+placed so well that the position doesn't collapse. Well, I don't compare
+myself with the great champion, but sometimes the position can't be spoiled in
+1 move. } 37... Qh5 ( { The same position we get after } 37... Qe2 38. Rd6 Qe4+ 39. Kg1 Kh8 40. Rh3 ) 38. Rd6 Kh8 39. Rh3 Qg4+ 40. Kh2 Qf4+ ( { The only way to play was } 40... Qc8 { , but here White isn't worse: } 41. Nf5+ Kg8 42. Nxg7 Qb8 43. Ne8 Qxe8 44. Rf6 $1 { Nice, but not the only. } 44... Kg7 45. Re6 Qb8+ 46. Kg1 Nf5 47. Rh7+ Kg8 48. Re5 Qc8 $13 ) 41. Kh1 Qg4 42. Rh2 { Now Black can't get even the line
+with an extra knight. } 42... Qd1+ 43. Kg2 Qg4+ 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.14"]
+[Round "9"]
+[White "Chigaev, Maksim"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[BlackElo "2720"]
+[ECO "B97"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "37"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2619"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 Bxe6 12. Nxe6 fxe6 13. Rxb7 Be7 14. Rb3 Qc5 15. Be3 Qe5 16. Bf4 Qc5 17. Be3 Qe5 18. Bf4 Qc5 19. Be3 1/2-1/2
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.14"]
+[Round "9"]
+[White "Dubov, Daniil"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[BlackElo "2784"]
+[ECO "D85"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "79"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2702"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ c6 8. Ba4 b5 9. Bb3 a5 10. Nf3 O-O 11. O-O a4 12. Bc2 c5 13. Rb1 Nc6 14. d5 Ne5 15. Nxe5 Bxe5 16. Bh6 Ba6 17. Bxf8 Kxf8 18. f4 Bxc3 19. Rf3 Qa5 20. e5 Kg8 21. Kh1 Rd8 22. e6 fxe6 23. Bxg6 hxg6 24. Qc2 Bg7 25. Rg3 g5 26. Qg6 Qd2 27. Rxg5 Qc3 28. Qxe6+ Kf8 29. Re1 Qxe1+ 30. Qxe1 Bf6 31. Qh4 Rd6 32. Qh7 Ke8 33. Qg8+ Kd7 34. Qa8 Bxg5 35. fxg5 c4 36. h4 b4 37. Qa7+ Ke8 38. Qb8+ Kf7 39. Qxb4 Rxd5 40. Qxa4 1-0
+
+[Event "RUS-ch 73rd"]
+[Site "Moscow"]
+[Date "2020.12.14"]
+[Round "9"]
+[White "Esipenko, Andrey"]
+[Black "Goganov, Aleksey"]
+[Result "1-0"]
+[BlackElo "2594"]
+[ECO "C48"]
+[EventCategory "18"]
+[EventCountry "RUS"]
+[EventDate "2020.12.05"]
+[EventRounds "11"]
+[EventType "tourn"]
+[PlyCount "155"]
+[Source "ChessBase"]
+[SourceDate "2021.02.01"]
+[WhiteElo "2686"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nc3 O-O 6. Bxc6 dxc6 7. Ne2 Bd6 8. Ng3 Nd7 9. Nf5 Nc5 10. g4 Ne6 11. h4 c5 12. Rg1 b5 13. Be3 a5 14. h5 a4 15. a3 b4 16. Nd2 Ra6 17. Nc4 Ng5 18. Rg3 bxa3 19. Rxa3 Be6 20. Qd2 h6 21. Qc3 f6 22. Bxg5 hxg5 23. Ke2 Qd7 24. Rg1 Rfa8 25. Rga1 Bf8 26. f3 Qc6 27. Nfe3 Kh7 28. Qe1 Qb7 29. Kf2 Kh8 30. R1a2 Bd7 31. Nd5 Be6 32. Nc3 Qc6 33. Qa1 Bxc4 34. dxc4 Qd7 35. Nd5 c6 36. Ne3 Qd2+ 37. Kg3 Rd8 38. Qg1 Qb4 39. Qc1 Ra7 40. c3 Qb8 41. Rxa4 Rad7 42. Ra6 Qb7 43. Qa1 Rd2 44. Ra8 Kg8 45. Rxd8 Rxd8 46. Qc1 Rd3 47. Kf2 Rd8 48. Ke2 Qd7 49. Qc2 Qb7 50. Ra1 Rb8 51. Rb1 Qa6 52. Rd1 Qa2 53. Rd2 Rb7 54. Kf2 Rb6 55. Kg3 Rb8 56. Qc1 Rb7 57. Kf2 Rb8 58. Rc2 Rd8 59. Qe1 Rd7 60. Rd2 Rb7 61. Qe2 Qb1 62. Nd1 Be7 63. Ne3 Rb8 64. Kg2 Rb7 65. Nd1 Kf8 66. Kh3 Kf7 67. Qf2 Kg8 68. Ne3 Qh1+ 69. Kg3 Qb1 70. Qf1 Qa2 71. Qe2 Bf8 72. Kh2 Qb1 73. Kg2 Qa1 74. Qd1 Qa2 75. b4 Qa3 76. b5 cxb5 77. Rd8 Rf7 78. Qd5 1-0
+

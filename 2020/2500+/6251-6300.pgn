@@ -1,0 +1,1642 @@
+[Event "Klaipeda Sea op-A 17th"]
+[Site "Klaipeda"]
+[Date "2020.07.20"]
+[Round "1"]
+[White "Pocius, Vaclovas"]
+[Black "Laurusas, Tomas"]
+[Result "0-1"]
+[BlackElo "2511"]
+[ECO "D01"]
+[EventCountry "LTU"]
+[EventDate "2020.07.20"]
+[EventRounds "7"]
+[EventType "swiss"]
+[PlyCount "68"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "1714"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 gxf6 5. e3 e6 6. Bd3 Bg6 7. h4 a6 8. h5 Bxd3 9. Qxd3 c5 10. Nf3 Nc6 11. Rd1 f5 12. Ne5 Nxe5 13. dxe5 Rg8 14. Rh2 Bg7 15. f4 f6 16. h6 Bh8 17. Qe2 fxe5 18. Qh5+ Rg6 19. e4 d4 20. Kf1 Qf6 21. exf5 Qxf5 22. Qxf5 exf5 23. Nd5 Rd8 24. c4 dxc3 25. bxc3 c4 26. Nc7+ Ke7 27. Rxd8 Kxd8 28. Nd5 exf4 29. Rh5 Kd7 30. Nxf4 Rd6 31. Ne2 Ke6 32. Rh4 b5 33. a4 Bf6 34. Nd4+ Rxd4 0-1
+
+[Event "Klaipeda Sea op-A 17th"]
+[Site "Klaipeda"]
+[Date "2020.07.21"]
+[Round "2"]
+[White "Laurusas, Tomas"]
+[Black "Boyajyan, David"]
+[Result "1-0"]
+[BlackElo "1949"]
+[ECO "A21"]
+[EventCountry "LTU"]
+[EventDate "2020.07.20"]
+[EventRounds "7"]
+[EventType "swiss"]
+[PlyCount "43"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "2511"]
+
+1. c4 e5 2. g3 d6 3. Bg2 f5 4. Nc3 Nf6 5. d4 Be7 6. Nf3 Nbd7 7. O-O O-O 8. Ng5 Nb6 9. Qb3 c5 10. dxc5 dxc5 11. Rd1 Qc7 12. Nb5 Qb8 13. Bd2 h6 14. Nf3 Bd7 15. Bc3 Bxb5 16. Qxb5 e4 17. Nh4 Qe8 18. Nxf5 Qf7 19. f3 Rae8 20. fxe4 Qxc4 21. Qxc4+ Nxc4 22. e5 1-0
+
+[Event "Klaipeda Sea op-A 17th"]
+[Site "Klaipeda"]
+[Date "2020.07.22"]
+[Round "3"]
+[White "Zirnovas, Martynas"]
+[Black "Laurusas, Tomas"]
+[Result "0-1"]
+[BlackElo "2511"]
+[ECO "B10"]
+[EventCountry "LTU"]
+[EventDate "2020.07.20"]
+[EventRounds "7"]
+[EventType "swiss"]
+[PlyCount "92"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "1801"]
+
+1. e4 c6 2. d3 g6 3. f4 Bg7 4. Nf3 d5 5. e5 Nh6 6. d4 O-O 7. Be2 c5 8. O-O cxd4 9. Nxd4 Nc6 10. Nxc6 bxc6 11. a4 f6 12. exf6 exf6 13. Nd2 Nf5 14. Nb3 Re8 15. Bg4 Ba6 16. Re1 Qb6+ 17. Kh1 Qf2 18. Bd2 Nh4 19. Rxe8+ Rxe8 20. Qg1 Qxg1+ 21. Rxg1 f5 22. Bd1 g5 23. Nc5 Bc8 24. Re1 Rxe1+ 25. Bxe1 Bxb2 26. fxg5 Ng6 27. Nd3 Bd4 28. Bd2 Ba6 29. Nb4 Bb7 30. a5 c5 31. a6 Bc8 32. Nxd5 Bxa6 33. Nc7 Bc4 34. Bf3 Kf7 35. Bd5+ Bxd5 36. Nxd5 Ke6 37. Nc7+ Ke5 38. c3 Bf2 39. g3 c4 40. Kg2 Bb6 41. Ne8 Ke4 42. Kf1 Kd3 43. Be1 a5 44. Nd6 a4 45. Nb5 Bc5 46. Bf2 a3 0-1
+
+[Event "Klaipeda Sea op-A 17th"]
+[Site "Klaipeda"]
+[Date "2020.07.23"]
+[Round "4"]
+[White "Laurusas, Tomas"]
+[Black "Stremavicius, Pijus"]
+[Result "1-0"]
+[BlackElo "2163"]
+[ECO "D11"]
+[EventCountry "LTU"]
+[EventDate "2020.07.20"]
+[EventRounds "7"]
+[EventType "swiss"]
+[PlyCount "87"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "2511"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 c6 4. Bg2 Bg4 5. O-O Nbd7 6. c4 e6 7. Qb3 Qb6 8. Nc3 Be7 9. Bf4 O-O 10. Nd2 Bf5 11. c5 Qa6 12. e4 dxe4 13. Ncxe4 Nxe4 14. Nxe4 b6 15. cxb6 Nxb6 16. Nc5 Bxc5 17. dxc5 Nd5 18. Bd6 Rfe8 19. Rad1 Rad8 20. Rfe1 h6 21. Rd4 Rd7 22. Bf1 Qb7 23. Qa4 Red8 24. b3 a6 25. Qa5 Ra8 26. Ra4 Qc8 27. Qd2 Rda7 28. Ra5 Qb7 29. Rc1 Rd8 30. Rc4 Nc7 31. Rb4 Qc8 32. Rb6 Nb5 33. Bg2 Nxd6 34. cxd6 Rad7 35. Rxc6 Qxc6 36. Bxc6 Rxd6 37. Qc3 Rd3 38. Qb4 R3d4 39. Qc3 Rd3 40. Qc4 R3d4 41. Qxa6 Bh3 42. f4 Rd1+ 43. Kf2 Bf1 44. Qxf1 1-0
+
+[Event "Klaipeda Sea op-A 17th"]
+[Site "Klaipeda"]
+[Date "2020.07.24"]
+[Round "5"]
+[White "Paulauskas, Andrius"]
+[Black "Laurusas, Tomas"]
+[Result "0-1"]
+[BlackElo "2511"]
+[ECO "A46"]
+[EventCountry "LTU"]
+[EventDate "2020.07.20"]
+[EventRounds "7"]
+[EventType "swiss"]
+[PlyCount "48"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "1904"]
+
+1. d4 Nf6 2. Nf3 b5 3. e3 a6 4. c4 bxc4 5. Bxc4 e6 6. Nc3 d5 7. Bd3 c5 8. O-O Nc6 9. dxc5 Bxc5 10. a3 O-O 11. b4 Bd6 12. Bb2 e5 13. Be2 Bb8 14. g3 Bh3 15. Re1 e4 16. Nd2 Ne5 17. f4 exf3 18. Nxf3 Neg4 19. Bf1 Bxf1 20. Kxf1 Ba7 21. Qd3 Re8 22. Nd1 Ne4 23. Kg2 Qd6 24. Ra2 Nxh2 0-1
+
+[Event "Klaipeda Sea op-A 17th"]
+[Site "Klaipeda"]
+[Date "2020.07.25"]
+[Round "6"]
+[White "Laurusas, Tomas"]
+[Black "Salna, Aleksandras"]
+[Result "1-0"]
+[BlackElo "2055"]
+[ECO "D11"]
+[EventCountry "LTU"]
+[EventDate "2020.07.20"]
+[EventRounds "7"]
+[EventType "swiss"]
+[PlyCount "149"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "2511"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 g6 5. Bf4 dxc4 6. Qxc4 Qb6 7. Qc1 Bg4 8. Nbd2 Bg7 9. e3 Nbd7 10. Nc4 Qd8 11. Be2 O-O 12. h3 Be6 13. O-O c5 14. dxc5 Rc8 15. b4 Nd5 16. Rb1 Nc3 17. Re1 Nxb1 18. Qxb1 b6 19. Rd1 bxc5 20. b5 Qe8 21. Na5 Nb6 22. Qe4 Bd7 23. a4 Bf5 24. Qb7 Nxa4 25. Nc6 Rxc6 26. bxc6 Nc3 27. Rd2 Nxe2+ 28. Rxe2 Be4 29. Ne5 Bxe5 30. Bxe5 f6 31. Bb2 c4 32. f3 Qxc6 33. Qxe7 Bd3 34. Re1 a5 35. Bc3 a4 36. Ra1 Bc2 37. Ra2 Re8 38. Qb4 Bd1 39. Rd2 Bxf3 40. gxf3 Qxf3 41. Qxc4+ Kf8 42. Bb4+ Kg7 43. Qc7+ Kg8 44. Bc5 Qxh3 45. Qf4 Qc8 46. Rd5 Re5 47. Qc4 Kg7 48. Rxe5 fxe5 49. Qb4 g5 50. Bd6 Qc1+ 51. Kf2 Kf6 52. Bf8 Kf5 53. Qxa4 Qd2+ 54. Kf3 Qd3 55. Qg4+ Kf6 56. Kf2 Qd2+ 57. Qe2 Qxe2+ 58. Kxe2 Kf5 59. Be7 Kg4 60. Bd6 e4 61. Be7 Kh4 62. Kf2 Kg4 63. Kg2 Kh4 64. Bd6 Kg4 65. Bg3 h5 66. Be1 h4 67. Bd2 h3+ 68. Kf2 h2 69. Kg2 h1=Q+ 70. Kxh1 Kf3 71. Kg1 Ke2 72. Bc1 Kf3 73. Kf1 g4 74. Kg1 g3 75. Kf1 1-0
+
+[Event "Klaipeda Sea op-A 17th"]
+[Site "Klaipeda"]
+[Date "2020.07.26"]
+[Round "7"]
+[White "Juksta, Karolis"]
+[Black "Laurusas, Tomas"]
+[Result "1/2-1/2"]
+[BlackElo "2511"]
+[ECO "D10"]
+[EventCountry "LTU"]
+[EventDate "2020.07.20"]
+[EventRounds "7"]
+[EventType "swiss"]
+[PlyCount "11"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "2366"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. cxd5 cxd5 5. Bf4 Qb6 6. Rc1 1/2-1/2
+
+[Event "Petah Tikva Elitzur IM-B"]
+[Site "Petah Tikva"]
+[Date "2020.07.20"]
+[Round "1"]
+[White "Flom, Gabriel"]
+[Black "Cohen Revivo, Shoham"]
+[Result "1-0"]
+[BlackElo "2192"]
+[ECO "E38"]
+[EventCategory "3"]
+[EventCountry "ISR"]
+[EventDate "2020.07.20"]
+[EventRounds "9"]
+[EventType "tourn"]
+[PlyCount "67"]
+[Source "ChessBase"]
+[SourceDate "2020.10.23"]
+[WhiteElo "2514"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. Nf3 Qa5 7. Bd2 Qxc5 8. e3 O-O 9. a3 Bxc3 10. Bxc3 Qe7 11. Ng5 g6 12. h4 d6 13. h5 e5 14. hxg6 hxg6 15. Bd3 Nc5 16. O-O-O Kg7 17. f4 Bg4 18. Rdf1 Rh8 19. Rxh8 Rxh8 20. b4 Nxd3+ 21. Qxd3 Rh2 22. c5 Bf5 23. Qxd6 Qxd6 24. cxd6 Rxg2 25. Bxe5 Rc2+ 26. Kd1 Rh2 27. e4 Bg4+ 28. Kc1 Be2 29. d7 Rh8 30. Rf2 Bd3 31. Rh2 Rxh2 32. d8=Q Rh1+ 33. Kd2 Rh2+ 34. Kxd3 1-0
+
+[Event "Petah Tikva Elitzur IM-B"]
+[Site "Petah Tikva"]
+[Date "2020.07.23"]
+[Round "2"]
+[White "Milikow, Yoav"]
+[Black "Flom, Gabriel"]
+[Result "1-0"]
+[BlackElo "2514"]
+[ECO "B07"]
+[EventCategory "3"]
+[EventCountry "ISR"]
+[EventDate "2020.07.20"]
+[EventRounds "9"]
+[EventType "tourn"]
+[PlyCount "111"]
+[Source "ChessBase"]
+[SourceDate "2020.10.23"]
+[WhiteElo "2315"]
+
+1. d4 d6 2. e4 g6 3. Nc3 Bg7 4. Be3 c6 5. Qd2 b5 6. h4 Nf6 7. f3 h5 8. Nh3 Bxh3 9. Rxh3 Nbd7 10. a4 b4 11. Nd1 a5 12. c3 bxc3 13. Nxc3 Rb8 14. d5 cxd5 15. exd5 O-O 16. Bb5 Ne5 17. Rc1 Qc8 18. Qd1 Qf5 19. Ke2 Rfc8 20. b3 e6 21. dxe6 Qxe6 22. Kf1 Rc7 23. Kg1 Rbc8 24. Ne2 Rxc1 25. Bxc1 Nd5 26. f4 Ng4 27. Bc4 Rxc4 28. bxc4 Nb4 29. Bd2 Qxc4 30. Bc3 Qc5+ 31. Bd4 Qd5 32. Rc3 Nc6 33. Rd3 Nxd4 34. Nxd4 Qc4 35. Qd2 d5 36. g3 Bf8 37. Rc3 Qxa4 38. Rc8 Qa3 39. Kg2 Nf6 40. Qc3 Qe7 41. Kg1 Ne4 42. Qxa5 Nxg3 43. Qd8 Qb4 44. Nc2 Ne2+ 45. Kf2 Qxf4+ 46. Kxe2 Qe5+ 47. Ne3 Qb2+ 48. Kf3 Qa3 49. Qxd5 Kg7 50. Qe5+ Kh7 51. Rc7 Qa8+ 52. Qd5 Qxd5+ 53. Nxd5 Kg7 54. Nf4 Bb4 55. Ne6+ Kf6 56. Ng5 1-0
+
+[Event "Petah Tikva Elitzur IM-B"]
+[Site "Petah Tikva"]
+[Date "2020.07.27"]
+[Round "3"]
+[White "Flom, Gabriel"]
+[Black "Kochavi, Ori"]
+[Result "1/2-1/2"]
+[BlackElo "2291"]
+[ECO "B12"]
+[EventCategory "3"]
+[EventCountry "ISR"]
+[EventDate "2020.07.20"]
+[EventRounds "9"]
+[EventType "tourn"]
+[PlyCount "64"]
+[Source "ChessBase"]
+[SourceDate "2020.10.23"]
+[WhiteElo "2514"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qb6 5. g4 Bd7 6. h5 e6 7. f4 c5 8. c3 Nc6 9. Nf3 Rc8 10. Na3 cxd4 11. cxd4 Nh6 12. Bh3 Bb4+ 13. Kf2 f6 14. Nc2 fxe5 15. fxe5 O-O 16. Be3 Be7 17. b3 Bg5 18. Bxg5 Nxe5 19. Ne1 Rc3 20. Bg2 Nexg4+ 21. Kg1 e5 22. Qd2 Nf5 23. Rh4 Nxh4 24. Qxc3 Nf5 25. Qc5 Nxd4 26. Qxb6 Ne2+ 27. Kf1 Ng3+ 28. Kg1 axb6 29. Nxe5 Ne2+ 30. Kh1 Ng3+ 31. Kg1 Ne2+ 32. Kh1 Ng3+ 1/2-1/2
+
+[Event "Petah Tikva Elitzur IM-B"]
+[Site "Petah Tikva"]
+[Date "2020.07.31"]
+[Round "4"]
+[White "Friedland, Moshe"]
+[Black "Flom, Gabriel"]
+[Result "0-1"]
+[BlackElo "2514"]
+[ECO "C02"]
+[EventCategory "3"]
+[EventCountry "ISR"]
+[EventDate "2020.07.20"]
+[EventRounds "9"]
+[EventType "tourn"]
+[PlyCount "110"]
+[Source "ChessBase"]
+[SourceDate "2020.10.23"]
+[WhiteElo "2251"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Na3 cxd4 7. cxd4 Bd7 8. Nc2 Nb4 9. Nxb4 Bxb4+ 10. Bd2 Ne7 11. Bd3 Nc6 12. Bxb4 Nxb4 13. Be2 Rc8 14. O-O Bb5 15. Bxb5+ Qxb5 16. Qb3 Qb6 17. Rac1 O-O 18. a3 Nc6 19. Qxb6 axb6 20. Rc3 Ra8 21. Rfc1 h6 22. Rb3 Ra6 23. Re3 Rfa8 24. Rcc3 Ra4 25. Red3 b5 26. h3 Rc4 27. Kf1 Raa4 28. b4 Kf8 29. Ke2 f6 30. Kd1 Ke7 31. Rc2 Kd7 32. Re2 Ra8 33. Red2 Rc8 34. Ke2 Ne7 35. g3 Ng6 36. Re3 h5 37. Ne1 fxe5 38. dxe5 h4 39. Nd3 Ke7 40. f4 Rf8 41. Kd1 Rf7 42. Nc5 hxg3 43. Rxg3 Nxf4 44. Nxb7 Nh5 45. Rg5 Rf1+ 46. Ke2 Rf5 47. Rxf5 Ng3+ 48. Kd3 Nxf5 49. Rc2 Rd4+ 50. Kc3 Re4 51. Na5 Kd7 52. Kb2 Rxe5 53. Nc6 Re3 54. Na7 Nd6 55. Rg2 Nc4+ 0-1
+
+[Event "Petah Tikva Elitzur IM-B"]
+[Site "Petah Tikva"]
+[Date "2020.08.17"]
+[Round "5"]
+[White "Flom, Gabriel"]
+[Black "Nedobora, Mikhail"]
+[Result "1/2-1/2"]
+[BlackElo "2372"]
+[ECO "D34"]
+[EventCategory "3"]
+[EventCountry "ISR"]
+[EventDate "2020.07.20"]
+[EventRounds "9"]
+[EventType "tourn"]
+[PlyCount "26"]
+[Source "ChessBase"]
+[SourceDate "2020.10.23"]
+[WhiteElo "2514"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nf6 6. g3 Nc6 7. Bg2 Be7 8. O-O O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 12. Qa4 Bd7 13. Rad1 Rc8 1/2-1/2
+
+[Event "Petah Tikva Elitzur IM-B"]
+[Site "Petah Tikva"]
+[Date "2020.08.20"]
+[Round "6"]
+[White "Flom, Gabriel"]
+[Black "Levin, Guy"]
+[Result "1-0"]
+[BlackElo "2286"]
+[ECO "D87"]
+[EventCategory "3"]
+[EventCountry "ISR"]
+[EventDate "2020.07.20"]
+[EventRounds "9"]
+[EventType "tourn"]
+[PlyCount "73"]
+[Source "ChessBase"]
+[SourceDate "2020.10.23"]
+[WhiteElo "2514"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8. Ne2 Nc6 9. Be3 O-O 10. Rc1 Qc7 11. h4 cxd4 12. cxd4 Qa5+ 13. Kf1 h5 14. Nf4 Kh7 15. e5 Bg4 16. Qb3 e6 17. f3 Bf5 18. Kf2 Qb4 19. Bb5 Qxb3 20. axb3 Rfc8 21. Bxc6 bxc6 22. Rc3 Rcb8 23. Rxc6 Rxb3 24. Rc7 Rb2+ 25. Kg3 Kg8 26. Rhc1 a5 27. Rd7 a4 28. Rcc7 a3 29. Rxf7 Bf8 30. Ra7 Rbb8 31. d5 Rxa7 32. Rxa7 Rb3 33. Bf2 Bg7 34. Bd4 exd5 35. Nxd5 Rd3 36. Ra8+ Kf7 37. e6+ 1-0
+
+[Event "Petah Tikva Elitzur IM-B"]
+[Site "Petah Tikva"]
+[Date "2020.08.24"]
+[Round "7"]
+[White "Kaganskiy, Gleb"]
+[Black "Flom, Gabriel"]
+[Result "0-1"]
+[BlackElo "2514"]
+[ECO "B56"]
+[EventCategory "3"]
+[EventCountry "ISR"]
+[EventDate "2020.07.20"]
+[EventRounds "9"]
+[EventType "tourn"]
+[PlyCount "118"]
+[Source "ChessBase"]
+[SourceDate "2020.10.23"]
+[WhiteElo "2266"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 e5 7. Nde2 Be6 8. Bg2 Be7 9. Bg5 O-O 10. Bxf6 Bxf6 11. O-O Rc8 12. a3 Qb6 13. Qd2 Nd4 14. b3 Rc7 15. Na4 Rxc2 16. Qxc2 Nxc2 17. Nxb6 Nxa1 18. Rxa1 axb6 19. b4 Rc8 20. Rc1 Rxc1+ 21. Nxc1 Bg5 22. Nd3 Bd2 23. Kf1 Bc4 24. Ke2 Bc1 25. a4 b5 26. axb5 Bxb5 27. Kd1 Bg5 28. Kc2 Bd8 29. Bh3 Bb6 30. Bc8 Bc6 31. f3 Bg1 32. h3 b5 33. Kd2 Kf8 34. Ke2 Bd4 35. h4 h5 36. g4 hxg4 37. Bxg4 Kg8 38. Ne1 Kh7 39. Nc2 Bb6 40. Ne3 Bd8 41. h5 Be7 42. Nd5 Bxd5 43. exd5 Kh6 44. Bd7 Kxh5 45. Bxb5 Kg5 46. Be8 f5 47. Kd3 Kf4 48. Bh5 g5 49. Ke2 Bd8 50. Bg6 Bb6 51. Bh5 e4 52. fxe4 Kxe4 53. Bg6 g4 54. Kf1 Ke5 55. Kg2 f4 56. Bh5 Kf5 57. Be8 Bd4 58. Bd7+ Kg5 59. b5 Kh4 0-1
+
+[Event "Petah Tikva Elitzur IM-B"]
+[Site "Petah Tikva"]
+[Date "2020.08.27"]
+[Round "8"]
+[White "Flom, Gabriel"]
+[Black "Mesropov, Konstantin Eduard"]
+[Result "0-1"]
+[BlackElo "2428"]
+[ECO "C16"]
+[EventCategory "3"]
+[EventCountry "ISR"]
+[EventDate "2020.07.20"]
+[EventRounds "9"]
+[EventType "tourn"]
+[PlyCount "80"]
+[Source "ChessBase"]
+[SourceDate "2020.10.23"]
+[WhiteElo "2514"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Qg4 Bf8 6. h4 h5 7. Qg3 b6 8. Bg5 Ne7 9. Bxe7 Qxe7 10. f4 g6 11. Nf3 Ba6 12. Bxa6 Nxa6 13. O-O-O Nb4 14. Qh3 O-O-O 15. g4 Kb7 16. Ng5 hxg4 17. Qxg4 Bh6 18. Kb1 Nc6 19. Rd3 Bxg5 20. fxg5 Qe8 21. Nd1 Ne7 22. Ne3 Rh7 23. Qf4 Qb5 24. Ng4 Nf5 25. Nf6 Rhh8 26. Qg4 a5 27. h5 gxh5 28. Rxh5 Qc4 29. b3 Qb4 30. Kb2 a4 31. a3 Qb5 32. g6 fxg6 33. Qxg6 axb3 34. Rxb3 Qc4 35. Rb4 Qc6 36. Rxf5 exf5 37. Qxf5 Rh2 38. Qd3 Rdh8 39. Qb3 R8h3 40. Qa4 Qc3+ 0-1
+
+[Event "Petah Tikva Elitzur IM-B"]
+[Site "Petah Tikva"]
+[Date "2020.09.09"]
+[Round "9"]
+[White "Sokolovsky, Yahli"]
+[Black "Flom, Gabriel"]
+[Result "0-1"]
+[BlackElo "2514"]
+[ECO "B41"]
+[EventCategory "3"]
+[EventCountry "ISR"]
+[EventDate "2020.07.20"]
+[EventRounds "9"]
+[EventType "tourn"]
+[PlyCount "72"]
+[Source "ChessBase"]
+[SourceDate "2020.10.23"]
+[WhiteElo "2143"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be2 Bb4 8. O-O O-O 9. Bg5 Be7 10. f4 d6 11. Qd3 Nbd7 12. Kh1 Re8 13. Qg3 Kh8 14. Bd3 h6 15. Qh4 Kg8 16. Bxh6 gxh6 17. Qxh6 Bf8 18. Qg5+ Bg7 19. e5 dxe5 20. Rf3 exd4 21. Rg3 Kf8 22. Qxg7+ Ke7 23. Re1 dxc3 24. Bf5 Kd8 25. Rd3 Qc5 26. Qxf6+ Kc7 27. Qxf7 Re7 28. b4 Rxf7 29. bxc5 Nxc5 30. Rxc3 exf5 31. Re5 b6 32. Rce3 Bb7 33. Re7+ Rxe7 34. Rxe7+ Kd6 35. Rg7 Re8 36. h3 Re2 0-1
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.21"]
+[Round "1"]
+[White "Harikrishna, Pentala"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[BlackElo "2701"]
+[ECO "C84"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "91"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2719"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 Na5 9. Ba2 c5 10. Nc3 Be6 11. Nh4 O-O 12. Nf5 Nc6 13. Nd5 Bxf5 14. exf5 Rc8 15. c3 Nxd5 16. Bxd5 Bf6 17. a4 Ne7 18. Qf3 Nxd5 19. Qxd5 Qd7 20. axb5 axb5 21. g4 Qe7 22. Ra6 Rfd8 23. Re1 h5 24. gxh5 Bg5 25. f4 Bh4 26. Re4 Qf6 27. fxe5 dxe5 28. Rxf6 Rxd5 29. Rb6 Rxd3 30. Kg2 Rd1 31. Be3 Re1 32. h6 b4 33. Rxh4 Rxe3 34. hxg7 Kxg7 35. Kf2 Rd3 36. Rbh6 Rg8 37. f6+ Kf8 38. Rc4 Ke8 39. Rxc5 bxc3 40. Rxe5+ Kd7 41. bxc3 Rxc3 42. Rh4 Rc2+ 43. Ke3 Rc3+ 44. Kf2 Rc2+ 45. Ke3 Rc3+ 46. Kd4 1/2-1/2
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.21"]
+[Round "1"]
+[White "Keymer, Vincent"]
+[Black "Anton Guijarro, David"]
+[Result "1-0"]
+[BlackElo "2703"]
+[ECO "E52"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "63"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2558"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd2 b6 7. cxd5 exd5 8. Bd3 Bb7 9. O-O Nbd7 10. Qc2 a6 11. Ne5 c5 12. a3 cxd4 13. exd4 Bxc3 14. Bxc3 Ne4 15. Bb4 Re8 16. f3 Nef6 17. Rfe1 Rc8 18. Qf2 Nf8 19. Bd2 N6d7 20. Ng4 Qc7 21. Ne3 Ne6 22. Nf5 Ndf8 23. Rac1 Qd7 24. Qg3 Rxc1 25. Rxc1 Ng6 26. h4 h5 27. Nd6 Rd8 28. Nxf7 Qxf7 29. Bxg6 Qf6 30. Kh2 Qxd4 31. Re1 Bc8 32. Rxe6 1-0
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.21"]
+[Round "1"]
+[White "Naiditsch, Arkadij"]
+[Black "Studer, Noel"]
+[Result "1-0"]
+[BlackElo "2580"]
+[ECO "C47"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "67"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2626"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. g3 d5 5. exd5 Nxd5 6. Bg2 Nxc3 7. bxc3 Bc5 8. O-O O-O 9. d3 Bb6 10. a4 Re8 11. Nd2 Be6 12. Rb1 Qd7 13. Nb3 Bg4 14. Qe1 e4 15. d4 Re6 16. Be3 Rae8 17. Qd2 Qd5 18. c4 Qh5 19. c5 Ne7 20. cxb6 Nf5 21. bxc7 Bf3 22. Nc5 Bxg2 23. Nxe6 fxe6 24. Bg5 Bf3 25. h4 Qg4 26. Kh2 e3 27. Qc3 exf2 28. Bf4 Bc6 29. d5 exd5 30. Rxf2 d4 31. Qc4+ Kh8 32. Qxc6 bxc6 33. Rb8 Nd6 34. Bxd6 1-0
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.21"]
+[Round "1"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Edouard, Romain"]
+[Result "1/2-1/2"]
+[BlackElo "2649"]
+[ECO "D41"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "80"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2719"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. e4 dxe4 8. Qxd8+ Kxd8 9. Ng5 Be6 10. Nxe6+ fxe6 11. Bg5 h6 12. O-O-O+ Ke7 13. Bh4 Kf7 14. Rd8 g5 15. Bg3 Bg7 16. Rxh8 Bxh8 17. Bb5 a6 18. Ba4 b5 19. Bc2 Nc6 20. Nxe4 Nd4 21. Re1 Nxe4 22. Bxe4 Rc8+ 23. Kb1 Nf5 24. Rc1 Rxc1+ 25. Kxc1 Nxg3 26. fxg3 b4 27. Kc2 a5 28. h3 g4 29. hxg4 Be5 30. a3 bxa3 31. bxa3 Bxg3 32. Kd3 Kf6 33. Bc6 Kg5 34. Bd7 Kxg4 35. Bxe6+ Kg5 36. a4 Bd6 37. g4 h5 38. gxh5 Kxh5 39. Kc4 Bb4 40. Kb5 Kg5 1/2-1/2
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.22"]
+[Round "2"]
+[White "Adams, Michael"]
+[Black "Keymer, Vincent"]
+[Result "1-0"]
+[BlackElo "2558"]
+[ECO "B90"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "137"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2701"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e5 7. Nf3 Be7 8. Bc4 Be6 9. Qe2 Qc8 10. Bb3 Nbd7 11. Bg5 Bd8 12. a5 Bxb3 13. cxb3 Qc5 14. Be3 Qc6 15. Qc4 Rc8 16. Nd2 Ng4 17. Qe2 Nxe3 18. Qxe3 b5 19. axb6 Bxb6 20. Qe2 a5 21. O-O Nf6 22. Nc4 O-O 23. Nxa5 Bxa5 24. Rxa5 Rb8 25. Ra6 Rb6 26. Rfa1 Qb7 27. Rxb6 Qxb6 28. Ra6 Qb8 29. g3 h5 30. h4 Qb4 31. Qc4 Rb8 32. Ra8 Qb7 33. Rxb8+ Qxb8 34. b4 Qa7 35. Kg2 g6 36. b5 Ng4 37. Qe2 Nf6 38. Qd3 Ng4 39. Qd2 Kg7 40. Nd5 Qc5 41. b6 Qc4 42. f3 Nf6 43. Nxf6 Kxf6 44. Qxd6+ Kg7 45. Qxe5+ Kh7 46. Qc3 Qb5 47. Qd4 Qe2+ 48. Qf2 Qd3 49. e5 Qb5 50. f4 Kg8 51. Kg1 Qb3 52. Kf1 Qd3+ 53. Kg2 Qb5 54. g4 hxg4 55. Kg3 Qb3+ 56. Kxg4 Qd1+ 57. Kg3 Qb3+ 58. Kh2 Qb4 59. Kg2 Kf8 60. Kf3 Ke8 61. Kg4 Kf8 62. h5 gxh5+ 63. Kxh5 Qb3 64. Kg5 Kg7 65. f5 Qb4 66. f6+ Kf8 67. Qg2 Qa4 68. b7 Qb5 69. Kh6 1-0
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.22"]
+[Round "2"]
+[White "Anton Guijarro, David"]
+[Black "Wojtaszek, Radoslaw"]
+[Result "1/2-1/2"]
+[BlackElo "2719"]
+[ECO "B53"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "81"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2703"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nf6 5. Bg5 Nc6 6. Bb5 Bd7 7. Qd3 Ng4 8. Nc3 h6 9. Bf4 g5 10. Bxc6 Bxc6 11. Bd2 Bg7 12. h3 Ne5 13. Nxe5 Bxe5 14. O-O-O Qb6 15. Be3 Qa5 16. Bd4 f6 17. Kb1 Bxd4 18. Qxd4 Qe5 19. Qd2 h5 20. h4 O-O-O 21. f3 Kb8 22. Nd5 g4 23. Rhe1 gxf3 24. gxf3 Rhg8 25. b3 Rg3 26. Re3 Rdg8 27. Nb4 Bd7 28. Nd3 Qd4 29. Nf4 Qxd2 30. Rxd2 Rg1+ 31. Kb2 Rh1 32. Nd5 Rg7 33. Ree2 Rxh4 34. Rg2 Rxg2 35. Rxg2 Be6 36. Nxe7 Rf4 37. Rh2 Rxf3 38. Rxh5 Rf4 39. Nd5 Bxd5 40. exd5 b5 41. Rh7 1/2-1/2
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.22"]
+[Round "2"]
+[White "Naiditsch, Arkadij"]
+[Black "Harikrishna, Pentala"]
+[Result "1/2-1/2"]
+[BlackElo "2719"]
+[ECO "B48"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "87"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2626"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. a3 b5 8. Nxc6 Qxc6 9. Qd4 Bb7 10. O-O-O Rc8 11. Bd3 Qc5 12. Rhe1 Qxd4 13. Bxd4 Ne7 14. f4 b4 15. axb4 Nc6 16. Bf1 Nxb4 17. Kb1 Rg8 18. h4 h6 19. h5 Be7 20. Re3 Bh4 21. Rh3 Bf6 22. Rg3 Bxd4 23. Rxd4 Nc6 24. Ra4 Ke7 25. Bxa6 Bxa6 26. Rxa6 g6 27. hxg6 Rxg6 28. Rxg6 fxg6 29. Kc1 Rf8 30. Ne2 e5 31. g3 exf4 32. Nxf4 Kf7 33. b4 Nxb4 34. Rxg6 Rc8 35. Rxh6 Rxc2+ 36. Kd1 Rc4 37. e5 Rd4+ 38. Ke2 Re4+ 39. Kf3 Rxe5 40. Rh7+ Ke8 41. Rh8+ Kf7 42. Rh7+ Ke8 43. Rh8+ Kf7 44. Rh7+ 1/2-1/2
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.22"]
+[Round "2"]
+[White "Studer, Noel"]
+[Black "Edouard, Romain"]
+[Result "1/2-1/2"]
+[BlackElo "2649"]
+[ECO "D41"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "110"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2580"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 13. Rfe1 Bb7 14. Rad1 Rc8 15. Bb3 Re8 16. h3 Nf6 17. Qf4 Nh5 18. Qh2 h6 19. Re3 Nf6 20. d5 exd5 21. e5 Nh7 22. Nd4 Qd7 23. Qf4 Nf8 24. Nf5 Ng6 25. Qg4 Rc7 26. Rde1 Kh7 27. f4 Bc8 28. Nd6 Qxg4 29. hxg4 Rd8 30. Nxc8 Rdxc8 31. f5 Ne7 32. Kf2 b5 33. Rd3 Rc5 34. Red1 Rd8 35. f6 gxf6 36. exf6 Ng8 37. Rxd5 Rcxd5 38. Rxd5 Rxd5 39. Bxd5 Nxf6 40. Bxf7 Nxg4+ 41. Ke2 Kg7 42. Be8 a6 43. Kd3 Kf6 44. Kc3 Ke7 45. Bh5 Ne3 46. Bf3 Kd6 47. Kb4 Nc2+ 48. Kc3 Ne3 49. Kb4 Nd5+ 50. Bxd5 Kxd5 51. Ka5 h5 52. Kxa6 Kc6 53. g3 b4 54. Ka5 Kc5 55. Ka6 Kc6 1/2-1/2
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.23"]
+[Round "3"]
+[White "Edouard, Romain"]
+[Black "Anton Guijarro, David"]
+[Result "0-1"]
+[BlackElo "2703"]
+[ECO "E32"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "90"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2649"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8. Nf3 cxd4 9. Nxd4 Nd7 10. Bf4 Qh4 11. g3 Qh5 12. O-O g5 13. cxd5 Bxc3 14. bxc3 exd5 15. Bc1 Nxe5 16. Bxe4 dxe4 17. Qxe4 Re8 18. f4 Qxh2+ 19. Kxh2 Ng4+ 20. Kg2 Rxe4 21. fxg5 Bd7 22. Bf4 Rae8 23. Rad1 Ne3+ 24. Bxe3 Rxe3 25. Nf5 Re2+ 26. Kh3 Be6 27. a4 Re3 28. c4 Re4 29. Rb1 b6 30. a5 Re5 31. g4 Rxa5 32. Rf4 Rd8 33. Rb3 Rc5 34. Ra3 Rd7 35. Re3 Rdc7 36. Rd3 Bxf5 37. gxf5 Rxc4 38. Rxc4 Rxc4 39. Rd7 a5 40. Rb7 Rc8 41. Kg4 Ra8 42. g6 hxg6 43. fxg6 fxg6 44. Rxb6 Kf7 45. Rb7+ Ke6 0-1
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.23"]
+[Round "3"]
+[White "Harikrishna, Pentala"]
+[Black "Studer, Noel"]
+[Result "1/2-1/2"]
+[BlackElo "2580"]
+[ECO "E52"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "103"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2719"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd2 b6 7. cxd5 exd5 8. Bd3 Bb7 9. O-O Bd6 10. Qc2 c5 11. dxc5 bxc5 12. Ne2 Qe7 13. Ng3 g6 14. Rfe1 Ne4 15. Bc3 f5 16. Rad1 Nc6 17. Qa4 Rad8 18. Bb5 Qc7 19. Rxd5 Nxc3 20. bxc3 Ne5 21. Rxe5 Bxe5 22. Ng5 Bd5 23. c4 Bf7 24. Nxf7 Rxf7 25. Bc6 Rf6 26. Bd5+ Kg7 27. f4 Bc3 28. Rb1 Rb6 29. Rb3 Rxb3 30. axb3 Rb8 31. Kf2 Qa5 32. Qd7+ Kh8 33. Ne2 Bg7 34. h3 Qb6 35. g4 a5 36. gxf5 Qf6 37. fxg6 hxg6 38. Qa4 Qb6 39. Qa2 Rf8 40. Kg2 Qb4 41. Qc2 Qe1 42. Bf3 Kh7 43. Qd3 Bf6 44. Qd7+ Kh6 45. Qd6 Kg7 46. Qxc5 Bh4 47. Qd4+ Kh6 48. e4 Rd8 49. Qc5 Rd2 50. Qf8+ Kh7 51. Qf7+ Kh6 52. Qf8+ 1/2-1/2
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.23"]
+[Round "3"]
+[White "Keymer, Vincent"]
+[Black "Naiditsch, Arkadij"]
+[Result "1-0"]
+[Annotator "Keymer,V"]
+[BlackElo "2626"]
+[ECO "E62"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "55"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2558"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6 { I hadn't really
+expected this line, still I had spent some minutes looking at it prior to the
+game. Ich hatte diese Variante zwar nicht wirklich erwartet, jedoch hatte ich
+trotzdem vor der Partie ein paar Minuten darauf verwendet, sie anzuschauen. } 7. e4 ( 7. O-O Bf5 { - another theoretical discussion. - eine andere theoretische
+Diskussion. } ) 7... Bg4 ( 7... Nbd7 8. O-O e5 { would transpose to a big main
+line which can result from 6...Nbd7. w√1/4rde zu einer gro√Yen Hauptvariante
+√1/4berleiten, die aus 6...Sbd7 entstehen kann. } ) 8. h3 Bxf3 9. Bxf3 e5 ( 9... Qb6 { is a possible alternative. ist eine m√Pgliche Alternative. } ) 10. d5 { The
+first move which had not been prepared anymore. I considered this position as
+better for White due to the light-squared bishop. Der erste Zug, der nicht
+mehr vorbereitet war. Ich hielt diese Stellung dank des wei√Yfeldrigen
+L√Nufers f√1/4r besser f√1/4r Wei√Y. } 10... cxd5 11. cxd5 a5 $6 { A standard idea
+which, however, in this constellation weakens the light squares, especially b5,
+and accidentally loses a tempo which will turn out vital later on. Eine
+Standardidee, die aber in dieser Konstellation die wei√Yen Felder, speziell b5,
+langfristig schw√Ncht und nebenbei auch noch ein Tempo kostet, was sich
+sp√Nter als √Nu√Yerst entscheidend entpuppen wird. } ( 11... Nbd7 { Probably the
+better move. Wahrscheinlich der bessere Zug. } 12. g4 $1 { Pushing the pawns on
+the kingside secures White a pleasant advantage here as well. Das Vorsto√Yen
+der Bauern am K√Pnigsfl√1/4gel sichert Wei√Y auch hier einen angenehmen
+Vorteil. } ) 12. Be3 ( 12. h4 { - also possible, but committing unnecessarily
+early. - auch m√Pglich, aber legt sich unn√Ptig fr√1/4h fest. } 12... h5 ( 12... Na6 13. h5 $16 ) 13. g4 hxg4 14. Bxg4 Nbd7 { An extra option for Black. Eine
+Extra-Option f√1/4r Schwarz. } ) ( 12. g4 $5 { Also a very interesting option.
+White tries to attack while at the same time preventing Black's counterplay
+with f5 and limiting the bishop on g7. Auch eine sehr interessante Option.
+Wei√Y versucht anzugreifen und gleichzeitig noch das schwarze Gegenspiel mit
+f5 zu verhindern und den L√Nufer auf g7 einzuschr√Nnken } 12... Na6 13. h4 Rb8 ( 13... Nc5 14. h5 Nfd7 15. Be2 $1 $40 { The weakening of the light squares makes
+itself strongly felt. In addition, the bishop on g7 doesn't have a real
+perspective. Die Schw√Nchung der wei√Yen Felder macht sich stark bemerkbar.
+Zus√Ntzlich hat der L√Nufer auf g7 auch keine echte Perspektive. } ) 14. g5 Nd7 15. h5 b5 16. Be3 $16 ) 12... Na6 ( 12... Nbd7 { still seems to be rather solid.
+scheint noch ziemlich solide zu sein. } 13. g4 ( 13. h4 h5 14. g4 { does not make
+sense now: ist jetzt nicht sinnvoll: } 14... hxg4 15. Bxg4 Nxg4 16. Qxg4 Nf6 17. Qf3 Qd7 $13 ) 13... Nc5 14. h4 $16 { White's idea remains the same. Die wei√Ye Idee
+bleibt gleich. } ) 13. h4 ( 13. g4 { was again possible, but here White has
+already played Be3 gespielt which can only be to Black's advantage. war
+wiederum m√Pglich, aber hier hat Wei√Y schon Le3 gespielt, was nur f√1/4r
+Schwarz von Vorteil sein kann. } ) 13... h5 ( 13... Nd7 14. h5 f5 15. hxg6 hxg6 16. exf5 gxf5 17. Kf1 { Engines already give +2 for White here, although there
+are no direct mate threats. However, Black has big long-term problems with the
+square b5 and the weakened king position. Engines geben hier schon +2 f√1/4r
+Wei√Y, obwohl es keine direkten Mattdrohungen gibt. Schwarz hat allerdings
+gro√Ye langfristige Probleme mit dem Feld b5 und der geschw√Nchten
+K√Pnigsstellung. } ) 14. g4 $5 { The direct attempt. White tries to quickly
+initiate a mating attack against the black king, with the control over the
+light squares playing an important part. However, also the "calmer" variations
+secure White a pleasant advantage. Der direkte Versuch. Wei√Y versucht schnell
+einen Mattangriff gegen den schwarzen K√Pnig einzuleiten, wobei die Kontrolle
+√1/4ber die wei√Yen Felder eine wichtige Rolle spielt. Die "ruhigeren"
+Varianten sichern Wei√Y allerdings auch einen angenehmen Vorteil. } ( 14. Be2 Rc8 15. f3 Nc5 16. Qc2 $1 { , followed by g4 or Bf1-h3, secures White pleasant play.
+gefolgt von g4 oder Lf1-h3 sichert Wei√Y angenehmes Spiel. } ) ( 14. Qe2 Rc8 15. O-O Nc5 16. Bg2 { is the calmer alternative and also anything but bad. ist die
+ruhige Alternative und ebenfalls alles andere als schlecht. } ) 14... hxg4 ( 14... a4 15. gxh5 a3 16. b3 Qa5 17. Rc1 Rac8 18. Bd2 Nb4 19. O-O $1 $18 { All black
+threats are parried. Alle schwarzen Drohungen sind pariert. } ) 15. Bxg4 { If one
+wants to trust the engines, here it's already too late for Black to get a
+playable position. Wenn man den Engines trauen m√Pchte, ist es bereits hier zu
+sp√Nt f√1/4r Schwarz, um eine spielbare Stellung zu erreichen. } 15... Nxg4 ( 15... a4 $5 { Objektiv wahrscheinlich der beste Versuch f√1/4r Schwarz. Aber auch hier
+ist die schwarze Stellung alles andere als angenehm. Objectively probably
+Black's best attempt. But also here his position is anything but pleasant. } 16. a3 ( 16. h5 a3 ) 16... Nc5 { The best chance. Die beste Chance. } ( 16... Qa5 17. Qf3 $1 { covers the pawn on e4 and gets the queen closer to the attack. deckt
+den Bauern auf e4 und bringt die Dame n√Nher zum Angriff. } 17... Nc5 ( 17... b5 18. h5 Nxg4 ( 18... b4 19. axb4 Qxb4 20. h6 $1 Nxg4 ( 20... Bh8 21. h7+ { - a nice
+finish. - ein nettes Ende. } ) 21. hxg7 $18 ) 19. Qxg4 b4 20. axb4 Qxb4 21. hxg6 Qxb2 22. Rc1 $18 { Black's counterplay has been halted, and White's attack
+cannot be stopped anymore. Das schwarze Gegenspiel ist unterbunden und der
+wei√Ye Angriff ist nicht mehr zu stoppen. } ) 18. Bxc5 $1 { Eliminating all
+threats. Eliminiert s√Nmtliche Drohungen. } 18... Qxc5 19. h5 { Now Black cannot stop
+the white attack anymore. Schwarz kann den wei√Yen Angriff nun nicht mehr
+stoppen. } 19... b5 ( 19... Nxg4 20. Qxg4 b5 21. Qh4 $3 $18 { - the last finesse. - die
+letzte Finesse. } ) 20. hxg6 Nxg4 21. Qxg4 fxg6 22. Qe6+ Rf7 23. O-O-O $1 { White
+has enough time to let all pieces join the attack. Wei√Y hat genug Zeit um
+alle Figuren in den Angriff zu √1/4berf√1/4hren. } 23... b4 24. Rdg1 $3 { A nice point.
+Eine sch√Pne Pointe. } 24... bxc3 25. Rxg6 { There is no defence against Rxg7, for
+example: Es gibt keine Verteidigung gegen Txg7, zum Beispiel: } 25... cxb2+ 26. Kb1 Kf8 27. Rxg7 ( 27. Qg4 $5 $18 { - the computer solution, with the threat Rh8+. -
+die Computerl√Psung, mit der Drohung Th8+. } ) 27... Qc1+ 28. Rxc1 bxc1=Q+ 29. Kxc1 Kxg7 30. Qxd6 Re8 31. Qc5 $18 ) ( 16... b5 { loses instantly: verliert
+sofort: } 17. h5 b4 18. axb4 Nxg4 ( 18... Nxb4 19. Be2 $1 $18 ) 19. Qxg4 Nxb4 20. Kd2 $1 $18 { and White's attack cannot be stopped anymore. und der wei√Ye
+Angriff ist nicht mehr aufzuhalten. } ) 17. Bxc5 dxc5 18. h5 Qb6 ( 18... b5 { tries to quicky get counterplay, but it doesn't really work here. mit dem
+Versuch schnell Gegenspiel zu erlangen, was hier aber nicht wirklich
+funktioniert. } 19. hxg6 b4 20. axb4 cxb4 21. Nxa4 Nxg4 22. Qxg4 { is also grim
+for Black. ist auch trostlos f√1/4r Schwarz. } ) 19. Rh3 $1 ( 19. Rb1 c4 $1 { is
+not so easy for White anymore. ist nicht mehr so leicht f√1/4r Wei√Y. } ) 19... c4 20. hxg6 Nxg4 21. Qxg4 fxg6 22. Qe2 $1 $16 { The pawn on c4 turns out to be
+a weakness. Der Bauer auf c4 entpuppt sich als Schw√Nche. } 22... Rf4 23. d6 $1 { A
+nice trick. Ein sch√Pner Trick. } 23... Qxd6 24. Nd5 Rc8 25. O-O-O $1 $18 ) ( 15... Nc5 16. h5 $1 Ncxe4 17. Nxe4 Nxe4 18. hxg6 f5 19. Bh3 $1 Rf6 20. Qf3 $1 { ending
+the game. beendet die Partie } ) 16. Qxg4 Nb4 ( 16... Qc8 17. Qxc8 ( 17. Qe2 f5 18. f3 $16 { Also very nice for White. Auch sehr sch√Pn f√1/4r Wei√Y. } ) 17... Rfxc8 18. h5 $18 { is entirely without prospects for Black. ist volkommen
+perspektivlos f√1/4r Schwarz. } ) ( 16... f5 { During the game I expected this
+pawn sacrifice, aiming to disrupt White's position and get counterplay.
+W√Nhrend der Partie rechnete ich mit diesem Bauernopfer, um die wei√Ye
+Stellung zu dekoordinieren und Gegenspiel zu bekommen. } 17. Qxg6 f4 18. Rg1 $1 { A precise move, after which it is impossible for Black to solve all problems.
+Ein pr√Nziser Zug, nach dem Schwarz nicht mehr alle Probleme l√Psen kann. } 18... Rf7 19. Bd2 { Now the bishop is badly placed, but Black has too big problems with
+the pin along the g-file and the pawn on d6. Nun steht der L√Nufer zwar
+schlecht, jedoch hat Schwarz zu gro√Ye Probleme mit der Fesselung auf der
+g-Linie und dem Bauern auf d6. } 19... Nc5 ( 19... Qxh4 20. Nb5 { is also hopeless. ist
+ebenfalls hoffnungslos. } ) ( 19... Nb4 20. Nb5 $1 { White can simply ignore the
+fork on c2. Wei√Y kann die Gabel auf c2 einfach ignorieren. } 20... Nc2+ 21. Ke2 Nxa1 22. Nxd6 $18 ) 20. h5 $18 ) 17. h5 $2 { Giving Black chances and allowing
+unnecessary  complications. Gibt Schwarz Chancen und erlaubt unn√Ptige
+Komplikationen. } ( 17. O-O-O $1 { seems to be simply winning and thus definitely
+is the best move objectively. scheint einfach zu gewinnen und ist somit
+objektiv definitiv der bessere Zug. } 17... f5 ( 17... Rc8 18. Kb1 $18 { immediately
+proctects everything. deckt sofort alles. } ) ( 17... Qc8 18. Qxc8 Rfxc8 19. Kb1 $18 ) 18. Qxg6 f4 19. Rhg1 Rf7 20. Bd2 $18 ) ( 17. Qe2 { Actually a good move
+which, however, I rejected during the game since it somehow felt wrong to get
+on the defense and, at least temporarily, stop the attack. Eigentlich ein
+guter Zug, den ich aber w√Nhrend der Partie verworfen hatte, da es sich
+irgendwie falsch anf√1/4hlte, in die Verteidigung √1/4berzugehen und den
+Angriff zumindest zun√Nchst abzubrechen. } 17... f5 18. f3 f4 19. Bf2 { in the long
+term is a disaster for Black both strategically and dynamically, considering
+the heavily weakened queenside and the still existing attacking potential on
+the kingside. ist langfristig sowohl strategisch als auch dynamisch ein
+Desaster f√1/4r Schwarz, wenn man sich den stark geschw√Nchten Damenfl√1/4gel
+und das immer noch vorhandene Angriffspotenzial am K√Pnigsfl√1/4gel vor Augen
+f√1/4hrt. } ) 17... f5 ( 17... Nc2+ { is the last chance for Black. However, such
+moves are difficult to play over the board, since it means giving up all
+chances for counterplay and victory and having to accept defending an
+unpleasant position. ist die letzte Chance f√1/4r Schwarz. Am Brett sind
+solche Z√1/4ge jedoch schwer zu spielen, da man s√Nmtliche Chancen auf
+Gegenspiel und Gewinn aufgibt und akzeptieren muss, eine unangenehme Stellung
+zu verteidigen. } 18. Kd2 Nxa1 19. hxg6 a4 $5 { A move which during the game I
+hadn't even realized as an option. Ein Zug, den ich w√Nhrend der Partie √1/
+4berhaupt nicht als M√Pglichkeit wahrgenommen hatte. } ( 19... Qf6 20. gxf7+ Rxf7 21. Rxa1 $16 ) ( 19... fxg6 { is what I had mainly calculated during the game.
+ist, was ich w√Nhrend der Partie haupts√Nchlich berechnet hatte. } 20. Qxg6 Rf6 21. Qh7+ Kf7 22. Qh5+ Kg8 23. Rxa1 { I regarded this postion as better for
+White, which is confirmed by engines. Ich hielt diese Stellung f√1/4r besser
+f√1/4r Wei√Y, was Engines best√Ntigen. } 23... Qe8 24. Qh3 Rg6 25. a4 Qc8 26. Qh5 Qg4 27. Qxg4 Rxg4 28. Kd3 { A pleasant endgame for White. Ein angenehmes Endspiel
+f√1/4r Wei√Y. } ) 20. Rxa1 a3 { Destroying White's stability. Zerst√Prt die
+wei√Ye Stabilit√Nt. } 21. b3 ( 21. gxf7+ Rxf7 22. b3 Qa5 { Here Black has
+counterplay. Hier hat Schwarz Gegenspiel. } ) 21... fxg6 ( 21... Qa5 22. Rh1 $18 { Now White is faster. Jetzt ist Wei√Y schneller. } ) 22. Qxg6 Rf6 23. Qg4 Qc8 24. Qg5 $1 Qc7 25. Rg1 Rf7 26. Qg4 Rc8 27. Rc1 Qd7 28. Qxd7 Rxd7 29. Nb5 Rxc1 30. Kxc1 $14 ) 18. Qxg6 $18 { From here onwards, the position is clearly won for
+White. Ab hier ist die Stellung klar gewonnen f√1/4r Wei√Y. } 18... Rf6 19. Qg2 ( 19. Qg5 { is also possible. ist auch m√Pglich. } 19... f4 20. Rg1 $1 ( 20. h6 $6 Rxh6 $1 { The trick. Der Trick. } 21. Qxd8+ Rxd8 22. Rxh6 fxe3 ( 22... Bxh6 23. Bb6 $1 $18 { Black cannot defend everything. Schwarz kann nicht alles verteidigen. } ) 23. Rh1 Nc2+ 24. Ke2 Nxa1 25. Rxa1 exf2 26. Kxf2 { Clearly better for White, but
+Black does have drawing chances still. Deutlich besser f√1/4r Wei√Y aber
+Schwarz hat durchaus noch Remischancen. } ) 20... Qf8 21. Bb6 $1 Nc2+ 22. Kd2 Nxa1 23. h6 { - hopeless for Black. - hoffnungslos f√1/4r Schwarz. } ) 19... Kh7 20. exf5 { Practically, a good decision easing White's task considerably.
+Praktisch eine gute Entscheidung, die die wei√Ye Aufgabe deutlich erleichtert. } ( 20. Bg5 { also wins. gewinnt auch. } 20... Nc2+ 21. Ke2 $1 { The most precise solution.
+Die pr√Nziseste L√Psung. } ( 21. Kd2 Nxa1 22. Bxf6 ( 22. Rxa1 $2 Bh6 $1 $13 ) 22... Qxf6 23. Rxa1 { should also be won. sollte auch gewonnen sein. } ) 21... Nxa1 22. Rxa1 $18 { No there is no Bh6 idea anymore. Jetzt gibt es die Lh6-Idee nicht
+mehr. } ) 20... Nc2+ 21. Kd2 Nxe3 ( 21... Nxa1 22. Ne4 { is absolutely hopeless
+for Black. ist absolut hoffnungslos f√1/4r Schwarz. } ) 22. fxe3 Qb6 23. Kc2 Rc8 24. Rag1 ( 24. h6 $5 Bh8 25. Rag1 Qxe3 26. Rh3 { also leads to the desired
+result. f√1/4hrt auch zum gew√1/4nschten Ergebnis. } ) 24... Bh6 25. Kb1 { There
+are many alternatives which should also win. But this variation is forced and
+can be calculated to victory relatively simply. Es gibt viele Alternativen,
+die auch gewinnen sollten. Diese Variante ist jedoch forciert und relativ
+leicht bis zum Gewinn zu berechnen. } 25... Qxe3 ( 25... Rxc3 { is of course not
+possible due to geht nat√1/4rlich nicht wegen } 26. Qg8# ) 26. Ne4 Rff8 27. Qg6+ Kh8 28. Nf6 { The only possibilty for Black to avoid immediate checkmate is to
+sacrifice the exchange which, lacking threats, doesn't allow him real chances.
+Die einzige M√Pglichkeit f√1/4r Schwarz, nicht sofort Matt gesetzt zu werden,
+ist die Qualit√Nt zu opfern, was Schwarz angesichts der fehlenden Drohungen
+keine echten Chancen einr√Numt. } ( 28. Nf6 Rc7 29. Qg8+ { A nice finish: Ein
+sch√Pnes Finish: } 29... Rxg8 30. Rxg8# ) 1-0
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.23"]
+[Round "3"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[BlackElo "2701"]
+[ECO "D37"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "81"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2719"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Be2 dxc4 8. O-O c5 9. dxc5 Nxc5 10. Bxc4 Qxd1 11. Rfxd1 b6 12. Ne5 Bb7 13. f3 Rfd8 14. e4 Kf8 15. Be2 Ncd7 16. Nc4 Bc6 17. Rac1 Ne8 18. Kf1 h6 19. a3 Bg5 20. Be3 Bxe3 21. Nxe3 Nc5 22. b4 Nb3 23. Rxd8 Rxd8 24. Rd1 Rxd1+ 25. Bxd1 Nd4 26. e5 Ke7 27. Kf2 Nc7 28. f4 f6 29. Ne2 fxe5 30. fxe5 Nxe2 31. Bxe2 Nd5 32. g3 Nxe3 33. Kxe3 g5 34. h4 gxh4 35. gxh4 Be8 36. Kd4 Bc6 37. Bd1 Kd7 38. a4 Ke7 39. a5 Kd7 40. axb6 axb6 41. Be2 1/2-1/2
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.24"]
+[Round "4"]
+[White "Adams, Michael"]
+[Black "Edouard, Romain"]
+[Result "1/2-1/2"]
+[BlackElo "2649"]
+[ECO "C06"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "80"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2701"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Nf3 Qb6 8. a3 cxd4 9. cxd4 f6 10. exf6 Nxf6 11. Nc3 Bd6 12. Bd3 O-O 13. O-O e5 14. dxe5 Nxe5 15. Be2 Nxf3+ 16. Bxf3 d4 17. Ne4 Nxe4 18. Bxe4 Bf5 19. Bxf5 Rxf5 20. Qd3 Raf8 21. Bd2 Qc7 22. g3 Qf7 23. f4 a5 24. Rac1 Qd5 25. Qc4 Qxc4 26. Rxc4 g5 27. b4 axb4 28. Bxb4 Bxb4 29. Rxb4 gxf4 30. Rxf4 Rxf4 31. gxf4 Rxf4 32. Rxb7 Rf3 33. Rd7 Rxa3 34. Rxd4 Ra2 35. Rd7 Rb2 36. h3 h6 37. Kh1 Ra2 38. Kg1 Rb2 39. Kh1 Ra2 40. Kg1 Rb2 1/2-1/2
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.24"]
+[Round "4"]
+[White "Harikrishna, Pentala"]
+[Black "Keymer, Vincent"]
+[Result "1-0"]
+[Annotator "Edouard,Romain"]
+[BlackElo "2558"]
+[ECO "D47"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "73"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "2719"]
+
+1. c4 c6 2. d4 d5 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bb3 $5 { A rare move compared to 8.Bd3. Even 8.Be2 has been played more often. } 8... b4 9. Ne2 { The whole idea will be to play Nf4 and Ng5... then guess what! } 9... Be7 { Here 9...Bd6 and 9...Bb7 definitely deserve attention. } ( { However } 9... c5 { looks pretty risky: } 10. O-O Bb7 11. Ba4 $1 Rc8 ( 11... Bd6 12. dxc5 Bxc5 13. Ne5 Qc7 14. Nxd7 Nxd7 15. Qc2 $14 ) 12. Ne5 Be7 13. dxc5 Bxc5 14. e4 ( 14. a3 $5 $14 bxa3 $6 15. b4 $1 $16 ) 14... Ke7 15. Nxd7 Nxd7 16. Qb3 ( 16. a3 $5 ) 16... Nf6 17. Bg5 Bxe4 18. Nf4 h6 19. Bxf6+ { ¬1/2-¬1/2 Markos,J (2571)-Stocek,J 
+(2566) SVK 2016 } ) 10. O-O ( 10. Nf4 { would allow Black to play } 10... Ba6 { - a good
+reason for White to castle first! } ) 10... Bb7 11. Nf4 c5 ( 11... O-O 12. Ng5 Qa5 13. Nfxe6 fxe6 14. e4 $1 { A brilliant move! } ( 14. Nxe6 Rf7 $132 ) 14... Kh8 15. e5 $2 { No longer brilliant! } ( 15. Nxe6 $14 { White will just play with
+tremendous compensation. } ) 15... Nd5 16. Nxe6 Rf7 17. Qh5 g6 18. Qh6 Nf8 $15 { 1-0 (38) Govciyan,P (2430)-Crut,A (2350) Aix-les-Bains 2007 } ) 12. Ng5 O-O $146 ( 12... Qb6 { was played in the only existing game, but it seems } 13. Nxf7 $1 Kxf7 14. Nxe6 Bd5 15. Ng5+ Ke8 16. e4 $1 { would be terrible for Black. } ) 13. Ngxe6 fxe6 14. Nxe6 Qc8 15. Nxc5+ $5 { Hari prefers to play wth three pawns and
+to ignore the f8-rook. } ( 15. Nxf8+ Kxf8 16. f3 cxd4 17. exd4 $14 ) 15... Kh8 ( 15... Bd5 16. Ne6 Bxe6 17. Bxe6+ Kh8 18. f3 $14 ) 16. Nxb7 Qxb7 17. f3 a5 $6 { The start of a very bad plan. Black had to set himself ready to react in the
+center: } ( 17... Rfd8 $1 18. e4 Nc5 19. Be3 ( 19. Bc4 $6 Rac8 20. Be2 Ne6 $15 ) 19... Nxb3 20. Qxb3 Qb5 { and Black's postion is much easier to handle if White
+doesn't have a bishop pair. } ) 18. e4 Nb6 19. Qe2 a4 20. Bc2 Rfc8 21. Bd3 a3 22. b3 Qd7 23. Be3 Rc3 24. Rad1 Rd8 25. Kh1 Qe8 26. Bg1 ( 26. Bd2 $5 Rcc8 27. Rc1 Rxd4 28. Be3 $18 ) 26... Bf8 27. Qe1 Nbd7 28. Bb1 { Ó /\ Diagram!! Look at
+Hari's last three moves, preparing to push his central pawns. } 28... Nh5 $2 ( { was
+smarter, as Black needs to stay ready to answer e5 with ...Nd5. Now, for
+example } 28... Qh5 29. Rc1 Rdc8 30. Rxc3 Rxc3 ( 30... bxc3 31. Qe2 $16 ) 31. Be3 { would retain a clear advantage for White. } ) 29. e5 $1 Qe6 $2 { A blunder in a
+bad position. } ( 29... g6 30. f4 $18 ) 30. Qh4 { Double-attack! } 30... Qh6 31. g4 Nf4 32. Qxd8 Qh3 33. Rf2 Rxf3 34. Qa8 Rxf2 35. Bxf2 Qxg4 36. Rg1 Qh5 37. Re1 1-0
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.24"]
+[Round "4"]
+[White "Naiditsch, Arkadij"]
+[Black "Wojtaszek, Radoslaw"]
+[Result "0-1"]
+[Annotator "Wojtaszek,R"]
+[BlackElo "2719"]
+[ECO "B51"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "86"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2626"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. c4 e5 8. Qd3 b5 9. Nc3 bxc4 10. Qxc4 Be6 ( 10... h6 $2 11. Nd5 $1 ) 11. Qd3 ( { My previous
+two games in this system against GMs Mastrovasilis and Jones were not the most
+combative ones, since after } 11. Qc6+ Bd7 12. Qc4 Be6 13. Qc6+ { draws were
+agreed. Obviously I didn't expect my opponent to continue the same way but I
+still felt a bit relieved when I saw he decided to be more open. } ) ( 11. Nd5 $6 { is not effective since after } 11... Qa5+ $1 12. Bd2 Bxd5 13. exd5 Qb5 $1 { the d5
+pawn will fall with no compensation. } ) 11... h6 12. O-O ( { White would like to
+re-route his knight as early as possible but it just doesn't quite work: } 12. Nd2 Nf6 13. Nc4 d5 $1 ( 13... Be7 14. O-O O-O 15. Ne3 { and compared to the game
+continuation maybe White doesn't have to go Rd1. } ) 14. exd5 Nxd5 15. O-O Nxc3 16. Qxc3 Rc8 17. b3 { and here many moves should give Black a decent position,
+with } 17... f6 { being probably the best } ) 12... Nf6 13. Rd1 Be7 14. Ne1 O-O 15. Nc2 { Till this moment we were following the game Carlsen-Anand from 2013. I briefly
+remembered analyzing this position and my main conclusion was that Black
+should quickly try to activate e7 bishop. } 15... Qd7 $1 $146 { [%cal Ge7d8,Gd8b6,
+Gd8a5] A novelty, but already played in few correspondence games so I guess it
+wasn't such a big secret anymore. } ( { The afromentioned game continued } 15... Qb6 16. Ne3 Rfc8 17. b3 a5 ( 17... Qb7 $1 { since Black is fine in the tactical
+battle after } 18. Ba3 d5 $1 19. exd5 Bxa3 20. dxe6 Bb2 21. Ncd5 Nxd5 22. Qxd5 Qxd5 23. Nxd5 Bxa1 24. Ne7+ Kf8 25. Nxc8 Rxc8 26. Rxa1 f6 $5 $11 ( 26... f5 ) ) 18. Bd2 Qa6 19. Be1 Nd7 20. f3 Rc6 21. Qxa6 Rcxa6 22. Ned5 Bd8 23. Nb5 { 1/2 
+(59) Carlsen,M (2868)-Anand,V (2783) Stavanger 2013 } ) 16. Ne3 { Here I spent
+few minutes trying to remember how exactly this bishop manoeuvre was happening
+but it was clear that first Black should prepare it. } 16... Rfc8 ( 16... Bd8 $2 17. Qxd6 ) 17. Bd2 { This move was new to me but didn't change my plan. } ( { The line
+I had in my notes was the following: } 17. b3 Bd8 $1 18. Ba3 Bb6 19. Rac1 Bd4 $1 { and Black is very active. } ) 17... Bd8 18. Ncd5 Qb7 ( { I briefly considered } 18... Qb5 $5 19. Nxf6+ Bxf6 20. Bc3 Rc6 21. Qxb5 axb5 22. a3 { I thought Black
+could have some small issues with the d6 pawn but engines are clearly
+indicating that thanks to the two bishops Black is just fine. Anyway, I didn't
+mind keeping more pieces over the board - what can be better than a long
+struggle after few months spent in the lockdown :) } ) 19. Bc3 Nxd5 20. Nxd5 Rc6 { Around here I was very happy with my position. White's main asset, the knight
+on d5 can be easily targeted with Rc5 and Bxd5 threats. } ( { Engines are saying
+that immediate } 20... Rc5 { was also possible but I didn't like the fact that
+after } 21. Bb4 Rc6 ( 21... Bxd5 $5 22. Bxc5 Bxe4 23. Qxd6 Bxg2 { I quickly
+realized that I'm not playing for a win in this position so didn't calculate
+too much but it was interesting to see after the game that Black is fine here
+too. } 24. Qf8+ ( 24. Qxe5 Bf6 25. Qg3 Bc6 26. Bd4 Bxd4 27. Rxd4 Qxb2 28. Rad1 Qxa2 $11 ) 24... Kh7 25. Rxd8 Bh1 $8 { cute:) } ( 25... Bh3 $4 26. Qg8+ Kg6 27. Rd6+ f6 28. Qd5 $1 { That's why Bh1 was the only move! } ) 26. Kf1 Qb5+ 27. Kg1 Qb7 $11 ) 22. Rac1 { I have to exchange two rooks. } ) 21. h3 Rac8 22. Kh2 $6 { The
+move I expected but not the best one. White had to realize there is no time
+for a "wait and see" strategy as the black pieces will become too active. } ( 22. f4 $1 { should be played to keep the balance. } 22... f6 ( 22... exf4 23. Nxf4 Qb5 24. Nxe6 Qxd3 25. Rxd3 fxe6 $11 ) 23. Kh2 Rc5 24. Bb4 $1 Rb5 25. Bc3 { and here it
+would have been difficult for me to improve the position. } ) 22... Bg5 $15 ( 22... Rc5 { I spent a lot of time considering this move but couldn't find
+anything more than a draw after } 23. Bb4 Rc2 24. Bxd6 Rxf2 ( 24... Qxb2 25. Rab1 Qd4 26. Qxc2 Rxc2 27. Rxd4 exd4 28. Rb8 Rc8 29. Rxc8 Bxc8 30. Ne7+ $11 ) 25. Bxe5 Bxd5 26. Qxd5 Qxd5 27. Rxd5 Bc7 28. Bxc7 Rxc7 29. Ra5 Rcc2 30. Rg1 $11 ) 23. f3 Rc5 24. Ne3 Qb6 $1 25. Re1 Bf4+ $6 { Wrong plan. I overestimated the
+position we've got in the game and underestimated the fact that White can
+hardly move while I could still improve my position in many ways like h5-h4 or
+a5-a4. } ( 25... h5 $1 { All white pieces are tied up so even sitting with the
+computer it's very difficult to offer some decent continuation for White. } 26. Kh1 ( 26. Rad1 R5c6 ( 26... Bxa2 27. Qxd6 ) 27. a3 Bb3 { and weakening the b3
+square obviously has not improved White's chances. } ) 26... Bf4 27. Rad1 Qd8 $5 { [%cal Gd8h4] } ) 26. g3 $1 { This ugly looking move I somehow couldn't take
+seriously during the game but I definitely should! } 26... Bxe3 $6 ( 26... Bg5 { was
+better since after h4 White has to weaken light squares around the king even
+more: } 27. h4 Bxe3 28. Qxe3 f6 $17 ) 27. Qxe3 ( { Not } 27. Rxe3 $4 Rxc3 $1 28. bxc3 Qb2+ $19 ) 27... Qc6 28. a3 f6 $15 { During the game I already saw with
+eyes of imagination that I will go d5 and White's weak king will get under
+some serious attack. Even though it's more or less what happened in the game,
+objectively things are not so simple yet. } 29. Rad1 Rd8 { I was not happy with
+this move as it will allow White to exchange more pieces but the alternative
+was even less promising. } ( 29... d5 { looks attractive at first but it would
+make White's life easier: } 30. exd5 Rxd5 ( 30... Bxd5 31. Rd3 { [%cal Ge1d1] } ) 31. Rxd5 Bxd5 { Black's queen and bishop should stand the other way around on
+the h1-a8 diagonal. } ( 31... Qxd5 32. f4 $1 ) 32. f4 $1 exf4 33. Qxf4 ) 30. Rd2 d5 31. exd5 Rcxd5 32. Rxd5 Qxd5 33. f4 Bc8 $1 { I was counting on this move when
+playing 29...Rd8. If felt that I will have a decent chance to create some
+problems for my opponent, especially given the fact he was getting short of
+time. } 34. fxe5 Bb7 35. Rg1 $2 ( 35. Qf2 $1 fxe5 36. Rf1 $1 { and despite
+looking great, Black's position cannot be improved, for instance } ( 36. Bxe5 $4 Re8 37. Bc3 Rxe1 38. Bxe1 Qh1# ) 36... Rd6 $5 37. Qf8+ Kh7 38. Qf5+ Rg6 39. Rg1 ) 35... fxe5 36. g4 $4 ( { It was neccessary to include } 36. Qe2 $1 { to stop the
+rook coming to the f-file. } 36... Rf8 37. Rf1 ) 36... Rf8 37. g5 ( 37. Qe2 e4 38. Rf1 { was the last chance, but after } ( 38. Rd1 Qc6 39. Rf1 ) 38... e3 $1 39. Rxf8+ Kxf8 40. Qf1+ Ke8 { Black should be winning anyway. } ) 37... Rf3 $1 38. Qxe5 ( 38. Qe2 e4 39. gxh6 Qd6+ $1 ) 38... Rf2+ 39. Kg3 { and here it turned out that the
+only winning continuation is the prosaic one: } 39... Rg2+ $1 40. Rxg2 Qxg2+ 41. Kh4 Qf2+ { and there is no rescue for White. He resigned. } 42. Qg3 hxg5+ 43. Kg4 Bc8+ $1 0-1
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.24"]
+[Round "4"]
+[White "Studer, Noel"]
+[Black "Anton Guijarro, David"]
+[Result "1-0"]
+[Annotator "Studer,Noel "]
+[BlackElo "2703"]
+[ECO "D87"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "63"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2580"]
+
+{ In a very difficult tournament with many missed chances, one game was special
+for me which I am now happy to analyse. In einem sehr schwierigen Turnier mit
+vielen verpassten Chancen sticht bei mir eine Partie heraus, die ich nun gerne
+analysieren werde. } 1. d4 Nf6 2. c4 g6 { was already a big surprise. David had
+never played the Gr√1/4nfeld before, and thus I wasn't expecting it at all.
+war bereits eine grosse √oberraschung. David hatte zuvor noch nie Gr√1/4nfeld
+gespielt und somit habe ich √1/4berhaupt nicht damit gerechnet. } 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8. Ne2 Nc6 9. Be3 O-O 10. O-O { This
+is the main position of the 7.Bc4 line. In the Magnus Carlsen Chess Tour
+mainly 10...Bg4 was discussed here, but before, the game move was the main
+line for Black. Theory enthusiasts can also analyse other logical moves like 
+Qc7, cxd4, e6 or Na5. Das ist die Hauptstellung der 7.Lc4 Variante. In der
+Magnus-Carlsen-Chess-Tour wurde hier vor allem 10...Lg4 diskutiert, zuvor war
+aber der Partiezug die Hauptvariante f√1/4r Schwarz. Theorief√1/4chse k√Pnnen
+auch weitere logische Z√1/4ge wie Dc7, cxd4, e6 oder Sa5 analysieren. } 10... b6 ( 10... Bg4 11. f3 Na5 ( 11... Bd7 { now was played by Nepomniachtchi. In my
+opinion, the resulting positions are much easier to play with white. wurde nun
+von Nepomniachtchi gespielt. Die entstehenden Stellungen spielen sich meiner
+Ansicht nach wesentlich einfacher mit Weiss. } 12. Rb1 Qc7 13. Qd2 Rfd8 14. Rfc1 Be8 15. h4 $5 $14 { The typical AlphaZero manoevure, making Black's king feel
+somewhat unsafe indeed. ¬1/2-¬1/2 (40) Giri,A (2764)-Nepomniachtchi,I (2784)
+chess24.com INT 2020 Das typische AlphaZero-Man√Pver, das den schwarzen K√Pnig
+doch etwas unsicher f√1/4hlen l√Nsst. ¬1/2-¬1/2 (40) Giri,A (2764)
+-Nepomniachtchi,I (2784) chess24.com INT 2020 } ) 12. Bxf7+ Rxf7 13. fxg4 Rxf1+ 14. Kxf1 Qd6 15. e5 Qd5 16. Ng1 $1 $14 { and soon after Giri reached a dream
+position vs. the world champion: ¬1/2-¬1/2 (70) Giri,A (2764)-Carlsen,M (2863)
+chess24.com INT 2020. und Giri erreichte wenig sp√Nter eine Traumstellung
+gegen den Weltmeister: ¬1/2-¬1/2 (70) Giri,A (2764)-Carlsen,M (2863) chess24.
+com INT 2020 } ) 11. Rc1 Bb7 12. Bb5 $5 { Again following Anish Giri's tracks.
+Wiederum auf den Spuren von Anish Giri. } 12... Na5 $5 { Was a new move to me.
+Assuming that this move should not be quite sufficient to equalize, I only
+calculated the two most principal attemps: d5 & dxc5. War f√1/4r mich ein
+neuer Zug. In der Annahme, dass dieser Zug nicht ganz ausgleichen sollte,
+berechnete ich nur die beiden prinzipiellsten Versuche: d5 & dxc5. } ( 12... cxd4 $6 { This was played against me in online blitz (Titled Tuesday), but it is
+simply bad. Recently, they have started to include these games in the database.
+However, it's never easy to assess how seriously the openings of online blitz
+games are to be taken. Das wurde gegen mich im Online Blitz (Titled Tuesday)
+gespielt, ist aber einfach schlecht. Neuerdings werden diese Partien auch in
+die Datenbank aufgenommen. Es ist aber nie einfach einzusch√Ntzen, wie ernst
+man die Er√Pffnungen der Online Blitzpartien nehmen soll. } 13. cxd4 Rc8 14. Qa4 $1 { The improvement upon another Giri game. Die Verbesserung gegen√1/4ber
+einer weiteren Giri-Partie. } ( 14. Qd2 { transposes the the lines with 12..Rc8,
+but does not exploit the imprecision. geht √1/4ber zu den Abspielen mit 12...
+Tc8, nutzt die Ungenauigkeit aber nicht aus. } 14... e6 15. Rfd1 Na5 16. Rxc8 Qxc8 17. Bg5 $5 { White is playing for the d-pawn. Weiss spielt auf den d-Bauern. } 17... Qc7 18. d5 exd5 19. exd5 Qc5 20. Qd3 Qd6 21. h4 $1 $16 { Die Kombination vom
+d-Freibauern und einem K√Pnigsfl√1/4gel-Angriff ist sehr unangenehm f√1/4r
+Schwarz. The combination of the d-passer and a kingside attack is very
+unpleasant for Black. } ( 21. Bf4 { was not quite as precise: war nicht ganz so
+genau: } 21... Be5 22. Bxe5 Qxe5 23. d6 $132 { 0-1 (33) Giri,A (2764)-Ding,L (2791)
+chess24.com INT 2020 0-1 (33) Giri,A (2764)-Ding,L (2791) chess24.com INT 2020 } ) ) 14... Na5 15. d5 $1 $16 { The knight on a5 is totally out of the game, and
+White already has a huge advantage: 1-0 (32) Studer,N (2580)-Antipov,M (2584)
+chess.com INT 2020. Der Springer auf a5 ist total aus dem Spiel und Weiss hat
+bereits riesigen Vorteil: 1-0 (32) Studer,N (2580)-Antipov,M (2584) chess.com
+INT 2020. } ) ( 12... Rc8 { is the main line. ist die Hauptvariante. } 13. Qd2 e6 14. Rfd1 cxd4 15. cxd4 $36 { transposing to the Giri game mentioned on 12...
+cxd4. mit √obergang zur bei 12...cxd4 erw√Nhnten Giri Partie } ) 13. d5 ( 13. dxc5 { My main line here went as follows: Meine Hauptvariante lief hier wie folgt: } 13... Qxd1 14. Rfxd1 Bxe4 15. cxb6 axb6 16. Bxb6 Rfb8 17. Bxa5 Rxb5 18. Bb4 Rb7 $44 { The bishop pair and the white pawn weaknesses on the queenside give Black
+excellent compensation for the sacrificed pawn. Das L√Nuferpaar und die
+weissen Bauernschw√Nchen am Damenfl√1/4gel geben Schwarz ausgezeichnete
+Kompensation f√1/4r den geopferten Bauern. } ) 13... c4 $6 { Expected by me, but
+it's simply too slow. Following Nd4, White's centre is difficult to attack,
+and Black's bishops are not effective, with the knight on a5 again being the
+main problem. Hatte ich erwartet, ist aber schlicht zu langsam. Das weisse
+Zentrum kann nach Sd4 nur noch schwer angegriffen werden und die schwarzen
+L√Nufer kommen nicht zur Geltung, wobei der Springer auf a5 wiederum das
+Hauptproblem darstellt. } ( 13... e6 $1 { Only very concrete means can do the job.
+Es geht nur mit ganz konkreten Mitteln. } 14. c4 a6 15. Ba4 exd5 16. cxd5 $5 { The ambitious try. Der ambitioniertere Versuch. } ( 16. exd5 { This will soon end
+in a handshake. Das wird bald in einem Handshake enden. } 16... b5 $1 17. cxb5 axb5 18. Bxb5 Qxd5 19. Qxd5 Bxd5 20. Bxc5 Rfc8 { White can't really protect or move
+the pawn a2 since the bishop on c5 is tactically hanging. Weiss kann den
+Bauern a2 nicht richtig decken oder ziehen, da der L√Nufer auf c5 taktisch
+h√Nngt. } 21. Bd4 ( 21. Rc2 $2 Nb7 $19 ) ( 21. a4 $2 Nb3 $19 ) 21... Bxa2 $11 ) 16... f5 $5 17. Nf4 fxe4 18. Ne6 Qxd5 19. Nxf8 Rxf8 $44 { Black has good compensation
+for the sacrificed exchange. The engines prefer White, but in a practical game
+this position can go either way. Schwarz hat gute Kompensation f√1/4r die
+geopferte Qualit√Nt. Die Engines bevorzugen Weiss, aber in einer praktischen
+Partie kann diese Stellung auf beide Seiten kippen. } ) 14. Nd4 $1 a6 { Another
+imprecision. On c2 the bishop is much better placed than on b5. Eine weitere
+Ungenauigkeit. Der L√Nufer steht auf c2 wesentlich besser als auf b5. } ( 14... Qd6 15. Qe2 e6 { was the right way, but also here White has a nice choice of
+better positions. Simplest is: war der richtige Weg, aber auch hier hat Weiss
+eine sch√Pne Auswahl an besseren Stellungen. Am einfachsten ist: } 16. dxe6 fxe6 17. Bxc4 Nxc4 18. Qxc4 Bxe4 19. Qxe6+ Qxe6 20. Nxe6 Rf7 21. Nxg7 Kxg7 22. Rfe1 $16 { Only without the rook pairs the different coloured bishops make the
+endgame drawish, and thus White has very good winning chances here without any
+risks. Die ungleichfarbigen L√Nufer machen das Endspiel erst ohne Turmpaare
+remislich und somit hat hier Weiss sehr gute Gewinnchancen ohne irgendwelche
+Risiken. } ) 15. Ba4 b5 16. Bc2 Qd7 17. h4 $1 { Anticipating e6, and Black's
+position on the kingside is incredibly weak. Antizipiert e6 und die schwarze
+Stellung am K√Pnigsfl√1/4gel ist unglaublich schwach. } 17... e6 { Was sonst? Was
+sonst? } ( 17... h5 $6 { weakens the position even more. schw√Ncht die eigene
+Stellung noch mehr. } 18. f4 $1 $18 { and following f5 Black's position will
+fall apart. und nach f5 wird die schwarze Stellung auseinanderfallen. } ) 18. dxe6 fxe6 19. Qg4 Rae8 ( 19... Nc6 { Born out of necessity, the engine suggests
+this move. However, Black faces a very difficult defensive task: Aus lauter
+Not schl√Ngt die Engine diesen Zug vor. Schwarz steht aber vor einer sehr
+schwierigen Verteidigungsaufgabe: } 20. Qxe6+ Rf7 21. Qxd7 Rxd7 22. Ne2 $16 ) 20. e5 $5 { The idea was correct, but the way of executing it not quite precise.
+Die Idee war korrekt, die Ausf√1/4hrung aber nicht ganz so genau. } ( 20. f4 $1 { Since the e6 pawn cannot be moved, this way I get the desired position with e5/
+f4, but without allowing the additional option Bxe5. Da der e6-Bauer nicht
+bewegt werden kann, erhalte ich so die gew√1/4nschte Stellung mit e5/f4, aber
+ohne die zus√Ntzliche M√Pglichkeit Lxe5 zu geben. } ) 20... Bxe5 { Black's only
+chance. Die einzige schwarze Chance. } ( 20... Nc6 21. f4 Nxd4 22. Bxd4 $18 { [%cal Gh4h5,Gc1d1] is practically hopeless. White has no plus material, but
+will break through on the kingside and via the d-file. ist praktisch
+hoffnungslos. Weiss hat kein Mehrmaterial, wird aber am K√Pnigsfl√1/4gel und
+√1/4ber die d-Linie durchbrechen. } ) 21. h5 Bxd4 22. Bxd4 Nc6 23. Rcd1 $1 { With
+the rooks arriving, Black's king will be without a chance. Mit der Ankunft der
+T√1/4rme ist der schwarze K√Pnig chancenlos. } ( 23. Bxg6 $2 { shortly looked
+like an immediate win, but Black has a super defensive resource: sah kurz nach
+sofortigem Sieg aus, aber Schwarz hat eine super Verteidigungsressource: } 23... Nxd4 $1 24. Bxe8+ Qg7 $1 25. Qxg7+ Kxg7 26. cxd4 Rxe8 $132 { This endgame is
+completely unclear, since the bishop on d5 in connection with the queenside
+pawns can very well compensate for a rook. Dieses Endspiel ist total unklar,
+da der L√Nufer auf d5 in Verbindung mit den Damenfl√1/4gelbauern einen Turm
+sehr gut kompensieren kann. } ) 23... Nxd4 24. Rxd4 Qg7 25. hxg6 hxg6 26. Bxg6 Re7 27. Re1 { Here there were various concrete ways, however, there is no
+reason not to include the last piece into the game. Hier gab es verschiedenste
+konkrete Wege, es gibt aber keinen Grund, nicht auch noch die letzte Figur ins
+Spiel zu bringen. } ( 27. Qh5 Qh8 $5 28. Qg5 Qf6 { looked unclear, but here there
+is a very beautiful motif which I didn't see during the game: sah unklar aus,
+hier gibt es aber ein sehr sch√Pnes Motiv, welches ich w√Nhrend der Partie
+nicht sah: } 29. Bf7+ $1 Kxf7 30. Rf4 $18 ) 27... Bd5 28. Qg3 Rf6 29. Rg4 Qf8 30. Re5 Rg7 31. Rh5 Qe7 32. Rh6 { and Black is powerless against the doubling of
+rooks along the h-file, followed by checkmate. und Schwarz ist machtlos gegen
+die Verdoppelung auf der h-Linie gefolgt von Matt. } 1-0
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.27"]
+[Round "5"]
+[White "Anton Guijarro, David"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[Annotator "Anton Guijarro,David"]
+[BlackElo "2701"]
+[ECO "A13"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "107"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2703"]
+
+1. c4 { At this moment I was not having a good tournament (it ended even worse
+to me, I lost the last two rounds after this game) so I really needed a
+victory. } 1... Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 dxc4 { As usual Adams goes for one of
+the most solid lines. } 5. Qa4+ Bd7 { 5... c6 or 5...Nbd7 are the other main
+lines. Lately all these 3 moves have been equally popular. } 6. Qxc4 c5 7. Ne5 Qc8 8. Qd3 $5 { This move was introduced two years ago and forces Black to take
+on d7 with the knight. } ( 8. O-O Nc6 9. Nxd7 Qxd7 10. b3 { With a similar
+position as in the game, but Black gets the "ideal formation" earlier. } ) 8... Nc6 9. Nxd7 Nxd7 10. b3 Be7 ( 10... Nb4 11. Qc4 b5 12. Qe4 Rb8 13. Nc3 { with
+the idea of Qb1 and White keeps everything under control. } ) 11. Bb2 O-O 12. O-O Rd8 13. Nc3 Nf6 14. Qc2 Nb4 15. Qc1 Qd7 16. Rd1 Rac8 17. d3 { Until here we
+were following my game against Karjakin. The novelty by Adams doesn't change
+the position. } 17... h6 $146 ( 17... b6 18. Qd2 Nbd5 19. Ne4 h6 20. e3 Qb5 21. Bf1 Qe8 22. Qe2 Rd7 23. a3 { with a slight advantage for White, ending in a draw in 38
+moves. ¬1/2-¬1/2 (38) Anton Guijarro,D (2674)-Karjakin,S (2760) Douglas 2019 } ) 18. Rb1 $5 ( 18. a3 Nc6 19. e3 $6 Nd4 $1 { It was important to see this line.
+White would be in trouble here. } ) 18... b6 19. a3 Nc6 20. e3 { Here Black got
+the "ideal formation", all pieces seems to be in the right squares. The
+problem is that White can slowly improve the position. } 20... Nd5 21. Ne4 $1 { I
+think the position is much more interesting with knights and gives more
+practical winning chances. } 21... Qc7 22. Qc2 Qb8 23. Qe2 { This is the best square
+for the queen. Black can only wait. } 23... Ne5 24. Rbc1 $6 { It is not clear why the
+rook is better placed on c1. } ( 24. f4 $1 Nd7 25. Rf1 ( 25. g4 $16 ) ) 24... Nd7 25. f4 { I was not completely sure about this, which is why I didn't play it in
+the previous move. Now I have a weakness on e3 but if I wanted to win I had to
+go for it. } 25... a5 ( 25... b5 { was probably a better idea. } ) 26. g4 { The logical
+idea after f4. The black queen is far from the kingside so it is easier to
+attack there. } 26... N5f6 { During the game I calculated (wrongly) some fun lines as
+this one: } ( 26... e5 $6 27. g5 $2 ( 27. Ng3 $1 $18 ) 27... exf4 28. gxh6 g6 ( 28... Rc6 $1 $11 { I totally missed this move } ) 29. Rf1 $1 Nxe3 30. Qxe3 $1 fxe3 31. h7+ Kxh7 32. Rxf7+ { and White should win. } ) 27. Nd2 Nd5 28. Ne4 N5f6 29. Nc3 b5 { I thought that allowing g5 couldn't be good for Black but the computer
+says Adams' move is the best idea. } ( 29... Ne8 $5 ) 30. g5 hxg5 31. fxg5 Nh7 32. h4 Ne5 $2 { This seems to be the mistake according to the computer but I think
+it was already difficult to play with Black. 32...f6 and 32...c4 are the best
+alternatives but it is very difficult to understand why. } 33. Ne4 $1 c4 34. Bxe5 Qxe5 ( 34... cxd3 $2 35. Qb2 { protecting the bishop } ) 35. d4 Qc7 36. a4 { Now the black position is falling apart } 36... f5 37. gxf6 Nxf6 38. Nxf6+ Bxf6 39. axb5 c3 40. Qg4 Qd6 41. Bf1 $6 ( 41. Bc6 $1 { was the simplest way to win. } ) 41... c2 42. Rd2 Rc3 ( 42... a4 $1 { This was a very good practical resource
+that we both missed. } 43. bxa4 Rc3 44. Bd3 $4 ( 44. Qh3 $1 $18 ) 44... Qa3 $11 ) 43. Bd3 Rxb3 ( 43... a4 44. Rcxc2 ) 44. Rcxc2 { The rest is easy. } 44... Kf8 45. Rd1 Qb4 ( 45... Qa3 46. Rf1 Rxd3 47. Rc7 ) 46. Rc7 Rc3 47. b6 Rxc7 48. bxc7 Rc8 49. Qxe6 Rxc7 50. Rb1 Re7 51. Qc6 Qd2 52. Rb8+ Kf7 53. Qd5+ Re6 54. Qh5+ 1-0
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.27"]
+[Round "5"]
+[White "Edouard, Romain"]
+[Black "Naiditsch, Arkadij"]
+[Result "1/2-1/2"]
+[Annotator "Edouard,Romain"]
+[BlackElo "2626"]
+[ECO "E21"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "101"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "2649"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Qb3 a5 { A rare move. Usually Black
+prefers 5...c5, which is much more tricky. } 6. g3 Nc6 { I had never seen this
+move, but it seems quite dubious! I've played several games as White after 6...
+Bb7. } 7. Bg2 a4 8. Qc2 Ba6 ( 8... a3 9. O-O { seems to be the simplest path to
+an advantage. } ) 9. O-O $1 a3 ( 9... Bxc4 $2 10. Ne5 $1 { just doesn't work for
+Black: } 10... Nxe5 ( 10... Nxd4 $2 11. Qd1 Bxc3 $6 12. Nxc4 $18 ) 11. Bxa8 $1 Qxa8 12. dxe5 Ng4 13. Bf4 $16 { 1-0 (37) Kolev,A (2380)-Bednarski,J (2360) Primorsko 1987 } ) 10. Rd1 $5 ( 10. Nb5 $5 { would also be bette for White. } ) 10... axb2 11. Bxb2 Na5 12. Ne5 c6 ( 12... Bb7 13. d5 $16 ) 13. d5 $2 { A natural move - but actually
+giving Black some counterplay. } ( { Arkadij correctly pointed out after the game
+that after } 13. Ne4 Nxe4 14. Bxe4 { Black can almost resign. Indeed he doesn't
+have a move! } ) ( 13. c5 $1 { may be even simpler: } 13... bxc5 14. dxc5 Bxc5 15. Ne4 Nxe4 16. Bxe4 $18 ) 13... cxd5 14. cxd5 Rc8 15. dxe6 ( { The engine thinks it's
+better not to open the f-file right away, and prefers to start } 15. Rac1 O-O 16. Qa4 { with the idea of } 16... Bc5 17. Nd3 { with a small but very pleasant
+avantage. } ) 15... fxe6 16. Rac1 O-O 17. Qa4 Bc5 ( 17... Bxc3 $6 18. Bxc3 $1 Bxe2 19. Rd2 b5 20. Qd4 $16 ) 18. Nxd7 Nxd7 19. Rxd7 Qf6 20. Kh1 $1 { The best move.
+Whte is winning. } ( 20. Nd1 $2 Bxf2+ 21. Kh1 e5 $132 ) 20... Bxe2 ( 20... Qxf2 $2 21. Ne4 $18 ) ( 20... Bxf2 $2 21. Rf1 Bxe2 22. Rxf2 $1 Qxf2 23. Nxe2 $18 ) 21. Qc2 $2 ( 21. Qe4 $1 { would have put an end of the game. } ) 21... Bf3 22. Ne4 Bxg2+ 23. Kxg2 Qf3+ 24. Kg1 e5 $1 { The move I've missed. } ( 24... Bxf2+ $2 25. Nxf2 Rxc2 $2 26. Rxg7+ Kh8 27. Rxc2 $18 ) 25. Bxe5 Bxf2+ 26. Nxf2 Qxf2+ 27. Qxf2 Rxc1+ 28. Kg2 Rxf2+ 29. Kxf2 Rc2+ 30. Kg1 ( 30. Kf3 Rxh2 31. Rxg7+ Kf8 { should
+be an easy draw for Black. } ) 30... g6 31. a4 Nc4 32. Rg7+ Kf8 33. Rc7 Rc1+ 34. Kg2 Ne3+ 35. Kf3 Rxc7 36. Bxc7 Nd5 37. Be5 Ke7 38. Ke4 Ke6 39. g4 h5 $2 ( { Black should just have waited with } 39... Ne7 { since after } 40. Bd4 Nd5 { not
+only White has no useful waiting move (...Nc3+), while even Black has one (...
+Kd6). } ) 40. gxh5 gxh5 41. Bd4 Kd6 $2 ( 41... h4 42. h3 Kd6 43. Kf5 Ne7+ $1 ( { Funnily enough } 43... Kd7 { draws as well, as after } 44. Bf2 Nc3 45. Bxh4 Nxa4 { the black king is close enough to the h-pawn. } ) ( { The most natural move loses: } 43... Kc6 $4 44. Bf2 b5 45. axb5+ Kxb5 46. Bxh4 Ne3+ 47. Ke4 Nc4 48. Bg3 Kc6 49. Kf5 Kd7 50. h4 Ne3+ 51. Kf6 Ke8 52. Bd6 $1 Kd7 53. Bc5 Nd5+ 54. Ke5 Ne7 55. h5 Ng8 56. Ba3 Ke8 57. Ke6 { and White slowly wins. The black knight will end
+up dominated. } ) 44. Kf4 ( 44. Kg4 Nd5 45. Kxh4 Nf4 $11 ) 44... Nd5+ 45. Kg4 Ke6 { and the h-pawn is untouchale due to ...Nf4, unless White wants to captue it
+with his knight, but then Black has ...Nc3. Conclusion: the only thing Black
+should not do is to bring his king to the queenside! } ) 42. Kf5 Kc6 43. Kg5 b5 44. a5 $4 ( 44. axb5+ Kxb5 45. Kxh5 { was just winning! For example: } 45... Kc4 ( 45... Kc6 46. Kg6 Kd7 47. Kf7 Ne7 48. Bf2 Nf5 49. Kf6 Nd6 50. Be3 Ne4+ 51. Ke5 Nc3 52. Bd4 Ne2 53. Bc5 Ke8 54. Kf6 Nc3 55. Kg6 Nd5 56. h4 Nf4+ 57. Kf6 Nh5+ 58. Kg5 Ng7 59. Kg6 Ne6 60. Bd6 Kd7 61. Bb4 Ke8 62. Kf6 Nf4 63. Bd6 Nd5+ 64. Ke6 Ne7 65. h5 Ng8 66. Bc5 Nh6 67. Kf6 Kd7 68. Kg6 Ng4 69. Kg5 Ne5 70. Kf5 Nf7 71. Bb4 Nh8 72. h6 Nf7 73. h7 $18 ) 46. Be5 Ne3 47. Bf4 Ng2 48. Kg4 Kd3 49. h3 $3 Ke2 ( 49... Ke4 50. Bd2 $18 ) 50. Bb8 Kd3 51. Kg3 Ne3 52. Ba7 Nd5 53. Kf3 Ne7 54. Kf4 Ng6+ 55. Kf5 Nh4+ 56. Kg4 Ng6 57. Bb8 Ne7 58. Bd6 Nc6 59. h4 Ke4 60. Bg3 Ne7 61. Kg5 Ng8 62. Bb8 Ne7 63. Bc7 Nf5 64. h5 Ng7 65. h6 Ne6+ 66. Kf6 Nxc7 67. h7 $18 { There are computer lines. Could you do me a favor and not ask me to
+explain them? I think they would be impossible to reproduce over the board! } ) 44... b4 45. Kxh5 Kb5 46. Kg5 b3 ( 46... Nc3 $2 47. a6 Kxa6 48. h4 Kb5 49. h5 Kc4 50. h6 b3 ( 50... Kxd4 51. h7 b3 52. h8=Q+ Kd3 53. Qh2 $18 ) 51. Bxc3 Kxc3 52. h7 $18 ) ( 46... Kxa5 47. h4 Ne7 48. h5 Ng8 49. Kg6 b3 { is a draw as well. } ) 47. h4 Ne7 48. h5 Ng8 49. Bc3 Kc4 50. Bb2 Kb5 51. Bc3 ( 51. Kg6 Kxa5 52. Kg7 Ne7 53. Kf7 Nf5 { doesn't bring anything. } ) 1/2-1/2
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.27"]
+[Round "5"]
+[White "Keymer, Vincent"]
+[Black "Studer, Noel"]
+[Result "1-0"]
+[BlackElo "2580"]
+[ECO "E20"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "113"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2558"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 dxe4 7. fxe4 c5 8. d5 exd5 9. exd5 O-O 10. Be2 Re8 11. Nf3 Bg4 12. O-O Nbd7 13. h3 Bxf3 14. Rxf3 Bd6 15. Bg5 Qe7 16. Nb5 Bb8 17. Re3 Be5 18. d6 Qf8 19. Bg4 a6 20. Bxd7 Nxd7 21. Be7 Rxe7 22. dxe7 Qxe7 23. Nc7 Rd8 24. Nd5 Qg5 25. Kh1 Bd4 26. Re7 Ne5 27. Rxb7 h5 28. Qc1 Qh4 29. Ne7+ Kf8 30. Nf5 Qf6 31. Qf1 Qc6 32. Rb3 Qa4 33. Rg3 Bxb2 34. Rb1 Qxc4 35. Qf2 Bc1 36. Qe1 Bf4 37. Rd1 Re8 38. Rc3 Qe6 39. Qe4 Ng6 40. Qxe6 fxe6 41. Ne3 Rc8 42. Nc4 Rb8 43. g3 Bc7 44. Rd7 Bd8 45. Re3 Bf6 46. Rxe6 Kg8 47. Rb6 Re8 48. Rd5 h4 49. gxh4 Nf4 50. Rf5 Re4 51. Nd2 Re1+ 52. Kh2 Be5 53. Nf3 Bc7 54. Nxe1 Ne6+ 55. Re5 Nd4 56. Rxa6 Bxe5+ 57. Kg2 1-0
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.27"]
+[Round "5"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Harikrishna, Pentala"]
+[Result "0-1"]
+[BlackElo "2719"]
+[ECO "D12"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "99"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2719"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8. Qb3 Qc7 9. Bd2 Be7 10. O-O-O dxc4 11. Bxc4 b5 12. Be2 a6 13. Nxg6 hxg6 14. Ne4 Nxe4 15. fxe4 c5 16. Kb1 Nc6 17. Bc3 O-O 18. h4 c4 19. Qc2 b4 20. Be1 c3 21. h5 g5 22. e5 b3 23. Qxc3 bxa2+ 24. Ka1 Bb4 25. Qc2 Bxe1 26. h6 Rfc8 27. Rdxe1 Nb4 28. Qxc7 Rxc7 29. hxg7 Nc2+ 30. Kxa2 Nxe1 31. Rh8+ Kxg7 32. Rxa8 Nxg2 33. Rxa6 Nxe3 34. Ra3 Nf5 35. Rd3 Rd7 36. d5 Rxd5 37. Rxd5 exd5 38. b4 Nd4 39. Bg4 Nc6 40. b5 Nxe5 41. b6 Kf6 42. b7 Nc6 43. Ka3 Ke5 44. Ka4 Kd6 45. Kb5 Kc7 46. Kc5 Ne7 47. b8=Q+ Kxb8 48. Kd6 f5 49. Bd1 g4 50. Ke5 0-1
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.28"]
+[Round "6"]
+[White "Harikrishna, Pentala"]
+[Black "Edouard, Romain"]
+[Result "1-0"]
+[Annotator "Harikrishna,P"]
+[BlackElo "2649"]
+[ECO "B53"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "87"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2719"]
+
+{ The Biel Chess Masters was the first major over-the-board event after the
+Candidates got postponed due to corona crisis. This was my 5th time in Biel,
+and I have to say I had good memories every time I played here.  When I
+received the invitation for the Biel Chess Festival, I was quite happy to get
+a chance to play chess over the board after 5 months. The organisers took all
+the required mesasures like plexiglass for Chess960, Rapid and Classical.
+Since Blitz needs quick movement, it was decided to wear masks and play. I
+also take this opportunity to highlight the excellent job done by the Biel
+Chess Festival team who were disinfecting the chess boards, pieces and tables
+after every round. Especially during the Blitz session this was quite tough,
+so kudos to all of them! } 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 { I decided to
+play something less theoretical as Edouard is a well-known theoretician, so
+one can say I was not really prepared for this game. As we had played 33 games
+by now, I felt energy is quite important and as I expected it played an
+important role in the crucial part of the game. } 4... a6 { I don't like this move so
+much as it is commital. I prefer ...Nf6. I had some games in this opening
+against David Navara in a Rapid match in Prague 2018. } ( 4... Nf6 5. Be2 Nc6 6. Qe3 g6 7. O-O Bg7 8. h3 O-O 9. Rd1 { Many games have been played here already,
+and this is one of the crucial positions from this opening. } ) 5. Be2 Nc6 6. Qe3 Nf6 7. O-O g6 8. h3 Bg7 9. c4 { I decided to delay Rd1. As you can see in my
+game against Zaven Andriasian, I started with Rd1. } ( 9. Rd1 Nd7 10. c4 O-O 11. Nc3 Nde5 $2 12. Nxe5 Nxe5 13. Bd2 ( 13. c5 $1 $16 ) 13... Be6 14. b3 $14 { 1/2-1/
+2 (146) Harikrishna,P (2730)-Andriasian,Z (2604) chess.com INT 2019 } ) 9... O-O 10. Nc3 Rb8 $6 { This was a mysterious move to me. I really did not understand
+the point of it. } ( 10... Nd7 { I expected this and eventually would have gone } 11. Rd1 { transposing to my game against Zaven. } ) 11. Rd1 Nd7 12. Rb1 { Preparing b3. } ( 12. b3 $6 { I would like to play this move at some point, but
+here it fails due to } 12... Qb6 13. Qd2 Nc5 14. Bb2 Qa5 $13 ) 12... b6 $6 { I have a
+feeling that Edouard forgot that he had one game in this position against
+Maxim Lagarde where he played 12...Qb6. Good or bad, 12...Qb6 is preferable. } ( 12... Qb6 $5 13. Nd5 $1 ( 13. Qd2 Qb4 $1 { This is the improvement compared to
+what was played in the game Maxim Lagarde vs Edouard Romain. } ( 13... Nde5 $6 14. Nd5 $14 { 1-0 (31) Lagarde,M (2540)-Edouard,R (2634) Saint-Quentin 2015 } ) ) 13... Qxe3 14. Bxe3 $14 { I prefer White's position here, although it is
+unclear if he has big advantage. } ) 13. b3 Bb7 14. Bb2 Ba8 { It is hard to
+criticise this manoeuvre Bb7-a8. Black has quite a difficult position already. } 15. Nd5 ( 15. Rd2 $16 { [%cal Yb1d1] also gives White nice advantage as played
+by Ni Hua in 2006!! } ) 15... b5 { Black is following a wrong plan and after this
+move he has clear weakness. } ( 15... e6 16. Bxg7 Kxg7 17. Nc3 Qe7 18. Qd2 $16 ) 16. Bxg7 Kxg7 17. b4 $6 { Small inaccuracy from my side. It was much simpler to
+first take cxb5 and then play b4. } ( 17. cxb5 $1 axb5 18. b4 Nce5 ( 18... Nde5 19. Nxe5 Nxe5 20. Rbc1 $18 { [%cal Yd5c7,Yf2f4] } ) 19. Nd4 Bxd5 20. exd5 $18 { [%cal Yd4b5,Yf2f4] } ) 17... bxc4 18. Bxc4 a5 { I would prefer 18...Bb7 for Black.
+Edouard assessed the arising exchanges would give him some space to breathe. } ( 18... Bb7 19. Rbc1 Rc8 20. Bf1 $18 ) 19. b5 Nce5 20. Nxe5 Nxe5 21. Bf1 Nd7 22. Rbc1 { Making him take on d5. } 22... Bxd5 ( 22... Nc5 23. e5 Ne6 24. exd6 exd6 25. a4 $18 ) 23. exd5 Nc5 { I considered that this position is too close to winning for
+White even though material is equal. Black simply has no counterplay. White
+just needs to make sure that Black does not play ...e5 which will give him
+space. } 24. Rd4 { [%cal Yd4h4,Ye3h6] } 24... Kg8 25. Rh4 { [%cal Ye3h6] } 25... f5 ( 25... e5 26. Qh6 $18 ) 26. Rd4 { Making Black play f5 was quite important, in order to
+stop all the breaks in the center. } 26... a4 27. h4 { [%cal Yh4h5] } 27... Qe8 28. Rxc5 { This is the second part of the plan. Even though all white pieces are ideally
+placed, Black's knight on c5 is defending, and therefore I decided to
+sacrifice my rook for it. I had to calculate few variations. } 28... dxc5 29. Rxa4 Rxb5 { Looking like a desperado, in fact this is the best attempt to save the
+position for Black. } ( 29... Qf7 30. Bc4 $18 ) ( 29... Ra8 30. Rxa8 Qxa8 31. Bc4 $18 { [%cal Yd5d6] } ) 30. Ra7 Rf7 ( 30... Rb6 31. Bc4 Rb1+ 32. Kh2 Qb8+ 33. d6+ $18 ) 31. Bxb5 Qxb5 { Here I missed a simple win. } 32. Rxe7 ( 32. d6 $1 Qb1+ 33. Kh2 Qb8 34. Rd7 { This is the move that did not occur in my calculation. It
+would have been nice to finish the game this way. } ) ( 32. Ra8+ { I was
+calculating this move for a long time to figure out some mating ideas. } 32... Kg7 33. Qe5+ ( 33. h5 f4 34. Qc3+ Kh6 35. hxg6 Qb1+ $1 36. Kh2 Qxg6 { This is the
+position I thought despite White being considerably better gave some chances
+for Black to survive. } ) 33... Kh6 34. Qf4+ Kg7 35. h5 Qe2 $1 36. h6+ Kf6 37. Qc1 Qd3 { White has lost a large part of his advantage. Draw would be the most
+likely outcome. } ) 32... Rxe7 33. Qxe7 Qb1+ 34. Kh2 Qxa2 35. Qxc5 ( 35. Qe8+ Kg7 36. d6 Qxf2 37. Qe5+ Kf7 38. Qe7+ Kg8 39. d7 Qf4+ 40. Kg1 Qc1+ 41. Kf2 Qf4+ 42. Ke2 Qc4+ { I saw this variation and White cannot escape the perpetual check. } ) 35... Qd2 36. d6 Kf7 37. f3 $1 ( 37. Qc7+ $1 { GM Ian Rogers, who was commenting
+live from Sydney, found this winning continuation! In fact the simplest. } 37... Ke6 38. Qc8+ $18 ) ( 37. Qe5 $2 Qxf2 38. Qe7+ Kg8 39. d7 Qf4+ 40. Kg1 Qc1+ 41. Kf2 Qf4+ 42. Ke2 Qc4+ 43. Kd2 Qd4+ 44. Kc2 Qc4+ 45. Kb2 Qd4+ 46. Ka3 Qc3+ 47. Ka4 Qc4+ 48. Ka5 Qd5+ 49. Kb6 Qd4+ 50. Kc6 Qa4+ 51. Kd6 Qb4+ 52. Ke6 Qe4+ 53. Kf6 Qxh4+ $11 { Luckily I noticed this perpetual check and decided to play it
+simple!! } ) 37... Qe1 38. Qd4 Qe8 39. Qd5+ Qe6 40. Qxe6+ Kxe6 41. Kg3 Kxd6 42. Kf4 Ke6 43. Kg5 Kf7 44. Kh6 { A nice way to finish this game. With this victory
+I managed to reduce the gap to half a point and get closer to the tournament
+leader. } 1-0
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.28"]
+[Round "6"]
+[White "Keymer, Vincent"]
+[Black "Wojtaszek, Radoslaw"]
+[Result "1/2-1/2"]
+[BlackElo "2719"]
+[ECO "A17"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "80"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2558"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. e3 a6 5. b3 c5 6. Bb2 Nc6 7. cxd5 exd5 8. d4 Bg4 9. Be2 Bxf3 10. Bxf3 cxd4 11. exd4 Bb4 12. Qe2+ Qe7 13. O-O Qxe2 14. Nxe2 O-O-O 15. Nf4 Rhe8 16. Nd3 Bd6 17. Rac1 Kb8 18. Rfd1 Ne4 19. g3 Re7 20. h4 Nb4 21. Nxb4 Bxb4 22. Rc2 Rc8 23. Rxc8+ Kxc8 24. Rc1+ Rc7 25. Rxc7+ Kxc7 26. Kf1 Nd2+ 27. Ke2 Nxf3 28. Kxf3 Kd6 29. g4 Ke6 30. h5 g6 31. hxg6 fxg6 32. Bc1 Be7 33. Be3 h5 34. Kg3 Bd8 35. f3 Be7 36. Kh3 Bd8 37. Kg3 Be7 38. Kh3 Bd8 39. Kg3 Be7 40. Kh3 Bd8 1/2-1/2
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.28"]
+[Round "6"]
+[White "Naiditsch, Arkadij"]
+[Black "Anton Guijarro, David"]
+[Result "1-0"]
+[BlackElo "2703"]
+[ECO "B30"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "83"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2626"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 b6 7. d4 cxd4 8. Nxd4 Nxd4 9. Qxd4 Nc6 10. Qd2 Qc7 11. c4 Bd6 12. h3 Bb7 13. Nc3 Rd8 14. Qd1 O-O 15. Be3 Bc5 16. Rc1 Ne5 17. Na4 Bxe3 18. Rxe3 f5 19. Qd4 fxe4 20. Qxb6 Qxb6 21. Nxb6 d5 22. cxd5 exd5 23. Rb3 Rf7 24. Rc5 Re7 25. Rb4 d4 26. Nc4 Nxc4 27. Bxc4+ Kf8 28. Rf5+ Ke8 29. Bb3 Bc6 30. Rb6 Bd7 31. Rd5 e3 32. fxe3 dxe3 33. Rd1 a5 34. Bc4 Re5 35. Rb7 Rc8 36. Rdxd7 Rxc4 37. Rxg7 Rc1+ 38. Kh2 Kf8 39. Rxh7 Kg8 40. Rbg7+ Kf8 41. Rb7 Kg8 42. Rhe7 1-0
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.28"]
+[Round "6"]
+[White "Studer, Noel"]
+[Black "Adams, Michael"]
+[Result "0-1"]
+[Annotator "Adams,M"]
+[BlackElo "2701"]
+[ECO "D37"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "84"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2580"]
+
+{ This was actually our sixth over the board game of the year, which is quite a
+lot in 2020. Our first, which was drawn, in Gibraltar took place in a very
+different world. In our earlier encounters in Biel, I thought I was doing well
+in a Fischer Random game, attacking my opponent's king, which I happily
+thought was stuck in the centre. He then unexpectedly castled to safety,
+incidentally threatening mate in one, which was a decidely unpleasant surprise,
+how I won that game remains something of a mystery. I managed to score more
+convincingly in the Rapid, although my share of the points in the blitz was
+pretty fortuitous. Dies war tats√Nchlich unsere sechste Am-Brett-Partie des
+Jahres, was 2020 eine ganze Menge ist. Unsere erste in Gibraltar, die Remis
+ausging, fand in einer ganz anderen Welt statt. In unseren vorherigen
+Begegnungen in Biel meinte ich in einer Fischer-Random-Partie, den
+gegnerischen K√Pnig angreifend, welchen ich fr√Phlich im Zentrum festzuhalten
+glaubte, gut zu stehen. Dann rochierte er unversehens in Sicherheit, nebenbei
+mit einz√1/4giger Mattdrohung, was eine ausgesprochen unangenehme
+√oberraschung war; wie ich diese Partie gewann, bleibt ein gewisses Mysterium.
+√oberzeugender vermochte ich im Rapid zu punkten, wenngleich meine Ausbeute im
+Blitz ziemlich gl√1/4cklich war. } 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 ( { My
+opponent is something of an expert after Mein Gegner ist eine Art Experte nach } 4. g3 { as occurred in our Blitz game with the same colours, and I hadn't
+really considered him entering the QGD instead. He proved very well informed
+here too, however. , wie in unserer Blitzpartie mit den gleichen Farben
+geschehen, und ich hatte nicht wirklich erwogen, dass er stattdessen ins
+Angenommene Damengambit geht. Er erwies sich allerdings auch hier als ziemlich
+gut informiert. } ) 4... Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 c6 { After a bad loss
+the previous day, I settled for a solid line where I have some experience.
+Nach einer b√Psen Schlappe am Vortag w√Nhlte ich eine solide Variante, in der
+ich einige Erfahrung habe. } 8. h3 b6 9. b4 a5 10. a3 h6 11. Qc1 Bb7 12. Be2 Qc8 13. O-O Ba6 14. Qc2 Bxe2 ( { I had previously played Zuvor hatte ich } 14... Qb7 15. Rfc1 { in a game with Ding Liren. gespielt, in einer Partie mit Ding Liren. } ) 15. Qxe2 Qb7 16. Rfb1 { Noel chooses another square for the rook opposite my
+queen, facilitating b5 ideas. Noel w√Nhlt ein anderes Feld f√1/4r den Turm
+geben√1/4ber meiner Dame, was b5-Ideen erleichtert. } 16... Ra7 $5 ( { It's too early
+to release the tension: Es ist zu fr√1/4h, die Spannung aufzuheben: } 16... axb4 $6 17. axb4 Rxa1 $2 18. Rxa1 Ra8 19. Rxa8+ Qxa8 20. Qa2 Qb7 ( 20... Qxa2 $2 21. Nxa2 b5 22. Nd2 $1 $18 ) 21. Qa4 { leaves the c6 pawn very vulnerable. macht den
+c6-Bauern sehr anf√Nllig. } ) ( { The thematic Das thematische } 16... Rfc8 $5 { was
+worth considering. kam in Betracht. } ) 17. Qc2 ( { It seems more natural to
+transfer the knight to the queenside immediately, but this move is necessary
+as Nat√1/4rlicher wirkt es, den Springer sofort zum Damenfl√1/4gel zu
+transferieren, aber dieser Zug ist n√Ptig, da } 17. Nd2 $2 axb4 18. axb4 Rxa1 19. Rxa1 bxc5 20. bxc5 Qb2 { is rather embarrassing. My opponent's moves were
+coming sufficiently quickly, that I suspected he was still within preparation.
+ziemlich peinlich ist. Die Z√1/4ge meines Gegners kamen hinreichend schnell,
+so dass ich vermutete, er noch innerhalb der Vorbereitung war. } ) 17... axb4 ( 17... Rc8 $5 { was interesting, after war interessant, nach } 18. Nd2 { the
+surprising ist das √1/4berraschende } 18... Rca8 $1 { taking the delayed route to a8
+is now good as , was die verz√Pgerte Route nach a8 einschl√Ngt, nunmehr gut, da } 19. b5 $2 { now no longer works, as White's knight can't come to e5. nicht
+l√Nnger funktioniert, da der wei√Ye Springer nicht nach a5 kommen kann. } 19... bxc5 ) ( { I didn't like Mir missfiel } 17... Rfa8 18. b5 $1 a4 19. bxc6 ( 19. cxb6 Qxb6 20. Nxa4 Rxa4 21. bxc6 Qa6 22. cxd7 Nxd7 $11 ) 19... Qxc6 20. Ne5 $1 Nxe5 21. Rxb6 Qe8 22. Nb5 $1 ( 22. Bxe5 Nd7 ) 22... Nc6 23. Nxa7 Rxa7 24. Qd3 { looks more
+pleasant for White. wirkt angenehmer f√1/4r Wei√Y. } ) 18. axb4 Rfa8 19. Rxa7 Rxa7 ( 19... Qxa7 20. b5 { looked worrying. sah besorgniserregend aus. } ) 20. Qc1 ( { We both underestimated the dangers after Wir beide untersch√Ntzten die
+Gefahren nach } 20. b5 $1 { Black must walk a tightrope to survive. Es braucht
+einen Drahtseilakt, damit Schwarz √1/4berlebt. } 20... Ra5 ( 20... bxc5 $2 { is very
+dangerous: ist brandgef√Nhrlich: } 21. dxc5 Nxc5 22. Nd4 cxb5 23. Ncxb5 Ra6 24. Nd6 Qa7 25. N4b5 Qd7 26. Qxc5 Ne4 27. Qc8+ Qxc8 28. Nxc8 ) 21. bxc6 $1 ( 21. cxb6 cxb5 22. Nxb5 Ra6 $1 { holds. h√Nlt. } ) 21... Qxc6 22. cxb6 ( 22. Ne5 Nxe5 23. Rxb6 Qa8 24. Bxe5 Nd7 ) 22... Ra3 $1 23. b7 g5 $1 { Hardly an obvious way to
+play. Kaum eine offensichtliche Spielweise. } 24. b8=Q+ Nxb8 25. Rxb8+ Kg7 26. Be5 ( 26. Rb3 gxf4 $11 ) 26... Rxc3 27. Qa2 Bd6 { hangs on. klammert. } ) 20... Qa8 21. Nd2 Ne8 ( { I considered the thematic Ich erwogt das thematische } 21... b5 $5 { which makes sense with my good control of the a-file. I was worried by , was
+bei meiner guten Kontrolle √1/4ber die a-Linie Sinn ergibt. Sorge machte mir } 22. f3 { aiming to push the e-pawn, although this strategy has its drawbacks.
+mit der Absicht, den e-Bauern vorzusto√Yen, wenngleich diese Strategie ihre
+Schattenseiten hat. } ( { The best is Am besten ist } 22. Nb3 $1 Ne4 23. Ne2 $1 ( 23. Nxe4 dxe4 { with the knight heading to d5 is fine for Black. mit dem
+Springer nach d5 blickend ist prima f√1/4r Schwarz. } ) 23... Ra2 24. Kf1 { followed by f3 and Nc3 expelling the rook. nebst f3 und Sc3 mit Rauswurf des
+Turms. } ) 22... Nf8 23. e4 dxe4 24. fxe4 Ng6 25. Bh2 ( 25. Bd6 Bxd6 26. cxd6 e5 $1 ) 25... e5 $1 26. dxe5 Nd7 { With good dark square play. Mit gutem
+schwarzfeldrigen Spiel. } ) 22. Nb3 Nc7 ( { I thought Mir schien } 22... bxc5 23. bxc5 Bf6 24. e4 dxe4 25. Nxe4 Ra4 { too risky with my knight on the back rank,
+but the computer sees it as playable. zu riskant mit meinem Springer auf der
+Grundreihe, aber Computer sieht es als spielbar an. } ) 23. Bg3 ( { This move
+starts drifting a little, the trickier Dieser Zug geht ein bisschen in die
+falsche Richtung, das raffiniertere } 23. Ra1 $5 { requires Black to be alert.
+erfordert Wachsamkeit von Schwarz. } 23... bxc5 $1 { The right moment to swap these
+pawns. Der richtige Moment f√1/4r den Tausch dieser Bauern. } ( 23... Rxa1 24. Qxa1 Qxa1+ 25. Nxa1 { looks dangerous. sieht gef√Nhrlich aus. } ) 24. Rxa7 ( 24. Bxc7 c4 $1 $17 ) 24... Qxa7 25. bxc5 Bf6 { aiming for e5. mit der Absicht e5. } ) 23... bxc5 24. bxc5 Bf6 { If I can play e5 followed by Ne6, life will begin
+looking up. Wenn ich zu e5 nebst Se6 komme, macht das Leben langsam wieder
+Spa√Y. } 25. e4 ( 25. Bd6 Ne8 26. Bg3 { was a sensible bail out, but hardly fits
+with White's last move. war eine vern√1/4nftige Ausrede, passt aber kaum zu
+dem letzten wei√Yen Zug. } ) ( 25. Ra1 $6 Rxa1 26. Qxa1 Qxa1+ 27. Nxa1 Na6 $1 { creates some problems, the awkward position of the knights mean that the c5
+pawn cannot be easily saved. An unusual occurance with this pawn structure!
+schafft einige Probleme; die missliche Position der Springer bedeutet, dass
+der c5-Bauer nicht leicht zu retten ist. Ein ungew√Phnliches Vorkommnis bei
+dieser Bauernstruktur! } 28. Nb3 $1 Ndxc5 $1 29. Na5 $1 Nb4 30. Nxd5 $1 { The
+knight interplay succeeds in limiting the damage. Das Springerzwischenspiel
+schafft es, den Schaden in Grenzen zu halten. } ) 25... dxe4 26. Nxe4 $2 ( 26. Bxc7 $1 { removing my strong knight was necessary, mit Beseitigung meines
+starken Springers war n√Ptig, } 26... Rxc7 27. Nxe4 Ra7 { the computer regards as
+equal. I would still prefer to play Black here. erachtet Computer als
+ausgeglichen. Ich w√1/4rde hier trotzdem lieber Schwarz spielen. } ) 26... Nb5 $1 ( { Probably my opponent only considered Wahrscheinlich hatte mein Gegner nur } 26... Nd5 { although this is also fine for me, but by attacking the pawn on d4
+at once, Black claims a clear edge. It's also handy to block the b-line.
+erwogen, obwohl das auch prima f√1/4r mich ist, aber durch das sofortige
+Angreifen des Bauern auf d4 beansprucht Schwarz ein klares Plus. Es ist
+au√Yerdem n√1/4tzlich, die b-Linie zu blockieren. } ) 27. Qd2 ( 27. Qe3 Ra3 { followed by Qa4 is also bad. nebst Qa4 ist ebenfalls schlecht. } ) ( 27. Nxf6+ Nxf6 { and my other knight will head to d5. und mein anderer Springer wird nach
+d5 streben. } ) 27... Ra2 ( 27... Ra4 28. Nc3 $1 ) 28. Rb2 Rxb2 ( 28... Ra3 $5 { is
+good, but I saw a tactical chance. ist gut, aber ich sah eine taktische Chance. } ) 29. Qxb2 Qa4 30. Nc3 ( 30. Nxf6+ Nxf6 { looks too depressing. wirkt zu
+deprimierend. } ) 30... Qb4 $1 ( 30... Nxc3 31. Qxc3 { is less impressive. ist
+weniger beeindruckend. } ) 31. Nxb5 Nxc5 $1 { A neat way to exploit the pin. The
+second time in the game the pawn on c5 has been unexpectedly targeted. Ein
+eleganter Weg, die Fesselung auszunutzen. Zum zweiten Mal in der Partie wird
+unerwarteterweise der Bauer auf c5 aufs Korn genommen. } 32. Qa2 $1 Nxb3 33. Qa8+ Kh7 34. Qxc6 Qe1+ 35. Kh2 Nd2 { With little time it is very hard to defend
+with White here. Mit wenig Zeit ist es sehr schwer, sich hier mit Wei√Y zu
+verteidigen. } ( { The most practical Das sehr pragmatische } 35... Nxd4 $5 36. Nxd4 Bxd4 37. Qf3 f5 38. Qf4 { is probably holdable. ist wahrscheinlich haltbar. } ) 36. Qc2+ ( 36. h4 Qd1 $1 37. Qc7 Nf1+ 38. Kh3 Bxh4 $1 { leads to a dazzling
+finish. f√1/4hrt zu einem umwerfenden Finale. } 39. Bxh4 ( 39. Kxh4 g5+ 40. Kh3 Qh5+ ) ( 39. Qxf7 Bxg3 40. fxg3 Ne3 $19 ) 39... Qd3+ 40. g3 ( 40. Bg3 Qf5+ ) 40... Qf3 $19 ) 36... g6 37. h4 Qe2 ( 37... Nf1+ 38. Kh3 Nxg3 39. Kxg3 Kg7 $17 { is
+also awkward, but the game move gives real chances of a quick finish. ist auch
+misslich, aber der Partiezug gibt reelle Chancen auf ein schnelles Finale. } ) 38. Qc6 $2 ( { I thought Ich hielt } 38. Kh1 $5 { a good defence, and at least
+practically this is true, the winning f√1/4r eine gute Verteidigung, und
+zumindest praktisch gesehen stimmt das auch; das siegbringende } 38... e5 $1 { is far
+from obvious. liegt keineswegs auf der Hand. } ( 38... Qxb5 39. Qxd2 Qd5 $17 ) 39. dxe5 ( 39. d5 e4 40. Qc7 Qd1+ 41. Kh2 Nf1+ 42. Kh3 Qxd5 $19 ) ( 39. Qc7 Qd1+ 40. Kh2 Nf1+ 41. Kh3 Nxg3 42. Qxf7+ Bg7 43. Kxg3 Qd3+ $19 ) 39... Bxe5 40. Bxe5 Qe1+ 41. Kh2 Qxe5+ 42. Kh3 Qe6+ 43. Kh2 Nf1+ 44. Kg1 Qe1 45. Qc3 Nd2+ 46. Kh2 Qxf2 $19 ) ( 38. Kh3 $5 { is also a sensible move. ist auch ein vern√1/4nfiger Zug. } 38... h5 39. Qc1 $1 Qxb5 40. Qxd2 Qd7 ( 40... Qf5+ $5 41. Kh2 Qe4 ) 41. Kh2 Qxd4 { doesn't
+look easy for White with the pawn fixed on h4. sieht nicht leicht aus f√1/4r
+Wei√Y mit dem auf h4 festgelegten Bauern. } ) 38... h5 $1 39. Nc3 { It took me
+most of my remaining time to see this loses in a straightforward way. Ich
+brauchte den Gro√Yteil meiner verbleibenden Zeit, um zu sehen, dass dies auf
+direkte Weise verliert } ( 39. Qd7 { also falls short: scheitert ebenfalls: } 39... Bg7 $1 ( 39... Nf1+ { also works: funktioniert auch: } 40. Kg1 Qe1 41. Qxf7+ Bg7 42. Be5 Ne3+ 43. Kh2 Ng4+ 44. Kg3 ( 44. Kh3 Nxf2+ $19 ) 44... Nxe5 45. dxe5 Qxe5+ $19 ) 40. Qxf7 ( 40. Be5 Qxf2 $1 41. Bxg7 Nf3+ 42. Kh3 Qxh4# ) 40... Nf1+ 41. Kg1 Nxg3 42. fxg3 Qxb5 $19 ) ( 39. Qe8 Bg7 $1 ) 39... Nf1+ 40. Kg1 Qe1 41. Qe4 ( 41. Be5 Ne3+ 42. Kh2 Ng4+ $19 ) 41... Ne3+ $1 { This deadly discovered check brings
+down the curtain. Dieses t√Pdliche Abzugsschach l√Nsst den Vorhang fallen. } 42. Kh2 Ng4+ 0-1
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.29"]
+[Round "7"]
+[White "Adams, Michael"]
+[Black "Naiditsch, Arkadij"]
+[Result "1-0"]
+[BlackElo "2626"]
+[ECO "C55"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "171"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2701"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. a4 Na5 8. Ba2 c5 9. c3 Nc6 10. Na3 h6 11. Bd2 a6 12. h3 Rb8 13. Nc2 Be6 14. Bxe6 fxe6 15. d4 Qe8 16. dxc5 dxc5 17. a5 Rd8 18. Qe2 Nh5 19. Be3 Qg6 20. Ra4 Nf4 21. Bxf4 Rxf4 22. Rd1 Rxd1+ 23. Qxd1 Rxe4 24. Qd3 Rg4 25. Qxg6 Rxg6 26. Ne3 Rf6 27. Nd2 Rf8 28. Ne4 Rd8 29. Kf1 Kf7 30. Ke2 Ke8 31. Nd2 h5 32. Nb3 g6 33. Re4 Kf7 34. Ra4 Kf6 35. Nc4 Kf7 36. Nb6 Bf8 37. Nd2 Be7 38. Ne4 Ke8 39. Ra3 Kf8 40. Ra1 Ke8 41. Nc4 Rd5 42. g3 Rd8 43. Nb6 Kf7 44. Ra3 Ke8 45. h4 Kf7 46. Nc4 Rd7 47. Rb3 Kf8 48. Ke3 Kg7 49. Kf3 Kf8 50. Ke3 Kg7 51. Ng5 Kf6 52. Rb6 Kf5 53. Ne4 g5 54. g4+ hxg4 55. h5 Nd8 56. Ncd6+ Bxd6 57. Nxd6+ Kf6 58. Ne4+ Kg7 59. Nxc5 Rc7 60. Nxe6+ Nxe6 61. Rxe6 Rc5 62. Rg6+ Kh7 63. Rxg5 Rxa5 64. Rxg4 b5 65. Rg6 b4 66. cxb4 Rb5 67. Rg4 Kh6 68. Kd3 Kxh5 69. f3 Rb8 70. Kc4 Rc8+ 71. Kb3 Rf8 72. Ka4 Rxf3 73. Re4 Kg6 74. Rxe5 Kf6 75. Re8 Kf7 76. Ra8 Ke7 77. Ka5 Rb3 78. Rb8 Kd7 79. Kxa6 Kc7 80. Rb7+ Kc8 81. b5 Rxb2 82. Rh7 Rb1 83. Kb6 Rb2 84. Rh8+ Kd7 85. Rb8 Rb1 86. Ka7 1-0
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.29"]
+[Round "7"]
+[White "Anton Guijarro, David"]
+[Black "Harikrishna, Pentala"]
+[Result "0-1"]
+[Annotator "Harikrishna,P"]
+[BlackElo "2719"]
+[ECO "D45"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "66"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2703"]
+
+{ This is the last round from Biel masters. I was trailing by half a point
+behind the eventual champion Wojtaszek. I hoped to have an interesting game to
+keep some pressure on Radek. Therefore, I chose an opening which I don't play
+that often. } 1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. Nc3 e6 5. d4 Nbd7 { This position
+can be reached by various move orders. } 6. Qc2 ( 6. Bd3 dxc4 7. Bxc4 b5 8. Bb3 { My game against Vincent Keymer went this way where I had the white pieces. } ) 6... Bd6 7. b3 O-O 8. Be2 b6 ( 8... e5 9. cxd5 cxd5 10. Nb5 Bb4+ 11. Bd2 Bxd2+ 12. Nxd2 a6 13. dxe5 Nxe5 14. Nd4 Bg4 $11 { I would evaluate this position as
+equal. Considering the tournament situation I did not go for this. I drew a
+game against Peter Leko from this position in 2016. } ) 9. Bb2 Bb7 10. O-O Qe7 11. Rfe1 Rfe8 12. Rad1 Rad8 13. Bf1 c5 14. cxd5 exd5 15. Nb5 { This is the
+first new move for me. I was prepared until here. } ( 15. g3 { is played more
+often. There are hundreds of games in the database. } ) 15... Bb8 { More or less
+forced as Black cannot allow the exchange of his bishop for White's knight. } 16. dxc5 bxc5 17. g3 { This was the critical position. I felt that it was about
+equal. Black needs an active plan and, quite importantly, not to exchange too
+many pieces. } 17... Ng4 $5 ( 17... Ne4 18. Bg2 Ndf6 19. Nc3 Bc7 $11 { was also
+possible. White's play is a bit easier here, therefore I did not go for this. } ) 18. Bg2 ( 18. h3 Nge5 19. Nxe5 Bxe5 20. Bg2 h5 $13 ) 18... Ndf6 { [%cal Yf6e4]
+With the idea to play Ne4. } 19. Nc3 h5 { My idea was to expand the kingside and
+keep ...h4 ready whenever possible. I also wanted to provoke White to play h3. } 20. Ba3 Qc7 { To keep my chances I decided to play this way. } ( 20... Ne4 $5 21. Nxe4 dxe4 22. Nh4 Nxh2 23. Qxc5 Qxc5 24. Bxc5 g5 $11 ) 21. h3 d4 $1 ( 21... Ne5 22. Nxe5 Rxe5 23. Ne2 $16 { [%cal Yc2c5] } ) ( 21... Nxe3 $2 22. Rxe3 Rxe3 23. fxe3 d4 24. Ne2 $1 $18 ) 22. hxg4 $2 { This is already a mistake. White had to play
+exd4 and the position is about equal. } ( 22. exd4 $1 Rxe1+ 23. Nxe1 Bxg2 24. Kxg2 cxd4 ( 24... Ne3+ $5 25. fxe3 Qxg3+ 26. Kf1 Qxh3+ 27. Qg2 Qxe3 $13 ) 25. hxg4 dxc3 26. Rxd8+ Qxd8 27. Qxc3 hxg4 $11 ) 22... hxg4 ( 22... dxc3 { I
+considered this but wrongly judged that White's position is fine. } 23. gxh5 Qa5 24. Rxd8 Rxd8 25. Rd1 ( 25. Qc1 Rd2 $19 ) 25... Rxd1+ 26. Qxd1 Bxf3 27. Bxf3 Qxa3 28. Qd8+ Kh7 29. Qd3+ Kh6 30. Qxc3 Qxa2 $17 ) 23. Nb5 $4 ( 23. Nxd4 $1 Bxg2 24. Kxg2 cxd4 25. exd4 Rxe1 ( 25... Nd5 $2 { This doesnt work. } 26. Bc5 Ne3+ 27. Rxe3 Rxe3 28. fxe3 Qxg3+ 29. Kf1 Qxe3 30. Rd3 ) 26. Rxe1 Rxd4 $11 ) 23... Qa5 $19 24. Nfxd4 Bxg2 25. Qxc5 ( 25. Kxg2 cxd4 26. Nxd4 Qxa3 $19 ) 25... Bb7 { There is
+nothing wrong with this move, although Ba8 is winning immediately. } ( 25... Ba8 $1 26. Nc3 Qa6 27. Nf5 Rxd1 28. Rxd1 Be5 29. Ne7+ Kh8 30. Qxe5 Qxa3 $19 ) 26. Nf5 $4 ( 26. Nc3 Qa6 27. Qb5 { This is the difference to 25....Ba8!, as here the
+bishop on b7 is hanging. } 27... Qxb5 28. Ndxb5 ) 26... Rd5 27. Ne7+ Rxe7 28. Qxe7 Qxb5 29. e4 ( 29. Qf8+ Kh7 30. Qxb8 Rh5 $19 ( 30... Rxd1 31. Rxd1 Qc6 $19 ) ) 29... Rxd1 30. Rxd1 Bxe4 31. Re1 Ba8 { Here Anton resigned. Surprisingly White could
+continue here for a while. 31...Bb7 was the right move. In this game I played .
+..Ba8 when ...Bb7 was superior, and ...Ba8 when ...Bb7 was winning :) } 32. Qb4 Qxb4 ( 32... Qc6 33. Qxb8+ Kh7 34. Kf1 { With White's rook on d1, Black can
+simply capture it. Even here Black is winning, but he needs to play precisely. } ) 33. Bxb4 Bb7 0-1
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.29"]
+[Round "7"]
+[White "Edouard, Romain"]
+[Black "Keymer, Vincent"]
+[Result "1-0"]
+[Annotator "Edouard,Romain"]
+[BlackElo "2558"]
+[ECO "B51"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "75"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2649"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. Ba4 $5 { An interesting prophylactical move,
+which I discovered a few days before, when Michael Adams played it as White
+against myself! } 4... Nf6 ( { Another answer is } 4... a6 5. c4 e5 { but the position
+looks easier to play for White: } 6. Nc3 Ne7 7. O-O Ng6 8. a3 Be7 9. b4 O-O 10. d3 Nb6 11. Bc2 f5 12. bxc5 dxc5 13. h3 f4 14. Rb1 Nd7 15. Nd5 $16 { 1-0 (42)
+Vokhidov,S (2512)-Firouzja,A (2728) chess.com 2020 } ) 5. O-O { Here is the whole
+idea. If Black loses a tempo with ...a6, White plays with c4. Otherwise he
+plays c3 and d4. } ( 5. c4 $6 { doesn't convince me: } 5... Nxe4 6. O-O Nf6 7. d4 e6 8. Nc3 Be7 ( 8... cxd4 $1 9. Nxd4 Be7 10. Ndb5 O-O 11. Nxd6 Nb6 $132 ) 9. dxc5 dxc5 10. Bf4 O-O 11. Qe2 Qa5 12. Rad1 Nb6 13. Bc2 $44 { 1-0 (29) Eljanov,P (2672)
+-Korobov,A (2688) chess.com 2020 } ) 5... e6 { One of the possible moves. It
+isn't clear yet what is the best way for Black to play, e.g. } ( 5... a6 6. c4 $5 { was played many times by Nakamura as White. } 6... g6 ( 6... e5 7. d3 g6 8. Nc3 Bg7 9. a3 O-O 10. b4 h6 11. Rb1 Qc7 12. Bd2 b6 13. Ne1 Nb8 14. Nc2 $14 { ¬1/2-¬1/2 
+(40) Nakamura,H (2736)-Nepomniachtchi,I (2784) chess24.com 2020 } ) ( 6... Nxe4 $2 { is a mistake as after } 7. Re1 Nf6 8. d4 cxd4 9. Nxd4 { Black has difficulties
+to develop, e.g. } 9... e6 ( 9... g6 10. Bf4 $16 ) 10. Nc3 Be7 11. Rxe6 $1 $16 ) 7. Nc3 Bg7 8. h3 O-O 9. d3 Rb8 ( 9... Ne8 10. d4 $5 Nc7 11. Bxd7 cxd4 12. Bxc8 dxc3 13. Bxb7 Rb8 14. bxc3 Rxb7 15. Be3 Bxc3 16. Rc1 Bb2 17. Rb1 Ne6 18. e5 Qc7 19. exd6 exd6 20. Qd5 Rbb8 21. Rfd1 $14 { ¬1/2-¬1/2 (43) Nakamura,H (2754)-Vachier
+Lagrave,M (2779) Zagreb 2019 } ) 10. Rb1 Qa5 11. Bd2 Qc7 12. a3 e6 13. b4 b6 14. bxc5 bxc5 15. Qc2 Nb6 16. Bb3 Nfd7 17. Na4 Na8 18. Bc3 $14 { The a8-knight is
+pretty bad, and doesn't have a bright future: 1-0 (40) Nakamura,H (2736)-Duda,
+J (2753) chess24.com 2020. } ) ( 5... g6 6. Re1 Bg7 7. c3 O-O 8. d4 e5 9. dxe5 Nxe5 ( 9... dxe5 10. Bc2 Qe7 11. c4 Qe6 12. b3 Nb8 13. Nc3 Nc6 14. Nd5 $14 { ¬1/
+2-¬1/2 (48) Vokhidov,S (2512)-Sevian,S (2660) chess.com 2020 } ) 10. Nxe5 dxe5 11. Qe2 a6 12. c4 Nh5 13. g3 f5 14. Rd1 Qf6 15. exf5 Bxf5 16. Nc3 $16 { 1-0 (33)
+Nakamura,H (2736)-Fedoseev,V (2678) chess.com 2020 } ) ( 5... Nxe4 $6 { is too
+dangerous: that's the whole point of the line! } 6. Re1 Nf6 7. d4 e6 ( 7... cxd4 $6 8. Nxd4 d5 $2 9. Bf4 a6 10. Nc3 e6 11. Rxe6+ $1 fxe6 12. Nxe6 $18 { 1-0 (27)
+Adams,M (2701)-Edouard,R (2649) Biel 2020 (blitz) } ) 8. d5 e5 9. Nxe5 $1 Be7 ( 9... dxe5 $2 10. Rxe5+ Be7 11. d6 $18 ) 10. Nf3 ( 10. Nc4 $5 $14 ) 10... O-O 11. c4 a6 12. Nc3 b5 13. cxb5 Nb6 14. b3 a5 15. Bg5 h6 16. Bh4 Bb7 17. Qe2 Re8 $44 { 0-1 (36) Eljanov,P (2672)-Korobov,A (2688) chess.com 2020 } ) 6. Re1 ( 6. c4 Nxe4 7. d4 Be7 { is too slow for White, I believe. } ) 6... a6 ( 6... Be7 7. c3 a6 8. d4 b5 9. Bc2 Bb7 10. Nbd2 { is another subject, but generally Black prefers more
+forcing lines. } ) 7. c4 ( 7. c3 b5 8. Bc2 c4 { would now transpose into a
+well-known line, acknowledged as fine for Black. } ) 7... Be7 8. d4 ( { White has
+no time to exchange the light-squared bishop: } 8. Nc3 O-O 9. Bxd7 $6 Bxd7 10. d4 $6 cxd4 11. Nxd4 Rc8 $15 { 0-1 (34) Maze,S (2557)-Nepomniachtchi,I (2784)
+chess.com 2020 } ) 8... cxd4 9. Nxd4 O-O 10. Nc3 Qc7 11. Qe2 Ne5 12. Bb3 { Not
+the most pleasant move to play - but White isn't going to play b2-b3 if his
+bishop stands on a4. } 12... Bd7 13. f4 { Before Black puts a rook on c8. } 13... Ng6 ( { I do
+not think White has any advantage after the standard } 13... Nc6 $5 { - e.g. } 14. Be3 ( 14. Nxc6 Bxc6 $132 ) 14... Rfe8 $1 ( 14... Nxd4 15. Bxd4 Qa5 $6 16. e5 dxe5 17. fxe5 Bc5 18. Red1 Ne8 19. Qe3 $16 ) 15. Nxc6 Bxc6 16. Bf2 Qa5 17. a3 b5 18. Rac1 bxc4 19. Bxc4 d5 $11 ) ( { A fun alternative goes: } 13... Qb6 14. Be3 Neg4 15. Nf5 Bd8 $1 16. Bxb6 Bxb6+ 17. Ne3 Bxe3+ 18. Qxe3 Nxe3 19. Rxe3 Bc6 20. Rd1 Rfd8 $11 ) 14. Kh1 e5 15. Nf5 Bd8 { A very suspect position for Black, but it
+isn't that bad! } ( 15... Bxf5 $2 16. exf5 Nxf4 $2 17. Bxf4 exf4 18. Qxe7 $18 ) 16. fxe5 $1 ( { I strongly wanted to play } 16. Nxg7 Kxg7 17. f5 { but after } 17... Nf4 18. Qf3 Bc6 19. g3 N4h5 20. g4 Nf4 { I couldn't make it work for White. My
+final instrinct was probably right! } ) 16... Nxe5 17. Bf4 ( { I didn't like } 17. Bg5 { because of } 17... Be6 $13 ) 17... Re8 $6 ( 17... Rc8 { to attack the c4-pawn would
+have been better, e.g. } 18. Rad1 Bxf5 19. exf5 Nxc4 $13 ) 18. Rad1 Bxf5 19. exf5 Qc8 $2 { A nice bluff when Black's position was worse anyway! } 20. Qc2 $2 { Just
+failing to find the appropriate solution. } ( 20. Rxd6 $1 { did work: } 20... Qxf5 21. Bxe5 Bc7 ( 21... Ng4 22. Rd5 Bc7 23. Bg3 $1 $18 ) 22. c5 Bxd6 23. cxd6 Nd7 24. Nd5 Qxe5 25. Ne7+ Rxe7 26. dxe7 Qxe2 27. Rxe2 Re8 28. Bd5 $18 ) 20... Ba5 21. Ba4 $2 { A nonsense idea! } 21... Qxc4 22. Bg5 ( 22. Bxe8 Qxf4 { looked awful for White. } ) 22... Bxc3 23. bxc3 b5 $2 ( 23... Ned7 $1 $17 ) 24. Bb3 Qg4 25. Bxf6 gxf6 26. Qf2 { Now at least I do have compensation for equality. } 26... Kh8 27. Rxd6 Rad8 $4 ( 27... Qg5 { and Black was totally fine. } ) 28. Rxd8 Rxd8 29. Qb6 $1 { Suddenly
+White wins! Not too often you receive such presents! } 29... Re8 ( 29... Rd2 30. Qxf6+ Kg8 31. Bxf7+ $1 $18 ) ( 29... Rg8 30. Qxf6+ Rg7 31. Bd5 $1 $18 ) 30. Bxf7 $1 Qh4 ( 30... Rf8 31. Qxf6+ Qg7 32. Qxe5 $18 ) 31. g3 ( 31. Re4 $5 ) 31... Qh6 32. Bxe8 Ng4 33. Bh5 $5 Qxh5 34. Qb8+ Kg7 35. Re7+ Kh6 36. Qf8+ Kg5 37. Rg7+ Kxf5 38. Qc8+ 1-0
+
+[Event "Biel 53rd"]
+[Site "Biel"]
+[Date "2020.07.29"]
+[Round "7"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Studer, Noel"]
+[Result "1-0"]
+[Annotator "Wojtaszek,R"]
+[BlackElo "2580"]
+[ECO "E11"]
+[EventCategory "17"]
+[EventCountry "SUI"]
+[EventDate "2020.07.21"]
+[EventRounds "7"]
+[EventType "tourn"]
+[PlyCount "117"]
+[Source "ChessBase"]
+[SourceDate "2020.07.27"]
+[WhiteElo "2719"]
+
+{ The (almost) whole tournament in Biel was going my way. After strong scores
+in blitz and rapid I was in a sole lead with 3 rounds to go. My loss to Hari
+and draw against young and talented GM Vincent Keymer complicated things a lot
+and before the last round everything was open again. Still, I was in the
+driving seat and to win the tournament I needed "only" to win the last round.
+As typical must win situation as you can imagine! } 1. d4 Nf6 2. c4 e6 3. g3 { Before the round I was going through my opponent's games and realized that his
+opening knowledge was quite wide. Therefore I decided to play the Catalan
+which normally gives a long game with many pieces on the board. Honestly
+speaking I wasn't too satsfied with my choice, but didn't find anything which
+would suit better for this game. } 3... Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O Nbd7 { All this was expected and here I decided to choose a sideline which I
+had prepared years before this game, but still hadn't got a chance to use it. } 8. a4 $5 { Nowadays is much more fashionable to push the h-pawn every time you
+have a chance. Even in this calm Catalan line you can find some recent
+examples like Dubov-Ding, 2020, very cool game. The move chosen by me is
+definitely less spectacular, mainly directed against b6 plans. } 8... a5 9. Qc2 c6 10. Na3 { Not the perfect square for the knight but it has to go somewhere... } ( 10. Nc3 dxc4 ) 10... Bd6 $1 { A very strong move order, and deep inside already
+here I suspected that my choosen line was far from perfect. The point of Bd6
+is that Black wants to be flexible and keep both e5 and Ne4-f5 options open. } ( 10... b6 $6 11. cxd5 cxd5 12. Nb5 { showing the main point of the a4-a5
+inclusion. } ) ( 10... Ne4 $6 11. Be3 f5 12. Ne1 { and compared to game
+continuation, White didn't waste time for Rfd1. } ) 11. Rfd1 ( 11. Ne1 Re8 $1 12. Nd3 e5 13. cxd5 e4 $1 14. Nf4 cxd5 { and the game Ding-Anand 2020 has shown
+that Black is the side who is playing for an advantage here. } ) 11... Ne4 $1 12. Be3 f5 13. Qc1 $1 ( 13. Ne1 { is the obvious alternative but doesn't quite work
+in view of } 13... Ndf6 14. f3 ( 14. Nd3 Ng4 ) 14... Nxg3 15. hxg3 Bxg3 { with strong
+compensation. } ) 13... h6 14. Ne1 g5 ( 14... Ndf6 $6 { now is less effective: } 15. f3 Nxg3 16. hxg3 Bxg3 17. Bf4 $1 Nh5 18. Bxg3 Nxg3 19. Qd2 f4 20. Nd3 Rf5 21. Nc2 Qh4 22. e3 $1 { and there is no mate and an extra piece gives White an edge. } ) 15. f3 Nef6 16. Nd3 Qe7 17. Bf2 { Around here my preparation ended. I
+assesed this position as "interesting and playable" which certainly is correct,
+but what I underestimated is the fact that it is White who needs to be more
+precise in order not to end up under a dangerous attack. } 17... Qg7 18. Re1 $6 { I
+thought that I'm getting e4 but it turned out way too optimistic. Without e4
+it's just a waste of tempo. } ( { It's definitely not easy for White to recommend
+something convincing but after spending some time with engines here I (not
+surpringsly) agree with Leela that the best probably is } 18. Qc3 $1 { preparing
+the knight's manoeuvre } 18... h5 19. Nc2 g4 { with a double-edged position. } ( 19... h4 $2 20. gxh4 gxh4 21. Kh1 { [%cal Gd1g1] } ) ) ( 18. Nc2 $2 dxc4 ) 18... h5 19. cxd5 $2 { I spent 30 minutes on this move and, as often happens, played one of the
+worst in the position. } ( 19. e4 $6 dxe4 20. fxe4 Nxe4 21. Bxe4 fxe4 22. Rxe4 Qg6 { is the move I missed when playing Re1 after which White doesn't have
+anything better than } 23. c5 $1 Qxe4 24. Qxg5+ Kf7 25. Qxh5+ Kg7 26. Qg5+ $11 ) ( 19. Nb1 $5 { was my first choice and probably would be a decent one. } 19... e5 $5 { was the move which worried me during the game. } ( 19... Kh8 $5 20. Nd2 h4 21. e4 dxe4 22. fxe4 Ng4 23. e5 Be7 24. Qc3 { is another possible line which would
+lead to a position where it is not clear at all what's going on and who is
+playing for more. } ) 20. cxd5 Nxd5 21. e4 $1 fxe4 22. Rxe4 exd4 23. Bxd4 N7f6 { with a complicated position but White is not worse by any means. } 24. Re2 ( 24. Nc3 $5 Nxc3 25. bxc3 Bf5 26. Nf2 { is typical Stockfish line where a lot of
+calculation is required. } ) 24... h4 ( 24... Bf5 25. Nf2 Rae8 26. Rxe8 Rxe8 27. Nd2 $14 ) 25. g4 $1 { A very ugly move but it Black cannot exploit the f4 square. } 25... Nf4 26. Nxf4 Bxf4 27. Qc4+ Qf7 28. Nd2 $1 ) 19... exd5 $17 20. Nb1 { Black has
+now a wide choice of good moves and has a very comfortable position. Not
+something I wanted in a must-win situation... } 20... Kh8 ( { Computers at first are
+very optimistic about } 20... Ne4 $5 { but after } 21. fxe4 fxe4 22. Ne5 Nxe5 23. dxe5 Bxe5 24. Nc3 { White can still defend even though his moves are definitely
+not simple. } 24... h4 25. Rf1 $1 Be6 26. gxh4 $1 e3 27. Bxe3 d4 28. Bxg5 dxc3 29. bxc3 Bxc3 30. Rxf8+ Rxf8 31. Rb1 $13 ) ( { Another engine suggestion is } 20... Nb8 $5 { which might look deep at first but it makes perfect sense - opening c8
+bishop and intending Na6-b4 with the idea of exchanging the d3 knight - the
+only strong white piece. } 21. Nd2 Na6 22. Nb3 Nb4 23. Nbc5 h4 24. gxh4 f4 25. Ne5 g4 $13 ) 21. Nc3 h4 $1 ( { Black's position is so good that even after
+"normal" } 21... Nb6 { he is just better } ) 22. gxh4 gxh4 23. Kh1 h3 $1 24. Bxh3 $5 { Of course during the game I felt that it's very likely Black is much
+better here or even winning, but I didn't really have a choice as } ( 24. Bf1 Rg8 { felt rather sad. } ) 24... Qh7 25. Nf4 $1 { I think this move deserves an
+exclamation mark for the practical value.There are so many "good" moves for
+Black as it's easy to lose track. At least this is what I was counting on,
+especially with time slowly running out for my opponent. } 25... Nh5 $4 { One of two
+things I thought are possible to overlook. } ( { The main idea of course was that
+taking the piece is not as clear as one would think: } 25... Bxf4 $2 26. Qxf4 Qxh3 27. Bh4 $1 { and now it's actually Black who has to find a draw with } 27... Ng4 $1 28. Bg3 Ngf6 $11 ) ( 25... Rg8 26. Rg1 Rxg1+ 27. Kxg1 { but also here White is
+still very much in the game. } ) ( 25... Qh6 $1 { was the move which I was the
+most concerned over the board, and rightly so. } 26. Bg3 Rg8 $1 { and things are
+bad for White as } 27. Rg1 $4 { takes the important square from the king... } ( { White's best chance would be to wait with } 27. Rf1 { as after } 27... Bxf4 28. Qxf4 Qxh3 29. Rg1 { thanks to the dark squares White has some practical compensation. } ) 27... Rxg3 28. hxg3 Bxf4 29. Qxf4 Qxh3# ) 26. Ne6 $1 { And now is Black who
+has to be very careful already! } 26... Re8 $4 ( 26... Ng7 $1 27. Ng5 Qh5 28. Rg1 Nf6 29. Rg2 { would lead to double-edged position where everything would be
+possible. } ) 27. Ng5 Qg6 28. Nf7+ $1 $18 { The trick my opponent missed and
+which gives White a huge edge. } 28... Qxf7 29. Qh6+ Qh7 30. Qxd6 Ndf6 $6 ( 30... Ng7 { would be more stubborn but also here Black's position looks already lost } 31. Rg1 Re6 ( 31... Qxh3 $2 32. Rg6 { [%cal Gg6h6] } ) 32. Qg3 Nf8 33. e4 ) 31. Bh4 Qf7 32. Rg1 f4 33. Bxc8 { I remember spending quite some time on this move. My
+position looked so winning that I was looking for something more forcing. It
+wasn't there but fortunately a resulting endgame was rather hopeless for my
+opponent. } 33... Raxc8 34. Bxf6+ Qxf6 35. Qxf6+ Nxf6 36. Rg6 Nh7 37. Rag1 $6 ( 37. Rg4 $1 { would be more precise. Now Black cannot exchange rooks. } 37... Rf8 38. Rag1 Rce8 39. R1g2 { [%cal Gc3a2,Ga2c1,Gc1d3] } ) 37... Rc7 ( 37... Rg8 $5 38. Rxg8+ ( 38. Re6 Rxg1+ 39. Kxg1 Ng5 40. Re7 Rg8 41. Kf2 Rg7 42. Re5 ) 38... Rxg8 39. Rxg8+ Kxg8 40. Na2 Nf8 $1 { and with some Ne6 coming I might get some doubts, even though
+White is still winning after } 41. b4 $1 axb4 42. Nxb4 Ne6 43. Nc2 Kf7 44. Kg2 Kf6 45. a5 Kg5 46. Kf2 Kh4 47. e3 $18 ) 38. R1g4 $1 { Now it's over, I just need
+to bring my king to the centre and re-route my knight which is exactly what
+happened in the game. } 38... Rf7 39. Kg1 Nf8 40. Rh6+ Nh7 41. Kf2 Rg8 42. Rgh4 Rg5 43. Na2 $1 { [%cal Ga2c1,Gc1d3] } 43... Kg8 44. Nc1 Nf8 45. Nd3 Ng6 46. Rg4 Kg7 47. Rxg5 Kxh6 48. Rxg6+ $1 Kxg6 49. Ne5+ Kf6 50. Nxf7 Kxf7 51. e4 fxe3+ 52. Kxe3 b6 53. h4 c5 54. f4 Kg7 55. Kf3 Kg6 56. Kg4 Kg7 57. h5 Kf6 58. f5 cxd4 59. h6 { Big victory win for me as it allowed me to win Biel for the first time! } 1-0
+
+[Event "POL-ch"]
+[Site "Warsaw"]
+[Date "2020.07.21"]
+[Round "1.1"]
+[White "Bartel, Mateusz"]
+[Black "Teclaf, Pawel"]
+[Result "1/2-1/2"]
+[BlackElo "2451"]
+[ECO "A40"]
+[EventCountry "POL"]
+[EventDate "2020.07.21"]
+[EventRounds "4"]
+[EventType "k.o."]
+[PlyCount "60"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "2648"]
+
+1. c4 b6 2. Nc3 Bb7 3. d4 e6 4. e4 Bb4 5. f3 Ne7 6. Ne2 Nbc6 7. d5 Ne5 8. a3 Bxc3+ 9. Nxc3 O-O 10. f4 N5g6 11. h4 f5 12. h5 Nh8 13. g4 fxe4 14. Bg2 exd5 15. cxd5 Nf7 16. Be3 c6 17. dxc6 dxc6 18. Bxe4 Nd5 19. Bxd5 cxd5 20. Qd4 Rc8 21. O-O-O Rc4 22. Qxc4 dxc4 23. Rxd8 Rxd8 24. Rg1 Rd3 25. Bd2 Bf3 26. Nb5 a6 27. Nc7 Nd6 28. Nxa6 Ne4 29. Bb4 Nf6 30. Nc7 Rd7 1/2-1/2
+
+[Event "POL-ch"]
+[Site "Warsaw"]
+[Date "2020.07.21"]
+[Round "1.1"]
+[White "Gajewski, Grzegorz"]
+[Black "Janik, Igor"]
+[Result "1-0"]
+[BlackElo "2467"]
+[ECO "D27"]
+[EventCountry "POL"]
+[EventDate "2020.07.21"]
+[EventRounds "4"]
+[EventType "k.o."]
+[PlyCount "105"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "2618"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 a6 6. O-O b5 7. Be2 Bb7 8. b3 Nbd7 9. Bb2 c5 10. a4 b4 11. Nbd2 Be7 12. Nc4 O-O 13. Nfe5 cxd4 14. Bxd4 Nxe5 15. Bxe5 Nd5 16. Rc1 Bf6 17. Bxf6 gxf6 18. Bf3 Rb8 19. Bxd5 Qxd5 20. Qg4+ Kh8 21. f3 Rbd8 22. Qf4 Qg5 23. Qxg5 fxg5 24. Na5 Ba8 25. Rfd1 Kg7 26. Kf2 f5 27. Rc7+ Kg6 28. Rxd8 Rxd8 29. Nc4 Rd1 30. Ne5+ Kh6 31. Rc8 Bd5 32. Rg8 Kh5 33. Kg3 Bxb3 34. h4 f4+ 35. exf4 gxf4+ 36. Kxf4 Rd4+ 37. Kg3 Rxh4 38. Ng4 e5 39. Nf6+ Kh6 40. Kxh4 Bxg8 41. Nxg8+ Kg7 42. Ne7 Kf7 43. Nc6 b3 44. Nxe5+ Ke6 45. Nc4 Kd5 46. Na3 b2 47. f4 Kc5 48. f5 Kb4 49. Nb1 Kb3 50. f6 Kc2 51. Na3+ Kb3 52. f7 Kxa3 53. f8=Q+ 1-0
+
+[Event "POL-ch"]
+[Site "Warsaw"]
+[Date "2020.07.21"]
+[Round "1.1"]
+[White "Gumularz, Szymon"]
+[Black "Tomczak, Jacek"]
+[Result "0-1"]
+[BlackElo "2605"]
+[ECO "A28"]
+[EventCountry "POL"]
+[EventDate "2020.07.21"]
+[EventRounds "4"]
+[EventType "k.o."]
+[PlyCount "52"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "2513"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. a3 Bc5 7. b4 Bb6 8. Na4 Bd4 9. Nxd4 Nxd4 10. Nc3 a5 11. b5 a4 12. Nxa4 c6 13. Nc3 d5 14. bxc6 dxc4 15. dxc4 bxc6 16. Bd3 Nd7 17. O-O Nc5 18. Rb1 O-O 19. a4 Qa5 20. Ba3 Nxd3 21. Bxf8 Qxc3 22. Bd6 Be6 23. Qh5 Nf4 24. Qxe5 Nde2+ 25. Kh1 Bh3 26. Rg1 Nd3 0-1
+
+[Event "POL-ch"]
+[Site "Warsaw"]
+[Date "2020.07.21"]
+[Round "1.1"]
+[White "Heberla, Bartlomiej"]
+[Black "Nasuta, Grzegorz"]
+[Result "1-0"]
+[BlackElo "2558"]
+[ECO "D47"]
+[EventCountry "POL"]
+[EventDate "2020.07.21"]
+[EventRounds "4"]
+[EventType "k.o."]
+[PlyCount "103"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "2572"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Be2 Bb7 9. e4 b4 10. e5 bxc3 11. exf6 Nxf6 12. bxc3 Bd6 13. Rb1 Qc8 14. Bg5 Ne4 15. Qc2 c5 16. Bb5+ Kf8 17. Be3 cxd4 18. Bxd4 Bc5 19. Be2 Bxd4 20. Nxd4 Nc5 21. f3 g6 22. Qc1 Kg7 23. Qe3 Rd8 24. h4 h5 25. g4 e5 26. Qxe5+ Kg8 27. Kf1 hxg4 28. h5 Rd5 29. Qe3 Qe8 30. Qxe8+ Rxe8 31. hxg6 Rg5 32. gxf7+ Kxf7 33. Rh7+ Rg7 34. Bc4+ Kf6 35. Rxg7 Kxg7 36. Rb5 Rc8 37. Rxc5 Rxc5 38. Ne6+ Kf6 39. Nxc5 Bxf3 40. Be2 Bd5 41. c4 Bf7 42. Kf2 Ke5 43. Kg3 Kd4 44. Nb3+ Kc3 45. c5 Bd5 46. Bxg4 Kb4 47. Bd7 Bxb3 48. axb3 Kxc5 49. Kf4 Kd4 50. Ba4 a5 51. Kf5 Kd5 52. Kf6 1-0
+
+[Event "POL-ch"]
+[Site "Warsaw"]
+[Date "2020.07.21"]
+[Round "1.1"]
+[White "Krzyzanowski, Marcin"]
+[Black "Krasenkow, Michal"]
+[Result "0-1"]
+[BlackElo "2602"]
+[ECO "D02"]
+[EventCountry "POL"]
+[EventDate "2020.07.21"]
+[EventRounds "4"]
+[EventType "k.o."]
+[PlyCount "80"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "2521"]
+
+1. d4 d5 2. Nf3 c6 3. Bf4 Bf5 4. e3 Qb6 5. Qc1 e6 6. Be2 Nf6 7. h3 c5 8. O-O Nc6 9. dxc5 Bxc5 10. c4 d4 11. exd4 Nxd4 12. Nxd4 Bxd4 13. Nc3 Ne4 14. Nd1 O-O 15. Be3 e5 16. Re1 Qa5 17. Rf1 Rac8 18. a3 Qa4 19. Bxd4 exd4 20. b4 Qd7 21. Bd3 Ng3 22. fxg3 Bxd3 23. Rf4 Bxc4 24. Qd2 d3 25. Ne3 Be6 26. Kh2 Rfd8 27. Rd1 Qa4 28. Qb2 Qb3 29. Qxb3 Bxb3 30. Rd2 Rc3 31. b5 g6 32. g4 Re8 33. Rf3 Re5 34. g5 Rxg5 35. Ng4 Rxb5 36. Nf6+ Kg7 37. Ne8+ Kf8 38. Nd6 Re5 39. Rdxd3 Rxd3 40. Rxd3 Bd5 0-1
+
+[Event "POL-ch"]
+[Site "Warsaw"]
+[Date "2020.07.21"]
+[Round "1.1"]
+[White "Olszewski, Michal"]
+[Black "Dziuba, Marcin"]
+[Result "0-1"]
+[BlackElo "2585"]
+[ECO "B23"]
+[EventCountry "POL"]
+[EventDate "2020.07.21"]
+[EventRounds "4"]
+[EventType "k.o."]
+[PlyCount "52"]
+[Source "ChessBase"]
+[SourceDate "2020.09.30"]
+[WhiteElo "2551"]
+
+1. e4 c5 2. Ne2 Nc6 3. Nbc3 Nd4 4. d3 g6 5. Be3 Bg7 6. Qd2 d6 7. Nd1 e5 8. c3 Nc6 9. d4 Nf6 10. f3 cxd4 11. cxd4 d5 12. dxe5 Nxe5 13. Bd4 Nc6 14. e5 Nd7 15. f4 Nxd4 16. Nxd4 O-O 17. Nc3 Nc5 18. b4 Ne4 19. Nxe4 dxe4 20. Bc4 Qb6 21. Nb5 Be6 22. Bxe6 fxe6 23. a4 Rad8 24. Qf2 e3 25. Qe2 a6 26. Nc3 Rxf4 0-1
+

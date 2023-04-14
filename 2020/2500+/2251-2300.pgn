@@ -1,0 +1,1221 @@
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.25"]
+[Round "12"]
+[White "Anand, Viswanathan"]
+[Black "Kovalev, Vladislav"]
+[Result "1/2-1/2"]
+[BlackElo "2660"]
+[ECO "C61"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "39"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2758"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bc5 6. d3 c6 7. Ba4 d6 8. Nd2 Nf6 9. f4 O-O 10. Bb3 d5 11. Kh1 Re8 12. e5 Ng4 13. Nf3 f6 14. h3 Nh6 15. c3 Nf5 16. Qe1 fxe5 17. fxe5 Rf8 18. Bg5 Be7 19. Bxe7 Qxe7 20. Nxd4 1/2-1/2
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.25"]
+[Round "12"]
+[White "Carlsen, Magnus"]
+[Black "Artemiev, Vladislav"]
+[Result "1/2-1/2"]
+[BlackElo "2731"]
+[ECO "D85"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "73"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2872"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8. Rc1 Qa5 9. Qd2 O-O 10. Nf3 Rd8 11. Be2 cxd4 12. cxd4 Qxd2+ 13. Bxd2 Na6 14. Be3 Bg4 15. Ne5 Bxe2 16. Kxe2 f5 17. Kf3 Rac8 18. h4 Nb4 19. exf5 gxf5 20. Rxc8 Rxc8 21. Rb1 a5 22. a3 Nd5 23. Rb5 e6 24. Rxa5 Bxe5 25. dxe5 Rc3 26. Ke2 Nxe3 27. fxe3 Rb3 28. Kf3 Kg7 29. g3 Kg6 30. a4 Rb4 31. Ra7 h6 32. Ra8 Re4 33. Ra5 Rb4 34. Ra7 Kh5 35. Ra8 Re4 36. Ra5 Rc4 37. Ra7 1/2-1/2
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.25"]
+[Round "12"]
+[White "Caruana, Fabiano"]
+[Black "Duda, Jan Krzysztof"]
+[Result "1-0"]
+[BlackElo "2758"]
+[ECO "E06"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "98"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2822"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qa4 c6 8. Qxc4 b5 9. Qb3 Bb7 10. Rd1 Nbd7 11. Ne5 Nxe5 12. dxe5 Nd7 13. Bf4 Qc7 14. Nc3 Nc5 15. Qc2 b4 16. Nb1 Ba6 17. Bf3 Rac8 18. a3 Rb8 19. axb4 Rxb4 20. Be3 Qb7 21. Nd2 Rxb2 22. Qc3 Rb5 23. Ra3 Qb8 24. Rda1 Bb7 25. Rxa7 Nd7 26. Nc4 Rd8 27. Be4 c5 28. Qc2 h6 29. Bd2 Nf8 30. Bd3 Rd7 31. Nd6 Rb6 32. Qxc5 Bd5 33. Rxd7 Nxd7 34. Qc8+ Nf8 35. Qxb8 Rxb8 36. f4 Bd8 37. Kf2 Nd7 38. Be3 g5 39. Bd4 Rb4 40. Ke3 gxf4+ 41. gxf4 Kf8 42. Bb5 Nf6 43. exf6 Rxd4 44. Rc1 Bxf6 45. Rc7 Bh8 46. Rc8+ Ke7 47. Rxh8 Rb4 48. Nc8+ Kf6 49. Bd3 Be4 1-0
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.25"]
+[Round "12"]
+[White "Dubov, Daniil"]
+[Black "Yu, Yangyi"]
+[Result "1-0"]
+[BlackElo "2726"]
+[ECO "D43"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "61"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2683"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Be2 Bb4 9. O-O O-O 10. Qc2 Bxc3 11. Qxc3 dxc4 12. Rfd1 c5 13. Bxc4 a6 14. Qa3 b6 15. Bb5 Rd8 16. Bc6 Ra7 17. dxc5 Nxc5 18. Qb4 Nd7 19. Qd6 Rf8 20. Rd2 Nc5 21. Rad1 Qe7 22. b4 Qxd6 23. Rxd6 Nb7 24. R6d2 f6 25. h4 h5 26. Be4 e5 27. Rc1 Ra8 28. Rc6 b5 29. Rb6 Kh8 30. Rc2 Rf7 31. Rxa6 1-0
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.25"]
+[Round "12"]
+[White "Van Foreest, Jorden"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[BlackElo "2765"]
+[ECO "C47"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "77"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2644"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8. exd5 O-O 9. O-O cxd5 10. h3 c6 11. Qf3 Rb8 12. Bf4 Bd6 13. b3 a5 14. Rfe1 Be6 15. Na4 Qc7 16. Bg5 Nd7 17. Qh5 g6 18. Qe2 Bh2+ 19. Kh1 Bf4 20. Bxf4 Qxf4 21. Rad1 Rfe8 22. Qe3 Qxe3 23. Rxe3 Kf8 24. Kh2 c5 25. Ba6 Red8 26. Re2 d4 27. c3 dxc3 28. Nxc3 Nb6 29. Rxd8+ Rxd8 30. Ne4 c4 31. Ng5 cxb3 32. Nxe6+ fxe6 33. axb3 Ke7 34. Rc2 Rd4 35. Rc5 Rd5 36. Rc6 Rd6 37. Rc5 Rd5 38. Rc6 Rd6 39. Rc5 1/2-1/2
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.25"]
+[Round "12"]
+[White "Vitiugov, Nikita"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[BlackElo "2723"]
+[ECO "C78"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "66"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2747"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 b5 7. Bb3 d6 8. d4 Bb6 9. Be3 O-O 10. Nbd2 h6 11. h3 Bb7 12. Re1 Re8 13. d5 Ne7 14. Bxb6 cxb6 15. a4 bxa4 16. Bxa4 b5 17. Bc2 Ng6 18. Bd3 Nh5 19. b4 Ngf4 20. Bf1 f5 21. exf5 Nf6 22. c4 bxc4 23. Nxc4 N4xd5 24. Na5 Qb6 25. Nxb7 Qxb7 26. Bc4 Kh8 27. Bxd5 Nxd5 28. Ra5 Nxb4 29. Qxd6 Rad8 30. Qg6 Nd3 31. Nxe5 Nxe1 32. Nf7+ Kg8 33. Nxd8 Qxg2+ 1/2-1/2
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.25"]
+[Round "12"]
+[White "Xiong, Jeffery"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[BlackElo "2768"]
+[ECO "B30"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "214"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2712"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 d6 5. d3 Be7 6. Nd2 Nf6 7. Nf1 Bg4 8. f3 Be6 9. Ne3 O-O 10. O-O Rb8 11. a4 Nb4 12. Bd2 Nh5 13. Ned5 Nxd5 14. Bxd5 Bg5 15. g3 Bxd2 16. Qxd2 Nf6 17. Bxe6 fxe6 18. f4 exf4 19. Qxf4 Qb6 20. Nb5 Rbd8 21. e5 dxe5 22. Qxe5 c4+ 23. d4 Rd5 24. Qe3 e5 25. Qe2 Rc8 26. c3 a6 27. Na3 exd4 28. Nxc4 Qc6 29. cxd4 Qxc4 30. Qe6+ Kh8 31. Rxf6 Qxd4+ 32. Rf2 Rf8 33. Rf1 Rdf5 34. Qe2 R5f6 35. Qc2 Kg8 36. a5 h6 37. Qb3+ R8f7 38. Qc2 Rf5 39. Kg2 Rxf2+ 40. Rxf2 Rxf2+ 41. Qxf2 Qd5+ 42. Qf3 Qd2+ 43. Kh3 Qxb2 44. Qd5+ Kh7 45. Kg4 Qb4+ 46. Kf3 Qc3+ 47. Ke4 Qe1+ 48. Kd4 Qd2+ 49. Ke5 Qg5+ 50. Kd4 Qd2+ 51. Ke5 Qb2+ 52. Qd4 Qa3 53. Qb6 Qe7+ 54. Kd5 Kg8 55. Qe6+ Kf8 56. Qc8+ Kf7 57. h4 g6 58. g4 Kg7 59. Qe6 Qd8+ 60. Kc4 Qc7+ 61. Kd3 Qg3+ 62. Ke2 Qg2+ 63. Ke3 Qg1+ 64. Ke2 Qg2+ 65. Ke3 Qg3+ 66. Ke2 Qf4 67. Qe7+ Qf7 68. Qe5+ Kg8 69. Qb8+ Kh7 70. Qd6 Qc4+ 71. Ke3 Qc3+ 72. Ke2 Qc8 73. Ke3 Qe8+ 74. Kd4 Qa4+ 75. Ke3 Qb3+ 76. Kd4 Qb2+ 77. Kd3 Qb1+ 78. Ke3 Qe1+ 79. Kf3 Qh1+ 80. Ke3 Qh3+ 81. Kd2 Qg2+ 82. Ke3 Qg1+ 83. Kf3 Qh1+ 84. Ke3 Qc1+ 85. Ke2 Qc2+ 86. Ke3 Qc3+ 87. Ke2 Qc8 88. Ke3 Kg7 89. Qe5+ Kf7 90. Qf4+ Ke7 91. Qb4+ Kf7 92. Qf4+ Kg8 93. Qd6 Qc3+ 94. Kf4 Qc1+ 95. Ke4 Qe1+ 96. Kf3 Qh1+ 97. Ke3 Qh3+ 98. Kd2 Qg2+ 99. Ke3 Qg1+ 100. Kf3 Qf1+ 101. Ke3 Qe1+ 102. Kf3 Qc3+ 103. Kf4 Qc4+ 104. Ke3 Qc1+ 105. Ke4 Qb1+ 106. Ke3 Qb3+ 107. Ke4 Qa4+ 1/2-1/2
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.26"]
+[Round "13"]
+[White "Artemiev, Vladislav"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[BlackElo "2822"]
+[ECO "A13"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "132"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2731"]
+
+1. Nf3 d5 2. g3 Nd7 3. c4 dxc4 4. Qa4 a6 5. Qxc4 b5 6. Qc2 Bb7 7. Bg2 Ngf6 8. O-O e6 9. d3 Be7 10. a4 c5 11. Nc3 Qb6 12. axb5 axb5 13. Rxa8+ Bxa8 14. Bg5 O-O 15. Ra1 h6 16. Bxf6 Bxf6 17. Nd2 Bxg2 18. Kxg2 Rc8 19. Qb3 Rb8 20. Nce4 Be7 21. Kg1 f5 22. Nc3 Ne5 23. h3 h5 24. Nf3 Nxf3+ 25. exf3 Bf6 26. Re1 Kf7 27. Ne2 g5 28. g4 hxg4 29. hxg4 fxg4 30. fxg4 Qd6 31. Ng3 Qd5 32. Qc2 Bd4 33. Qe2 Rh8 34. Ne4 Qe5 35. Qf3+ Kg7 36. b3 Rf8 37. Qe2 Qd5 38. Rf1 Kg6 39. Qd1 c4 40. bxc4 bxc4 41. Kg2 Ba7 42. f3 cxd3 43. Qa1 Be3 44. Rd1 Qc4 45. Qc3 Qa2+ 46. Nd2 Qc2 47. Qe5 Bxd2 48. Qxe6+ Kg7 49. Qe7+ Rf7 50. Qe5+ Kf8 51. Qb8+ Ke7 52. Qe5+ Kd8 53. Qb8+ Kd7 54. Qb7+ Kd6 55. Qb6+ Ke5 56. Qb5+ Kd4 57. Qb6+ Kc4 58. Qe6+ Kc3 59. Qe5+ Kb3 60. Qd5+ Kb2 61. Qb5+ Bb4+ 62. Kg3 Qxd1 63. Qxb4+ Qb3 64. Qd2+ Kb1 65. Qe1+ Kc2 66. Qf2+ d2 0-1
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.26"]
+[Round "13"]
+[White "Duda, Jan Krzysztof"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[BlackElo "2758"]
+[ECO "A18"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "45"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2758"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. Nf3 b6 8. d4 Bb7 9. Bd3 Bxf3 10. Qxf3 Qxf3 11. gxf3 Nd7 12. Rb1 Bd6 13. Be4 Rd8 14. f4 c5 15. Ke2 Rc8 16. Bd3 f5 17. a4 Kf7 18. Be3 Rc7 19. Rb5 Be7 20. a5 Rd8 21. Ra1 g6 22. axb6 axb6 23. Ra4 1/2-1/2
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.26"]
+[Round "13"]
+[White "Firouzja, Alireza"]
+[Black "Dubov, Daniil"]
+[Result "1/2-1/2"]
+[BlackElo "2683"]
+[ECO "D02"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "31"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2723"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 Nc6 5. Nbd2 Nh5 6. dxc5 Nxf4 7. exf4 g6 8. c3 Bg7 9. Bb5 O-O 10. O-O d4 11. Bxc6 dxc3 12. Be4 cxd2 13. Qxd2 Qxd2 14. Nxd2 Bxb2 15. Rab1 Ba3 16. c6 1/2-1/2
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.26"]
+[Round "13"]
+[White "Giri, Anish"]
+[Black "Van Foreest, Jorden"]
+[Result "1/2-1/2"]
+[Annotator "Giri,A"]
+[BlackElo "2644"]
+[ECO "D10"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "109"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2768"]
+
+1. d4 d5 2. c4 c6 { I didn't know what to expect from Jorden, I mean I did, but
+he also did that I did, so I knew I didn't. } 3. cxd5 cxd5 4. Bg5 { This obscure
+line screams surprise weapon. } 4... Nc6 5. Nc3 Nf6 { A very solid way to handle it,
+I expected something far more forcing from Jorden. } 6. Bxf6 gxf6 7. e3 { Now we
+have a position that resembles some sort of a trompowsky. Initially I was
+thrilled with the fact that we got a playable position where I even seem to
+have a small edge, but I soon realized that it wasn't that easy to play for
+white, once the initial opening moves are completed. } 7... e6 8. Bd3 Bd6 9. Nf3 ( 9. Nge2 { felt more natural, but then I realized my knight's only future is on f4,
+where it will be captured, so I decided to place it on f3, having in mind some
+abstract maneuvre of î ..h4-g2, î ..e2 and only then î ..f4. } ) 9... f5 10. g3 Bd7 11. O-O Rc8 12. Rc1 O-O { So far all moves seemed too natural not to be
+made and here I had to choose a plan. The idea of î ..h4-î ..g2 and î ..e2
+started seeming a little too far fetched, as Black would start bothering me
+somewhat on the queenside with moves like î ..b4 and î Bb6 and so on. I
+decided for now to give Black a move and see what happens. } 13. a3 ( 13. Ne2 { was nevertheless possible. } 13... Qb6 ( 13... Nb4 14. Rxc8 Qxc8 15. Bb1 Bb5 { was
+something I was slightly hesitant to allow, but already two moves in, I
+realized a position like the one White gets after eventually î Pxe2 is a dream
+for White here. } ) 14. Qd2 Qa5 15. Nc3 { would trick Black into making a weird
+move î Ba5. } ) 13... Kh8 { Clever waiting move. I was hoping for î ..a5, which I
+would meet with î ..d2. Already here I started getting tempted with allowing
+this î ..c4 business, but obviously here it would be a much better version for
+me than what I eventually got in the game. } ( 13... Na5 14. Nd2 ) 14. Qe2 { This
+I already played after some serious hesitation. The alternatives didn't seem
+to give me anything clear either and so I decided to keep the tension and at
+the same time I am once again ready to meet î ..a5 with î ..d2. } ( 14. b4 a5 15. b5 Ne7 16. Qb3 b6 { didn't look like much, upon closer look. } ) ( 14. Na4 $2 Nxd4 $1 { is what them kids live for. } ) ( 14. Ne2 { would allow } 14... Qb6 ) 14... Rg8 15. Kh1 ( { For fun I like to sometimes consider some suicidal lines, here is one. } 15. b4 f4 $5 16. e4 $2 { positionally the right way to meet the f4 push, but there
+is a minor tactical issue here- } 16... fxg3 17. fxg3 Bxg3 $1 18. hxg3 Rxg3+ 19. Kf2 Nxd4 $1 20. Nxd4 Qh4 21. Nf3 { and here ...î Rxf3+ is obviously an issue, but
+even more painful is } 21... Rg2+ $1 ) 15... Na5 { A clever idea to do this after
+including î Rg8 î Nh1, as there will now be î Bc6+ further down the line. } 16. Nd2 { I sort of realized that what I am about to do with my position is very
+much uncalled for, but on the other hand, I saw some potential for counterplay
+against Black king in some lines and decided that there will be chances. Also,
+I didn't fancy any of the alternatives. } ( { I considered bailing out with } 16. Nb5 { but I didn't think I had anything after both ...î Pxb5 as well as the
+simple retreat } 16... Bb8 $1 ( 16... Bxb5 17. Bxb5 a6 18. Bd3 b5 $6 19. Rxc8 Qxc8 20. a4 $1 ) 17. Rxc8 Qxc8 18. Nc3 a6 ) 16... Qb6 17. b4 $5 { Somewhat dubious, but
+playing it solid at this point looked a little sad. } ( 17. Rc2 Nc4 18. Rb1 ( 18. Bxc4 dxc4 19. Kg1 { was another version, but actually I was kinda happy to have
+my pawn on b4. Not sure, as in both cases Black has very clear plans on the
+queenside. } ) ) 17... Nc4 18. Bxc4 dxc4 19. Kg1 { I wasn't actually sure if and
+when I want to push e4, but if I wanted to do it, I could have done it
+immediately. } ( 19. e4 $5 { Black shouldn't capture the pawn and stick to his
+idea - remove the queen, go b5 and a5. In the meantime White's play in the
+center is not so dangerous, as Black's bishops control most of the key squares. } 19... Qc7 $1 ( 19... Qxd4 20. Rfd1 ) ( 19... Qa6 $5 ) ) 19... Qa6 { I thought this was
+some sort of a mistake, but then I realized that the planned b5 is not what I
+want to play. } ( 19... Qc7 $5 { is where I felt my position would be really
+suspect. } 20. e4 b5 { not clear how to develop something out of this, as } 21. Nf3 { is well met with } 21... fxe4 $1 22. Nxe4 Bc6 $1 ) 20. Ra1 { Pathetic move played
+with great confidence. } ( 20. b5 Bxb5 21. Nxb5 Qxb5 22. Rxc4 Rxc4 ( 22... Bxa3 23. Rb1 { wins White back the pawn, but didn't seem too tempting. } ) 23. Qxc4 Qxc4 24. Nxc4 { This endgame looked very fine for Black. } ) ( 20. Rb1 { I wasn't
+sure about 20...b5 21.a4!?, but also } 20... Qxa3 21. Nxc4 Rxc4 22. Qxc4 Rc8 23. Rb3 Rxc4 24. Rxa3 a5 $5 { is a mess, but I rather be the one pushing pawns. } ( 24... Bxb4 25. Rxa7 Bxc3 26. Rxb7 Bc6 27. Rxf7 Bb4 { holds the balance too. } ) ) 20... b5 21. Nf3 $5 { I had given up on my queenside and hoped for counterplay and
+tricks. Otherwise I could have considered a4, trying to weather the storm
+there. } 21... Qb6 22. e4 { White probably can't do anything without this push. } 22... a5 $5 { Rushing the counterplay is often a safe thing to do, but I actually felt it
+gives me some concrete play that I was looking for. Still, Black's position is
+excellent. } ( 22... f4 $5 { was interesting and even more ambitious. } ) 23. exf5 $1 axb4 24. fxe6 { I was mostly choosing between this and capturing on b4 first.
+Finally I decided to take and see how Black reacts. I for some reason expected
+fxe6 back. } ( 24. Ne4 $5 exf5 25. Nf6 { is a complete, yet relatively balanced
+mess. } ) 24... Bxe6 $5 ( 24... fxe6 25. axb4 Bxb4 { here I was planning to go for
+the vague } 26. Ne4 ( { while the following line leads to a semi-forced perpetual
+- } 26. Qe5+ Rg7 27. Ng5 Rf8 $5 28. Ra8 $1 Rxa8 29. Nf7+ Kg8 30. Nh6+ { Of
+course, being a top player I spot such repetitions instantly. } ) ) 25. axb4 Bg4 $5 ( 25... Bxb4 $5 26. Qe5+ Rg7 { was what I had assumed we are going for, when
+taking on b5 is bad, but bringing the knight to the center would give White
+adequate play in return for the queenside passers. } 27. Ne4 $1 ( 27. Nd5 { also
+an option. } ) ) ( 25... Rce8 $5 { is another cunning idea, with unclear play - } 26. Qb2 Bg4 27. Ne5 Bxe5 28. dxe5 Qd4 { with equality is a likely scenario. } ) 26. Qe3 ( 26. Ra5 { Had suddenly entered my mind, but fortunately I didn't trust it- } 26... Rce8 27. Qd1 Bxb4 28. Rxb5 Qf6 29. Rxb4 Bxf3 { is a disaster for white, as the
+queen comes to h3. } ) ( 26. Qe4 $5 { to be frank allowed so many options, I
+didn't really understand what was going on. } 26... f5 27. Qd5 Bxb4 28. Qe5+ Rg7 29. Nd5 Qb8 30. Nxb4 Bxf3 { is one of the possible variations, with a balanced
+position. } ) 26... Rce8 $6 { Black decides to play for a draw and although he
+eventually succeeds, it was only due to walking down a very narrow path. } ( 26... Bxb4 27. Nd5 Qb7 { was what I felt was the strongest. } ) ( 26... f6 $1 { was
+too strong a move for me to see, but covering e5 square, now it actually is up
+to White to make a good move. } ) 27. Ne5 Bxe5 28. dxe5 Qxe3 29. fxe3 Bh5 $1 ( 29... Rxe5 { wasn't better - } 30. Rxf7 Bh5 31. Rc7 { and the endgame like this
+seems like a fifty-fifty to me. } ) 30. Nxb5 ( 30. Ra5 { was possible, but at this
+point going for a 3 vs 2 seemed like selling it too cheap. } 30... Rxe5 31. Rxb5 Rxb5 32. Nxb5 Rb8 33. Rf5 Bg6 34. Rc5 c3 35. Nxc3 Rxb4 ) 30... Rxe5 31. Nd6 Rxe3 32. Nxf7+ { Objectively not a mistake as such, as probably Black can also hold it
+after 32.î Ra5, but there his path was a little more vague and in hindsight,
+that was a better try. } ( 32. Ra5 $5 Bg6 33. Nxf7+ Kg7 $1 { This option wasn't
+there in the game, but even here it's still not easy - } ( 33... Bxf7 34. Rxf7 Re2 { To be very honest it didn't seem obvious to me that having rook on a5 is
+in my favour, but now I realize that it was - } 35. Rc5 $1 Rd8 36. Rf2 { and the
+difference is that now after trading one pair of rooks, Black won't be able to
+trade the c-pawn for b-pawn. Had the white rook been on c1, he'd manage. } ) 34. Ra7 Rb8 ( 34... c3 { is losing - } 35. Kf2 $1 ) 35. Ne5+ Kh8 36. Nxg6+ ( 36. Nxc4 Rb3 37. Ne5 Be4 { holds too, as Black regains the b-pawn and has to defend a 2
+vs 1, which he should manage. } ) 36... hxg6 { and Black should hold this endgame
+too, but it is probably not as straightforward as in the game. } ) 32... Bxf7 33. Rxf7 Re2 $1 { Played after some hesitation, but in fact it is strictly the only
+move. Cutting the white king is essential. } ( 33... Rd8 { was what I was hoping
+for and a move my opponent was about to make, but here White wins after
+securing the freedom of the king - } 34. Kg2 $1 ) ( 33... c3 { also loses - } 34. Raa7 Rd8 35. Rxh7+ Kg8 36. Kf2 ) 34. Rc7 { To be honest even here I wasn't yet
+sure that I am not winning, as Black can't double on the second rank after
+giving up the c4 pawn, but I underestimated the quiet 35...Rb2! } 34... Rd8 $1 35. Rxc4 Rb2 $1 ( 35... Rdd2 $2 36. Rc8+ Kg7 37. Ra7+ Kg6 38. Rc6+ Kf5 39. Ra5+ ) 36. Rc7 { I actually do win the second pawn, but it is not enough to win the game
+because my own king will now be caged in. } 36... Rxb4 37. Raa7 h5 $1 { Strictly in
+this order, but having made so many precise moves already, this one was no
+longer too big a challenge. } 38. Rh7+ Kg8 39. Rxh5 Rb2 { From afar I calculated
+till here and saw î Ra1 back, but already few moves into the line I realized
+this was a dead draw, but there no longer was a sensible way to deviate. } 40. Rg5+ Kh8 41. Rh5+ Kg8 42. Rg5+ Kh8 43. Ra1 Rdd2 44. Rh5+ Kg7 45. Kh1 { White
+has no way of improving this position. A peculiar draw, though given that both
+black rooks enjoy the second rank, it isn't all too surprising. } 45... Rf2 46. g4 Kg6 47. Rg1 Rb8 48. Rh3 Kg5 49. Rhg3 Rbb2 50. Rh3 Rb8 51. Rh7 Kg6 52. Rh5 Rc8 53. Ra1 Rcc2 54. Ra6+ Kg7 55. Rg5+ 1/2-1/2
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.26"]
+[Round "13"]
+[White "Kovalev, Vladislav"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[BlackElo "2747"]
+[ECO "C07"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "35"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2660"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nf6 6. exd5 Nxd5 7. Ne4 Be7 8. Bb5+ Bd7 9. c4 Nf6 10. Nxf6+ Bxf6 11. O-O O-O 12. Be3 a6 13. Bxd7 Qxd7 14. Rc1 Rd8 15. Qf3 Nc6 16. Nxc6 Qxc6 17. Qxc6 bxc6 18. b3 1/2-1/2
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.26"]
+[Round "13"]
+[White "So, Wesley"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[BlackElo "2872"]
+[ECO "C47"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "103"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2765"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8. Bd2 O-O 9. O-O Bxc3 10. Bxc3 dxe4 11. Bxf6 Qxf6 12. Bxe4 Qxb2 13. Bxc6 Rb8 14. Rb1 Qxb1 15. Qxb1 Rxb1 16. Rxb1 Rd8 17. Bf3 Kf8 18. Rb8 Re8 19. h4 Ba6 20. Rb3 Be2 21. Bxe2 Rxe2 22. Rc3 Re7 23. f3 Ke8 24. Kf2 Kd7 25. Ra3 Re5 26. Rxa7 Rc5 27. Ke3 Rxc2 28. g4 h5 29. gxh5 Rc4 30. Ra5 Rxh4 31. Rg5 Ke6 32. Rc5 Ra4 33. h6 gxh6 34. Rxc7 Kf6 35. Rc6+ Kg7 36. Rc2 Kg6 37. Kf2 h5 38. Kg3 Kg5 39. Rc7 h4+ 40. Kh3 f5 41. Rh7 Rc4 42. Rh8 Rc1 43. a3 Kf4 44. Rh5 Ra1 45. a4 Ra2 46. Rxh4+ Kxf3 47. Rb4 f4 48. Rb3+ Kf2 49. Kg4 Rxa4 50. Rf3+ Kg2 51. Rxf4 Rxf4+ 52. Kxf4 1/2-1/2
+
+[Event "Tata Steel-A 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.26"]
+[Round "13"]
+[White "Yu, Yangyi"]
+[Black "Xiong, Jeffery"]
+[Result "1/2-1/2"]
+[BlackElo "2712"]
+[ECO "A57"]
+[EventCategory "20"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "66"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2726"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. cxb5 a6 6. b6 d6 7. Nc3 Nbd7 8. e4 Bg7 9. Be2 O-O 10. O-O Nxb6 11. a4 Bg4 12. Nd2 Bxe2 13. Qxe2 Qc7 14. a5 Nc8 15. Nc4 Nd7 16. Bd2 Rb8 17. Na4 Qb7 18. Bc3 Na7 19. Nab6 Nc8 20. Bxg7 Kxg7 21. b4 Ncxb6 22. axb6 Nxb6 23. Na5 Qc7 24. Nc6 Nd7 25. Nxb8 Rxb8 26. bxc5 Nxc5 27. Rfb1 Qa5 28. e5 Qc3 29. exd6 exd6 30. h3 a5 31. Rxb8 Qxa1+ 32. Kh2 Qd4 33. Ra8 Nd3 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.11"]
+[Round "1"]
+[White "Anton Guijarro, David"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "1/2-1/2"]
+[BlackElo "2635"]
+[ECO "A17"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "148"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2694"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. e3 a6 5. b3 c5 6. Bb2 Nc6 7. cxd5 exd5 8. Rc1 Bg4 9. Na4 Nd7 10. Be2 b5 11. Nc3 Nb6 12. a4 b4 13. Nb1 Be6 14. O-O Na5 15. d3 f6 16. Nbd2 Be7 17. Qc2 O-O 18. Qb1 Rc8 19. Bd1 Kh8 20. Bc2 Bg8 21. Rfe1 Bd6 22. Ba1 Re8 23. h4 h6 24. Nf1 Bf7 25. N1d2 Bh5 26. Bd1 Bg6 27. Bc2 Qd7 28. Nf1 Nc6 29. Bb2 d4 30. exd4 cxd4 31. Rxe8+ Rxe8 32. Re1 Rc8 33. Nxd4 Nxd4 34. Bxd4 Nd5 35. Qd1 Nf4 36. Bb1 Bb8 37. Be3 Bh5 38. f3 Bf7 39. d4 Qd6 40. Bxf4 Qxf4 41. Qd3 Bg8 42. g3 Qd6 43. Kg2 a5 44. Qe4 Rd8 45. Rd1 Qc7 46. Bc2 Qc8 47. Rd2 Re8 48. Qd3 Rd8 49. Ne3 Qc7 50. Qg6 Ba7 51. Ng4 Qf7 52. Qxf7 Bxf7 53. Ne3 Rxd4 54. Rxd4 Bxd4 55. Nc4 Bxc4 56. bxc4 Kg8 57. Kf1 Kf7 58. Ke2 Ke6 59. g4 h5 60. gxh5 Ke5 61. Be4 Kf4 62. Kd3 Bc5 63. Bc6 Bf2 64. Bd5 Ke5 65. Be4 f5 66. Bb7 f4 67. Bc8 Bxh4 68. Kc2 Kd4 69. Kb3 Be7 70. Bd7 Ke3 71. Bc6 Bd6 72. Bd5 Be7 73. Bc6 Bd6 74. Bd5 Be7 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.11"]
+[Round "1"]
+[White "Ganguly, Surya Shekhar"]
+[Black "Warmerdam, Max"]
+[Result "1-0"]
+[BlackElo "2498"]
+[ECO "B90"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "81"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2636"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. h3 O-O 9. g4 Be6 10. g5 Nh5 11. Qd2 Nd7 12. O-O-O Rc8 13. Kb1 Nb6 14. h4 Qc7 15. Bh3 Nc4 16. Qd3 Qd7 17. Ng1 Bd8 18. Bc1 Ba5 19. Nd5 Nb6 20. Qe2 g6 21. Nf6+ Nxf6 22. gxf6 Na4 23. Rd3 Bd8 24. Rf3 Qb5 25. Qxb5 axb5 26. Bh6 Nc5 27. h5 g5 28. Bxe6 fxe6 29. Bxf8 Kxf8 30. Rc3 b4 31. Rc4 Ba5 32. Nf3 h6 33. Rd1 b5 34. Rxc5 Rxc5 35. Rxd6 Kf7 36. Rd7+ Kxf6 37. Rh7 g4 38. Rxh6+ Ke7 39. Rh7+ Kf6 40. Rh6+ Ke7 41. Ng5 1-0
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.11"]
+[Round "1"]
+[White "Keymer, Vincent"]
+[Black "Eljanov, Pavel"]
+[Result "0-1"]
+[BlackElo "2650"]
+[ECO "D46"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "138"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2527"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O dxc4 9. Bxc4 e5 10. h3 Qe7 11. Bb3 a5 12. a3 Bc7 13. Bd2 h6 14. Rad1 Re8 15. dxe5 Nxe5 16. Nd4 c5 17. Nf5 Bxf5 18. Qxf5 c4 19. Ba2 Rad8 20. Bc1 Bb8 21. Nb5 Rc8 22. f4 Rc5 23. fxe5 Rxe5 24. Qc2 Rxb5 25. Bxc4 Rg5 26. e4 Qc7 27. Bf4 Qc5+ 28. Kh1 Bxf4 29. Rxf4 b5 30. Bb3 Qxc2 31. Bxc2 Kf8 32. Rd2 Nh5 33. Rf3 Ng3+ 34. Kh2 Nxe4 35. Bxe4 Rxe4 36. Rd7 f6 37. Rc3 Re7 38. Rc8+ Kf7 39. Rxe7+ Kxe7 40. b3 Rd5 41. Rc7+ Kf8 42. Rb7 Kg8 43. Kg1 Kh7 44. Ra7 b4 45. axb4 axb4 46. Rb7 Rd4 47. Kf2 f5 48. Ke3 Re4+ 49. Kf3 h5 50. Rb6 h4 51. Rb7 Kh6 52. Rb5 Kg5 53. Rb7 g6 54. Rb8 Kf6 55. Rb6+ Ke5 56. Rb5+ Kd6 57. Rb6+ Kc5 58. Rxg6 Kd4 59. Rc6 Re3+ 60. Kf4 Rxb3 61. Rh6 Re3 62. Kxf5 Re5+ 63. Kg4 Re4+ 64. Kf5 b3 65. Rb6 Re3 66. Kg4 Kc5 67. Rf6 Re4+ 68. Kg5 b2 69. Rf1 Kb4 0-1
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.11"]
+[Round "1"]
+[White "L'Ami, Erwin"]
+[Black "Smirnov, Anton"]
+[Result "1-0"]
+[Annotator "L'Ami,E"]
+[BlackElo "2604"]
+[ECO "D11"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "93"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2606"]
+
+{ Wijk aan Zee started well for me this year with a win in the very first round.
+In a 4.e3-Slav I dusted off an old line leading to an interesting endgame/
+queenless middlegame. } 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 { Not a surprise,
+Anton always goes for this bishop move. } 5. Qb3 Qb6 ( 5... Qc7 6. Ne5 { is known
+to be worse for Black as } 6... Bf5 7. cxd5 cxd5 8. Nc3 e6 9. Bd2 Nc6 10. Rc1 { gives
+White annoying pressure. } ) 6. Ne5 Bf5 7. cxd5 Qxb3 8. axb3 Nxd5 ( { And not } 8... Bxb1 9. dxc6 $1 Be4 10. Rxa7 $1 Rxa7 11. c7 $1 { with a glorious promotion to
+queen on the next move. } ) 9. Bd3 Bxd3 10. Nxd3 { This endgame used to be
+considered uninspiring but perhaps that verdict is up for reappraisal. } 10... Na6 11. Bd2 e6 12. Ke2 Be7 ( { An important point to make is that } 12... Nab4 { is met
+with } 13. Ne1 $1 { with the idea that } 13... c5 14. e4 Nc7 15. Bxb4 cxb4 16. f4 $1 { followed by Nf3, Nbd2, Kd3 is clearly better for White. If not for 13...c5,
+Black will have a hard time freeing his position. } ) ( { A few days after my game,
+Esipenko-Basso, Gibraltar 2020 continued } 12... Ndb4 13. Nxb4 ( 13. Ne1 c5 $1 ) 13... Nxb4 ( { it is desireable to exchange bishops with } 13... Bxb4 $2 { but it
+has a tactical flaw in } 14. Rxa6 $1 Bxd2 15. Ra4 b5 16. Ra6 { and Black has to
+start shedding pawns. } ) 14. Na3 a6 15. Nc4 f6 16. g4 Be7 17. h4 { and White had
+a serious advantage, and indeed went on to win. } ) 13. Na3 O-O ( { Here } 13... Nab4 14. e4 $1 { is something to avoid for Black, as } 14... Nxd3 15. exd5 Nb4 16. Bxb4 Bxb4 17. dxc6 bxc6 18. Nc4 { is very pretty for White. } ) 14. Nc4 c5 { The desire
+to free his position is understandable but here this move is not possible.
+Both knight jumps to b4 are met with Nc5 and so Black maybe just had to sit
+and wait, meaning the position is already quite unpleasant. } 15. Rxa6 { For the
+exchange White will get a pawn and total domination. An easy decision to make! } 15... bxa6 16. dxc5 Rfc8 17. b4 f6 18. e4 Nc7 19. Bc3 Nb5 20. Ra1 Rc6 21. e5 { Securing the d6-square. } 21... Bd8 22. Nd6 Rb8 23. f4 ( 23. Nxb5 Rxb5 24. Ke3 { was an
+alternative way that the computer prefers, but it's hard to give up the
+d6-knight! } ) 23... h5 24. g3 Nc7 25. Ke3 f5 26. Bd2 Kf8 27. Kd4 g6 28. Ne1 $5 { The knight gets rerouted to d4! } 28... Nb5+ 29. Nxb5 axb5 ( 29... Rxb5 30. Nc2 { followed by Kc4 and Nd4 also causes a collapse. } ) 30. Rxa7 Rcc8 31. Nc2 Ra8 32. Rd7 Be7 33. Ke3 Ke8 34. Rd6 ( { Impossible to resist, but probably also best.
+During an evening walk with Lucas van Foreest we discovered that } 34. Rb7 Rcb8 35. Rc7 Ra6 36. Nd4 ( 36. c6 $1 Bd8 37. Rg7 Rxc6 38. Nd4 { may still be winning. } ) 36... Kd8 37. Rc6 Rxc6 $1 38. Nxc6+ Kd7 $1 39. Nxb8+ Kc7 40. Na6+ Kb7 $1 { actually leads to a very pretty draw. } ) 34... Bxd6 35. exd6 { Black's rooks are
+no match for White's light pieces and passed pawns. } 35... Kd7 36. Nd4 ( 36. Na3 Kc6 37. Kd4 { was proposed to me after the game by Yasser Seirawan as a cleaner
+solution but in fact } 37... g5 $1 38. fxg5 e5+ $1 39. Kxe5 Re8+ 40. Kxf5 Rf8+ 41. Kg6 Rf2 { gives Black serious counterchances. } ) 36... Ra2 ( 36... Rcb8 37. Nf3 Kc6 38. Kd4 { followed by Ne5+ is crushing. } ) 37. Bc3 Ra1 38. Nxb5 ( { Now } 38. Nf3 Rd1 39. Ne5+ Ke8 { still gives Black some fighting chances, so I decided to
+snatch another pawn. } ) 38... Rh1 39. h4 ( { Lazy, but fine nonetheless. I saw } 39. Nd4 Rxh2 40. Nf3 Rh3 { and with little time on the clock assessed it as an
+avoidable complication. In fact } 41. Ne5+ Kd8 42. b5 $1 Rxg3+ ( 42... Rxc5 43. Ba5+ $1 ) 43. Kd4 Rxc3 44. bxc3 h4 45. c6 { just wins. } ) 39... Rg1 40. Kf2 Rd1 41. Nd4 Ra8 ( { At first it looks like } 41... Rxd4 42. Bxd4 Kc6 43. Ke3 Rb8 { gives Black some chances to set up a fortress. In reality } 44. Bc3 Kd5 45. Kd3 Rb7 46. Bf6 $1 { places Black in zugzwang. Following } 46... Rd7 47. Kc3 Rb7 48. Bd8 { the blockade is broken. } ) 42. Ke2 Rg1 43. b5 { The finishing touch. The pawns
+start rolling! } 43... Rxg3 44. Bb4 Rg2+ 45. Kd3 Rxb2 46. c6+ Kc8 47. Nxe6 { Black
+resigned, the pawns are unstoppable. } 1-0
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.11"]
+[Round "1"]
+[White "Nihal, Sarin"]
+[Black "Grandelius, Nils"]
+[Result "1/2-1/2"]
+[BlackElo "2673"]
+[ECO "B53"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "206"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2618"]
+
+1. Nf3 c5 2. e4 d6 3. d4 cxd4 4. Qxd4 Nf6 5. Be2 g6 6. O-O Bg7 7. Qe3 O-O 8. h3 Nbd7 9. c4 b6 10. Nc3 Bb7 11. Rd1 Nc5 12. e5 Nfe4 13. Nxe4 Nxe4 14. Qa3 Qc8 15. Be3 Rd8 16. Rac1 Qe6 17. exd6 Rxd6 18. Re1 Qf6 19. b4 h6 20. c5 bxc5 21. bxc5 Rdd8 22. Nh2 h5 23. Bf3 Bc6 24. Nf1 Rdc8 25. Rc4 Nc3 26. Rf4 Qe6 27. Bd2 Qxa2 28. Qxa2 Nxa2 29. Rxe7 a5 30. Rfxf7 Bf8 31. Bxc6 Rxc6 32. Ra7 Rxa7 33. Rxa7 Rxc5 34. Bxa5 Nc3 35. Ne3 Ne2+ 36. Kf1 Nf4 37. Bd2 Rb5 38. Ra1 Bg7 39. Rd1 Rb2 40. Nc4 Rc2 41. Nd6 Nd3 42. Ne4 Nc5 43. Ng5 Bf6 44. Be3 Bxg5 45. Bxg5 Ne6 46. Be3 Rc7 47. Ke2 Kf7 48. Kf3 Rb7 49. Ra1 Kf6 50. Ra6 Rb4 51. g3 Rc4 52. Rb6 Kf7 53. Rd6 Ke7 54. Ra6 Kf6 55. Ke2 Kf7 56. Kd3 Rc7 57. Rb6 Ra7 58. Rb4 Re7 59. Rb5 Rd7+ 60. Ke4 Re7 61. Kf3 Rc7 62. Rb4 Re7 63. g4 hxg4+ 64. hxg4 Re8 65. Kg3 Re7 66. Ra4 Rc7 67. f4 Rc3 68. Kf3 Rc7 69. Ra2 Rc4 70. Rd2 Ke7 71. Rd1 Ra4 72. f5 gxf5 73. gxf5 Kf6 74. fxe6 Kxe6 75. Bf4 Ra3+ 76. Kg4 Ra6 77. Rd4 Rc6 78. Kf3 Ra6 79. Ke4 Ra1 80. Rd6+ Ke7 81. Rb6 Kd7 82. Be5 Re1+ 83. Kd5 Rd1+ 84. Bd4 Rd2 85. Rb7+ Kd8 86. Rh7 Rd1 87. Ke5 Kc8 88. Bc5 Rd7 89. Rh1 Rd2 90. Bd6 Kd7 91. Rh7+ Kc6 92. Rc7+ Kb5 93. Rc5+ Ka4 94. Rc1 Kb5 95. Bc5 Rh2 96. Bd4 Rh5+ 97. Kd6 Rh6+ 98. Kd5 Rh5+ 99. Be5 Rg5 100. Rb1+ Ka5 101. Rb3 Rh5 102. Rb7 Rg5 103. Rg7 Rxg7 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.11"]
+[Round "1"]
+[White "Saduakassova, Dinara"]
+[Black "Mamedov, Rauf"]
+[Result "1/2-1/2"]
+[BlackElo "2659"]
+[ECO "D37"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "55"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2519"]
+
+1. d4 d5 2. c4 e6 3. Nf3 a6 4. cxd5 exd5 5. Nc3 Nf6 6. Bg5 Be6 7. e3 Nbd7 8. Bd3 h6 9. Bf4 g5 10. Bg3 Nh5 11. Qc2 Nxg3 12. hxg3 Bg7 13. Bf5 Qf6 14. g4 O-O-O 15. O-O-O Kb8 16. Kb1 c6 17. Ne2 Bxf5 18. Qxf5 Qxf5+ 19. gxf5 g4 20. Ne1 h5 21. g3 Bf6 22. Nf4 h4 23. gxh4 Bxh4 24. Ned3 Bg5 25. Ne2 Bh4 26. Nef4 Bg5 27. Ne2 Bh4 28. Nef4 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.11"]
+[Round "1"]
+[White "Smeets, Jan"]
+[Black "Van Foreest, Lucas"]
+[Result "1/2-1/2"]
+[BlackElo "2523"]
+[ECO "C45"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "103"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2585"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. exd5 cxd5 8. O-O Be7 9. c4 d4 10. Bg5 O-O 11. Qc2 h6 12. Bxf6 Bxf6 13. b4 Be7 14. a3 c5 15. b5 Bb7 16. Nd2 Bd6 17. Rfe1 f5 18. Re6 Bc8 19. Re2 Bb7 20. Bxf5 Qf6 21. Bh7+ Kh8 22. Qd3 g6 23. Qxg6 Bxg2 24. Qxf6+ Rxf6 25. Kxg2 Kxh7 26. Ne4 Rg6+ 27. Ng3 a6 28. Rb1 axb5 29. Rxb5 d3 30. Rd2 Rxa3 31. Kf3 Rf6+ 32. Kg2 Re6 33. Kf3 Rf6+ 34. Kg2 Bf4 35. Rd1 d2 36. Ne2 Bg5 37. f4 Bxf4 38. Nxf4 Rxf4 39. Rxd2 Rxc4 40. Rb6 Rg4+ 41. Kf2 Ra7 42. Rc6 Rf7+ 43. Ke3 Rg5 44. Ra2 Re5+ 45. Kd3 Rf3+ 46. Kc4 Rf4+ 47. Kc3 Re3+ 48. Kd2 Re7 49. Kc3 Rf5 50. Ra5 Rh5 51. Raxc5 Rxh2 52. Rc7 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.12"]
+[Round "2"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Smeets, Jan"]
+[Result "0-1"]
+[BlackElo "2585"]
+[ECO "C42"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "82"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2635"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8. Qd2 Nd7 9. O-O-O c6 10. Kb1 d5 11. h3 Re8 12. c4 Nb6 13. cxd5 Nxd5 14. Bc4 Be6 15. Bg5 f6 16. Bh4 Bf7 17. Rhe1 b5 18. Bb3 Qb6 19. Re2 Red8 20. Qc1 Bc5 21. Nd2 a5 22. Ne4 Bf8 23. c4 a4 24. c5 Qa7 25. Bxd5 Bxd5 26. Nd6 Bxd6 27. cxd6 Rxd6 28. Bg3 Rdd8 29. Rde1 Qf7 30. a3 Bxg2 31. Re7 Qg6+ 32. Ka1 Re8 33. Qc5 Bd5 34. h4 h5 35. Bf4 Rxe7 36. Qxe7 Rf8 37. Bd2 Rf7 38. Qe2 Rd7 39. Bc3 Kh7 40. f4 Qf5 41. Bd4 Bf7 0-1
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.12"]
+[Round "2"]
+[White "Eljanov, Pavel"]
+[Black "Nihal, Sarin"]
+[Result "1/2-1/2"]
+[BlackElo "2618"]
+[ECO "B47"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "107"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2650"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. f4 a6 7. Nxc6 Qxc6 8. Bd3 b5 9. Qe2 Bb7 10. Bd2 Be7 11. a3 Rc8 12. O-O-O Nf6 13. Rhe1 b4 14. axb4 Bxb4 15. g4 d6 16. e5 dxe5 17. g5 Bxc3 18. Bxc3 Nd7 19. Bxe5 Nxe5 20. Qxe5 O-O 21. Qe4 Qxe4 22. Bxe4 Bxe4 23. Rxe4 Rc6 24. c4 h6 25. gxh6 g6 26. Rd3 Kh7 27. Rh3 Rd8 28. b3 a5 29. Kb2 Rd2+ 30. Ka3 Rf2 31. Re5 Ra6 32. Ka4 Ra8 33. Rc5 Rb8 34. Ka3 Ra8 35. Rh4 Ra7 36. Rb5 Rf3 37. Ka4 Rf1 38. Rb6 Ra1+ 39. Kb5 a4 40. bxa4 R1xa4 41. Rb7 R7a5+ 42. Kb6 Rf5 43. Rc7 Rb4+ 44. Ka6 e5 45. fxe5 Rf1 46. Rc5 Ra1+ 47. Ra5 Rc1 48. Rf4 Rcxc4 49. Rxf7+ Kxh6 50. Re7 Kg5 51. Ra2 Ra4+ 52. Rxa4 Rxa4+ 53. Kb5 Ra2 54. Kc5 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.12"]
+[Round "2"]
+[White "Mamedov, Rauf"]
+[Black "Grandelius, Nils"]
+[Result "1-0"]
+[BlackElo "2673"]
+[ECO "C58"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "101"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2659"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Bd3 Nd5 9. h4 h6 10. Qh5 Qf6 11. Ne4 Qe6 12. b3 g6 13. Qe2 f5 14. Ng3 e4 15. Bb2 Nf4 16. Bc4 Nxc4 17. Qxc4 Qxc4 18. bxc4 Rg8 19. Be5 g5 20. hxg5 hxg5 21. Nh5 Nxh5 22. Rxh5 Rg6 23. Nc3 Re6 24. Bd4 Ba6 25. g4 fxg4 26. Rxg5 O-O-O 27. Be3 Bb4 28. Rxg4 Bxc3 29. dxc3 Bxc4 30. Bxa7 Rh6 31. Rg1 Rhd6 32. Bd4 Rd5 33. a4 R8d7 34. Rb1 Ra5 35. Rg6 c5 36. Be5 Rb7 37. Rc6+ Kd7 38. Rd6+ Kc8 39. Rbd1 Rh7 40. Rd8+ Kb7 41. Rb1+ Ka6 42. Kd2 Rxa4 43. Bd6 Rb7 44. Ra8+ Ra7 45. Rc8 Rd7 46. Rc6+ Ka7 47. Ke3 Rb7 48. Bxc5+ Kb8 49. Rxb7+ Kxb7 50. Rb6+ Kc7 51. Rb4 1-0
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.12"]
+[Round "2"]
+[White "Saduakassova, Dinara"]
+[Black "Anton Guijarro, David"]
+[Result "1/2-1/2"]
+[BlackElo "2694"]
+[ECO "A85"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "55"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2519"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. Qc2 Bb4 5. e3 b6 6. Bd3 Bb7 7. f3 O-O 8. Ne2 Bd6 9. Bd2 Na6 10. a3 c5 11. O-O-O cxd4 12. exd4 Rc8 13. Kb1 Nc7 14. Rhe1 Kh8 15. Bf4 Bxf4 16. Nxf4 b5 17. cxb5 Ncd5 18. Nfxd5 Nxd5 19. Qb3 Qh4 20. Na4 Qxd4 21. Bxf5 Qf2 22. Be4 Qxg2 23. Ka1 Qf2 24. Rf1 Qe2 25. Rfe1 Qf2 26. Rf1 Qe2 27. Rfe1 Qf2 28. Rf1 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.12"]
+[Round "2"]
+[White "Smirnov, Anton"]
+[Black "Keymer, Vincent"]
+[Result "1/2-1/2"]
+[BlackElo "2527"]
+[ECO "B90"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "76"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2604"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Nd2 b5 9. a4 b4 10. Nd5 Nxd5 11. exd5 O-O 12. Nc4 Nd7 13. a5 f5 14. f3 Nf6 15. Be2 Qe8 16. f4 Bb7 17. Nb6 Rd8 18. O-O Ne4 19. Ra4 exf4 20. Bxf4 b3 21. cxb3 Bf6 22. Bf3 Nc5 23. Rc4 Rf7 24. b4 Nd7 25. Nxd7 Rdxd7 26. Rc6 g5 27. Bg3 g4 28. Be2 Be5 29. Bxe5 Qxe5 30. Bxa6 Bxa6 31. Rxa6 Qxb2 32. Rxf5 Rxf5 33. Qxg4+ Rg7 34. Ra8+ Rf8 35. Qe6+ Rf7 36. Rxf8+ Kxf8 37. Qc8+ Kg7 38. Qg4+ Kf8 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.12"]
+[Round "2"]
+[White "Van Foreest, Lucas"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "1/2-1/2"]
+[BlackElo "2636"]
+[ECO "B47"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "65"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2523"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O Nxd4 9. Qxd4 Bc5 10. Bf4 d6 11. Qd2 h6 12. Rad1 e5 13. Be3 Bb4 14. Nb5 axb5 15. Qxb4 Rxa2 16. Rxd6 O-O 17. Rd2 Be6 18. Rfd1 Ng4 19. Bc5 Rc8 20. Be7 Qb6 21. c3 Ra4 22. Qd6 Qxd6 23. Rxd6 Ra2 24. R6d2 Bb3 25. Re1 Rca8 26. Bh3 Ra1 27. Rxa1 Rxa1+ 28. Kg2 h5 29. Bxg4 hxg4 30. h3 Rd1 31. Rxd1 gxh3+ 32. Kxh3 Bxd1 33. Kg2 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.12"]
+[Round "2"]
+[White "Warmerdam, Max"]
+[Black "L'Ami, Erwin"]
+[Result "1/2-1/2"]
+[BlackElo "2606"]
+[ECO "C88"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "132"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2498"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4 Bb7 9. d3 d6 10. Nc3 b4 11. Nd5 Nxd5 12. Bxd5 Rb8 13. b3 Bf6 14. Bb2 Re8 15. Qd2 Qc8 16. Rad1 Ne7 17. Bxb7 Qxb7 18. d4 Ng6 19. dxe5 Bxe5 20. Nxe5 dxe5 21. Qd5 Qxd5 22. Rxd5 f6 23. Rc5 Nf4 24. Rc6 a5 25. Bc1 Ne6 26. Be3 Rbd8 27. Kf1 Kf7 28. c3 bxc3 29. Rc1 Rd4 30. f3 Rb8 31. R6xc3 Rdb4 32. Bd2 Rxb3 33. Rxb3 Rxb3 34. Bxa5 Ra3 35. Bxc7 Rxa4 36. Bb6 Ra3 37. Rc2 g5 38. Kf2 h5 39. h3 g4 40. hxg4 hxg4 41. Bc5 Rb3 42. fxg4 Ng5 43. Rc4 Rb2+ 44. Kf1 Rb1+ 45. Kf2 Rb2+ 46. Kf1 Kg6 47. Be3 Ra2 48. Rb4 Rc2 49. Ra4 Nf7 50. g5 Nxg5 51. Bxg5 Kxg5 52. Ra3 Rc6 53. Rf3 Rc1+ 54. Kf2 Rc2+ 55. Kf1 Ra2 56. Rf5+ Kg6 57. g4 Ra4 58. g5 Rxe4 59. Rxf6+ Kxg5 60. Rf8 Rf4+ 61. Rxf4 Kxf4 62. Kf2 e4 63. Ke2 e3 64. Ke1 Kf3 65. Kf1 e2+ 66. Ke1 Ke3 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.13"]
+[Round "3"]
+[White "Anton Guijarro, David"]
+[Black "Mamedov, Rauf"]
+[Result "1/2-1/2"]
+[BlackElo "2659"]
+[ECO "D19"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "64"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2694"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O Nbd7 9. Qe2 O-O 10. e4 Bg6 11. Bd3 Bh5 12. e5 Nd5 13. Nxd5 cxd5 14. Qe3 Be7 15. Ng5 Bxg5 16. Qxg5 Qxg5 17. Bxg5 Nb8 18. Bd2 Nc6 19. Bc3 a5 20. Ra3 Bg6 21. Bb5 Rfc8 22. h4 h5 23. Rfa1 b6 24. f3 f6 25. exf6 gxf6 26. Re1 Kf7 27. Raa1 Rc7 28. Rac1 Rac8 29. Ba6 Ra8 30. Bb5 Rac8 31. Ba6 Ra8 32. Bb5 Rac8 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.13"]
+[Round "3"]
+[White "Ganguly, Surya Shekhar"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "1/2-1/2"]
+[BlackElo "2635"]
+[ECO "E52"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "121"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2636"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd2 d5 6. Nf3 b6 7. cxd5 exd5 8. Rc1 Bb7 9. Bd3 a6 10. O-O Bd6 11. Ne5 c5 12. Bb1 Nbd7 13. f4 b5 14. Be1 cxd4 15. exd4 Be7 16. Qf3 Nxe5 17. dxe5 Ne4 18. Rd1 g6 19. Nxd5 Bxd5 20. Rxd5 Qxd5 21. Bxe4 Qd8 22. Bxa8 Qxa8 23. Qxa8 Rxa8 24. Bf2 Rc8 25. Be3 f6 26. b3 fxe5 27. fxe5 Rc2 28. Rf2 Rc3 29. Rf3 Rc2 30. Rf2 Rc3 31. Re2 Kf7 32. e6+ Ke8 33. Kf2 Bf6 34. g4 Rc6 35. Bd2 Be7 36. Kf3 Bf6 37. Bb4 Be7 38. Be1 Bf6 39. Kf4 h6 40. Kf3 Bg5 41. Bb4 Kd8 42. e7+ Ke8 43. Re4 Bf6 44. Re2 Bg5 45. Re4 Bf6 46. Re3 Bd4 47. Re2 Bc5 48. Bxc5 Rxc5 49. Ke4 h5 50. Kd4 Rg5 51. gxh5 Rxh5 52. Rg2 Kxe7 53. Rxg6 a5 54. Rg2 a4 55. Rd2 axb3 56. axb3 Kd6 57. Rg2 Rh4+ 58. Kc3 Kc5 59. b4+ Kd5 60. Rg5+ Kc6 61. Rg2 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.13"]
+[Round "3"]
+[White "Grandelius, Nils"]
+[Black "Eljanov, Pavel"]
+[Result "1/2-1/2"]
+[BlackElo "2650"]
+[ECO "C65"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "89"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2673"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 d5 6. exd5 Qxd5 7. Bc4 Qd6 8. Nbd2 O-O 9. b4 Bb6 10. O-O Bf5 11. Qc2 Rad8 12. a4 a5 13. b5 Ne7 14. Qb3 Ng6 15. Ba3 Bc5 16. Bxc5 Qxc5 17. d4 exd4 18. cxd4 Qd6 19. Rfe1 Nf4 20. Ne5 N4d5 21. Ndf3 h6 22. Rac1 Rfe8 23. h3 Be6 24. Nd3 Nd7 25. Qd1 N7b6 26. Bb3 Nf4 27. Nxf4 Bxb3 28. Qxb3 Qxf4 29. Qc3 Rxe1+ 30. Rxe1 Qd6 31. Qxa5 Ra8 32. Qd2 Nxa4 33. Ra1 Qd8 34. Qc2 Nb6 35. Rxa8 Nxa8 36. Qe4 Qc8 37. Qe7 f6 38. Nh4 Nb6 39. Ng6 Qd7 40. Qf8+ Kh7 41. Ne7 Qe6 42. Qd8 c6 43. bxc6 bxc6 44. Qe8 f5 45. Qxc6 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.13"]
+[Round "3"]
+[White "Keymer, Vincent"]
+[Black "Warmerdam, Max"]
+[Result "1/2-1/2"]
+[BlackElo "2498"]
+[ECO "A17"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "90"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2527"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. e3 c5 5. cxd5 exd5 6. Bb5+ Nbd7 7. O-O a6 8. Be2 Bd6 9. b3 O-O 10. d4 b5 11. dxc5 Nxc5 12. Ba3 Bb7 13. Rc1 Rc8 14. Nd4 Re8 15. Bg4 Nxg4 16. Qxg4 h5 17. Qd1 Qf6 18. Nce2 h4 19. h3 Qg6 20. Nf4 Bxf4 21. Bxc5 Bb8 22. Qg4 Qxg4 23. hxg4 g6 24. Rfe1 Re4 25. f3 Ree8 26. b4 Bg3 27. Red1 Rxe3 28. Nf5 Rxc5 29. Nxe3 Rxc1 30. Rxc1 Bf4 31. Re1 d4 32. Nf1 Bd5 33. Re8+ Kg7 34. Rd8 Bxa2 35. Rxd4 Be5 36. Re4 Bc3 37. g5 h3 38. Ne3 Bb1 39. Nd5 Bxe4 40. Nxc3 Bc6 41. gxh3 Bxf3 42. Kf2 Bb7 43. Ke3 f6 44. Kf4 fxg5+ 45. Kxg5 a5 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.13"]
+[Round "3"]
+[White "L'Ami, Erwin"]
+[Black "Van Foreest, Lucas"]
+[Result "1/2-1/2"]
+[BlackElo "2523"]
+[ECO "C67"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "75"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2606"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 11. Re1 c6 12. Ne3 Be7 13. Nf5 Bf6 14. Qe2 Kh8 15. Ne7 Nc7 16. Nxc8 Qxc8 17. c3 d5 18. d4 Re8 19. Be3 Bg5 20. Qf3 Bxe3 21. fxe3 f5 22. Bd3 g6 23. g4 fxg4 24. Qf6+ Kg8 25. e4 dxe4 26. Bxe4 Qe6 27. Qf4 Qd7 28. Bd3 Kg7 29. Re5 Nd5 30. Qg5 Qd8 31. Qxg4 Rxe5 32. dxe5 Ne3 33. Qf4 Qxd3 34. Qf6+ Kh6 35. Qh4+ Kg7 36. Qf6+ Kh6 37. Qh4+ Kg7 38. Qf6+ 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.13"]
+[Round "3"]
+[White "Nihal, Sarin"]
+[Black "Smirnov, Anton"]
+[Result "1/2-1/2"]
+[BlackElo "2604"]
+[ECO "D10"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "60"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2618"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bg5 h6 5. Bh4 Qb6 6. Nc3 e6 7. Qd2 Nc6 8. e3 Nge7 9. Bd3 Bd7 10. Nf3 g5 11. Bg3 Bg7 12. Rc1 a6 13. Na4 Qd8 14. Nc5 Bc8 15. b4 O-O 16. O-O Nf5 17. a3 Nxg3 18. hxg3 g4 19. Nh4 Ne7 20. Bb1 f5 21. Nd3 Bd7 22. Nf4 Rc8 23. f3 Rxc1 24. Rxc1 gxf3 25. gxf3 Nc6 26. Kf2 Rf7 27. Nd3 b6 28. Ng2 Be8 29. Ngf4 Qd6 30. Bc2 Nd8 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.13"]
+[Round "3"]
+[White "Smeets, Jan"]
+[Black "Saduakassova, Dinara"]
+[Result "1/2-1/2"]
+[BlackElo "2519"]
+[ECO "C83"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "89"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2585"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 d4 12. Nb3 d3 13. Bb1 Nxb3 14. axb3 Bf5 15. Be3 O-O 16. Re1 Qd5 17. Bd4 Rfd8 18. Re3 Nxd4 19. cxd4 c5 20. Bxd3 cxd4 21. Re2 Qe6 22. h3 Bg6 23. Ne1 a5 24. Kh2 h6 25. Bxg6 Qxg6 26. Qd3 Qxd3 27. Nxd3 a4 28. Rc2 axb3 29. Rcc1 Ra4 30. Kg3 f6 31. exf6 Bxf6 32. Re1 Rc8 33. Rad1 Kf7 34. Kf4 Rc2 35. Kf3 Ra7 36. Re4 Rac7 37. g3 R7c6 38. h4 Re6 39. Ra1 Rxe4 40. Kxe4 Re2+ 41. Kd5 Rd2 42. Ra7+ Ke8 43. Ke4 Re2+ 44. Kd5 Rd2 45. Ke4 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.14"]
+[Round "4"]
+[White "Abdusattorov, Nodirbek"]
+[Black "L'Ami, Erwin"]
+[Result "1/2-1/2"]
+[BlackElo "2606"]
+[ECO "C92"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "208"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2635"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. Ng3 Nc5 15. Bc2 c6 16. b4 Ncd7 17. dxc6 Bxc6 18. Bb3 h6 19. Nh4 a5 20. Ng6 a4 21. Nxf8 Nxf8 22. Bc2 d5 23. exd5 Qxd5 24. Qxd5 Nxd5 25. Ne4 Rad8 26. Bd2 Nb6 27. Rad1 Ne6 28. Bc1 Bd5 29. Bd3 Bc4 30. Bf1 Bxf1 31. Kxf1 Nc7 32. Nd6 Re6 33. Nf5 Rxd1 34. Rxd1 Ncd5 35. Rd3 Kh7 36. Ne3 Nf4 37. Rd8 Rc6 38. Bd2 f6 39. Rb8 h5 40. Rb7 Ne6 41. Ke2 Nc7 42. g3 Kg6 43. Rb8 Kf7 44. Kd3 g6 45. f4 h4 46. fxe5 hxg3 47. exf6 Nbd5 48. Rb7 Kxf6 49. Ng2 Ke5 50. Nh4 Nf4+ 51. Ke3 Ncd5+ 52. Kf3 g5 53. Rxb5 gxh4 54. Bxf4+ Ke6 55. Bd2 Rc8 56. c4 Rxc4 57. Rc5 Rd4 58. Bg5 Nxb4 59. Be3 Rd1 60. Rc4 Nd5 61. Ba7 Rd3+ 62. Ke4 Rd2 63. Rxa4 Nc3+ 64. Ke3 Rd7 65. Rxh4 Rxa7 66. Kf3 Rxa2 67. Kxg3 Ke5 68. Rh5+ Ke4 69. Rh8 Nd5 70. Re8+ Kf5 71. Rf8+ Nf6 72. Kf3 Ra3+ 73. Kg2 Ke5 74. h4 Nh5 75. Kf2 Rh3 76. Ra8 Nf6 77. h5 Rxh5 78. Ra5+ Nd5 79. Ra8 Rh2+ 80. Kf3 Rh3+ 81. Kf2 Ne3 82. Ke2 Nf5 83. Re8+ Kf4 84. Kd2 Nd6 85. Rf8+ Ke4 86. Rd8 Nc4+ 87. Kc2 Ne3+ 88. Kd2 Rh2+ 89. Kc3 Nd5+ 90. Kc4 Rc2+ 91. Kb3 Rc3+ 92. Kb2 Rc5 93. Rh8 Kd3 94. Rh3+ Ne3 95. Kb3 Rb5+ 96. Ka4 Rb8 97. Rh4 Kc3 98. Rh3 Kd3 99. Rh5 Rb1 100. Rh3 Kd4 101. Rh4+ Kc5 102. Rh5+ Nd5 103. Ka3 Rb8 104. Ka4 Kc4 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.14"]
+[Round "4"]
+[White "Anton Guijarro, David"]
+[Black "Smeets, Jan"]
+[Result "1-0"]
+[BlackElo "2585"]
+[ECO "C42"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "117"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2694"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. Nbd2 Bf5 9. Re1 Nd6 10. Nf1 O-O 11. Bf4 Be6 12. c3 Qd7 13. Qc2 g6 14. Ne3 Rfe8 15. h4 Bf8 16. Ng5 Nd8 17. h5 Bg7 18. hxg6 hxg6 19. Re2 b6 20. Rae1 N8b7 21. Nxe6 Qxe6 22. Nf5 Qd7 23. Nxg7 Kxg7 24. Be5+ f6 25. Bxg6 fxe5 26. Bxe8 Rxe8 27. Rxe5 Rxe5 28. dxe5 Ne4 29. f3 Ng5 30. Qd2 Qf5 31. Qxd5 Nc5 32. Qd8 Nge6 33. Qf6+ Qxf6 34. exf6+ Kxf6 35. Rd1 b5 36. g3 Na4 37. Rd2 a5 38. Kf2 Nb6 39. b3 a4 40. Ke2 Nc5 41. b4 Ne6 42. f4 a3 43. Kf3 Na4 44. Rc2 c6 45. g4 Nc7 46. Ke4 Nd5 47. g5+ Kg6 48. Ke5 Naxc3 49. Rc1 Kg7 50. f5 Nxa2 51. Ra1 Naxb4 52. Rxa3 Nc7 53. f6+ Kg6 54. Rf3 Nba6 55. f7 Nc5 56. Rf6+ Kxg5 57. Rd6 N7e6 58. Rxe6 Nd7+ 59. Kd6 1-0
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.14"]
+[Round "4"]
+[White "Mamedov, Rauf"]
+[Black "Eljanov, Pavel"]
+[Result "1/2-1/2"]
+[BlackElo "2650"]
+[ECO "C54"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "128"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2659"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 O-O 7. O-O h6 8. Re1 Bb6 9. Bb3 Re8 10. Nc4 Be6 11. a4 Ng4 12. Rf1 d5 13. Nxb6 axb6 14. Bc2 dxe4 15. dxe4 Na5 16. b4 Qxd1 17. Rxd1 Bb3 18. Bxb3 Nxb3 19. Ra3 Nxc1 20. Rxc1 Nf6 21. Re1 Re6 22. Kf1 Ne8 23. Nd2 Rc6 24. Ke2 Nd6 25. f3 g6 26. Rc1 Kg7 27. g3 f5 28. Raa1 b5 29. a5 fxe4 30. fxe4 Rf8 31. Rc2 g5 32. Rf1 Ra8 33. Ra1 g4 34. Kd3 Rd8 35. Ke3 Kg6 36. Rac1 Nc4+ 37. Ke2 h5 38. Rf1 Nd6 39. Rcc1 Ra8 40. Kd3 Rd8 41. Kc2 Nf7 42. Rcd1 Rd4 43. Rf5 Rxb4 44. Rdf1 Nd6 45. Rxe5 Nc4 46. Nxc4 Rbxc4 47. Rxb5 Rxc3+ 48. Kb1 R6c5 49. Rxb7 Rxa5 50. Rb8 Rc4 51. Rf4 Re5 52. Kb2 Rcxe4 53. Rg8+ Kh7 54. Rff8 Rb5+ 55. Kc3 Re7 56. Kc4 Rbe5 57. Kd4 c5+ 58. Kc4 Rg7 59. Rh8+ Kg6 60. Rc8 Rf7 61. Rcg8+ Rg7 62. Rc8 Rge7 63. Rcg8+ Kf7 64. Rf8+ Kg6 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.14"]
+[Round "4"]
+[White "Saduakassova, Dinara"]
+[Black "Ganguly, Surya Shekhar"]
+[Result "0-1"]
+[Annotator "Ganguly,Surya"]
+[BlackElo "2636"]
+[ECO "E04"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "52"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2519"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. e3 Rb8 ( 7... Bd7 { is more popular and the mainline. } ) 8. Nfd2 { Since Black didn't play ...
+Bd7 and thus can't play ...b5, this move seems normal. } ( 8. Qe2 b5 { [%cal
+Gc8b7] That's the point. If White plays like he does in the ...Bd7 line, then
+here comes the difference, Black will put his bishop on b7 now. } ) 8... e5 { This line was first popularised by Alexander Mikhalevski back in the 90s. It
+got very special attention recently when Ding used this against Grischuk in
+the World Cup 2019. It is also to be noted that Ding faced this first as White
+twice in 2017 against Mamedyarov in Blitz and Rapid in China and then tried
+the same as Black in 2019! } 9. Bxc6+ bxc6 10. dxe5 Ng4 11. Nxc4 Be6 { This
+position is pretty much forced after White played 8.Nfd2. Black is a pawn down,
+but has some much more active pieces than White and potential attacking
+prospects on the kingside by h5-h4. The game turns wild very quickly and a lot
+of areas are yet to be explored. } 12. Nbd2 ( 12. Qe2 h5 13. Rd1 { was seen in
+Grischuk - Ding, World Cup 2019 , where Black was doing fine. } ) 12... Bb4 { [%csl Rc4,Re5][%cal Gb4d2] This gained popularity rather recently. Smeets
+played this first in 2012 and it was Gelfand who used this in a classical game
+in 2019. White's e5-pawn is indirectly threatened now, since Black might
+simply take on d2 on the next move when White is forced to take back with his
+c4 knight. } ( 12... h5 { was the move twice used by Alexander Mikhalevski and
+also played by Mamedyarov against Ding. } ) 13. b3 ( 13. Qc2 h5 14. b3 { was the
+move order of Jumabayev-Gelfand which transposes to the main game. } ) ( 13. Qe2 Bxd2 { was played twice by my good friends. One time was before my game and the
+other was four days after it. } 14. Bxd2 h5 15. f3 h4 16. fxg4 hxg3 17. hxg3 Qd5 18. e4 ( 18. Rf3 Qxc4 19. Qxc4 Bxc4 $15 { and Black was better in Deac,B (2613)
+-Shankland,S (2705) Douglas 2019. } ) 18... Qxc4 19. Qxc4 Bxc4 $15 { Once again
+Black was pushing in Batchuluun,T (2530)-Sethuraman,S (2638), Tianjin 2020. } ) 13... h5 { Here White has both options Qe2 and Qc2, and in each case Black
+replies in a different manner. } 14. Qc2 ( 14. Qe2 h4 15. Nf3 hxg3 $1 ( 15... f5 { Now this is not working as the f3 knight is protected. } 16. exf6 Qxf6 17. Bb2 { [%csl Gf3] } ) 16. fxg3 Qd5 { Here this does work since 17.Bb2 is met by 17...Qe4,
+while the direct 17.e4 also fails. } 17. h4 ( 17. Bb2 Qe4 ) ( 17. e4 Qc5+ { [%cal
+Ge6c4,Gb4c3] If White moves his king, then ...Bxc4 and ....Bc3 will trap the
+a1 rook. } 18. Ne3 Nxe5 $17 ) 17... Bc3 $132 ) 14... h4 15. Nf3 hxg3 { I managed
+to mix up things :) This was not something that I prepared, but over the board
+I was confident that this is what I saw. } ( 15... f5 $1 { is the way to go here.
+Since the f3 knight is unprotected, White can't take 16.exf6 anymore. } 16. e4 ( 16. exf6 Qxf6 ) 16... hxg3 17. hxg3 fxe4 18. Qxe4 Qd7 19. Qg6+ ( 19. Bg5 Bd5 $17 { 0-1 (33) Raja,R (2369)-Aravindh,C (2609) New Delhi 2019 } ) 19... Kf8 { was fine
+in Jumabayev,R (2630)-Gelfand,B (2686) Douglas 2019 } ) 16. fxg3 { Only here I
+realized that after ...Qd5 White has 17.Bb2 and then he is better. However,
+since I was under the impression it was all part of my preparation, I was
+pretty confident that there is something for Black! } 16... Bc5 $1 { This made a lot
+of sense to me. First of all, it stops e4 which I felt White should play if he
+gets a chance. It also stops all sorts of Bb2 ideas as e3 remains hanging. } ( 16... Qd5 17. Bb2 ) 17. h4 $6 ( 17. Qe4 Qd5 18. Qf4 Qd3 $1 $17 { [%cal Gd3e2] } ) ( 17. Kg2 $1 { This was the move that bothered me a bit, but at the same time I
+felt it must be scary for White to put his king on g2 allowing all kinds of ...
+Rxh2+ or ...Bh3+ checks in future. } 17... f5 { is something that I saw during the
+game and gets refuted nicely by engines. } ( 17... Qg5 $5 { First of all even
+such moves during the game might look scary specially when opponent is playing
+fast and seems well prepared. } 18. e4 Qg6 19. h4 { although there is nothing to
+be scared of in this particular case. } ) ( 17... Nxh2 18. Nxh2 Qg5 $5 19. Qe2 Rh3 20. Qf3 Rd8 { is a mess for normal mortals. } 21. e4 Qg6 22. Be3 Rd3 23. Rfe1 Rh4 24. Rad1 { and White is better as per immortals } ) ( 17... Qe7 $1 { Probably this
+would be the most practical way to continue when White remains better in
+theory but in a practical game, it remains unclear. } ) 18. Rd1 ( 18. h3 Qd5 ) 18... Bd5 19. Qxf5 Rxh2+ 20. Kg1 Rf2 21. Nd6+ $3 { This I missed during the game } 21... cxd6 22. Rxd5 $1 cxd5 23. Qg6+ Ke7 24. Qxg7+ Ke8 25. Qxg4 Rxf3 26. Qxf3 $16 ) 17... Rh5 $1 { Since I could not make any g5 ideas work, this move felt very
+nice to me. It stops Ng5 and prepares g5 for the future. It also controls the
+important f5 square, thus at times both Bd5 and Bf5 could be annoying for
+White. } ( 17... g5 { this was the absolute first line that I saw: } 18. Nxg5 Qxg5 19. hxg5 Bd5 20. Qg2 $8 { but then White has this only move and unfortuantely
+that's enough to win - } 20... Bxg2 21. Kxg2 Rh2+ 22. Kf3 { [%csl Rg4] } ) ( 17... f5 { Then I tried this } 18. exf6 ( { Hoping for } 18. Ng5 $2 Qxg5 $1 19. hxg5 Bd5 20. Qg2 Bxg2 21. Kxg2 Rh2+ $17 { [%csl Gg4] } ) 18... Qxf6 19. Nd4 $18 { also didn't
+work. } ) ( 17... Bd5 18. Kg2 { [%cal Ge3e4] } 18... Qg5 $3 { I saw all kinds of sacs on
+g5 but missed this pretty one. It is definitely the best move in the position
+but yet white keeps some advantage. } ( 18... g5 19. e4 ) 19. e4 Qg6 20. Ng5 { Probably White is still better. } ) 18. Kg2 ( 18. Ng5 $2 Rxg5 19. hxg5 Qxg5 $19 { should be winning for Black. } ) ( 18. Qe2 Qd5 ( 18... g5 19. Rd1 Qe7 20. Nh2 $1 ) 19. Nh2 Nxh2 20. Kxh2 g6 $44 { White is better as per comps, but I would think
+in a practical game Black has enough compensation. } ) 18... g5 $1 19. e4 $2 { This would be a brilliant move if only Black didn't have a tactic working
+which happened in the game. } ( 19. hxg5 Qd7 20. Nh4 { Comp calls 0.00 } 20... Bd5+ 21. e4 Nf2 22. Rxf2 Rxh4 23. gxh4 Qg4+ 24. Kf1 { and some kind of perpetual. } ) ( 19. Rd1 Qe7 20. hxg5 Rd8 $1 { Exchanging White's active rook. Since the c1 bishop
+is stuck, the rook on a1 is not coming into the game. } 21. Rxd8+ $8 Qxd8 { Honestly, during the game, here I felt White is in tremendous danger if not
+lost. It is good that I was playing classical chess and not correspondence
+chess. Just like all roads lead to Rome, with engines on everything
+essentially leads to 0.00. } 22. e4 Bxc4 23. bxc4 Qd7 24. Rb1 Nf2 25. Ng1 Ng4 26. Nf3 { is one of the zillion ways of reaching Rome. } ) ( 19. Rh1 gxh4 20. Rxh4 Rxh4 21. Nxh4 ( 21. gxh4 $1 Qd7 22. e4 $1 Rb4 $44 ) 21... Qd5+ 22. Nf3 ( 22. e4 Qd4 23. Bb2 Qxc4 { is a nice trick that I was happy to spot during game. } ) 22... Rd8 $1 { I left here assuming Black is better. } ( 22... Nh2 23. e4 Nxf3 24. Kxf3 Qd7 { At first, I felt this should be winning for Black, but upon a closer look,
+I realized I was only partly right. It is winning, but for White! } 25. Be3 $1 $16 ) ) 19... gxh4 20. Nxh4 { Dinara was still under the impression she was doing
+fine, but now it is completely lost. } ( 20. Bf4 { was the last chance: } 20... hxg3 21. Kxg3 ( 21. Rh1 Nh2 $17 ) 21... Rh8 $3 { [%cal Gh8g8] } 22. Bg5 f6 $1 23. exf6 Nxf6 24. Rh1 Rg8 { also loses but is more resilient. } ) 20... Rxh4 $1 21. gxh4 Qxh4 22. Rh1 Nh2 $1 { Clearly Dinara missed this from far. If this move was not
+available, then Black might as well resign. } 23. Be3 ( 23. Rxh2 Qg4+ 24. Kf1 Qg1+ 25. Ke2 Qxh2+ 26. Kd3 Rd8+ 27. Kc3 Bd4+ $19 ) 23... Qh3+ 24. Kg1 Bxc4 { The
+simplest and fastest way to win. } 25. Rxh2 ( 25. Bxc5 Qg3+ 26. Qg2 Nf3# ) 25... Qxe3+ 26. Kh1 Bd3 0-1
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.14"]
+[Round "4"]
+[White "Smirnov, Anton"]
+[Black "Grandelius, Nils"]
+[Result "1/2-1/2"]
+[BlackElo "2673"]
+[ECO "B90"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "72"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2604"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc1 Nf6 8. Be3 Ng4 9. Bg5 h6 10. Bc1 Nf6 11. Bd3 e5 12. Nde2 Be7 13. O-O Be6 14. f4 exf4 15. Nxf4 Nc6 16. Nxe6 fxe6 17. Bc4 Qc8 18. Bb3 O-O 19. Bf4 Kh8 20. Kh1 Ne5 21. Qd4 Nf7 22. Qc4 Qxc4 23. Bxc4 Nd8 24. Rad1 b5 25. Bb3 Nh5 26. Be3 Rxf1+ 27. Rxf1 Nf6 28. a3 Rb8 29. Re1 Ng4 30. Bg1 Ne5 31. a4 Nd7 32. axb5 axb5 33. Ba2 Ra8 34. Bb3 Rb8 35. Ba2 Ra8 36. Bb3 Rb8 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.14"]
+[Round "4"]
+[White "Van Foreest, Lucas"]
+[Black "Keymer, Vincent"]
+[Result "1/2-1/2"]
+[BlackElo "2527"]
+[ECO "B17"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "116"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2523"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Nd7 7. Bc4 Nf6 8. Qe2 Bf5 9. d4 e6 10. O-O h6 11. Bf4 Bd6 12. Be5 O-O 13. h3 Nd5 14. c3 Nf4 15. Qe3 Nd5 16. Qd2 Bxe5 17. Nxe5 Qd6 18. Rfe1 Rad8 19. Rad1 Nb6 20. Bb3 Nd7 21. g4 Bh7 22. Nxd7 Rxd7 23. Re5 Qxe5 24. dxe5 Rxd2 25. Rxd2 Rb8 26. Rd7 Kf8 27. f4 Ke8 28. Bxe6 Bg8 29. f5 fxe6 30. Rxg7 Bf7 31. Rh7 Rd8 32. Rxh6 exf5 33. gxf5 Bxa2 34. Rh8+ Kd7 35. e6+ Kc8 36. Rh7 Rg8+ 37. Kf2 Rf8 38. Kg3 Bb1 39. Rf7 Re8 40. Kf4 a5 41. h4 Rh8 42. Ke5 a4 43. h5 Rxh5 44. Kd6 Rxf5 45. e7 Rd5+ 46. Ke6 Ba2 47. Rf8+ Kc7 48. e8=Q Rd8+ 49. Ke5 Rxe8+ 50. Rxe8 c5 51. Rh8 Bb3 52. Rh1 b5 53. Rh8 Bc4 54. Rh4 Bb3 55. Rf4 Kc6 56. Rf6+ Kc7 57. Rd6 Bc4 58. Rd2 Bb3 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.14"]
+[Round "4"]
+[White "Warmerdam, Max"]
+[Black "Nihal, Sarin"]
+[Result "0-1"]
+[BlackElo "2618"]
+[ECO "B12"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "76"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2498"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. dxc5 e6 6. Be3 Nh6 7. c3 Nf5 8. Qd2 Bd7 9. Na3 Nxe3 10. Qxe3 b6 11. cxb6 Bxa3 12. b7 Rb8 13. bxa3 Rxb7 14. Ba6 Rb2 15. O-O Qb6 16. Qc1 O-O 17. Bd3 h6 18. c4 Rb8 19. cxd5 exd5 20. Rb1 Rxb1 21. Bxb1 Bg4 22. Qc2 g6 23. Re1 Bxf3 24. gxf3 Nxe5 25. Rxe5 Qxb1+ 26. Qxb1 Rxb1+ 27. Kg2 Rb5 28. Re3 Kg7 29. Rb3 Ra5 30. f4 Kf6 31. Kf3 Kf5 32. Rd3 d4 33. h3 Ra4 34. Rb3 a6 35. Rd3 Rc4 36. Rd2 h5 37. h4 Rc3+ 38. Ke2 Ke4 0-1
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.16"]
+[Round "5"]
+[White "Eljanov, Pavel"]
+[Black "Smirnov, Anton"]
+[Result "1-0"]
+[BlackElo "2604"]
+[ECO "D11"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "75"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2650"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bh5 6. Nc3 e6 7. g4 Bg6 8. Ne5 Nbd7 9. Nxg6 hxg6 10. Bd2 Bb4 11. cxd5 exd5 12. f3 Bd6 13. Qb3 Bg3+ 14. Kd1 b5 15. Rc1 Bd6 16. e4 dxe4 17. Nxe4 Nxe4 18. fxe4 Rc8 19. e5 Be7 20. Bg2 Nb8 21. Be3 O-O 22. Kc2 c5 23. dxc5 Bxc5 24. Kb1 Bxe3 25. Qxe3 Qe7 26. Bd5 Na6 27. Rxc8 Rxc8 28. Rf1 Rf8 29. e6 Kh7 30. Qf3 f5 31. h4 f4 32. h5 g5 33. Qe4+ Kh8 34. Qe5 Nb4 35. Be4 Kg8 36. Qxb5 Qd6 37. a3 Rb8 38. e7 1-0
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.16"]
+[Round "5"]
+[White "Ganguly, Surya Shekhar"]
+[Black "Anton Guijarro, David"]
+[Result "1/2-1/2"]
+[BlackElo "2694"]
+[ECO "C83"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "79"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2636"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. Nbd2 Be7 10. c3 O-O 11. Bc2 f5 12. exf6 Nxf6 13. h3 Qd7 14. Re1 Bd6 15. Nf1 Rae8 16. Ng3 Bf7 17. Bf5 Rxe1+ 18. Qxe1 Qe8 19. Bg5 Ne5 20. Nh4 Ng6 21. Qd2 Nxh4 22. Bxh4 Qe5 23. Re1 Ne4 24. Bxe4 dxe4 25. Rxe4 Qd5 26. Qe1 Bg6 27. Re2 Qxa2 28. Be7 Bxe7 29. b4 Qb1 30. Qxb1 Bxb1 31. Rxe7 c5 32. Ra7 cxb4 33. cxb4 Bg6 34. Ne2 Re8 35. Nf4 Re4 36. Nd5 Rd4 37. Ne7+ Kf8 38. Nxg6+ hxg6 39. Rxa6 Kf7 40. Rb6 1/2-1/2
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.16"]
+[Round "5"]
+[White "Grandelius, Nils"]
+[Black "Warmerdam, Max"]
+[Result "1-0"]
+[BlackElo "2498"]
+[ECO "A07"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "109"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2673"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. O-O Nd7 5. h3 Bh5 6. d4 e6 7. c4 dxc4 8. Nbd2 Nb6 9. Qc2 Nf6 10. Nxc4 Bg6 11. Qb3 Nxc4 12. Qxc4 Be4 13. Ne5 Bd5 14. Qd3 Bxg2 15. Kxg2 Bd6 16. Nf3 O-O 17. e4 Be7 18. Rd1 Rc8 19. b3 Qa5 20. Bd2 Qa3 21. Bc3 Rfd8 22. Ne5 c5 23. Qf3 cxd4 24. Bxd4 Qa5 25. Nc4 Qa6 26. a4 b6 27. Bxf6 Bxf6 28. e5 Be7 29. Nd6 Bxd6 30. exd6 h6 31. Rac1 Rc5 32. b4 Rf5 33. Qe4 Qxa4 34. g4 Rd5 35. Rxd5 exd5 36. Qxd5 Qd7 37. Rc7 Qe6 38. Qxe6 fxe6 39. d7 Kf7 40. Rxa7 Ke7 41. Rb7 Rxd7 42. Rxb6 Rd4 43. b5 Rb4 44. Rb8 Kf6 45. Kg3 h5 46. gxh5 Kg5 47. b6 Kxh5 48. b7 Kg6 49. h4 Kh7 50. h5 e5 51. Kf3 Rb3+ 52. Ke4 Rb5 53. Kf5 Rb2 54. Kxe5 Re2+ 55. Kd4 1-0
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.16"]
+[Round "5"]
+[White "Keymer, Vincent"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "0-1"]
+[BlackElo "2635"]
+[ECO "E06"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "72"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2527"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. g3 O-O 6. Bg2 dxc4 7. Ne5 c5 8. dxc5 Qxd1+ 9. Nxd1 Bxc5 10. O-O Nc6 11. Bxc6 bxc6 12. Be3 Bb6 13. Bxb6 axb6 14. Nc3 Bb7 15. a4 b5 16. axb5 cxb5 17. Nxb5 Rab8 18. Nc3 Bd5 19. Rfb1 Rfc8 20. f3 Bc6 21. g4 Be8 22. Ra5 Nd5 23. Nxd5 exd5 24. Rxd5 f6 25. Nd7 Rb7 26. Rbd1 Rxb2 27. Rc5 Rxc5 28. Nxc5 Rxe2 29. Rd8 Kf7 30. Rc8 c3 31. Ne4 c2 32. Kf1 Rxh2 33. Kg1 Re2 34. Kf1 Bb5 35. Nd6+ Kg6 36. Nxb5 Rd2 0-1
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.16"]
+[Round "5"]
+[White "L'Ami, Erwin"]
+[Black "Saduakassova, Dinara"]
+[Result "1-0"]
+[BlackElo "2519"]
+[ECO "E25"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "105"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2606"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 8. dxc5 f5 9. Nh3 O-O 10. Nf4 Nc6 11. Nxd5 exd5 12. Bf4 Qf6 13. Qd2 Re8 14. Kf2 Be6 15. e3 Rac8 16. Bb5 a6 17. Bxc6 Rxc6 18. Qd4 Qe7 19. Rab1 Rxc5 20. Rxb7 Qxb7 21. Qxc5 Qb2+ 22. Kg3 Bf7 23. h4 h6 24. h5 Re6 25. Qc8+ Re8 26. Qxa6 Qxc3 27. a4 d4 28. exd4 Qxd4 29. a5 Qd5 30. Qb6 Re6 31. Qc7 Rc6 32. Qb8+ Kh7 33. Qa7 Qe6 34. Qe3 Qa2 35. Qe5 Qe6 36. Qxe6 Rxe6 37. Ra1 Ra6 38. Kh4 Bd5 39. Be3 Re6 40. Bd4 Re2 41. Kg3 Rd2 42. Be5 Re2 43. Bf4 Ra2 44. Rxa2 Bxa2 45. a6 g5 46. Bd2 f4+ 47. Bxf4 gxf4+ 48. Kxf4 Bd5 49. Ke5 Ba8 50. Kf6 Bc6 51. a7 Ba8 52. Ke7 Kg7 53. f4 1-0
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.16"]
+[Round "5"]
+[White "Nihal, Sarin"]
+[Black "Van Foreest, Lucas"]
+[Result "0-1"]
+[BlackElo "2523"]
+[ECO "C54"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "104"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2618"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. Nbd2 a6 7. Bb3 Ba7 8. h3 O-O 9. O-O Be6 10. Bc2 h6 11. Re1 Re8 12. Nf1 d5 13. Bd2 d4 14. c4 b5 15. cxb5 axb5 16. a4 b4 17. a5 Qd6 18. Ba4 Nd7 19. Ng3 Nc5 20. Bxc6 Qxc6 21. Bxb4 Nb3 22. Rb1 Qb5 23. Ba3 Qxa5 24. Nf1 Qb5 25. Qc2 Bb6 26. N1d2 Ba5 27. Red1 Bxd2 28. Nxd2 f6 29. Re1 c5 30. Nxb3 Bxb3 31. Qd2 Rac8 32. Rbc1 Rc6 33. Rf1 c4 34. dxc4 Bxc4 35. Rfe1 Rec8 36. f3 Bb3 37. Rxc6 Qxc6 38. Bb4 Qa4 39. Ba3 Rc2 40. Qb4 Qxb4 41. Bxb4 d3 42. Ra1 d2 43. Kh2 Rxb2 44. Bxd2 Rxd2 45. h4 Kh7 46. Kg3 h5 47. Rb1 Bc4 48. Rc1 Bd3 49. Ra1 Kh6 50. Rc1 g5 51. hxg5+ Kxg5 52. Kh3 Bb5 0-1
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.16"]
+[Round "5"]
+[White "Smeets, Jan"]
+[Black "Mamedov, Rauf"]
+[Result "1-0"]
+[BlackElo "2659"]
+[ECO "B31"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "77"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2585"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 d5 8. e5 Ne4 9. Bxc6 bxc6 10. Be3 Rb8 11. Qc1 Qb6 12. b3 cxd4 13. cxd4 Qa5 14. Nbd2 Bf5 15. Nxe4 Bxe4 16. Nd2 Bf5 17. Qb2 Rfc8 18. Rec1 Bf8 19. Rc3 Qa6 20. Nf3 Be4 21. Ne1 h5 22. h3 Bf5 23. Rac1 f6 24. Qd2 Kh7 25. f3 g5 26. Nd3 Bg7 27. Nc5 Qa5 28. g4 Bg6 29. f4 gxf4 30. Bxf4 Rg8 31. exf6 exf6 32. Bxb8 Rxb8 33. Ne6 Bh6 34. g5 fxg5 35. Nxg5+ Kg8 36. Qf4 Rf8 37. Qd6 Qxa2 38. Qxg6+ Bg7 39. Qh7# 1-0
+
+[Event "Tata Steel-B 82nd"]
+[Site "Wijk aan Zee"]
+[Date "2020.01.17"]
+[Round "6"]
+[White "Abdusattorov, Nodirbek"]
+[Black "Nihal, Sarin"]
+[Result "1/2-1/2"]
+[BlackElo "2618"]
+[ECO "C88"]
+[EventCategory "15"]
+[EventCountry "NED"]
+[EventDate "2020.01.11"]
+[EventRounds "13"]
+[EventType "tourn"]
+[PlyCount "109"]
+[Source "ChessBase"]
+[SourceDate "2020.01.27"]
+[WhiteElo "2635"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4 Bb7 9. d3 d6 10. Nbd2 Nd7 11. c3 Nc5 12. axb5 axb5 13. Rxa8 Qxa8 14. Bc2 b4 15. Nc4 bxc3 16. bxc3 Qa1 17. Be3 Qxd1 18. Rxd1 Nd7 19. Rb1 Rb8 20. Nfd2 Bc8 21. Rxb8 Ndxb8 22. f4 exf4 23. Bxf4 f5 24. exf5 Bxf5 25. Ne3 Bg6 26. Nf3 Nd7 27. Nd5 Bd8 28. Bg5 Nf6 29. Bxf6 Bxf6 30. Nxf6+ gxf6 31. Nh4 Kg7 32. Kf2 Ne7 33. Nxg6 hxg6 34. Bb3 f5 35. h4 Kf6 36. g3 Nc6 37. d4 Ne7 38. Kf3 Nc8 39. Bd5 Ne7 40. Bb7 Kg7 41. Kf4 Kf6 42. c4 c5 43. dxc5 dxc5 44. Bf3 Nc8 45. g4 fxg4 46. Kxg4 Nd6 47. Be2 Nf7 48. Kf4 g5+ 49. hxg5+ Nxg5 50. Bh5 Ne6+ 51. Ke4 Nc7 52. Bg4 Na8 53. Kd5 Nb6+ 54. Kxc5 Nxc4 55. Kxc4 1/2-1/2
+
